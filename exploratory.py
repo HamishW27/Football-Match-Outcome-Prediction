@@ -22,10 +22,10 @@ years = list(range(1990, 2021))
 
 def read_data(league_name):
     tables = []
-    for table in sorted(os.listdir(league_name)):
+    for table in sorted(os.listdir('data/' + league_name)):
         tables.append(
             {"Year": table[:12], "Table":
-             pd.read_csv(league_name + '/' + table)})
+             pd.read_csv('data/' + league_name + '/' + table)})
     return tables
 
 
