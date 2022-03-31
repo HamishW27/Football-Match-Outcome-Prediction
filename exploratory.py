@@ -81,7 +81,7 @@ def clean_match_info(match_info_csv):
 
 
 def clean_data(league, year):
-    league_to_read = 'primera_division'
+    league_to_read = league
 
     league_table = read_data(league)
     df = find_data(league_table, 'Results_' + str(year))
