@@ -103,7 +103,8 @@ def clean_data(league, year):
     return relevant_cols_df
 
 
-def histogram(df):
+def histogram(league, year):
+    df = clean_data(league, year)
     fig = px.histogram(df, "Result",
                        title="Wins by Home and Away Teams {} {}".format(
                            str(df.Season[0]), str(df.League[0])),
@@ -112,7 +113,8 @@ def histogram(df):
     fig.show()
 
 
-def bar_graph(df):
+def bar_graph(league, year):
+    df = clean_data(league, year)
     fig = px.bar(df.loc[:, ['Winners', 'Losers']], barmode='group',
                  title='Games Won and Lost by Team')
     fig.update_xaxes(categoryorder='category ascending')
@@ -124,7 +126,7 @@ def find_wins_losses_draws(df, team):
         sum(df['Away_Team'] == team)
     games_won = sum(df['Winners'] == team)
     games_lost = sum(df['Losers'] == team)
-    games_drawn = games_played - games_won
+    games_drawn = games_played - games_won - games_lost
     return games_won, games_lost, games_drawn
 
 
@@ -156,6 +158,17 @@ def win_percentage_over_time(league, years):
     return df_wp
 
 
+def calculate_league_table(league, year):
+    df = clean_data(league, year)
+    teams = df['Home_Team'].drop_duplicates()
+    league_table = []
+    for team in teams:
+        wld = find_wins_losses_draws(df, team)
+        points = 3 * wld[0] + wld[2]
+        league_table.append({'Team': team, 'Points': points})
+    return pd.DataFrame(league_table).sort_values('Points', ascending=False)
+
+
 def wp_graph(league, years):
     df_wp = win_percentage_over_time(league, years)
     fig = px.bar(df_wp, x='Year', y='WP',
@@ -171,7 +184,7 @@ def wp_graph(league, years):
 
 
 if __name__ == '__main__':
-    # histogram(df)
-    # bar_graph(df)
-    for league in leagues:
-        wp_graph(league['Name'], years)
+    histogram('premier_league', 2003)
+    # bar_graph('premier_league', 2003)
+    # for league in leagues:
+    #    wp_graph(league['Name'], years)
