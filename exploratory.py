@@ -184,14 +184,64 @@ def add_elo(league, years):
     return pd.merge(df, elo, on='Link')
 
 
+def add_gf_thus_far(league, years):
+    df = add_elo(league, years)
+    teams = df['Home_Team'].drop_duplicates()
+    df.insert(12, 'Home_Team_Goals_For_This_Far', [None] * len(df))
+    df.insert(13, 'Away_Team_Goals_For_This_Far', [None] * len(df))
+    for team in teams:
+        goals = [0]
+        team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+        mini_df = df[team_games]
+        for row, value in mini_df.iterrows():
+            if value['Home_Team'] == team:
+                goals.append(goals[-1] + value['Home_Team_Goals'])
+            else:
+                goals.append(goals[-1] + value['Away_Team_Goals'])
+        for location, goal_tally in zip(mini_df.index.values, goals):
+            if df.loc[int(location)]['Home_Team'] == team:
+                df.at[int(location), 'Home_Team_Goals_For_This_Far'
+                      ] = goal_tally
+            else:
+                df.at[int(location), 'Away_Team_Goals_For_This_Far'
+                      ] = goal_tally
+    return df
+
+
+def add_ga_thus_far(league, years):
+    df = add_gf_thus_far(league, years)
+    teams = df['Home_Team'].drop_duplicates()
+    df.insert(13, 'Home_Team_Goals_Against_This_Far', [None] * len(df))
+    df.insert(15, 'Away_Team_Goals_Against_This_Far', [None] * len(df))
+    for team in teams:
+        goals = [0]
+        team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+        mini_df = df[team_games]
+        for row, value in mini_df.iterrows():
+            if value['Home_Team'] == team:
+                goals.append(goals[-1] + value['Away_Team_Goals'])
+            else:
+                goals.append(goals[-1] + value['Home_Team_Goals'])
+        for location, goal_tally in zip(mini_df.index.values, goals):
+            if df.loc[int(location)]['Home_Team'] == team:
+                df.at[int(location),
+                      'Home_Team_Goals_Against_This_Far'] = goal_tally
+            else:
+                df.at[int(location),
+                      'Away_Team_Goals_Against_This_Far'] = goal_tally
+    return df
+
 # match_info = pd.read_csv('Match_Info.csv')
 # team_info = pd.read_csv('Team_Info.csv')
 # match_info = clean_match_info(match_info)
 
 
 if __name__ == '__main__':
+    '''
     histogram('premier_league', 2003)
-    # bar_graph('premier_league', 2003)
-    # for league in leagues:
-    #    wp_graph(league['Name'], years)
-    x = add_elo('premier_league', '2007')
+    bar_graph('premier_league', 2003)
+    for league in leagues:
+        wp_graph(league['Name'], years)
+    '''
+    x = add_ga_thus_far('premier_league', '2007')
+    print(x)
