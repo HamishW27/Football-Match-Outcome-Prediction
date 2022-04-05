@@ -98,16 +98,14 @@ def clean_data(league, year):
     df['Home_Team_Goals'] = Home_Team_Goals
     df['Away_Team_Goals'] = Away_Team_Goals
     df['Result'], df['Winners'], df['Losers'] = find_winners(df)
-
-    relevant_cols_df = df.iloc[:, [0, 1, 2, 8, 9, 10, 11, 4, 5, 6, 7]]
-    return relevant_cols_df
+    return df
 
 
 def histogram(league, year):
     df = clean_data(league, year)
     fig = px.histogram(df, "Result",
                        title="Wins by Home and Away Teams {} {}".format(
-                           str(df.Season[0]), str(df.League[0])),
+                           str(df.League[0]), str(df.Season[0])),
                        text_auto=True, histnorm='percent')
     fig.update_xaxes(categoryorder='category descending')
     fig.show()
@@ -178,6 +176,14 @@ def wp_graph(league, years):
     fig.show()
 
 
+def add_elo(league, years):
+    df = clean_data(league, years)
+    elo = pd.read_pickle('elo_dict.pkl')
+    elo = pd.DataFrame.from_dict(elo, orient='index')
+    elo.index.name = 'Link'
+    return pd.merge(df, elo, on='Link')
+
+
 # match_info = pd.read_csv('Match_Info.csv')
 # team_info = pd.read_csv('Team_Info.csv')
 # match_info = clean_match_info(match_info)
@@ -188,3 +194,4 @@ if __name__ == '__main__':
     # bar_graph('premier_league', 2003)
     # for league in leagues:
     #    wp_graph(league['Name'], years)
+    x = add_elo('premier_league', '2007')
