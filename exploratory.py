@@ -190,14 +190,18 @@ def add_gf_thus_far(league, years):
     df.insert(12, 'Home_Team_Goals_For_This_Far', [None] * len(df))
     df.insert(13, 'Away_Team_Goals_For_This_Far', [None] * len(df))
     for team in teams:
-        goals = [0]
+        goals = []
         team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
         mini_df = df[team_games]
         for row, value in mini_df.iterrows():
-            if value['Home_Team'] == team:
+            if value['Home_Team'] == team and goals:
                 goals.append(goals[-1] + value['Home_Team_Goals'])
-            else:
+            elif value['Home_Team'] == team:
+                goals.append(value['Home_Team_Goals'])
+            elif value['Away_Team'] == team and goals:
                 goals.append(goals[-1] + value['Away_Team_Goals'])
+            else:
+                goals.append(value['Away_Team_Goals'])
         for location, goal_tally in zip(mini_df.index.values, goals):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location), 'Home_Team_Goals_For_This_Far'
@@ -214,14 +218,18 @@ def add_ga_thus_far(league, years):
     df.insert(13, 'Home_Team_Goals_Against_This_Far', [None] * len(df))
     df.insert(15, 'Away_Team_Goals_Against_This_Far', [None] * len(df))
     for team in teams:
-        goals = [0]
+        goals = []
         team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
         mini_df = df[team_games]
         for row, value in mini_df.iterrows():
-            if value['Home_Team'] == team:
+            if value['Home_Team'] == team and goals:
                 goals.append(goals[-1] + value['Away_Team_Goals'])
-            else:
+            elif value['Home_Team'] == team:
+                goals.append(value['Away_Team_Goals'])
+            elif value['Away_Team'] == team and goals:
                 goals.append(goals[-1] + value['Home_Team_Goals'])
+            else:
+                goals.append(value['Home_Team_Goals'])
         for location, goal_tally in zip(mini_df.index.values, goals):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location),
