@@ -296,7 +296,7 @@ def add_points(league, years):
         for row, value in mini_df.iterrows():
             if value['Winners'] == team:
                 streak.append(streak[-1] + 3)
-            elif value['Winners'] == None:
+            elif value['Winners'] is None:
                 streak.append(streak[-1] + 1)
             else:
                 streak.append(streak[-1])
@@ -308,6 +308,10 @@ def add_points(league, years):
                 df.at[int(location),
                       'Away_Team_Points'] = points_tally
     return df
+
+
+def normalise_data(league, years):
+    df = add_points(league, years)
 
 
 # match_info = pd.read_csv('Match_Info.csv')
