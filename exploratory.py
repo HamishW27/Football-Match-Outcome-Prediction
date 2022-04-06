@@ -284,6 +284,32 @@ def add_streak(league, years):
     return df
 
 
+def add_points(league, years):
+    df = add_streak(league, years)
+    teams = df['Home_Team'].drop_duplicates()
+    df.insert(16, 'Home_Team_Points', [None] * len(df))
+    df.insert(17, 'Away_Team_Points', [None] * len(df))
+    for team in teams:
+        streak = [0]
+        team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+        mini_df = df[team_games]
+        for row, value in mini_df.iterrows():
+            if value['Winners'] == team:
+                streak.append(streak[-1] + 3)
+            elif value['Winners'] == None:
+                streak.append(streak[-1] + 1)
+            else:
+                streak.append(streak[-1])
+        for location, points_tally in zip(mini_df.index.values, streak[1:]):
+            if df.loc[int(location)]['Home_Team'] == team:
+                df.at[int(location),
+                      'Home_Team_Points'] = points_tally
+            else:
+                df.at[int(location),
+                      'Away_Team_Points'] = points_tally
+    return df
+
+
 # match_info = pd.read_csv('Match_Info.csv')
 # team_info = pd.read_csv('Team_Info.csv')
 # match_info = clean_match_info(match_info)
@@ -294,4 +320,4 @@ if __name__ == '__main__':
     for league in leagues:
         wp_graph(league['Name'], years)
     '''
-    x = add_streak('premier_league', '2004')
+    x = add_points('championship', '1995')
