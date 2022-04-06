@@ -218,19 +218,15 @@ def add_ga_thus_far(league, years):
     df.insert(13, 'Home_Team_Goals_Against_This_Far', [None] * len(df))
     df.insert(15, 'Away_Team_Goals_Against_This_Far', [None] * len(df))
     for team in teams:
-        goals = []
+        goals = [0]
         team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
         mini_df = df[team_games]
         for row, value in mini_df.iterrows():
-            if value['Home_Team'] == team and goals:
+            if value['Home_Team'] == team:
                 goals.append(goals[-1] + value['Away_Team_Goals'])
-            elif value['Home_Team'] == team:
-                goals.append(value['Away_Team_Goals'])
-            elif value['Away_Team'] == team and goals:
-                goals.append(goals[-1] + value['Home_Team_Goals'])
             else:
-                goals.append(value['Home_Team_Goals'])
-        for location, goal_tally in zip(mini_df.index.values, goals):
+                goals.append(goals[-1] + value['Home_Team_Goals'])
+        for location, goal_tally in zip(mini_df.index.values, goals[1:]):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location),
                       'Home_Team_Goals_Against_This_Far'] = goal_tally
@@ -239,11 +235,58 @@ def add_ga_thus_far(league, years):
                       'Away_Team_Goals_Against_This_Far'] = goal_tally
     return df
 
+
+def add_u_streak(league, years):
+    df = add_ga_thus_far(league, years)
+    teams = df['Home_Team'].drop_duplicates()
+    df.insert(16, 'Home_Team_Unbeaten_Streak', [None] * len(df))
+    df.insert(17, 'Away_Team_Unbeaten_Streak', [None] * len(df))
+    for team in teams:
+        streak = [0]
+        team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+        mini_df = df[team_games]
+        for row, value in mini_df.iterrows():
+            if value['Winners'] in [None, team]:
+                streak.append(streak[-1] + 1)
+            else:
+                streak.append(0)
+        for location, streak_tally in zip(mini_df.index.values, streak[1:]):
+            if df.loc[int(location)]['Home_Team'] == team:
+                df.at[int(location),
+                      'Home_Team_Unbeaten_Streak'] = streak_tally
+            else:
+                df.at[int(location),
+                      'Away_Team_Unbeaten_Streak'] = streak_tally
+    return df
+
+
+def add_streak(league, years):
+    df = add_u_streak(league, years)
+    teams = df['Home_Team'].drop_duplicates()
+    df.insert(16, 'Home_Team_Winning_Streak', [None] * len(df))
+    df.insert(17, 'Away_Team_Winning_Streak', [None] * len(df))
+    for team in teams:
+        streak = [0]
+        team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+        mini_df = df[team_games]
+        for row, value in mini_df.iterrows():
+            if value['Winners'] == team:
+                streak.append(streak[-1] + 1)
+            else:
+                streak.append(0)
+        for location, streak_tally in zip(mini_df.index.values, streak[1:]):
+            if df.loc[int(location)]['Home_Team'] == team:
+                df.at[int(location),
+                      'Home_Team_Winning_Streak'] = streak_tally
+            else:
+                df.at[int(location),
+                      'Away_Team_Winning_Streak'] = streak_tally
+    return df
+
+
 # match_info = pd.read_csv('Match_Info.csv')
 # team_info = pd.read_csv('Team_Info.csv')
 # match_info = clean_match_info(match_info)
-
-
 if __name__ == '__main__':
     '''
     histogram('premier_league', 2003)
@@ -251,5 +294,4 @@ if __name__ == '__main__':
     for league in leagues:
         wp_graph(league['Name'], years)
     '''
-    x = add_ga_thus_far('premier_league', '2007')
-    print(x)
+    x = add_streak('premier_league', '2004')
