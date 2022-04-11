@@ -2,8 +2,12 @@ import pandas as pd
 import plotly.express as px
 import os
 
-leagues = [{'Name': 'segunda_liga', 'Teams': 20},
-           {'Name': 'eredivisie', 'Teams': 20},
+'''
+{'Name': 'eerste_divisie', 'Teams': 20}
+{'Name': 'segunda_liga', 'Teams': 20}
+Eerste divisie and segunda_liga discarded for lack of data
+'''
+leagues = [{'Name': 'eredivisie', 'Teams': 20},
            {'Name': 'ligue_2', 'Teams': 20},
            {'Name': 'serie_a', 'Teams': 20},
            {'Name': 'championship', 'Teams': 24},
@@ -11,7 +15,6 @@ leagues = [{'Name': 'segunda_liga', 'Teams': 20},
            {'Name': 'bundesliga', 'Teams': 18},
            {'Name': 'ligue_1', 'Teams': 20},
            {'Name': '2_liga', 'Teams': 18},
-           {'Name': 'eerste_divisie', 'Teams': 20},
            {'Name': 'primeira_liga', 'Teams': 18},
            {'Name': 'segunda_division', 'Teams': 22},
            {'Name': 'serie_b', 'Teams': 20},
@@ -310,8 +313,23 @@ def add_points(league, years):
     return df
 
 
-def normalise_data(league, years):
-    df = add_points(league, years)
+def merge_data(leagues, years):
+    team_info = pd.read_csv('Team_Info.csv')
+    big_df = pd.DataFrame()
+    for league in leagues:
+        for year in years:
+            df = add_points(league, year)
+            big_df = pd.concat([big_df, df])
+    big_df = pd.merge(big_df, team_info, on='Home_Team')
+    return big_df
+
+
+def normalise_data(leagues, years):
+    df = merge_data(leagues, years)
+    new_df = df.fillna(0)
+    new_df = new_df.iloc[:, [4, 5, 7, 8, 9, 12, 13,
+                             14, 15, 16, 17, 18, 19, 20, 21, 22, 23]]
+    return new_df
 
 
 # match_info = pd.read_csv('Match_Info.csv')
@@ -324,4 +342,6 @@ if __name__ == '__main__':
     for league in leagues:
         wp_graph(league['Name'], years)
     '''
-    x = add_points('championship', '1995')
+    league_names = [x['Name'] for x in leagues]
+    x = normalise_data(league_names, years)
+    x.to_csv('cleaned_dataset.csv', index=False)
