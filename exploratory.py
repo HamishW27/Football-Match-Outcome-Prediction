@@ -327,7 +327,10 @@ def merge_data(leagues, years):
 def normalise_data(leagues, years):
     df = merge_data(leagues, years)
     new_df = df.fillna(0)
-    new_df = new_df.iloc[:, [4, 5, 7, 8, 9, 12, 13,
+    new_df.replace('Draw', 0, inplace=True)
+    new_df.replace('Home_Team_Win', 1, inplace=True)
+    new_df.replace('Away_Team_Win', -1, inplace=True)
+    new_df = new_df.iloc[:, [2, 4, 5, 7, 12, 13,
                              14, 15, 16, 17, 18, 19, 20, 21, 22, 23]]
     return new_df
 
