@@ -14,6 +14,7 @@ def add_elo(league, years):
 ```
 
 ## Milestone 2
+
 At this stage, I'd extracted the elo of each team and added it to the dataframe as well as specific information about each team. I then remove non-numerical information so as to prepare the data for machine learning.
 
 ```python
@@ -24,3 +25,13 @@ def normalise_data(leagues, years):
                              14, 15, 16, 17, 18, 19, 20, 21, 22, 23]]
     return new_df
 ```
+
+## Milestone 3
+
+By this point, it had become necessary to set up a database to store and retrieve the amended dataframe. I'd used SQLAlchemy to upload the data to an RDS instance setup through AWS.
+
+```python
+def download_data(db_name):
+    return pd.read_sql_table(db_name, engine)
+```
+The function above would then download the dataframe which is kept updated by another function.
