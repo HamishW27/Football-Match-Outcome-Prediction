@@ -13,6 +13,8 @@ def add_elo(league, years):
     return pd.merge(df, elo, on='Link')
 ```
 
+In my report, I've described relationships which may affect a team's likelihood of winning. These include whether a team is playing at home or away, their recently performance as 
+
 ## Milestone 2
 
 At this stage, I'd extracted the elo of each team and added it to the dataframe as well as specific information about each team. I then remove non-numerical information so as to prepare the data for machine learning.
