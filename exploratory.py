@@ -170,6 +170,30 @@ def calculate_league_table(league, year):
     return pd.DataFrame(league_table).sort_values('Points', ascending=False)
 
 
+def find_wins_losses_draws_by_round(df, team, round):
+    df = df[df['Round'] < round]
+    if df.empty:
+        return 0, 0, 0
+    else:
+        games_played = sum(df['Home_Team'] == team) + \
+            sum(df['Away_Team'] == team)
+        games_won = sum(df['Winners'] == team)
+        games_lost = sum(df['Losers'] == team)
+        games_drawn = games_played - games_won - games_lost
+        return games_won, games_lost, games_drawn
+
+
+def calculate_league_table_by_round(league, year, round):
+    df = clean_data(league, year)
+    teams = df['Home_Team'].drop_duplicates()
+    league_table = []
+    for team in teams:
+        wld = find_wins_losses_draws_by_round(df, team, round)
+        points = 3 * wld[0] + wld[2]
+        league_table.append({'Team': team, 'Points': points})
+    return pd.DataFrame(league_table).sort_values('Points', ascending=False)
+
+
 def wp_graph(league, years):
     df_wp = win_percentage_over_time(league, years)
     fig = px.bar(df_wp, x='Year', y='WP',
