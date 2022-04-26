@@ -193,7 +193,7 @@ def add_gf_thus_far(league, years):
     df.insert(12, 'Home_Team_Goals_For_This_Far', [None] * len(df))
     df.insert(13, 'Away_Team_Goals_For_This_Far', [None] * len(df))
     for team in teams:
-        goals = []
+        goals = [0]
         team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
         mini_df = df[team_games]
         for row, value in mini_df.iterrows():
@@ -205,7 +205,7 @@ def add_gf_thus_far(league, years):
                 goals.append(goals[-1] + value['Away_Team_Goals'])
             else:
                 goals.append(value['Away_Team_Goals'])
-        for location, goal_tally in zip(mini_df.index.values, goals):
+        for location, goal_tally in zip(mini_df.index.values, goals[:-1]):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location), 'Home_Team_Goals_For_This_Far'
                       ] = goal_tally
@@ -229,7 +229,7 @@ def add_ga_thus_far(league, years):
                 goals.append(goals[-1] + value['Away_Team_Goals'])
             else:
                 goals.append(goals[-1] + value['Home_Team_Goals'])
-        for location, goal_tally in zip(mini_df.index.values, goals[1:]):
+        for location, goal_tally in zip(mini_df.index.values, goals[:-1]):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location),
                       'Home_Team_Goals_Against_This_Far'] = goal_tally
@@ -253,7 +253,7 @@ def add_u_streak(league, years):
                 streak.append(streak[-1] + 1)
             else:
                 streak.append(0)
-        for location, streak_tally in zip(mini_df.index.values, streak[1:]):
+        for location, streak_tally in zip(mini_df.index.values, streak[:-1]):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location),
                       'Home_Team_Unbeaten_Streak'] = streak_tally
@@ -277,7 +277,7 @@ def add_streak(league, years):
                 streak.append(streak[-1] + 1)
             else:
                 streak.append(0)
-        for location, streak_tally in zip(mini_df.index.values, streak[1:]):
+        for location, streak_tally in zip(mini_df.index.values, streak[:-1]):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location),
                       'Home_Team_Winning_Streak'] = streak_tally
@@ -303,7 +303,7 @@ def add_points(league, years):
                 streak.append(streak[-1] + 1)
             else:
                 streak.append(streak[-1])
-        for location, points_tally in zip(mini_df.index.values, streak[1:]):
+        for location, points_tally in zip(mini_df.index.values, streak[:-1]):
             if df.loc[int(location)]['Home_Team'] == team:
                 df.at[int(location),
                       'Home_Team_Points'] = points_tally

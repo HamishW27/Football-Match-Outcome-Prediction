@@ -13,7 +13,7 @@ def add_elo(league, years):
     return pd.merge(df, elo, on='Link')
 ```
 
-In my report, I've described relationships which may affect a team's likelihood of winning. These include whether a team is playing at home or away, their recently performance as 
+In my report, I've described relationships which may affect a team's likelihood of winning. These include whether a team is playing at home or away, their recent performance as recorded by their winning and unbeaten streaks.
 
 ## Milestone 2
 
