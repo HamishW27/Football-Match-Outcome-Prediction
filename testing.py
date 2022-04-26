@@ -98,7 +98,7 @@ y = data['Result']
 X = data.drop('Result', inplace=False, axis=1)
 
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
 
 # X_validation, X_test, y_validation, y_test = train_test_split(
 #     X_test, y_test, test_size=0.5
@@ -121,6 +121,6 @@ models = [LinearRegression(),
 for model in models:
     model = model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
-    plot_predictions(y_pred[:10].round(), y_test[:10], model)
+    plot_predictions(y_pred[:10], y_test[:10], model)
     print(mean_squared_error(y_test, y_pred))
     print(sum(y_pred.round() == y_test)/len(y_test))
