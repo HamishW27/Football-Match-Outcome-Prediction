@@ -97,7 +97,7 @@ def clean_data(league, year):
     Away_Team_Goals = [int(df['Result'][x].split(
         '-')[1]) for x in range(len(df['Result']))]
 
-    df['Teams in League'] = league_teams
+    df['Teams_in_League'] = league_teams
     df['Home_Team_Goals'] = Home_Team_Goals
     df['Away_Team_Goals'] = Away_Team_Goals
     df['Result'], df['Winners'], df['Losers'] = find_winners(df)
@@ -263,7 +263,7 @@ def add_u_streak(league, years):
     return df
 
 
-def add_streak(league, years):
+def add_winning_streak(league, years):
     df = add_u_streak(league, years)
     teams = df['Home_Team'].drop_duplicates()
     df.insert(16, 'Home_Team_Winning_Streak', [None] * len(df))
@@ -287,8 +287,32 @@ def add_streak(league, years):
     return df
 
 
+def add_losing_streak(league, years):
+    df = add_winning_streak(league, years)
+    teams = df['Home_Team'].drop_duplicates()
+    df.insert(16, 'Home_Team_Losing_Streak', [None] * len(df))
+    df.insert(17, 'Away_Team_Losing_Streak', [None] * len(df))
+    for team in teams:
+        streak = [0]
+        team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+        mini_df = df[team_games]
+        for row, value in mini_df.iterrows():
+            if value['Losers'] == team:
+                streak.append(streak[-1] + 1)
+            else:
+                streak.append(0)
+        for location, streak_tally in zip(mini_df.index.values, streak[:-1]):
+            if df.loc[int(location)]['Home_Team'] == team:
+                df.at[int(location),
+                      'Home_Team_Losing_Streak'] = streak_tally
+            else:
+                df.at[int(location),
+                      'Away_Team_Losing_Streak'] = streak_tally
+    return df
+
+
 def add_points(league, years):
-    df = add_streak(league, years)
+    df = add_losing_streak(league, years)
     teams = df['Home_Team'].drop_duplicates()
     df.insert(16, 'Home_Team_Points', [None] * len(df))
     df.insert(17, 'Away_Team_Points', [None] * len(df))
@@ -331,7 +355,7 @@ def normalise_data(leagues, years):
     new_df.replace('Home_Team_Win', 1, inplace=True)
     new_df.replace('Away_Team_Win', -1, inplace=True)
     new_df = new_df.iloc[:, [2, 4, 5, 7, 12, 13,
-                             14, 15, 16, 17, 18, 19, 20, 21, 22, 23]]
+                             14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]]
     return new_df
 
 
