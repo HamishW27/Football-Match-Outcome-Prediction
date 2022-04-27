@@ -1,6 +1,8 @@
 import pandas as pd
 import plotly.express as px
 import os
+from datetime import datetime
+import re
 
 '''
 {'Name': 'eerste_divisie', 'Teams': 20}
@@ -67,20 +69,36 @@ def clean_ref(string):
     return string.split('/')[0].strip('\r\n').strip('Referee: ')
 
 
+def update_link(string):
+    return 'https://www.besoccer.com' + string
+
+
+def change_date(string):
+    string = re.sub(', ..:..', '', string)
+    return datetime.strptime(string, '%A, %d %B %Y')
+
+
 def clean_match_info(match_info_csv):
-    Home_Team = [match_info_csv['Link'][x].split(
-        '/')[2] for x in range(len(match_info_csv['Link']))]
-    Away_Team = [match_info_csv['Link'][x].split(
-        '/')[3] for x in range(len(match_info_csv['Link']))]
-    Year = [int(match_info_csv['Link'][x].split(
-        '/')[4]) for x in range(len(match_info_csv['Link']))]
-    Referee = [clean_ref(match_info_csv['Referee'][x])
-               for x in range(len(match_info_csv['Referee']))]
-    match_info_csv['Home_Team'] = Home_Team
-    match_info_csv['Away_Team'] = Away_Team
-    match_info_csv['Year'] = Year
-    match_info_csv['Referee'] = Referee
-    return match_info_csv
+    match_info = pd.read_csv(match_info_csv)
+    Link = [update_link(match_info['Link'][x])
+            for x in range(len(match_info))]
+    Date = [change_date(match_info['Date_New'][x])
+            for x in range(len(match_info))]
+    Home_Team = [match_info['Link'][x].split(
+        '/')[2] for x in range(len(match_info))]
+    Away_Team = [match_info['Link'][x].split(
+        '/')[3] for x in range(len(match_info))]
+    Year = [int(match_info['Link'][x].split(
+        '/')[4]) for x in range(len(match_info))]
+    Referee = [clean_ref(match_info['Referee'][x])
+               for x in range(len(match_info))]
+    match_info['Date_New'] = Date
+    match_info['Link'] = Link
+    match_info['Home_Team'] = Home_Team
+    match_info['Away_Team'] = Away_Team
+    match_info['Year'] = Year
+    match_info['Referee'] = Referee
+    return match_info
 
 
 def clean_data(league, year):
@@ -378,13 +396,22 @@ def normalise_data(leagues, years):
     new_df.replace('Draw', 0, inplace=True)
     new_df.replace('Home_Team_Win', 1, inplace=True)
     new_df.replace('Away_Team_Win', -1, inplace=True)
-    new_df = new_df.iloc[:, [2, 4, 5, 7, 12, 13,
-                             14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]]
+    new_df = new_df[['Result', 'Season' 'Round', 'Teams_in_League',
+                     'Home_Team_Goals_For_This_Far',
+                     'Home_Team_Goals_Against_This_Far',
+                     'Away_Team_Goals_For_This_Far',
+                     'Away_Team_Goals_Against_This_Far',
+                     'Home_Team_Points', 'Away_Team_Points',
+                     'Home_Team_Losing_Streak', 'Away_Team_Losing_Streak',
+                     'Home_Team_Winning_Streak',
+                     'Away_Team_Winning_Streak',
+                     'Home_Team_Unbeaten_Streak',
+                     'Away_Team_Unbeaten_Streak',
+                     'Elo_home', 'Elo_away', 'Capacity']]
     return new_df
 
 
 # match_info = pd.read_csv('Match_Info.csv')
-# team_info = pd.read_csv('Team_Info.csv')
 # match_info = clean_match_info(match_info)
 if __name__ == '__main__':
     '''
