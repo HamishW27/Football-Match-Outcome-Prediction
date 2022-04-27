@@ -101,6 +101,12 @@ def clean_match_info(match_info_csv):
     return match_info
 
 
+def modify_link(string):
+    year = string.split('/')[-1][:4]
+    end = len(string.split('/')[-1])
+    return string[:-end] + year
+
+
 def clean_data(league, year):
     league_to_read = league
 
@@ -110,11 +116,14 @@ def clean_data(league, year):
     league_teams = teams_in_league(league_to_read)
 
     Home_Team_Goals = [int(df['Result'][x].split(
-        '-')[0]) for x in range(len(df['Result']))]
+        '-')[0]) for x in range(len(df))]
 
     Away_Team_Goals = [int(df['Result'][x].split(
-        '-')[1]) for x in range(len(df['Result']))]
+        '-')[1]) for x in range(len(df))]
 
+    Link = [modify_link(df['Link'][x]) for x in range(len(df))]
+
+    df['Link'] = Link
     df['Teams_in_League'] = league_teams
     df['Home_Team_Goals'] = Home_Team_Goals
     df['Away_Team_Goals'] = Away_Team_Goals
