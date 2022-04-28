@@ -23,7 +23,7 @@ league_names = [x['Name'] for x in exploratory.leagues]
 db_df = download_data('football', index=False)
 local_df = pd.read_csv('cleaned_dataset.csv')
 
-if db_df['Link'] == local_df['Link']:
+if db_df == local_df:
     allgames = exploratory.DataCleaner(league_names, exploratory.years)
     df = allgames.normalise_data(league_names, exploratory.years)
     df.to_csv('cleaned_dataset.csv', index=False)
