@@ -19,11 +19,13 @@ engine = create_engine(
         //{USER}:{PASSWORD}@{ENDPOINT}:{PORT}/{DATABASE}")
 
 league_names = [x['Name'] for x in exploratory.leagues]
-df = exploratory.normalise_data(league_names, exploratory.years)
 
-old_df = download_data('football', index=False)
+db_df = download_data('football', index=False)
+local_df = pd.read_csv('cleaned_dataset.csv')
 
-if len(old_df) != len(df):
+if db_df['Link'] == local_df['Link']:
+    allgames = exploratory.DataCleaner(league_names, exploratory.years)
+    df = allgames.normalise_data(league_names, exploratory.years)
     df.to_csv('cleaned_dataset.csv', index=False)
     df.to_sql('football', engine, if_exists='replace')
 else:

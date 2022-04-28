@@ -416,6 +416,12 @@ def modify_link(string):
     return string[:-end] + year
 
 
+def clean_team_name(string):
+    string = string.replace('Utd', 'United')
+    string = ''.join(ch for ch in string if ch.isalnum() or ch == ' ')
+    return string
+
+
 if __name__ == '__main__':
     '''
     histogram('premier_league', 2003)
