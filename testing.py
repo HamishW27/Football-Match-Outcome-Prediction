@@ -95,7 +95,7 @@ def plot_predictions(y_pred, y_true, title):
 
 data = pd.read_csv('cleaned_dataset.csv')
 y = data['Result']
-X = data.drop('Result', inplace=False, axis=1)
+X = data.drop(['Result', 'Date_New'], inplace=False, axis=1)
 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
@@ -106,7 +106,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
 
 models = [LinearRegression(),
           KNeighborsClassifier(n_neighbors=3),
-          tree.DecisionTreeClassifier(max_depth=30),
+          tree.DecisionTreeClassifier(max_depth=50),
           Lasso(alpha=0.1),
           MLPClassifier(),
           MLPRegressor(),
