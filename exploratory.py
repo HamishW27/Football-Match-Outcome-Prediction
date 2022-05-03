@@ -89,6 +89,8 @@ class DataCleaner:
         match_info['Away_Team'] = Away_Team
         match_info['Year'] = Year
         match_info['Referee'] = Referee
+        match_info.drop('Home_Team', axis=1, inplace=True)
+        match_info.drop('Away_Team', axis=1, inplace=True)
         return match_info
 
     def clean_data(self, league, year):
@@ -215,8 +217,6 @@ class DataCleaner:
     def add_gf_thus_far(self, league, years):
         df = self.add_elo(league, years)
         teams = df['Home_Team'].drop_duplicates()
-        df.insert(12, 'Home_Team_Goals_For_This_Far', [None] * len(df))
-        df.insert(13, 'Away_Team_Goals_For_This_Far', [None] * len(df))
         for team in teams:
             goals = [0]
             team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
@@ -289,8 +289,6 @@ class DataCleaner:
     def add_winning_streak(self, league, years):
         df = self.add_u_streak(league, years)
         teams = df['Home_Team'].drop_duplicates()
-        df.insert(16, 'Home_Team_Winning_Streak', [None] * len(df))
-        df.insert(17, 'Away_Team_Winning_Streak', [None] * len(df))
         for team in teams:
             streak = [0]
             team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
@@ -360,18 +358,45 @@ class DataCleaner:
                           'Away_Team_Points'] = points_tally
         return df
 
+    def add_cards(self, league, years):
+        match_info = self.clean_match_info('Match_Info.csv')
+        df = self.add_points(league, years)
+        df = pd.merge(df, match_info, on='Link')
+        teams = df['Home_Team'].drop_duplicates()
+        for team in teams:
+            yellows = [0]
+            reds = [0]
+            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
+            mini_df = df[team_games]
+            for row, value in mini_df.iterrows():
+                if value['Home_Team'] == team:
+                    yellows.append(yellows[-1] + value['Home_Yellow'])
+                    reds.append(reds[-1] + value['Home_Red'])
+                else:
+                    yellows.append(yellows[-1] + value['Away_Yellow'])
+                    reds.append(reds[-1] + value['Away_Red'])
+            for location, yellows, reds in zip(
+                    mini_df.index.values, yellows[:-1], reds[:-1]):
+                if df.loc[int(location)]['Home_Team'] == team:
+                    df.at[int(location), 'Home_Team_Reds_This_Far'
+                          ] = reds
+                    df.at[int(location), 'Home_Team_Yellows_This_Far'
+                          ] = yellows
+                else:
+                    df.at[int(location), 'Away_Team_Reds_This_Far'
+                          ] = reds
+                    df.at[int(location), 'Away_Team_Yellows_This_Far'
+                          ] = yellows
+        return df
+
     def merge_data(self, leagues, years):
         team_info = pd.read_csv('Team_Info.csv')
-        match_info = self.clean_match_info('Match_Info.csv')
-        selected_cols = ['Link', 'Date_New', 'Home_Yellow',
-                         'Home_Red', 'Away_Yellow', 'Away_Red']
         big_df = pd.DataFrame()
         for league in leagues:
             for year in years:
-                df = self.add_points(league, year)
+                df = self.add_cards(league, year)
                 big_df = pd.concat([big_df, df])
         big_df = pd.merge(big_df, team_info, on='Home_Team')
-        big_df = pd.merge(big_df, match_info[selected_cols], on='Link')
         return big_df
 
     def normalise_data(self, leagues, years):
@@ -392,8 +417,11 @@ class DataCleaner:
                          'Home_Team_Unbeaten_Streak',
                          'Away_Team_Unbeaten_Streak',
                          'Elo_home', 'Elo_away', 'Capacity', 'Home_Yellow',
-                         'Home_Red', 'Away_Yellow', 'Away_Red', 'Date_New',
-                         'Link']]
+                         'Home_Team_Reds_This_Far',
+                         'Home_Team_Yellows_This_Far',
+                         'Away_Team_Reds_This_Far',
+                         'Away_Team_Yellows_This_Far',
+                         'Away_Red', 'Date_New', 'Link']]
         return new_df
 
 
