@@ -1,8 +1,10 @@
+from bs4 import BeautifulSoup
 import pandas as pd
 import plotly.express as px
 import os
 from datetime import datetime
 import re
+import requests
 
 '''
 {'Name': 'eerste_divisie', 'Teams': 20}
@@ -43,10 +45,6 @@ class DataCleaner:
         table = next(
             item for item in league_name if item["Year"] == table_name)
         return table['Table']
-
-    def teams_in_league(self, league_name):
-        teams = next(item for item in leagues if item['Name'] == league_name)
-        return teams['Teams']
 
     def find_winners(self, dataframe):
         Results = []
@@ -99,7 +97,7 @@ class DataCleaner:
         league_table = self.read_data(league)
         df = self.find_data(league_table, 'Results_' + str(year))
 
-        league_teams = self.teams_in_league(league_to_read)
+        league_teams = teams_in_league(league_to_read)
 
         Home_Team_Goals = [int(df['Result'][x].split(
             '-')[0]) for x in range(len(df))]
@@ -362,7 +360,7 @@ class DataCleaner:
         match_info = self.clean_match_info('Match_Info.csv')
         df = self.add_points(league, years)
         df = pd.merge(df, match_info, on='Link')
-        teams = df['Home_Team'].drop_duplicates()
+        teams = df['Home_Team'].drop_duplicates().to_list()
         for team in teams:
             yellows = [0]
             reds = [0]
@@ -370,23 +368,33 @@ class DataCleaner:
             mini_df = df[team_games]
             for row, value in mini_df.iterrows():
                 if value['Home_Team'] == team:
-                    yellows.append(yellows[-1] + value['Home_Yellow'])
-                    reds.append(reds[-1] + value['Home_Red'])
+                    try:
+                        yellows.append(int(yellows[-1] + value['Home_Yellow']))
+                        reds.append(int(reds[-1] + value['Home_Red']))
+                    except ValueError:
+                        yellows = [0] * len(mini_df)
+                        reds = [0] * len(mini_df)
+                        break
                 else:
-                    yellows.append(yellows[-1] + value['Away_Yellow'])
-                    reds.append(reds[-1] + value['Away_Red'])
-            for location, yellows, reds in zip(
+                    try:
+                        yellows.append(int(yellows[-1] + value['Away_Yellow']))
+                        reds.append(int(reds[-1] + value['Away_Red']))
+                    except ValueError:
+                        yellows = [0] * len(mini_df)
+                        reds = [0] * len(mini_df)
+                        break
+            for location, yellow, red in zip(
                     mini_df.index.values, yellows[:-1], reds[:-1]):
                 if df.loc[int(location)]['Home_Team'] == team:
                     df.at[int(location), 'Home_Team_Reds_This_Far'
-                          ] = reds
+                          ] = red
                     df.at[int(location), 'Home_Team_Yellows_This_Far'
-                          ] = yellows
+                          ] = yellow
                 else:
                     df.at[int(location), 'Away_Team_Reds_This_Far'
-                          ] = reds
+                          ] = red
                     df.at[int(location), 'Away_Team_Yellows_This_Far'
-                          ] = yellows
+                          ] = yellow
         return df
 
     def merge_data(self, leagues, years):
@@ -425,6 +433,32 @@ class DataCleaner:
         return new_df
 
 
+class WebScraper:
+
+    def __init__(self, leagues) -> None:
+        self.leagues = leagues
+        self.league_names = [x['Name'] for x in leagues]
+        self.match_links = []
+
+    def scrape_league_data(self, league, year):
+        teams = teams_in_league(league)
+        games = (teams - 1) * 2
+        for i in range(games):
+            url = f'http://besoccer.com/competition/scores/\
+                {league}/{year}/round{i}'
+            html = requests.get(url).text
+            page = BeautifulSoup(html, 'html.parser')
+            box = page.find(
+                attrs={'class': "panel-body p0 match-list-new"})
+            for a in box.find_all('a', href=True):
+                self.match_links.append(a['href'])
+
+
+def teams_in_league(league_name):
+    teams = next(item for item in leagues if item['Name'] == league_name)
+    return teams['Teams']
+
+
 def clean_ref(string):
     return string.split('/')[0].strip('\r\n').strip('Referee: ')
 
@@ -458,6 +492,7 @@ if __name__ == '__main__':
         wp_graph(league['Name'], years)
     '''
     allgames = DataCleaner(leagues, years)
+    scraper = WebScraper(leagues)
     league_names = [x['Name'] for x in leagues]
     x = allgames.normalise_data(league_names, years)
     x.to_csv('cleaned_dataset.csv', index=False)
