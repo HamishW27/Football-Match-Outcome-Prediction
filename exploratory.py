@@ -444,14 +444,22 @@ class WebScraper:
         teams = teams_in_league(league)
         games = (teams - 1) * 2
         for i in range(games):
-            url = f'http://besoccer.com/competition/scores/\
-                {league}/{year}/round{i}'
+            url = f'http://besoccer.com/competition/scores'\
+                f'/{league}/{year}/round{i}'
             html = requests.get(url).text
             page = BeautifulSoup(html, 'html.parser')
             box = page.find(
                 attrs={'class': "panel-body p0 match-list-new"})
-            for a in box.find_all('a', href=True):
-                self.match_links.append(a['href'])
+            try:
+                for a in box.find_all('a', href=True):
+                    self.match_links.append(modify_link(a['href']))
+            except AttributeError:
+                continue
+
+    def scrape_all_leagues(self, leagues, years):
+        for year in years:
+            for league in leagues:
+                self.scrape_league_data(league, year)
 
 
 def teams_in_league(league_name):
