@@ -438,12 +438,12 @@ class WebScraper:
     def __init__(self, leagues) -> None:
         self.leagues = leagues
         self.league_names = [x['Name'] for x in leagues]
-        self.match_links = []
 
-    def scrape_league_data(self, league, year):
+    def scrape_league_links(self, league, year):
+        match_links = []
         teams = teams_in_league(league)
         games = (teams - 1) * 2
-        for i in range(games):
+        for i in range(1, games + 1):
             url = f'http://besoccer.com/competition/scores'\
                 f'/{league}/{year}/round{i}'
             html = requests.get(url).text
@@ -452,19 +452,51 @@ class WebScraper:
                 attrs={'class': "panel-body p0 match-list-new"})
             try:
                 for a in box.find_all('a', href=True):
-                    self.match_links.append(modify_link(a['href']))
+                    match_links.append([a['href'], i])
             except AttributeError:
                 continue
+        return match_links
 
-    def scrape_all_leagues(self, leagues, years):
-        for year in years:
-            for league in leagues:
-                self.scrape_league_data(league, year)
+    def scrape_page_info(self, url, league, year, round):
+        html = requests.get(url).text
+        page = BeautifulSoup(html, 'html.parser')
+        home_team = page.find(
+            attrs={'itemprop': 'homeTeam'}).text.replace('\n', '')
+        away_team = page.find(
+            attrs={'itemprop': 'awayTeam'}).text.replace('\n', '')
+        try:
+            home_goals = page.find(
+                attrs={'class': 'r1'}).text
+            away_goals = page.find(
+                attrs={'class': 'r2'}).text
+        except AttributeError:
+            goals = page.find(
+                attrs={'class': 'data penaltis'}).text.split('\n')
+            home_goals = return_number(goals[2])[0]
+            away_goals = return_number(goals[2])[-1]
+        result = f'{home_goals}-{away_goals}'
+        # round = page.find(
+        #     attrs={'itemprop': 'description'}).text
+        data = {'Home_Team': [home_team], 'Away_Team': [away_team],
+                'Result': [result], 'Link': [url], 'Season': [int(year)],
+                'Round': [round], 'League': [league]}
+        return pd.DataFrame.from_dict(data)
+
+    def scrape_league_data(self, league, year):
+        links = self.scrape_league_links(league, year)
+        dfs = []
+        for link in links:
+            dfs.append(self.scrape_page_info(link[0], league, year, link[1]))
+        return pd.concat(dfs).reset_index(drop=True)
 
 
 def teams_in_league(league_name):
     teams = next(item for item in leagues if item['Name'] == league_name)
     return teams['Teams']
+
+
+def return_number(string):
+    return ''.join(i for i in string if i.isdigit())
 
 
 def clean_ref(string):
