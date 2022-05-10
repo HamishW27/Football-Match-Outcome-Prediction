@@ -489,6 +489,11 @@ class WebScraper:
             dfs.append(self.scrape_page_info(link[0], league, year, link[1]))
         return pd.concat(dfs).reset_index(drop=True)
 
+    def export_table(self, league, year):
+        df = self.scrape_league_data(league, year)
+        path = f'data/{league}/Results_{year}_{league}.csv'
+        df.to_csv(path, index=None)
+
 
 def teams_in_league(league_name):
     teams = next(item for item in leagues if item['Name'] == league_name)
