@@ -24,7 +24,7 @@ leagues = [{'Name': 'eredivisie', 'Teams': 20},
            {'Name': 'serie_b', 'Teams': 20},
            {'Name': 'primera_division', 'Teams': 20}]
 
-years = list(range(1990, 2021))
+years = list(range(1990, 2022))
 
 
 class DataCleaner:
@@ -439,13 +439,13 @@ class WebScraper:
         self.leagues = leagues
         self.league_names = [x['Name'] for x in leagues]
 
-    def scrape_league_links(self, league, year):
+    def scrape_league_links(self, league, year, url_format='round'):
         match_links = []
         teams = teams_in_league(league)
         games = (teams - 1) * 2
         for i in range(1, games + 1):
             url = f'http://besoccer.com/competition/scores'\
-                f'/{league}/{year}/round{i}'
+                f'/{league}/{year}/{url_format}{i}'
             html = requests.get(url).text
             page = BeautifulSoup(html, 'html.parser')
             box = page.find(
@@ -482,8 +482,8 @@ class WebScraper:
                 'Round': [round], 'League': [league]}
         return pd.DataFrame.from_dict(data)
 
-    def scrape_league_data(self, league, year):
-        links = self.scrape_league_links(league, year)
+    def scrape_league_data(self, league, year, url_format='round'):
+        links = self.scrape_league_links(league, year, url_format=url_format)
         dfs = []
         for link in links:
             dfs.append(self.scrape_page_info(link[0], league, year, link[1]))
