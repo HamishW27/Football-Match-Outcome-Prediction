@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Hellas Verona,Sassuolo,2-3,https://www.besoccer.com/match/hellas-verona-fc/us-sassuolo-calcio/202248767,2022,1,serie_a
+Inter,Genoa,4-0,https://www.besoccer.com/match/internazionale/genoa/202248768,2022,1,serie_a
+Empoli,Lazio,1-3,https://www.besoccer.com/match/empoli-fc/lazio/202248766,2022,1,serie_a
+Torino,Atalanta,1-2,https://www.besoccer.com/match/torino-fc/atalanta/202248772,2022,1,serie_a
+Bologna,Salernitana,3-2,https://www.besoccer.com/match/bologna/salernitana-calcio-1919/202248764,2022,1,serie_a
+Udinese,Juventus,2-2,https://www.besoccer.com/match/udinese/juventus-fc/202248773,2022,1,serie_a
+Napoli,Venezia,2-0,https://www.besoccer.com/match/napoli/venezia/202248769,2022,1,serie_a
+Roma,Fiorentina,3-1,https://www.besoccer.com/match/roma/fiorentina/202248770,2022,1,serie_a
+Cagliari,Spezia,2-2,https://www.besoccer.com/match/cagliari/asd-spezia/202248765,2022,1,serie_a
+Sampdoria,Milan,0-1,https://www.besoccer.com/match/sampdoria/milan/202248771,2022,1,serie_a
+Udinese,Venezia,3-0,https://www.besoccer.com/match/udinese/venezia/202248783,2022,2,serie_a
+Hellas Verona,Inter,1-3,https://www.besoccer.com/match/hellas-verona-fc/internazionale/202248777,2022,2,serie_a
+Atalanta,Bologna,0-0,https://www.besoccer.com/match/atalanta/bologna/202248774,2022,2,serie_a
+Lazio,Spezia,6-1,https://www.besoccer.com/match/lazio/asd-spezia/202248779,2022,2,serie_a
+Fiorentina,Torino,2-1,https://www.besoccer.com/match/fiorentina/torino-fc/202248775,2022,2,serie_a
+Juventus,Empoli,0-1,https://www.besoccer.com/match/juventus-fc/empoli-fc/202248778,2022,2,serie_a
+Genoa,Napoli,1-2,https://www.besoccer.com/match/genoa/napoli/202248776,2022,2,serie_a
+Sassuolo,Sampdoria,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/sampdoria/202248782,2022,2,serie_a
+Milan,Cagliari,4-1,https://www.besoccer.com/match/milan/cagliari/202248780,2022,2,serie_a
+Salernitana,Roma,0-4,https://www.besoccer.com/match/salernitana-calcio-1919/roma/202248781,2022,2,serie_a
+Empoli,Venezia,1-2,https://www.besoccer.com/match/empoli-fc/venezia/202248787,2022,3,serie_a
+Napoli,Juventus,2-1,https://www.besoccer.com/match/napoli/juventus-fc/202248789,2022,3,serie_a
+Atalanta,Fiorentina,1-2,https://www.besoccer.com/match/atalanta/fiorentina/202248784,2022,3,serie_a
+Sampdoria,Inter,2-2,https://www.besoccer.com/match/sampdoria/internazionale/202248791,2022,3,serie_a
+Cagliari,Genoa,2-3,https://www.besoccer.com/match/cagliari/genoa/202248786,2022,3,serie_a
+Spezia,Udinese,0-1,https://www.besoccer.com/match/asd-spezia/udinese/202248792,2022,3,serie_a
+Torino,Salernitana,4-0,https://www.besoccer.com/match/torino-fc/salernitana-calcio-1919/202248793,2022,3,serie_a
+Milan,Lazio,2-0,https://www.besoccer.com/match/milan/lazio/202248788,2022,3,serie_a
+Roma,Sassuolo,2-1,https://www.besoccer.com/match/roma/us-sassuolo-calcio/202248790,2022,3,serie_a
+Bologna,Hellas Verona,1-0,https://www.besoccer.com/match/bologna/hellas-verona-fc/202248785,2022,3,serie_a
+Sassuolo,Torino,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/202248801,2022,4,serie_a
+Genoa,Fiorentina,1-2,https://www.besoccer.com/match/genoa/fiorentina/202248795,2022,4,serie_a
+Inter,Bologna,6-1,https://www.besoccer.com/match/internazionale/bologna/202248797,2022,4,serie_a
+Salernitana,Atalanta,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/atalanta/202248800,2022,4,serie_a
+Empoli,Sampdoria,0-3,https://www.besoccer.com/match/empoli-fc/sampdoria/202248794,2022,4,serie_a
+Venezia,Spezia,1-2,https://www.besoccer.com/match/venezia/asd-spezia/202248803,2022,4,serie_a
+Hellas Verona,Roma,3-2,https://www.besoccer.com/match/hellas-verona-fc/roma/202248796,2022,4,serie_a
+Lazio,Cagliari,2-2,https://www.besoccer.com/match/lazio/cagliari/202248799,2022,4,serie_a
+Juventus,Milan,1-1,https://www.besoccer.com/match/juventus-fc/milan/202248798,2022,4,serie_a
+Udinese,Napoli,0-4,https://www.besoccer.com/match/udinese/napoli/202248802,2022,4,serie_a
+Bologna,Genoa,2-2,https://www.besoccer.com/match/bologna/genoa/202248805,2022,5,serie_a
+Atalanta,Sassuolo,2-1,https://www.besoccer.com/match/atalanta/us-sassuolo-calcio/202248804,2022,5,serie_a
+Fiorentina,Inter,1-3,https://www.besoccer.com/match/fiorentina/internazionale/202248807,2022,5,serie_a
+Salernitana,Hellas Verona,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/hellas-verona-fc/202248810,2022,5,serie_a
+Spezia,Juventus,2-3,https://www.besoccer.com/match/asd-spezia/juventus-fc/202248812,2022,5,serie_a
+Cagliari,Empoli,0-2,https://www.besoccer.com/match/cagliari/empoli-fc/202248806,2022,5,serie_a
+Milan,Venezia,2-0,https://www.besoccer.com/match/milan/venezia/202248808,2022,5,serie_a
+Sampdoria,Napoli,0-4,https://www.besoccer.com/match/sampdoria/napoli/202248811,2022,5,serie_a
+Torino,Lazio,1-1,https://www.besoccer.com/match/torino-fc/lazio/202248813,2022,5,serie_a
+Roma,Udinese,1-0,https://www.besoccer.com/match/roma/udinese/202248809,2022,5,serie_a
+Spezia,Milan,1-2,https://www.besoccer.com/match/asd-spezia/milan/202248821,2022,6,serie_a
+Inter,Atalanta,2-2,https://www.besoccer.com/match/internazionale/atalanta/202248816,2022,6,serie_a
+Genoa,Hellas Verona,3-3,https://www.besoccer.com/match/genoa/hellas-verona-fc/202248815,2022,6,serie_a
+Juventus,Sampdoria,3-2,https://www.besoccer.com/match/juventus-fc/sampdoria/202248817,2022,6,serie_a
+Empoli,Bologna,4-2,https://www.besoccer.com/match/empoli-fc/bologna/202248814,2022,6,serie_a
+Sassuolo,Salernitana,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/salernitana-calcio-1919/202248820,2022,6,serie_a
+Udinese,Fiorentina,0-1,https://www.besoccer.com/match/udinese/fiorentina/202248822,2022,6,serie_a
+Lazio,Roma,3-2,https://www.besoccer.com/match/lazio/roma/202248818,2022,6,serie_a
+Napoli,Cagliari,2-0,https://www.besoccer.com/match/napoli/cagliari/202248819,2022,6,serie_a
+Venezia,Torino,1-1,https://www.besoccer.com/match/venezia/torino-fc/202248823,2022,6,serie_a
+Cagliari,Venezia,1-1,https://www.besoccer.com/match/cagliari/venezia/202248826,2022,7,serie_a
+Salernitana,Genoa,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/genoa/202248830,2022,7,serie_a
+Torino,Juventus,0-1,https://www.besoccer.com/match/torino-fc/juventus-fc/202248833,2022,7,serie_a
+Sassuolo,Inter,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/internazionale/202248832,2022,7,serie_a
+Bologna,Lazio,3-0,https://www.besoccer.com/match/bologna/lazio/202248825,2022,7,serie_a
+Hellas Verona,Spezia,4-0,https://www.besoccer.com/match/hellas-verona-fc/asd-spezia/202248828,2022,7,serie_a
+Sampdoria,Udinese,3-3,https://www.besoccer.com/match/sampdoria/udinese/202248831,2022,7,serie_a
+Fiorentina,Napoli,1-2,https://www.besoccer.com/match/fiorentina/napoli/202248827,2022,7,serie_a
+Roma,Empoli,2-0,https://www.besoccer.com/match/roma/empoli-fc/202248829,2022,7,serie_a
+Atalanta,Milan,2-3,https://www.besoccer.com/match/atalanta/milan/202248824,2022,7,serie_a
+Spezia,Salernitana,2-1,https://www.besoccer.com/match/asd-spezia/salernitana-calcio-1919/202248841,2022,8,serie_a
+Lazio,Inter,3-1,https://www.besoccer.com/match/lazio/internazionale/202248838,2022,8,serie_a
+Milan,Hellas Verona,3-2,https://www.besoccer.com/match/milan/hellas-verona-fc/202248839,2022,8,serie_a
+Cagliari,Sampdoria,3-1,https://www.besoccer.com/match/cagliari/sampdoria/202248834,2022,8,serie_a
+Empoli,Atalanta,1-4,https://www.besoccer.com/match/empoli-fc/atalanta/202248835,2022,8,serie_a
+Genoa,Sassuolo,2-2,https://www.besoccer.com/match/genoa/us-sassuolo-calcio/202248836,2022,8,serie_a
+Udinese,Bologna,1-1,https://www.besoccer.com/match/udinese/bologna/202248842,2022,8,serie_a
+Napoli,Torino,1-0,https://www.besoccer.com/match/napoli/torino-fc/202248840,2022,8,serie_a
+Juventus,Roma,1-0,https://www.besoccer.com/match/juventus-fc/roma/202248837,2022,8,serie_a
+Venezia,Fiorentina,1-0,https://www.besoccer.com/match/venezia/fiorentina/202248843,2022,8,serie_a
+Torino,Genoa,3-2,https://www.besoccer.com/match/torino-fc/genoa/202248854,2022,9,serie_a
+Sampdoria,Spezia,2-1,https://www.besoccer.com/match/sampdoria/asd-spezia/202248852,2022,9,serie_a
+Salernitana,Empoli,2-4,https://www.besoccer.com/match/salernitana-calcio-1919/empoli-fc/202248851,2022,9,serie_a
+Sassuolo,Venezia,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/venezia/202248853,2022,9,serie_a
+Bologna,Milan,2-4,https://www.besoccer.com/match/bologna/milan/202248845,2022,9,serie_a
+Atalanta,Udinese,1-1,https://www.besoccer.com/match/atalanta/udinese/202248844,2022,9,serie_a
+Fiorentina,Cagliari,3-0,https://www.besoccer.com/match/fiorentina/cagliari/202248846,2022,9,serie_a
+Hellas Verona,Lazio,4-1,https://www.besoccer.com/match/hellas-verona-fc/lazio/202248847,2022,9,serie_a
+Roma,Napoli,0-0,https://www.besoccer.com/match/roma/napoli/202248850,2022,9,serie_a
+Inter,Juventus,1-1,https://www.besoccer.com/match/internazionale/juventus-fc/202248848,2022,9,serie_a
+Spezia,Genoa,1-1,https://www.besoccer.com/match/asd-spezia/genoa/202248862,2022,10,serie_a
+Venezia,Salernitana,1-2,https://www.besoccer.com/match/venezia/salernitana-calcio-1919/202248864,2022,10,serie_a
+Milan,Torino,1-0,https://www.besoccer.com/match/milan/torino-fc/202248859,2022,10,serie_a
+Juventus,Sassuolo,1-2,https://www.besoccer.com/match/juventus-fc/us-sassuolo-calcio/202248857,2022,10,serie_a
+Sampdoria,Atalanta,1-3,https://www.besoccer.com/match/sampdoria/atalanta/202248861,2022,10,serie_a
+Udinese,Hellas Verona,1-1,https://www.besoccer.com/match/udinese/hellas-verona-fc/202248863,2022,10,serie_a
+Cagliari,Roma,1-2,https://www.besoccer.com/match/cagliari/roma/202248855,2022,10,serie_a
+Empoli,Inter,0-2,https://www.besoccer.com/match/empoli-fc/internazionale/202248856,2022,10,serie_a
+Lazio,Fiorentina,1-0,https://www.besoccer.com/match/lazio/fiorentina/202248858,2022,10,serie_a
+Napoli,Bologna,3-0,https://www.besoccer.com/match/napoli/bologna/202248860,2022,10,serie_a
+Atalanta,Lazio,2-2,https://www.besoccer.com/match/atalanta/lazio/202248865,2022,11,serie_a
+Hellas Verona,Juventus,2-1,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/202248869,2022,11,serie_a
+Torino,Sampdoria,3-0,https://www.besoccer.com/match/torino-fc/sampdoria/202248874,2022,11,serie_a
+Inter,Udinese,2-0,https://www.besoccer.com/match/internazionale/udinese/202248870,2022,11,serie_a
+Fiorentina,Spezia,3-0,https://www.besoccer.com/match/fiorentina/asd-spezia/202248867,2022,11,serie_a
+Genoa,Venezia,0-0,https://www.besoccer.com/match/genoa/venezia/202248868,2022,11,serie_a
+Sassuolo,Empoli,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/empoli-fc/202248873,2022,11,serie_a
+Salernitana,Napoli,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/napoli/202248872,2022,11,serie_a
+Roma,Milan,1-2,https://www.besoccer.com/match/roma/milan/202248871,2022,11,serie_a
+Bologna,Cagliari,2-0,https://www.besoccer.com/match/bologna/cagliari/202248866,2022,11,serie_a
+Empoli,Genoa,2-2,https://www.besoccer.com/match/empoli-fc/genoa/202248876,2022,12,serie_a
+Spezia,Torino,1-0,https://www.besoccer.com/match/asd-spezia/torino-fc/202248882,2022,12,serie_a
+Juventus,Fiorentina,1-0,https://www.besoccer.com/match/juventus-fc/fiorentina/202248877,2022,12,serie_a
+Cagliari,Atalanta,1-2,https://www.besoccer.com/match/cagliari/atalanta/202248875,2022,12,serie_a
+Venezia,Roma,3-2,https://www.besoccer.com/match/venezia/roma/202248884,2022,12,serie_a
+Sampdoria,Bologna,1-2,https://www.besoccer.com/match/sampdoria/bologna/202248881,2022,12,serie_a
+Udinese,Sassuolo,3-2,https://www.besoccer.com/match/udinese/us-sassuolo-calcio/202248883,2022,12,serie_a
+Lazio,Salernitana,3-0,https://www.besoccer.com/match/lazio/salernitana-calcio-1919/202248878,2022,12,serie_a
+Napoli,Hellas Verona,1-1,https://www.besoccer.com/match/napoli/hellas-verona-fc/202248880,2022,12,serie_a
+Milan,Inter,1-1,https://www.besoccer.com/match/milan/internazionale/202248879,2022,12,serie_a
+Atalanta,Spezia,5-2,https://www.besoccer.com/match/atalanta/asd-spezia/202248885,2022,13,serie_a
+Lazio,Juventus,0-2,https://www.besoccer.com/match/lazio/juventus-fc/202248892,2022,13,serie_a
+Fiorentina,Milan,4-3,https://www.besoccer.com/match/fiorentina/milan/202248888,2022,13,serie_a
+Sassuolo,Cagliari,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/cagliari/202248894,2022,13,serie_a
+Bologna,Venezia,0-1,https://www.besoccer.com/match/bologna/venezia/202248887,2022,13,serie_a
+Salernitana,Sampdoria,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/sampdoria/202248893,2022,13,serie_a
+Inter,Napoli,3-2,https://www.besoccer.com/match/internazionale/napoli/202248891,2022,13,serie_a
+Genoa,Roma,0-2,https://www.besoccer.com/match/genoa/roma/202248889,2022,13,serie_a
+Hellas Verona,Empoli,2-1,https://www.besoccer.com/match/hellas-verona-fc/empoli-fc/202248890,2022,13,serie_a
+Torino,Udinese,2-1,https://www.besoccer.com/match/torino-fc/udinese/202248895,2022,13,serie_a
+Cagliari,Salernitana,1-1,https://www.besoccer.com/match/cagliari/salernitana-calcio-1919/202248896,2022,14,serie_a
+Empoli,Fiorentina,2-1,https://www.besoccer.com/match/empoli-fc/fiorentina/202248897,2022,14,serie_a
+Sampdoria,Hellas Verona,3-1,https://www.besoccer.com/match/sampdoria/hellas-verona-fc/202248901,2022,14,serie_a
+Juventus,Atalanta,0-1,https://www.besoccer.com/match/juventus-fc/atalanta/202248898,2022,14,serie_a
+Venezia,Inter,0-2,https://www.besoccer.com/match/venezia/internazionale/202248905,2022,14,serie_a
+Udinese,Genoa,0-0,https://www.besoccer.com/match/udinese/genoa/202248904,2022,14,serie_a
+Milan,Sassuolo,1-3,https://www.besoccer.com/match/milan/us-sassuolo-calcio/202248899,2022,14,serie_a
+Spezia,Bologna,0-1,https://www.besoccer.com/match/asd-spezia/bologna/202248903,2022,14,serie_a
+Roma,Torino,1-0,https://www.besoccer.com/match/roma/torino-fc/202248902,2022,14,serie_a
+Napoli,Lazio,4-0,https://www.besoccer.com/match/napoli/lazio/202248900,2022,14,serie_a
+Atalanta,Venezia,4-0,https://www.besoccer.com/match/atalanta/venezia/202248906,2022,15,serie_a
+Fiorentina,Sampdoria,3-1,https://www.besoccer.com/match/fiorentina/sampdoria/202248908,2022,15,serie_a
+Hellas Verona,Cagliari,0-0,https://www.besoccer.com/match/hellas-verona-fc/cagliari/202248910,2022,15,serie_a
+Salernitana,Juventus,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/juventus-fc/202248913,2022,15,serie_a
+Bologna,Roma,1-0,https://www.besoccer.com/match/bologna/roma/202248907,2022,15,serie_a
+Inter,Spezia,2-0,https://www.besoccer.com/match/internazionale/asd-spezia/202248911,2022,15,serie_a
+Genoa,Milan,0-3,https://www.besoccer.com/match/genoa/milan/202248909,2022,15,serie_a
+Sassuolo,Napoli,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/napoli/202248914,2022,15,serie_a
+Torino,Empoli,2-2,https://www.besoccer.com/match/torino-fc/empoli-fc/202248915,2022,15,serie_a
+Lazio,Udinese,4-4,https://www.besoccer.com/match/lazio/udinese/202248912,2022,15,serie_a
+Milan,Salernitana,2-0,https://www.besoccer.com/match/milan/salernitana-calcio-1919/202248920,2022,16,serie_a
+Roma,Inter,0-3,https://www.besoccer.com/match/roma/internazionale/202248922,2022,16,serie_a
+Napoli,Atalanta,2-3,https://www.besoccer.com/match/napoli/atalanta/202248921,2022,16,serie_a
+Bologna,Fiorentina,2-3,https://www.besoccer.com/match/bologna/fiorentina/202248916,2022,16,serie_a
+Spezia,Sassuolo,2-2,https://www.besoccer.com/match/asd-spezia/us-sassuolo-calcio/202248924,2022,16,serie_a
+Venezia,Hellas Verona,3-4,https://www.besoccer.com/match/venezia/hellas-verona-fc/202248925,2022,16,serie_a
+Sampdoria,Lazio,1-3,https://www.besoccer.com/match/sampdoria/lazio/202248923,2022,16,serie_a
+Juventus,Genoa,2-0,https://www.besoccer.com/match/juventus-fc/genoa/202248919,2022,16,serie_a
+Empoli,Udinese,3-1,https://www.besoccer.com/match/empoli-fc/udinese/202248918,2022,16,serie_a
+Cagliari,Torino,1-1,https://www.besoccer.com/match/cagliari/torino-fc/202248917,2022,16,serie_a
+Genoa,Sampdoria,1-3,https://www.besoccer.com/match/genoa/sampdoria/202248927,2022,17,serie_a
+Fiorentina,Salernitana,4-0,https://www.besoccer.com/match/fiorentina/salernitana-calcio-1919/202248926,2022,17,serie_a
+Venezia,Juventus,1-1,https://www.besoccer.com/match/venezia/juventus-fc/202248935,2022,17,serie_a
+Udinese,Milan,1-1,https://www.besoccer.com/match/udinese/milan/202248934,2022,17,serie_a
+Torino,Bologna,2-1,https://www.besoccer.com/match/torino-fc/bologna/202248933,2022,17,serie_a
+Hellas Verona,Atalanta,1-2,https://www.besoccer.com/match/hellas-verona-fc/atalanta/202248928,2022,17,serie_a
+Napoli,Empoli,0-1,https://www.besoccer.com/match/napoli/empoli-fc/202248930,2022,17,serie_a
+Sassuolo,Lazio,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/lazio/202248932,2022,17,serie_a
+Inter,Cagliari,4-0,https://www.besoccer.com/match/internazionale/cagliari/202248929,2022,17,serie_a
+Roma,Spezia,2-0,https://www.besoccer.com/match/roma/asd-spezia/202248931,2022,17,serie_a
+Lazio,Genoa,3-1,https://www.besoccer.com/match/lazio/genoa/202248940,2022,18,serie_a
+Salernitana,Inter,0-5,https://www.besoccer.com/match/salernitana-calcio-1919/internazionale/202248942,2022,18,serie_a
+Atalanta,Roma,1-4,https://www.besoccer.com/match/atalanta/roma/202248936,2022,18,serie_a
+Bologna,Juventus,0-2,https://www.besoccer.com/match/bologna/juventus-fc/202248937,2022,18,serie_a
+Cagliari,Udinese,0-4,https://www.besoccer.com/match/cagliari/udinese/202248938,2022,18,serie_a
+Fiorentina,Sassuolo,2-2,https://www.besoccer.com/match/fiorentina/us-sassuolo-calcio/202248939,2022,18,serie_a
+Spezia,Empoli,1-1,https://www.besoccer.com/match/asd-spezia/empoli-fc/202248944,2022,18,serie_a
+Sampdoria,Venezia,1-1,https://www.besoccer.com/match/sampdoria/venezia/202248943,2022,18,serie_a
+Torino,Hellas Verona,1-0,https://www.besoccer.com/match/torino-fc/hellas-verona-fc/202248945,2022,18,serie_a
+Milan,Napoli,0-1,https://www.besoccer.com/match/milan/napoli/202248941,2022,18,serie_a
+Genoa,Atalanta,0-0,https://www.besoccer.com/match/genoa/atalanta/202248947,2022,19,serie_a
+Juventus,Cagliari,2-0,https://www.besoccer.com/match/juventus-fc/cagliari/202248950,2022,19,serie_a
+Sassuolo,Bologna,0-3,https://www.besoccer.com/match/us-sassuolo-calcio/bologna/202248953,2022,19,serie_a
+Venezia,Lazio,1-3,https://www.besoccer.com/match/venezia/lazio/202248955,2022,19,serie_a
+Hellas Verona,Fiorentina,1-1,https://www.besoccer.com/match/hellas-verona-fc/fiorentina/202248948,2022,19,serie_a
+Inter,Torino,1-0,https://www.besoccer.com/match/internazionale/torino-fc/202248949,2022,19,serie_a
+Roma,Sampdoria,1-1,https://www.besoccer.com/match/roma/sampdoria/202248952,2022,19,serie_a
+Empoli,Milan,2-4,https://www.besoccer.com/match/empoli-fc/milan/202248946,2022,19,serie_a
+Napoli,Spezia,0-1,https://www.besoccer.com/match/napoli/asd-spezia/202248951,2022,19,serie_a
+Udinese,Salernitana,0-1,https://www.besoccer.com/match/udinese/salernitana-calcio-1919/202248954,2022,19,serie_a
+Sampdoria,Cagliari,1-2,https://www.besoccer.com/match/sampdoria/cagliari/202248963,2022,20,serie_a
+Lazio,Empoli,3-3,https://www.besoccer.com/match/lazio/empoli-fc/202248960,2022,20,serie_a
+Spezia,Hellas Verona,1-2,https://www.besoccer.com/match/asd-spezia/hellas-verona-fc/202248965,2022,20,serie_a
+Sassuolo,Genoa,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/genoa/202248964,2022,20,serie_a
+Milan,Roma,3-1,https://www.besoccer.com/match/milan/roma/202248961,2022,20,serie_a
+Juventus,Napoli,1-1,https://www.besoccer.com/match/juventus-fc/napoli/202248959,2022,20,serie_a
+Fiorentina,Udinese,0-4,https://www.besoccer.com/match/fiorentina/udinese/202248958,2022,20,serie_a
+Atalanta,Torino,4-4,https://www.besoccer.com/match/atalanta/torino-fc/202248956,2022,20,serie_a
+Bologna,Inter,2-1,https://www.besoccer.com/match/bologna/internazionale/202248957,2022,20,serie_a
+Salernitana,Venezia,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/venezia/202248962,2022,20,serie_a
+Venezia,Milan,0-3,https://www.besoccer.com/match/venezia/milan/202248975,2022,21,serie_a
+Empoli,Sassuolo,1-5,https://www.besoccer.com/match/empoli-fc/us-sassuolo-calcio/202248967,2022,21,serie_a
+Napoli,Sampdoria,1-0,https://www.besoccer.com/match/napoli/sampdoria/202248971,2022,21,serie_a
+Udinese,Atalanta,2-6,https://www.besoccer.com/match/udinese/atalanta/202248974,2022,21,serie_a
+Genoa,Spezia,0-1,https://www.besoccer.com/match/genoa/asd-spezia/202248968,2022,21,serie_a
+Roma,Juventus,3-4,https://www.besoccer.com/match/roma/juventus-fc/202248972,2022,21,serie_a
+Hellas Verona,Salernitana,1-2,https://www.besoccer.com/match/hellas-verona-fc/salernitana-calcio-1919/202248969,2022,21,serie_a
+Inter,Lazio,2-1,https://www.besoccer.com/match/internazionale/lazio/202248970,2022,21,serie_a
+Torino,Fiorentina,4-0,https://www.besoccer.com/match/torino-fc/fiorentina/202248973,2022,21,serie_a
+Cagliari,Bologna,2-1,https://www.besoccer.com/match/cagliari/bologna/202248966,2022,21,serie_a
+Sampdoria,Torino,1-2,https://www.besoccer.com/match/sampdoria/torino-fc/202248983,2022,22,serie_a
+Salernitana,Lazio,0-3,https://www.besoccer.com/match/salernitana-calcio-1919/lazio/202248982,2022,22,serie_a
+Juventus,Udinese,2-0,https://www.besoccer.com/match/juventus-fc/udinese/202248979,2022,22,serie_a
+Sassuolo,Hellas Verona,2-4,https://www.besoccer.com/match/us-sassuolo-calcio/hellas-verona-fc/202248984,2022,22,serie_a
+Venezia,Empoli,1-1,https://www.besoccer.com/match/venezia/empoli-fc/202248985,2022,22,serie_a
+Roma,Cagliari,1-0,https://www.besoccer.com/match/roma/cagliari/202248981,2022,22,serie_a
+Atalanta,Inter,0-0,https://www.besoccer.com/match/atalanta/internazionale/202248976,2022,22,serie_a
+Bologna,Napoli,0-2,https://www.besoccer.com/match/bologna/napoli/202248977,2022,22,serie_a
+Milan,Spezia,1-2,https://www.besoccer.com/match/milan/asd-spezia/202248980,2022,22,serie_a
+Fiorentina,Genoa,6-0,https://www.besoccer.com/match/fiorentina/genoa/202248978,2022,22,serie_a
+Hellas Verona,Bologna,2-1,https://www.besoccer.com/match/hellas-verona-fc/bologna/202248989,2022,23,serie_a
+Genoa,Udinese,0-0,https://www.besoccer.com/match/genoa/udinese/202248988,2022,23,serie_a
+Inter,Venezia,2-1,https://www.besoccer.com/match/internazionale/venezia/202248990,2022,23,serie_a
+Lazio,Atalanta,0-0,https://www.besoccer.com/match/lazio/atalanta/202248991,2022,23,serie_a
+Cagliari,Fiorentina,1-1,https://www.besoccer.com/match/cagliari/fiorentina/202248986,2022,23,serie_a
+Napoli,Salernitana,4-1,https://www.besoccer.com/match/napoli/salernitana-calcio-1919/202248993,2022,23,serie_a
+Spezia,Sampdoria,1-0,https://www.besoccer.com/match/asd-spezia/sampdoria/202248994,2022,23,serie_a
+Torino,Sassuolo,1-1,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/202248995,2022,23,serie_a
+Empoli,Roma,2-4,https://www.besoccer.com/match/empoli-fc/roma/202248987,2022,23,serie_a
+Milan,Juventus,0-0,https://www.besoccer.com/match/milan/juventus-fc/202248992,2022,23,serie_a
+Roma,Genoa,0-0,https://www.besoccer.com/match/roma/genoa/202249001,2022,24,serie_a
+Inter,Milan,1-2,https://www.besoccer.com/match/internazionale/milan/202248999,2022,24,serie_a
+Fiorentina,Lazio,0-3,https://www.besoccer.com/match/fiorentina/lazio/202248998,2022,24,serie_a
+Atalanta,Cagliari,1-2,https://www.besoccer.com/match/atalanta/cagliari/202248996,2022,24,serie_a
+Bologna,Empoli,0-0,https://www.besoccer.com/match/bologna/empoli-fc/202248997,2022,24,serie_a
+Sampdoria,Sassuolo,4-0,https://www.besoccer.com/match/sampdoria/us-sassuolo-calcio/202249003,2022,24,serie_a
+Venezia,Napoli,0-2,https://www.besoccer.com/match/venezia/napoli/202249005,2022,24,serie_a
+Udinese,Torino,2-0,https://www.besoccer.com/match/udinese/torino-fc/202249004,2022,24,serie_a
+Juventus,Hellas Verona,2-0,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/202249000,2022,24,serie_a
+Salernitana,Spezia,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/asd-spezia/202249002,2022,24,serie_a
+Lazio,Bologna,3-0,https://www.besoccer.com/match/lazio/bologna/202249010,2022,25,serie_a
+Napoli,Inter,1-1,https://www.besoccer.com/match/napoli/internazionale/202249012,2022,25,serie_a
+Torino,Venezia,1-2,https://www.besoccer.com/match/torino-fc/venezia/202249015,2022,25,serie_a
+Milan,Sampdoria,1-0,https://www.besoccer.com/match/milan/sampdoria/202249011,2022,25,serie_a
+Empoli,Cagliari,1-1,https://www.besoccer.com/match/empoli-fc/cagliari/202249007,2022,25,serie_a
+Genoa,Salernitana,1-1,https://www.besoccer.com/match/genoa/salernitana-calcio-1919/202249008,2022,25,serie_a
+Hellas Verona,Udinese,4-0,https://www.besoccer.com/match/hellas-verona-fc/udinese/202249009,2022,25,serie_a
+Sassuolo,Roma,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/roma/202249013,2022,25,serie_a
+Atalanta,Juventus,1-1,https://www.besoccer.com/match/atalanta/juventus-fc/202249006,2022,25,serie_a
+Spezia,Fiorentina,1-2,https://www.besoccer.com/match/asd-spezia/fiorentina/202249014,2022,25,serie_a
+Juventus,Torino,1-1,https://www.besoccer.com/match/juventus-fc/torino-fc/202249020,2022,26,serie_a
+Sampdoria,Empoli,2-0,https://www.besoccer.com/match/sampdoria/empoli-fc/202249023,2022,26,serie_a
+Roma,Hellas Verona,2-2,https://www.besoccer.com/match/roma/hellas-verona-fc/202249021,2022,26,serie_a
+Salernitana,Milan,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/milan/202249022,2022,26,serie_a
+Fiorentina,Atalanta,1-0,https://www.besoccer.com/match/fiorentina/atalanta/202249018,2022,26,serie_a
+Venezia,Genoa,1-1,https://www.besoccer.com/match/venezia/genoa/202249025,2022,26,serie_a
+Inter,Sassuolo,0-2,https://www.besoccer.com/match/internazionale/us-sassuolo-calcio/202249019,2022,26,serie_a
+Udinese,Lazio,1-1,https://www.besoccer.com/match/udinese/lazio/202249024,2022,26,serie_a
+Cagliari,Napoli,1-1,https://www.besoccer.com/match/cagliari/napoli/202249017,2022,26,serie_a
+Bologna,Spezia,2-1,https://www.besoccer.com/match/bologna/asd-spezia/202249016,2022,26,serie_a
+Milan,Udinese,1-1,https://www.besoccer.com/match/milan/udinese/202249286,2022,27,serie_a
+Genoa,Inter,0-0,https://www.besoccer.com/match/genoa/internazionale/202249289,2022,27,serie_a
+Salernitana,Bologna,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/bologna/202249291,2022,27,serie_a
+Empoli,Juventus,2-3,https://www.besoccer.com/match/empoli-fc/juventus-fc/202249288,2022,27,serie_a
+Sassuolo,Fiorentina,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/fiorentina/202249292,2022,27,serie_a
+Torino,Cagliari,1-2,https://www.besoccer.com/match/torino-fc/cagliari/202249294,2022,27,serie_a
+Hellas Verona,Venezia,3-1,https://www.besoccer.com/match/hellas-verona-fc/venezia/202249295,2022,27,serie_a
+Spezia,Roma,0-1,https://www.besoccer.com/match/asd-spezia/roma/202249293,2022,27,serie_a
+Lazio,Napoli,1-2,https://www.besoccer.com/match/lazio/napoli/202249290,2022,27,serie_a
+Atalanta,Sampdoria,4-0,https://www.besoccer.com/match/atalanta/sampdoria/202249287,2022,27,serie_a
+Inter,Salernitana,5-0,https://www.besoccer.com/match/internazionale/salernitana-calcio-1919/202249301,2022,28,serie_a
+Udinese,Sampdoria,2-1,https://www.besoccer.com/match/udinese/sampdoria/202249304,2022,28,serie_a
+Roma,Atalanta,1-0,https://www.besoccer.com/match/roma/atalanta/202249296,2022,28,serie_a
+Cagliari,Lazio,0-3,https://www.besoccer.com/match/cagliari/lazio/202249298,2022,28,serie_a
+Genoa,Empoli,0-0,https://www.besoccer.com/match/genoa/empoli-fc/202249300,2022,28,serie_a
+Bologna,Torino,0-0,https://www.besoccer.com/match/bologna/torino-fc/202249297,2022,28,serie_a
+Fiorentina,Hellas Verona,1-1,https://www.besoccer.com/match/fiorentina/hellas-verona-fc/202249299,2022,28,serie_a
+Venezia,Sassuolo,1-4,https://www.besoccer.com/match/venezia/us-sassuolo-calcio/202249305,2022,28,serie_a
+Juventus,Spezia,1-0,https://www.besoccer.com/match/juventus-fc/asd-spezia/202249302,2022,28,serie_a
+Napoli,Milan,0-1,https://www.besoccer.com/match/napoli/milan/202249303,2022,28,serie_a
+Spezia,Cagliari,2-0,https://www.besoccer.com/match/asd-spezia/cagliari/202249312,2022,29,serie_a
+Salernitana,Sassuolo,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/us-sassuolo-calcio/202249310,2022,29,serie_a
+Sampdoria,Juventus,1-3,https://www.besoccer.com/match/sampdoria/juventus-fc/202249311,2022,29,serie_a
+Milan,Empoli,1-0,https://www.besoccer.com/match/milan/empoli-fc/202249306,2022,29,serie_a
+Fiorentina,Bologna,1-0,https://www.besoccer.com/match/fiorentina/bologna/202249308,2022,29,serie_a
+Hellas Verona,Napoli,1-2,https://www.besoccer.com/match/hellas-verona-fc/napoli/202249315,2022,29,serie_a
+Atalanta,Genoa,0-0,https://www.besoccer.com/match/atalanta/genoa/202249307,2022,29,serie_a
+Udinese,Roma,1-1,https://www.besoccer.com/match/udinese/roma/202249314,2022,29,serie_a
+Torino,Inter,1-1,https://www.besoccer.com/match/torino-fc/internazionale/202249313,2022,29,serie_a
+Lazio,Venezia,1-0,https://www.besoccer.com/match/lazio/venezia/202249309,2022,29,serie_a
+Sassuolo,Spezia,4-1,https://www.besoccer.com/match/us-sassuolo-calcio/asd-spezia/202249324,2022,30,serie_a
+Genoa,Torino,1-0,https://www.besoccer.com/match/genoa/torino-fc/202249320,2022,30,serie_a
+Napoli,Udinese,2-1,https://www.besoccer.com/match/napoli/udinese/202249323,2022,30,serie_a
+Inter,Fiorentina,1-1,https://www.besoccer.com/match/internazionale/fiorentina/202249321,2022,30,serie_a
+Cagliari,Milan,0-1,https://www.besoccer.com/match/cagliari/milan/202249318,2022,30,serie_a
+Venezia,Sampdoria,0-2,https://www.besoccer.com/match/venezia/sampdoria/202249325,2022,30,serie_a
+Empoli,Hellas Verona,1-1,https://www.besoccer.com/match/empoli-fc/hellas-verona-fc/202249319,2022,30,serie_a
+Juventus,Salernitana,2-0,https://www.besoccer.com/match/juventus-fc/salernitana-calcio-1919/202249322,2022,30,serie_a
+Roma,Lazio,3-0,https://www.besoccer.com/match/roma/lazio/202249316,2022,30,serie_a
+Bologna,Atalanta,0-1,https://www.besoccer.com/match/bologna/atalanta/202249317,2022,30,serie_a
+Spezia,Venezia,1-0,https://www.besoccer.com/match/asd-spezia/venezia/202249333,2022,31,serie_a
+Lazio,Sassuolo,2-1,https://www.besoccer.com/match/lazio/us-sassuolo-calcio/202249330,2022,31,serie_a
+Salernitana,Torino,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/torino-fc/202249331,2022,31,serie_a
+Fiorentina,Empoli,1-0,https://www.besoccer.com/match/fiorentina/empoli-fc/202249328,2022,31,serie_a
+Atalanta,Napoli,1-3,https://www.besoccer.com/match/atalanta/napoli/202249327,2022,31,serie_a
+Udinese,Cagliari,5-1,https://www.besoccer.com/match/udinese/cagliari/202249334,2022,31,serie_a
+Sampdoria,Roma,0-1,https://www.besoccer.com/match/sampdoria/roma/202249332,2022,31,serie_a
+Juventus,Inter,0-1,https://www.besoccer.com/match/juventus-fc/internazionale/202249329,2022,31,serie_a
+Hellas Verona,Genoa,1-0,https://www.besoccer.com/match/hellas-verona-fc/genoa/202249335,2022,31,serie_a
+Milan,Bologna,0-0,https://www.besoccer.com/match/milan/bologna/202249326,2022,31,serie_a
+Empoli,Spezia,0-0,https://www.besoccer.com/match/empoli-fc/asd-spezia/202249339,2022,32,serie_a
+Inter,Hellas Verona,2-0,https://www.besoccer.com/match/internazionale/hellas-verona-fc/202249341,2022,32,serie_a
+Cagliari,Juventus,1-2,https://www.besoccer.com/match/cagliari/juventus-fc/202249338,2022,32,serie_a
+Genoa,Lazio,1-4,https://www.besoccer.com/match/genoa/lazio/202249340,2022,32,serie_a
+Napoli,Fiorentina,2-3,https://www.besoccer.com/match/napoli/fiorentina/202249342,2022,32,serie_a
+Sassuolo,Atalanta,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/atalanta/202249343,2022,32,serie_a
+Venezia,Udinese,1-2,https://www.besoccer.com/match/venezia/udinese/202249345,2022,32,serie_a
+Roma,Salernitana,2-1,https://www.besoccer.com/match/roma/salernitana-calcio-1919/202249336,2022,32,serie_a
+Torino,Milan,0-0,https://www.besoccer.com/match/torino-fc/milan/202249344,2022,32,serie_a
+Bologna,Sampdoria,2-0,https://www.besoccer.com/match/bologna/sampdoria/202249337,2022,32,serie_a
+Spezia,Inter,1-3,https://www.besoccer.com/match/asd-spezia/internazionale/202249354,2022,33,serie_a
+Milan,Genoa,2-0,https://www.besoccer.com/match/milan/genoa/202249346,2022,33,serie_a
+Cagliari,Sassuolo,1-0,https://www.besoccer.com/match/cagliari/us-sassuolo-calcio/202249348,2022,33,serie_a
+Sampdoria,Salernitana,1-2,https://www.besoccer.com/match/sampdoria/salernitana-calcio-1919/202249353,2022,33,serie_a
+Udinese,Empoli,4-1,https://www.besoccer.com/match/udinese/empoli-fc/202249355,2022,33,serie_a
+Fiorentina,Venezia,1-0,https://www.besoccer.com/match/fiorentina/venezia/202249349,2022,33,serie_a
+Juventus,Bologna,1-1,https://www.besoccer.com/match/juventus-fc/bologna/202249350,2022,33,serie_a
+Lazio,Torino,1-1,https://www.besoccer.com/match/lazio/torino-fc/202249351,2022,33,serie_a
+Napoli,Roma,1-1,https://www.besoccer.com/match/napoli/roma/202249352,2022,33,serie_a
+Atalanta,Hellas Verona,1-2,https://www.besoccer.com/match/atalanta/hellas-verona-fc/202249347,2022,33,serie_a
+Venezia,Atalanta,1-3,https://www.besoccer.com/match/venezia/atalanta/202249364,2022,34,serie_a
+Torino,Spezia,2-1,https://www.besoccer.com/match/torino-fc/asd-spezia/202249363,2022,34,serie_a
+Inter,Roma,3-1,https://www.besoccer.com/match/internazionale/roma/202249359,2022,34,serie_a
+Hellas Verona,Sampdoria,1-1,https://www.besoccer.com/match/hellas-verona-fc/sampdoria/202249365,2022,34,serie_a
+Salernitana,Fiorentina,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/fiorentina/202249361,2022,34,serie_a
+Bologna,Udinese,2-2,https://www.besoccer.com/match/bologna/udinese/202249356,2022,34,serie_a
+Empoli,Napoli,3-2,https://www.besoccer.com/match/empoli-fc/napoli/202249357,2022,34,serie_a
+Genoa,Cagliari,1-0,https://www.besoccer.com/match/genoa/cagliari/202249358,2022,34,serie_a
+Lazio,Milan,1-2,https://www.besoccer.com/match/lazio/milan/202249360,2022,34,serie_a
+Sassuolo,Juventus,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/juventus-fc/202249362,2022,34,serie_a
+Napoli,Sassuolo,6-1,https://www.besoccer.com/match/napoli/us-sassuolo-calcio/202249372,2022,35,serie_a
+Cagliari,Hellas Verona,1-2,https://www.besoccer.com/match/cagliari/hellas-verona-fc/202249369,2022,35,serie_a
+Sampdoria,Genoa,1-0,https://www.besoccer.com/match/sampdoria/genoa/202249373,2022,35,serie_a
+Spezia,Lazio,3-4,https://www.besoccer.com/match/asd-spezia/lazio/202249374,2022,35,serie_a
+Juventus,Venezia,2-1,https://www.besoccer.com/match/juventus-fc/venezia/202249371,2022,35,serie_a
+Milan,Fiorentina,1-0,https://www.besoccer.com/match/milan/fiorentina/202249366,2022,35,serie_a
+Empoli,Torino,1-3,https://www.besoccer.com/match/empoli-fc/torino-fc/202249370,2022,35,serie_a
+Udinese,Inter,1-2,https://www.besoccer.com/match/udinese/internazionale/202249375,2022,35,serie_a
+Roma,Bologna,0-0,https://www.besoccer.com/match/roma/bologna/202249367,2022,35,serie_a
+Atalanta,Salernitana,1-1,https://www.besoccer.com/match/atalanta/salernitana-calcio-1919/202249368,2022,35,serie_a
+Inter,Empoli,4-2,https://www.besoccer.com/match/internazionale/empoli-fc/202249378,2022,36,serie_a
+Genoa,Juventus,2-1,https://www.besoccer.com/match/genoa/juventus-fc/202249377,2022,36,serie_a
+Torino,Napoli,0-1,https://www.besoccer.com/match/torino-fc/napoli/202249383,2022,36,serie_a
+Sassuolo,Udinese,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/udinese/202249381,2022,36,serie_a
+Lazio,Sampdoria,2-0,https://www.besoccer.com/match/lazio/sampdoria/202249379,2022,36,serie_a
+Spezia,Atalanta,1-3,https://www.besoccer.com/match/asd-spezia/atalanta/202249382,2022,36,serie_a
+Venezia,Bologna,4-3,https://www.besoccer.com/match/venezia/bologna/202249384,2022,36,serie_a
+Salernitana,Cagliari,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/cagliari/202249380,2022,36,serie_a
+Hellas Verona,Milan,1-3,https://www.besoccer.com/match/hellas-verona-fc/milan/202249385,2022,36,serie_a
+Fiorentina,Roma,2-0,https://www.besoccer.com/match/fiorentina/roma/202249376,2022,36,serie_a
+Empoli,Salernitana,2-4,https://www.besoccer.com/match/empoli-fc/salernitana-calcio-1919/202249390,2022,37,serie_a
+Udinese,Spezia,0-1,https://www.besoccer.com/match/udinese/asd-spezia/202249394,2022,37,serie_a
+Hellas Verona,Torino,1-0,https://www.besoccer.com/match/hellas-verona-fc/torino-fc/202249395,2022,37,serie_a
+Roma,Venezia,3-2,https://www.besoccer.com/match/roma/venezia/202249387,2022,37,serie_a
+Bologna,Sassuolo,0-3,https://www.besoccer.com/match/bologna/us-sassuolo-calcio/202249388,2022,37,serie_a
+Napoli,Genoa,1-2,https://www.besoccer.com/match/napoli/genoa/202249392,2022,37,serie_a
+Milan,Atalanta,2-3,https://www.besoccer.com/match/milan/atalanta/202249386,2022,37,serie_a
+Cagliari,Inter,4-0,https://www.besoccer.com/match/cagliari/internazionale/202249389,2022,37,serie_a
+Sampdoria,Fiorentina,3-1,https://www.besoccer.com/match/sampdoria/fiorentina/202249393,2022,37,serie_a
+Juventus,Lazio,0-2,https://www.besoccer.com/match/juventus-fc/lazio/202249391,2022,37,serie_a
+Atalanta,Empoli,1-4,https://www.besoccer.com/match/atalanta/empoli-fc/202249396,2022,38,serie_a
+Fiorentina,Juventus,2-0,https://www.besoccer.com/match/fiorentina/juventus-fc/202249397,2022,38,serie_a
+Genoa,Bologna,2-2,https://www.besoccer.com/match/genoa/bologna/202249398,2022,38,serie_a
+Inter,Sampdoria,2-2,https://www.besoccer.com/match/internazionale/sampdoria/202249399,2022,38,serie_a
+Lazio,Hellas Verona,4-1,https://www.besoccer.com/match/lazio/hellas-verona-fc/202249400,2022,38,serie_a
+Salernitana,Udinese,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/udinese/202249401,2022,38,serie_a
+Sassuolo,Milan,1-3,https://www.besoccer.com/match/us-sassuolo-calcio/milan/202249402,2022,38,serie_a
+Spezia,Napoli,0-1,https://www.besoccer.com/match/asd-spezia/napoli/202249403,2022,38,serie_a
+Torino,Roma,1-0,https://www.besoccer.com/match/torino-fc/roma/202249404,2022,38,serie_a
+Venezia,Cagliari,1-1,https://www.besoccer.com/match/venezia/cagliari/202249405,2022,38,serie_a
