@@ -466,7 +466,9 @@ class WebScraper:
     def scrape_all_leagues(self, leagues_and_exts, year):
         links = []
         for league in leagues_and_exts:
-            self.scrape_league_links(league[0], year, url_ext=league[1])
+            link = self.scrape_league_links(
+                league[0], year, url_ext=league[1])
+            links.append(link)
         return links
 
     def scrape_page_info(self, url, league, year, round):
@@ -601,6 +603,3 @@ if __name__ == '__main__':
     league_names = [x['Name'] for x in leagues]
     x = cleaner.normalise_data(league_names, years)
     x.to_csv('cleaned_dataset.csv', index=False)
-
-    # scraper.export_table('championship', '2006', url_ext='/group1')
-    # broken
