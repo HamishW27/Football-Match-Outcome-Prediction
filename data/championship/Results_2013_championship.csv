@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Cardiff City,Huddersfield Town,1-0,https://www.besoccer.com/match/cardiff-city-fc/huddersfield-town-fc/2013441520,2013,1,championship,61,51,1,0,3,0,2012-08-17 20:45:00,,2013
+Leeds United,Wolves,1-0,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/2013441528,2013,1,championship,57,61,4,0,2,0,2012-08-18 13:45:00,,2013
+Leicester,Peterborough United,2-0,https://www.besoccer.com/match/leicester-city-fc/peterborough-u/2013441521,2013,1,championship,60,49,2,0,2,0,2012-08-18 16:00:00,,2013
+Millwall,Blackpool,0-2,https://www.besoccer.com/match/millwall-fc/blackpool-fc/2013441522,2013,1,championship,55,57,1,0,2,0,2012-08-18 16:00:00,,2013
+Nottingham Forest,Bristol City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/2013441523,2013,1,championship,56,51,1,0,1,0,2012-08-18 16:00:00,,2013
+Barnsley,Middlesbrough,1-0,https://www.besoccer.com/match/barnsley-fc/middlesbrough-fc/2013441524,2013,1,championship,49,61,3,0,2,0,2012-08-18 16:00:00,,2013
+Hull City,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/hull-city/brighton-amp-hov/2013441525,2013,1,championship,55,51,2,0,1,0,2012-08-18 16:00:00,,2013
+Birmingham City,Charlton Athletic,1-1,https://www.besoccer.com/match/birmingham-city-fc/charlton-athletic-fc/2013441526,2013,1,championship,67,55,0,0,1,0,2012-08-18 16:00:00,,2013
+Derby County,Sheffield Wednesday,2-2,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/2013441527,2013,1,championship,52,55,1,0,2,0,2012-08-18 16:00:00,,2013
+Ipswich Town,Blackburn Rovers,1-1,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/2013441529,2013,1,championship,57,66,1,0,2,0,2012-08-18 16:00:00,,2013
+Burnley,Bolton Wanderers,2-0,https://www.besoccer.com/match/burnley-fc/bolton-wanderers-fc/2013441530,2013,1,championship,58,67,1,0,2,0,2012-08-18 16:00:00,,2013
+Crystal Palace,Watford,2-3,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/2013441531,2013,1,championship,57,56,0,0,2,0,2012-08-18 16:00:00,,2013
+Peterborough United,Millwall,1-2,https://www.besoccer.com/match/peterborough-u/millwall-fc/2013441532,2013,2,championship,49,54,1,0,2,0,2012-08-21 20:45:00,,2013
+Huddersfield Town,Nottingham Forest,1-1,https://www.besoccer.com/match/huddersfield-town-fc/nottingham-forest-fc/2013441533,2013,2,championship,51,56,1,0,3,0,2012-08-21 20:45:00,,2013
+Watford,Ipswich Town,0-1,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/2013441534,2013,2,championship,56,57,1,0,0,0,2012-08-21 20:45:00,,2013
+Middlesbrough,Burnley,3-2,https://www.besoccer.com/match/middlesbrough-fc/burnley-fc/2013441535,2013,2,championship,61,58,1,0,1,0,2012-08-21 20:45:00,,2013
+Brighton & Hove Albion,Cardiff City,0-0,https://www.besoccer.com/match/brighton-amp-hov/cardiff-city-fc/2013441536,2013,2,championship,51,61,0,0,1,0,2012-08-21 20:45:00,,2013
+Charlton Athletic,Leicester,2-1,https://www.besoccer.com/match/charlton-athletic-fc/leicester-city-fc/2013441538,2013,2,championship,55,60,0,0,1,0,2012-08-21 20:45:00,,2013
+Sheffield Wednesday,Birmingham City,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/2013441540,2013,2,championship,55,67,1,0,1,0,2012-08-21 20:45:00,,2013
+Bristol City,Crystal Palace,4-1,https://www.besoccer.com/match/bristol-city-fc/crystal-palace-fc/2013441541,2013,2,championship,51,57,2,0,2,0,2012-08-21 20:45:00,,2013
+Wolves,Barnsley,3-1,https://www.besoccer.com/match/wolverhampton/barnsley-fc/2013441542,2013,2,championship,61,49,0,0,1,0,2012-08-21 20:45:00,,2013
+Bolton Wanderers,Derby County,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/derby-county-fc/2013441537,2013,2,championship,66,52,3,0,1,0,2012-08-21 21:00:00,,2013
+Blackpool,Leeds United,2-1,https://www.besoccer.com/match/blackpool-fc/leeds-united-afc/2013441539,2013,2,championship,57,57,0,0,2,0,2012-08-21 21:00:00,,2013
+Blackburn Rovers,Hull City,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/hull-city/2013441543,2013,2,championship,66,55,1,0,0,0,2012-08-22 20:45:00,,2013
+Bolton Wanderers,Nottingham Forest,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/nottingham-forest-fc/2013441544,2013,3,championship,67,56,3,0,3,0,2012-08-24 20:45:00,,2013
+Bristol City,Cardiff City,4-2,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/2013441547,2013,3,championship,51,61,0,0,1,0,2012-08-25 14:00:00,,2013
+Huddersfield Town,Burnley,2-0,https://www.besoccer.com/match/huddersfield-town-fc/burnley-fc/2013441546,2013,3,championship,51,58,1,0,0,0,2012-08-25 16:00:00,,2013
+Charlton Athletic,Hull City,0-0,https://www.besoccer.com/match/charlton-athletic-fc/hull-city/2013441548,2013,3,championship,55,55,0,0,0,0,2012-08-25 16:00:00,,2013
+Sheffield Wednesday,Millwall,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/millwall-fc/2013441549,2013,3,championship,55,54,4,0,1,0,2012-08-25 16:00:00,,2013
+Wolves,Derby County,1-1,https://www.besoccer.com/match/wolverhampton/derby-county-fc/2013441550,2013,3,championship,61,52,0,0,0,0,2012-08-25 16:00:00,,2013
+Brighton & Hove Albion,Barnsley,5-1,https://www.besoccer.com/match/brighton-amp-hov/barnsley-fc/2013441551,2013,3,championship,51,49,1,0,3,0,2012-08-25 16:00:00,,2013
+Blackburn Rovers,Leicester,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/leicester-city-fc/2013441552,2013,3,championship,66,60,1,0,1,0,2012-08-25 16:00:00,,2013
+Blackpool,Ipswich Town,6-0,https://www.besoccer.com/match/blackpool-fc/ipswich-town-fc/2013441553,2013,3,championship,57,57,1,0,1,0,2012-08-25 16:00:00,,2013
+Peterborough United,Leeds United,1-2,https://www.besoccer.com/match/peterborough-u/leeds-united-afc/2013441554,2013,3,championship,49,57,4,0,0,0,2012-08-25 16:00:00,,2013
+Middlesbrough,Crystal Palace,2-1,https://www.besoccer.com/match/middlesbrough-fc/crystal-palace-fc/2013441555,2013,3,championship,61,57,1,0,2,0,2012-08-25 16:00:00,,2013
+Watford,Birmingham City,2-0,https://www.besoccer.com/match/watford-fc/birmingham-city-fc/2013441545,2013,3,championship,56,67,1,0,0,0,2012-08-25 18:20:00,,2013
+Millwall,Middlesbrough,3-1,https://www.besoccer.com/match/millwall-fc/middlesbrough-fc/2013441560,2013,4,championship,54,61,3,0,3,0,2012-09-01 13:45:00,,2013
+Hull City,Bolton Wanderers,3-1,https://www.besoccer.com/match/hull-city/bolton-wanderers-fc/2013441556,2013,4,championship,55,66,1,0,0,0,2012-09-01 16:00:00,,2013
+Burnley,Brighton & Hove Albion,1-3,https://www.besoccer.com/match/burnley-fc/brighton-amp-hov/2013441558,2013,4,championship,58,51,2,0,4,0,2012-09-01 16:00:00,,2013
+Ipswich Town,Huddersfield Town,2-2,https://www.besoccer.com/match/ipswich-town-fc/huddersfield-town-fc/2013441559,2013,4,championship,56,51,1,0,1,0,2012-09-01 16:00:00,,2013
+Barnsley,Bristol City,1-0,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/2013441561,2013,4,championship,48,51,1,1,1,1,2012-09-01 16:00:00,,2013
+Nottingham Forest,Charlton Athletic,2-1,https://www.besoccer.com/match/nottingham-forest-fc/charlton-athletic-fc/2013441562,2013,4,championship,56,55,3,0,4,0,2012-09-01 16:00:00,,2013
+Birmingham City,Peterborough United,1-0,https://www.besoccer.com/match/birmingham-city-fc/peterborough-u/2013441563,2013,4,championship,66,49,3,0,1,0,2012-09-01 16:00:00,,2013
+Derby County,Watford,5-1,https://www.besoccer.com/match/derby-county-fc/watford-fc/2013441564,2013,4,championship,52,56,1,0,1,0,2012-09-01 16:00:00,,2013
+Crystal Palace,Sheffield Wednesday,2-1,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/2013441565,2013,4,championship,56,56,2,0,3,0,2012-09-01 16:00:00,,2013
+Leeds United,Blackburn Rovers,3-3,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/2013441566,2013,4,championship,57,66,2,0,3,0,2012-09-01 16:00:00,,2013
+Leicester,Blackpool,1-0,https://www.besoccer.com/match/leicester-city-fc/blackpool-fc/2013441557,2013,4,championship,59,58,0,0,2,0,2012-09-01 18:20:00,,2013
+Cardiff City,Wolves,3-1,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/2013441567,2013,4,championship,61,61,1,0,1,0,2012-09-02 15:00:00,,2013
+Brighton & Hove Albion,Sheffield Wednesday,3-0,https://www.besoccer.com/match/brighton-amp-hov/sheffield-wednesday-fc/2013441568,2013,5,championship,51,56,1,0,2,0,2012-09-14 20:45:00,,2013
+Charlton Athletic,Crystal Palace,0-1,https://www.besoccer.com/match/charlton-athletic-fc/crystal-palace-fc/2013441569,2013,5,championship,55,56,2,0,3,0,2012-09-14 20:45:00,,2013
+Nottingham Forest,Birmingham City,2-2,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/2013441570,2013,5,championship,56,66,4,0,0,0,2012-09-15 16:00:00,,2013
+Bristol City,Blackburn Rovers,3-5,https://www.besoccer.com/match/bristol-city-fc/blackburn-rovers-fc/2013441571,2013,5,championship,51,66,0,0,0,0,2012-09-15 16:00:00,,2013
+Cardiff City,Leeds United,2-1,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/2013441572,2013,5,championship,61,57,1,0,2,0,2012-09-15 16:00:00,,2013
+Hull City,Millwall,4-1,https://www.besoccer.com/match/hull-city/millwall-fc/2013441573,2013,5,championship,55,55,1,0,2,0,2012-09-15 16:00:00,,2013
+Bolton Wanderers,Watford,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/watford-fc/2013441574,2013,5,championship,66,56,2,0,2,0,2012-09-15 16:00:00,,2013
+Middlesbrough,Ipswich Town,2-0,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/2013441575,2013,5,championship,61,56,1,0,0,0,2012-09-15 16:00:00,,2013
+Burnley,Peterborough United,5-2,https://www.besoccer.com/match/burnley-fc/peterborough-u/2013441576,2013,5,championship,57,49,1,0,1,0,2012-09-15 16:00:00,,2013
+Huddersfield Town,Derby County,1-0,https://www.besoccer.com/match/huddersfield-town-fc/derby-county-fc/2013441577,2013,5,championship,52,53,3,0,1,0,2012-09-15 16:00:00,,2013
+Barnsley,Blackpool,1-1,https://www.besoccer.com/match/barnsley-fc/blackpool-fc/2013441578,2013,5,championship,49,58,0,0,1,0,2012-09-15 16:00:00,,2013
+Wolves,Leicester,2-1,https://www.besoccer.com/match/wolverhampton/leicester-city-fc/2013441579,2013,5,championship,61,59,1,0,2,0,2012-09-16 14:15:00,,2013
+Peterborough United,Bristol City,1-2,https://www.besoccer.com/match/peterborough-u/bristol-city-fc/2013441580,2013,6,championship,48,51,4,0,3,0,2012-09-18 20:45:00,,2013
+Millwall,Cardiff City,0-2,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/2013441582,2013,6,championship,54,61,2,0,2,0,2012-09-18 20:45:00,,2013
+Derby County,Charlton Athletic,3-2,https://www.besoccer.com/match/derby-county-fc/charlton-athletic-fc/2013441583,2013,6,championship,52,55,1,0,2,0,2012-09-18 20:45:00,,2013
+Watford,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/watford-fc/brighton-amp-hov/2013441585,2013,6,championship,56,52,4,0,3,0,2012-09-18 20:45:00,,2013
+Birmingham City,Bolton Wanderers,2-1,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/2013441586,2013,6,championship,66,66,1,0,3,0,2012-09-18 20:45:00,,2013
+Leeds United,Hull City,2-3,https://www.besoccer.com/match/leeds-united-afc/hull-city/2013441587,2013,6,championship,57,55,3,0,2,0,2012-09-18 20:45:00,,2013
+Blackburn Rovers,Barnsley,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/barnsley-fc/2013441588,2013,6,championship,66,49,1,0,1,0,2012-09-18 20:45:00,,2013
+Blackpool,Middlesbrough,4-1,https://www.besoccer.com/match/blackpool-fc/middlesbrough-fc/2013441581,2013,6,championship,58,61,0,0,3,0,2012-09-18 21:00:00,,2013
+Crystal Palace,Nottingham Forest,1-1,https://www.besoccer.com/match/crystal-palace-fc/nottingham-forest-fc/2013441584,2013,6,championship,57,56,1,0,2,0,2012-09-18 21:00:00,,2013
+Sheffield Wednesday,Huddersfield Town,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/huddersfield-town-fc/2013441589,2013,6,championship,55,52,4,0,3,0,2012-09-19 20:45:00,,2013
+Leicester,Burnley,2-1,https://www.besoccer.com/match/leicester-city-fc/burnley-fc/2013441590,2013,6,championship,59,58,3,0,1,0,2012-09-19 20:45:00,,2013
+Ipswich Town,Wolves,0-2,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/2013441591,2013,6,championship,56,61,1,0,1,0,2012-09-19 20:45:00,,2013
+Blackburn Rovers,Middlesbrough,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/2013441592,2013,7,championship,66,61,3,0,1,0,2012-09-21 20:45:00,,2013
+Millwall,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/millwall-fc/brighton-amp-hov/2013441593,2013,7,championship,54,52,0,0,0,0,2012-09-22 16:00:00,,2013
+Crystal Palace,Cardiff City,3-2,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/2013441594,2013,7,championship,57,62,1,0,4,0,2012-09-22 16:00:00,,2013
+Ipswich Town,Charlton Athletic,1-2,https://www.besoccer.com/match/ipswich-town-fc/charlton-athletic-fc/2013441595,2013,7,championship,56,55,2,0,0,0,2012-09-22 16:00:00,,2013
+Leeds United,Nottingham Forest,2-1,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/2013441596,2013,7,championship,57,56,3,0,1,0,2012-09-22 16:00:00,,2013
+Peterborough United,Wolves,0-2,https://www.besoccer.com/match/peterborough-u/wolverhampton/2013441597,2013,7,championship,48,61,2,0,2,0,2012-09-22 16:00:00,,2013
+Sheffield Wednesday,Bolton Wanderers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/bolton-wanderers-fc/2013441598,2013,7,championship,55,66,2,0,4,0,2012-09-22 16:00:00,,2013
+Derby County,Burnley,1-2,https://www.besoccer.com/match/derby-county-fc/burnley-fc/2013441599,2013,7,championship,53,57,0,0,2,0,2012-09-22 16:00:00,,2013
+Watford,Bristol City,2-2,https://www.besoccer.com/match/watford-fc/bristol-city-fc/2013441601,2013,7,championship,55,51,1,0,2,0,2012-09-22 16:00:00,,2013
+Birmingham City,Barnsley,0-5,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/2013441600,2013,7,championship,66,48,1,0,2,0,2012-09-22 18:20:00,,2013
+Leicester,Hull City,3-1,https://www.besoccer.com/match/leicester-city-fc/hull-city/2013441602,2013,7,championship,59,55,0,0,0,0,2012-09-23 16:00:00,,2013
+Blackpool,Huddersfield Town,1-3,https://www.besoccer.com/match/blackpool-fc/huddersfield-town-fc/2013441603,2013,7,championship,58,52,1,0,3,0,2012-09-24 20:45:00,,2013
+Wolves,Sheffield Wednesday,1-0,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/2013441604,2013,8,championship,61,55,2,0,1,0,2012-09-29 16:00:00,,2013
+Bristol City,Leeds United,2-3,https://www.besoccer.com/match/bristol-city-fc/leeds-united-afc/2013441606,2013,8,championship,51,58,2,0,0,0,2012-09-29 16:00:00,,2013
+Middlesbrough,Leicester,1-2,https://www.besoccer.com/match/middlesbrough-fc/leicester-city-fc/2013441607,2013,8,championship,62,59,2,0,0,0,2012-09-29 16:00:00,,2013
+Bolton Wanderers,Crystal Palace,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/crystal-palace-fc/2013441608,2013,8,championship,66,57,1,0,1,0,2012-09-29 16:00:00,,2013
+Burnley,Millwall,2-2,https://www.besoccer.com/match/burnley-fc/millwall-fc/2013441609,2013,8,championship,57,54,4,0,4,0,2012-09-29 16:00:00,,2013
+Huddersfield Town,Watford,2-3,https://www.besoccer.com/match/huddersfield-town-fc/watford-fc/2013441610,2013,8,championship,52,55,1,0,2,0,2012-09-29 16:00:00,,2013
+Charlton Athletic,Blackburn Rovers,1-1,https://www.besoccer.com/match/charlton-athletic-fc/blackburn-rovers-fc/2013441611,2013,8,championship,55,66,0,0,2,0,2012-09-29 16:00:00,,2013
+Hull City,Peterborough United,1-3,https://www.besoccer.com/match/hull-city/peterborough-u/2013441612,2013,8,championship,55,48,0,0,2,0,2012-09-29 16:00:00,,2013
+Barnsley,Ipswich Town,1-1,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/2013441613,2013,8,championship,49,56,0,0,5,0,2012-09-29 16:00:00,,2013
+Cardiff City,Blackpool,3-0,https://www.besoccer.com/match/cardiff-city-fc/blackpool-fc/2013441614,2013,8,championship,61,58,2,0,2,0,2012-09-29 16:00:00,,2013
+Brighton & Hove Albion,Birmingham City,0-1,https://www.besoccer.com/match/brighton-amp-hov/birmingham-city-fc/2013441605,2013,8,championship,52,66,1,0,1,0,2012-09-29 18:30:00,,2013
+Nottingham Forest,Derby County,0-1,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/2013441615,2013,8,championship,56,52,4,1,2,1,2012-09-30 14:15:00,,2013
+Bristol City,Millwall,1-1,https://www.besoccer.com/match/bristol-city-fc/millwall-fc/2013441616,2013,9,championship,51,54,1,0,1,0,2012-10-02 20:45:00,,2013
+Huddersfield Town,Leicester,0-2,https://www.besoccer.com/match/huddersfield-town-fc/leicester-city-fc/2013441617,2013,9,championship,52,59,1,0,1,0,2012-10-02 20:45:00,,2013
+Brighton & Hove Albion,Ipswich Town,1-1,https://www.besoccer.com/match/brighton-amp-hov/ipswich-town-fc/2013441619,2013,9,championship,52,56,3,0,0,0,2012-10-02 20:45:00,,2013
+Burnley,Sheffield Wednesday,3-3,https://www.besoccer.com/match/burnley-fc/sheffield-wednesday-fc/2013441620,2013,9,championship,57,55,1,0,1,0,2012-10-02 20:45:00,,2013
+Barnsley,Peterborough United,0-2,https://www.besoccer.com/match/barnsley-fc/peterborough-u/2013441621,2013,9,championship,49,48,0,0,2,0,2012-10-02 20:45:00,,2013
+Charlton Athletic,Watford,1-2,https://www.besoccer.com/match/charlton-athletic-fc/watford-fc/2013441622,2013,9,championship,55,56,2,0,4,0,2012-10-02 20:45:00,,2013
+Wolves,Crystal Palace,1-2,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/2013441623,2013,9,championship,61,57,1,0,0,0,2012-10-02 20:45:00,,2013
+Hull City,Blackpool,2-3,https://www.besoccer.com/match/hull-city/blackpool-fc/2013441624,2013,9,championship,55,57,0,0,0,0,2012-10-02 20:45:00,,2013
+Cardiff City,Birmingham City,2-1,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/2013441625,2013,9,championship,62,66,2,0,1,0,2012-10-02 20:45:00,,2013
+Bolton Wanderers,Leeds United,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/leeds-united-afc/2013441618,2013,9,championship,66,58,2,0,2,0,2012-10-02 21:00:00,,2013
+Nottingham Forest,Blackburn Rovers,0-0,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/2013441626,2013,9,championship,56,66,0,0,0,0,2012-10-03 20:45:00,,2013
+Middlesbrough,Derby County,2-2,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/2013441627,2013,9,championship,61,53,1,0,1,0,2012-10-03 20:45:00,,2013
+Sheffield Wednesday,Hull City,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/2013441628,2013,10,championship,55,55,1,0,3,0,2012-10-06 16:00:00,,2013
+Crystal Palace,Burnley,4-3,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/2013441629,2013,10,championship,57,57,0,0,2,0,2012-10-06 16:00:00,,2013
+Leicester,Bristol City,2-0,https://www.besoccer.com/match/leicester-city-fc/bristol-city-fc/2013441630,2013,10,championship,59,51,0,0,2,0,2012-10-06 16:00:00,,2013
+Peterborough United,Nottingham Forest,0-1,https://www.besoccer.com/match/peterborough-u/nottingham-forest-fc/2013441631,2013,10,championship,49,56,0,0,1,0,2012-10-06 16:00:00,,2013
+Blackpool,Charlton Athletic,0-2,https://www.besoccer.com/match/blackpool-fc/charlton-athletic-fc/2013441632,2013,10,championship,58,55,1,0,0,0,2012-10-06 16:00:00,,2013
+Millwall,Bolton Wanderers,2-1,https://www.besoccer.com/match/millwall-fc/bolton-wanderers-fc/2013441633,2013,10,championship,54,66,1,0,4,0,2012-10-06 16:00:00,,2013
+Birmingham City,Huddersfield Town,0-1,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/2013441635,2013,10,championship,66,52,1,1,1,1,2012-10-06 16:00:00,,2013
+Derby County,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/derby-county-fc/brighton-amp-hov/2013441636,2013,10,championship,53,52,1,0,2,0,2012-10-06 16:00:00,,2013
+Watford,Middlesbrough,1-2,https://www.besoccer.com/match/watford-fc/middlesbrough-fc/2013441637,2013,10,championship,56,61,0,1,2,1,2012-10-06 16:00:00,,2013
+Blackburn Rovers,Wolves,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/wolverhampton/2013441638,2013,10,championship,66,61,0,0,2,0,2012-10-06 16:00:00,,2013
+Leeds United,Barnsley,1-0,https://www.besoccer.com/match/leeds-united-afc/barnsley-fc/2013441639,2013,10,championship,58,49,4,0,1,0,2012-10-06 16:00:00,,2013
+Ipswich Town,Cardiff City,1-2,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/2013441634,2013,10,championship,56,62,1,0,0,0,2012-10-06 18:20:00,,2013
+Sheffield Wednesday,Leeds United,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/2013441640,2013,11,championship,55,58,2,0,1,0,2012-10-19 20:45:00,,2013
+Crystal Palace,Millwall,2-2,https://www.besoccer.com/match/crystal-palace-fc/millwall-fc/2013441650,2013,11,championship,57,54,4,1,5,1,2012-10-20 14:00:00,,2013
+Watford,Peterborough United,1-0,https://www.besoccer.com/match/watford-fc/peterborough-u/2013441641,2013,11,championship,56,48,3,0,3,0,2012-10-20 16:00:00,,2013
+Brighton & Hove Albion,Middlesbrough,0-1,https://www.besoccer.com/match/brighton-amp-hov/middlesbrough-fc/2013441642,2013,11,championship,52,62,1,0,1,0,2012-10-20 16:00:00,,2013
+Birmingham City,Leicester,1-1,https://www.besoccer.com/match/birmingham-city-fc/leicester-city-fc/2013441643,2013,11,championship,66,59,2,0,2,0,2012-10-20 16:00:00,,2013
+Nottingham Forest,Cardiff City,3-1,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/2013441644,2013,11,championship,56,62,1,0,2,0,2012-10-20 16:00:00,,2013
+Huddersfield Town,Wolves,2-1,https://www.besoccer.com/match/huddersfield-town-fc/wolverhampton/2013441645,2013,11,championship,52,61,3,0,1,0,2012-10-20 16:00:00,,2013
+Charlton Athletic,Barnsley,0-1,https://www.besoccer.com/match/charlton-athletic-fc/barnsley-fc/2013441646,2013,11,championship,55,49,3,0,2,0,2012-10-20 16:00:00,,2013
+Derby County,Blackburn Rovers,1-1,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/2013441647,2013,11,championship,53,66,0,0,1,0,2012-10-20 16:00:00,,2013
+Bolton Wanderers,Bristol City,3-2,https://www.besoccer.com/match/bolton-wanderers-fc/bristol-city-fc/2013441648,2013,11,championship,66,51,0,0,3,0,2012-10-20 16:00:00,,2013
+Hull City,Ipswich Town,2-1,https://www.besoccer.com/match/hull-city/ipswich-town-fc/2013441651,2013,11,championship,55,55,0,0,4,0,2012-10-20 16:00:00,,2013
+Burnley,Blackpool,1-0,https://www.besoccer.com/match/burnley-fc/blackpool-fc/2013441649,2013,11,championship,57,57,2,0,2,0,2012-10-20 18:20:00,,2013
+Leicester,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/leicester-city-fc/brighton-amp-hov/2013441652,2013,12,championship,60,52,1,0,1,0,2012-10-23 20:45:00,,2013
+Middlesbrough,Hull City,2-0,https://www.besoccer.com/match/middlesbrough-fc/hull-city/2013441653,2013,12,championship,62,55,1,0,0,0,2012-10-23 20:45:00,,2013
+Leeds United,Charlton Athletic,1-1,https://www.besoccer.com/match/leeds-united-afc/charlton-athletic-fc/2013441655,2013,12,championship,58,55,1,0,4,0,2012-10-23 20:45:00,,2013
+Wolves,Bolton Wanderers,2-2,https://www.besoccer.com/match/wolverhampton/bolton-wanderers-fc/2013441656,2013,12,championship,61,66,0,0,0,0,2012-10-23 20:45:00,,2013
+Cardiff City,Watford,2-1,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/2013441657,2013,12,championship,62,56,1,0,2,0,2012-10-23 20:45:00,,2013
+Millwall,Birmingham City,3-3,https://www.besoccer.com/match/millwall-fc/birmingham-city-fc/2013441658,2013,12,championship,54,66,1,0,2,0,2012-10-23 20:45:00,,2013
+Ipswich Town,Derby County,1-2,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/2013441659,2013,12,championship,55,53,2,0,1,0,2012-10-23 20:45:00,,2013
+Peterborough United,Huddersfield Town,3-1,https://www.besoccer.com/match/peterborough-u/huddersfield-town-fc/2013441660,2013,12,championship,48,52,3,0,0,0,2012-10-23 20:45:00,,2013
+Barnsley,Crystal Palace,1-1,https://www.besoccer.com/match/barnsley-fc/crystal-palace-fc/2013441661,2013,12,championship,49,57,1,0,0,0,2012-10-23 20:45:00,,2013
+Bristol City,Burnley,3-4,https://www.besoccer.com/match/bristol-city-fc/burnley-fc/2013441662,2013,12,championship,51,57,0,0,4,0,2012-10-23 20:45:00,,2013
+Blackpool,Nottingham Forest,2-2,https://www.besoccer.com/match/blackpool-fc/nottingham-forest-fc/2013441654,2013,12,championship,57,56,1,0,1,0,2012-10-23 21:00:00,,2013
+Blackburn Rovers,Sheffield Wednesday,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/2013441663,2013,12,championship,66,55,2,0,1,0,2012-10-24 20:45:00,,2013
+Blackpool,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/blackpool-fc/brighton-amp-hov/2013441664,2013,13,championship,57,52,3,0,2,0,2012-10-27 16:00:00,,2013
+Ipswich Town,Sheffield Wednesday,0-3,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/2013441665,2013,13,championship,55,55,2,0,2,0,2012-10-27 16:00:00,,2013
+Middlesbrough,Bolton Wanderers,2-1,https://www.besoccer.com/match/middlesbrough-fc/bolton-wanderers-fc/2013441666,2013,13,championship,62,66,0,0,2,0,2012-10-27 16:00:00,,2013
+Cardiff City,Burnley,4-0,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/2013441667,2013,13,championship,62,57,0,0,1,0,2012-10-27 16:00:00,,2013
+Peterborough United,Derby County,3-0,https://www.besoccer.com/match/peterborough-u/derby-county-fc/2013441669,2013,13,championship,49,53,2,0,1,0,2012-10-27 16:00:00,,2013
+Leeds United,Birmingham City,0-1,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/2013441670,2013,13,championship,58,65,0,0,0,0,2012-10-27 16:00:00,,2013
+Blackburn Rovers,Watford,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/watford-fc/2013441671,2013,13,championship,66,56,3,0,1,0,2012-10-27 16:00:00,,2013
+Millwall,Huddersfield Town,4-0,https://www.besoccer.com/match/millwall-fc/huddersfield-town-fc/2013441672,2013,13,championship,54,52,1,0,1,0,2012-10-27 16:00:00,,2013
+Barnsley,Nottingham Forest,1-4,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/2013441673,2013,13,championship,49,56,0,0,1,0,2012-10-27 16:00:00,,2013
+Wolves,Charlton Athletic,1-1,https://www.besoccer.com/match/wolverhampton/charlton-athletic-fc/2013441674,2013,13,championship,61,55,0,0,1,0,2012-10-27 16:00:00,,2013
+Leicester,Crystal Palace,1-2,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/2013441675,2013,13,championship,60,57,2,0,1,0,2012-10-27 16:00:00,,2013
+Bristol City,Hull City,1-2,https://www.besoccer.com/match/bristol-city-fc/hull-city/2013441668,2013,13,championship,51,55,1,0,1,0,2012-10-27 18:20:00,,2013
+Brighton & Hove Albion,Leeds United,2-2,https://www.besoccer.com/match/brighton-amp-hov/leeds-united-afc/2013441676,2013,14,championship,52,58,3,0,2,0,2012-11-02 20:45:00,,2013
+Nottingham Forest,Millwall,1-4,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/2013441677,2013,14,championship,56,55,1,0,1,0,2012-11-03 16:00:00,,2013
+Burnley,Wolves,2-0,https://www.besoccer.com/match/burnley-fc/wolverhampton/2013441678,2013,14,championship,57,61,3,0,2,0,2012-11-03 16:00:00,,2013
+Birmingham City,Ipswich Town,0-1,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/2013441679,2013,14,championship,66,55,0,0,1,0,2012-11-03 16:00:00,,2013
+Huddersfield Town,Bristol City,1-0,https://www.besoccer.com/match/huddersfield-town-fc/bristol-city-fc/2013441681,2013,14,championship,52,51,1,0,2,0,2012-11-03 16:00:00,,2013
+Sheffield Wednesday,Peterborough United,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/peterborough-u/2013441682,2013,14,championship,55,49,1,0,1,0,2012-11-03 16:00:00,,2013
+Hull City,Barnsley,1-0,https://www.besoccer.com/match/hull-city/barnsley-fc/2013441683,2013,14,championship,55,49,1,0,1,0,2012-11-03 16:00:00,,2013
+Crystal Palace,Blackburn Rovers,2-0,https://www.besoccer.com/match/crystal-palace-fc/blackburn-rovers-fc/2013441684,2013,14,championship,57,66,0,0,0,0,2012-11-03 16:00:00,,2013
+Watford,Leicester,2-1,https://www.besoccer.com/match/watford-fc/leicester-city-fc/2013441685,2013,14,championship,55,59,0,0,1,0,2012-11-03 16:00:00,,2013
+Charlton Athletic,Middlesbrough,1-4,https://www.besoccer.com/match/charlton-athletic-fc/middlesbrough-fc/2013441686,2013,14,championship,55,62,1,0,2,0,2012-11-03 16:00:00,,2013
+Derby County,Blackpool,4-1,https://www.besoccer.com/match/derby-county-fc/blackpool-fc/2013441687,2013,14,championship,53,57,0,0,3,0,2012-11-03 16:00:00,,2013
+Bolton Wanderers,Cardiff City,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/cardiff-city-fc/2013441680,2013,14,championship,65,62,2,0,1,0,2012-11-03 18:20:00,,2013
+Birmingham City,Bristol City,2-0,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/2013441690,2013,15,championship,65,50,1,0,0,0,2012-11-06 20:45:00,,2013
+Watford,Millwall,0-0,https://www.besoccer.com/match/watford-fc/millwall-fc/2013441691,2013,15,championship,56,55,3,0,2,0,2012-11-06 20:45:00,,2013
+Hull City,Wolves,2-1,https://www.besoccer.com/match/hull-city/wolverhampton/2013441692,2013,15,championship,55,61,1,0,1,0,2012-11-06 20:45:00,,2013
+Huddersfield Town,Blackburn Rovers,2-2,https://www.besoccer.com/match/huddersfield-town-fc/blackburn-rovers-fc/2013441693,2013,15,championship,52,66,3,0,1,0,2012-11-06 20:45:00,,2013
+Brighton & Hove Albion,Peterborough United,1-0,https://www.besoccer.com/match/brighton-amp-hov/peterborough-u/2013441694,2013,15,championship,52,49,0,0,1,0,2012-11-06 20:45:00,,2013
+Charlton Athletic,Cardiff City,5-4,https://www.besoccer.com/match/charlton-athletic-fc/cardiff-city-fc/2013441695,2013,15,championship,55,62,4,0,3,0,2012-11-06 20:45:00,,2013
+Nottingham Forest,Middlesbrough,0-0,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/2013441696,2013,15,championship,56,63,1,0,1,0,2012-11-06 20:45:00,,2013
+Sheffield Wednesday,Blackpool,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/blackpool-fc/2013441697,2013,15,championship,55,57,1,0,1,0,2012-11-06 20:45:00,,2013
+Derby County,Barnsley,2-0,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/2013441698,2013,15,championship,53,49,0,0,4,0,2012-11-06 20:45:00,,2013
+Burnley,Leeds United,1-0,https://www.besoccer.com/match/burnley-fc/leeds-united-afc/2013441699,2013,15,championship,57,58,1,0,1,0,2012-11-06 20:45:00,,2013
+Crystal Palace,Ipswich Town,5-0,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/2013441688,2013,15,championship,58,55,2,0,2,0,2012-11-06 21:00:00,,2013
+Bolton Wanderers,Leicester,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/leicester-city-fc/2013441689,2013,15,championship,66,59,2,0,0,0,2012-11-06 21:00:00,,2013
+Middlesbrough,Sheffield Wednesday,3-1,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/2013441700,2013,16,championship,63,55,0,0,0,0,2012-11-09 20:45:00,,2013
+Leicester,Nottingham Forest,2-2,https://www.besoccer.com/match/leicester-city-fc/nottingham-forest-fc/2013441707,2013,16,championship,59,56,0,0,0,0,2012-11-10 13:45:00,,2013
+Peterborough United,Crystal Palace,1-2,https://www.besoccer.com/match/peterborough-u/crystal-palace-fc/2013441701,2013,16,championship,49,58,2,0,1,0,2012-11-10 16:00:00,,2013
+Barnsley,Huddersfield Town,0-1,https://www.besoccer.com/match/barnsley-fc/huddersfield-town-fc/2013441702,2013,16,championship,48,52,1,0,2,0,2012-11-10 16:00:00,,2013
+Wolves,Brighton & Hove Albion,3-3,https://www.besoccer.com/match/wolverhampton/brighton-amp-hov/2013441703,2013,16,championship,61,52,0,1,0,1,2012-11-10 16:00:00,,2013
+Leeds United,Watford,1-6,https://www.besoccer.com/match/leeds-united-afc/watford-fc/2013441704,2013,16,championship,58,56,5,1,2,1,2012-11-10 16:00:00,,2013
+Cardiff City,Hull City,2-1,https://www.besoccer.com/match/cardiff-city-fc/hull-city/2013441705,2013,16,championship,62,55,2,0,0,0,2012-11-10 16:00:00,,2013
+Millwall,Derby County,2-1,https://www.besoccer.com/match/millwall-fc/derby-county-fc/2013441706,2013,16,championship,55,53,1,0,3,0,2012-11-10 16:00:00,,2013
+Ipswich Town,Burnley,2-1,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/2013441708,2013,16,championship,55,57,1,0,2,0,2012-11-10 16:00:00,,2013
+Blackpool,Bolton Wanderers,2-2,https://www.besoccer.com/match/blackpool-fc/bolton-wanderers-fc/2013441709,2013,16,championship,57,66,0,0,0,0,2012-11-10 16:00:00,,2013
+Blackburn Rovers,Birmingham City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/2013441710,2013,16,championship,66,65,0,0,2,0,2012-11-10 16:00:00,,2013
+Bristol City,Charlton Athletic,0-2,https://www.besoccer.com/match/bristol-city-fc/charlton-athletic-fc/2013441711,2013,16,championship,50,55,0,0,0,0,2012-11-11 16:00:00,,2013
+Cardiff City,Middlesbrough,1-0,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/2013441712,2013,17,championship,62,63,1,0,2,0,2012-11-17 16:00:00,,2013
+Bolton Wanderers,Barnsley,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/barnsley-fc/2013441713,2013,17,championship,65,48,2,0,1,0,2012-11-17 16:00:00,,2013
+Crystal Palace,Derby County,3-0,https://www.besoccer.com/match/crystal-palace-fc/derby-county-fc/2013441715,2013,17,championship,58,53,1,0,2,0,2012-11-17 16:00:00,,2013
+Burnley,Charlton Athletic,0-1,https://www.besoccer.com/match/burnley-fc/charlton-athletic-fc/2013441716,2013,17,championship,57,55,0,1,1,1,2012-11-17 16:00:00,,2013
+Watford,Wolves,2-1,https://www.besoccer.com/match/watford-fc/wolverhampton/2013441717,2013,17,championship,56,61,2,0,1,0,2012-11-17 16:00:00,,2013
+Nottingham Forest,Sheffield Wednesday,1-0,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/2013441718,2013,17,championship,56,55,0,0,1,0,2012-11-17 16:00:00,,2013
+Leicester,Ipswich Town,6-0,https://www.besoccer.com/match/leicester-city-fc/ipswich-town-fc/2013441719,2013,17,championship,59,55,0,0,1,0,2012-11-17 16:00:00,,2013
+Bristol City,Blackpool,1-1,https://www.besoccer.com/match/bristol-city-fc/blackpool-fc/2013441720,2013,17,championship,50,57,3,0,2,0,2012-11-17 16:00:00,,2013
+Huddersfield Town,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/huddersfield-town-fc/brighton-amp-hov/2013441721,2013,17,championship,52,52,3,0,1,0,2012-11-17 16:00:00,,2013
+Birmingham City,Hull City,2-3,https://www.besoccer.com/match/birmingham-city-fc/hull-city/2013441722,2013,17,championship,65,55,2,0,1,0,2012-11-17 16:00:00,,2013
+Peterborough United,Blackburn Rovers,1-4,https://www.besoccer.com/match/peterborough-u/blackburn-rovers-fc/2013441714,2013,17,championship,49,66,1,0,0,0,2012-11-17 18:20:00,,2013
+Millwall,Leeds United,1-0,https://www.besoccer.com/match/millwall-fc/leeds-united-afc/2013441723,2013,17,championship,55,58,3,0,1,0,2012-11-18 14:15:00,,2013
+Leeds United,Crystal Palace,2-1,https://www.besoccer.com/match/leeds-united-afc/crystal-palace-fc/2013441724,2013,18,championship,58,58,1,0,2,0,2012-11-24 16:00:00,,2013
+Charlton Athletic,Huddersfield Town,1-1,https://www.besoccer.com/match/charlton-athletic-fc/huddersfield-town-fc/2013441726,2013,18,championship,55,52,1,0,2,0,2012-11-24 16:00:00,,2013
+Sheffield Wednesday,Leicester,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/leicester-city-fc/2013441727,2013,18,championship,55,60,2,0,2,0,2012-11-24 16:00:00,,2013
+Brighton & Hove Albion,Bolton Wanderers,1-1,https://www.besoccer.com/match/brighton-amp-hov/bolton-wanderers-fc/2013441728,2013,18,championship,52,65,0,0,3,0,2012-11-24 16:00:00,,2013
+Barnsley,Cardiff City,1-2,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/2013441729,2013,18,championship,48,62,2,0,2,0,2012-11-24 16:00:00,,2013
+Blackpool,Watford,2-2,https://www.besoccer.com/match/blackpool-fc/watford-fc/2013441730,2013,18,championship,57,56,1,0,2,0,2012-11-24 16:00:00,,2013
+Hull City,Burnley,0-1,https://www.besoccer.com/match/hull-city/burnley-fc/2013441731,2013,18,championship,55,57,0,0,4,0,2012-11-24 16:00:00,,2013
+Blackburn Rovers,Millwall,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/millwall-fc/2013441732,2013,18,championship,66,55,0,0,3,0,2012-11-24 16:00:00,,2013
+Middlesbrough,Bristol City,1-3,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/2013441733,2013,18,championship,63,50,3,0,2,0,2012-11-24 16:00:00,,2013
+Wolves,Nottingham Forest,1-2,https://www.besoccer.com/match/wolverhampton/nottingham-forest-fc/2013441734,2013,18,championship,61,56,1,0,1,0,2012-11-24 16:00:00,,2013
+Ipswich Town,Peterborough United,1-1,https://www.besoccer.com/match/ipswich-town-fc/peterborough-u/2013441735,2013,18,championship,55,48,1,0,0,0,2012-11-24 16:00:00,,2013
+Derby County,Birmingham City,3-2,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/2013441725,2013,18,championship,53,65,1,0,1,0,2012-11-24 18:20:00,,2013
+Derby County,Cardiff City,1-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/2013441736,2013,19,championship,53,62,2,0,1,0,2012-11-27 20:45:00,,2013
+Barnsley,Burnley,1-1,https://www.besoccer.com/match/barnsley-fc/burnley-fc/2013441737,2013,19,championship,48,57,0,0,1,0,2012-11-27 20:45:00,,2013
+Hull City,Crystal Palace,0-0,https://www.besoccer.com/match/hull-city/crystal-palace-fc/2013441738,2013,19,championship,55,58,4,0,1,0,2012-11-27 20:45:00,,2013
+Middlesbrough,Huddersfield Town,3-0,https://www.besoccer.com/match/middlesbrough-fc/huddersfield-town-fc/2013441739,2013,19,championship,62,52,1,0,0,0,2012-11-27 20:45:00,,2013
+Ipswich Town,Nottingham Forest,3-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/2013441741,2013,19,championship,55,56,2,0,2,0,2012-11-27 20:45:00,,2013
+Sheffield Wednesday,Watford,1-4,https://www.besoccer.com/match/sheffield-wednesday-fc/watford-fc/2013441742,2013,19,championship,54,56,1,0,2,0,2012-11-27 20:45:00,,2013
+Leeds United,Leicester,1-0,https://www.besoccer.com/match/leeds-united-afc/leicester-city-fc/2013441743,2013,19,championship,58,60,0,0,1,0,2012-11-27 20:45:00,,2013
+Charlton Athletic,Peterborough United,2-0,https://www.besoccer.com/match/charlton-athletic-fc/peterborough-u/2013441744,2013,19,championship,55,48,2,0,1,0,2012-11-27 20:45:00,,2013
+Wolves,Millwall,0-1,https://www.besoccer.com/match/wolverhampton/millwall-fc/2013441745,2013,19,championship,61,55,0,0,0,0,2012-11-27 20:45:00,,2013
+Brighton & Hove Albion,Bristol City,2-0,https://www.besoccer.com/match/brighton-amp-hov/bristol-city-fc/2013441746,2013,19,championship,52,50,0,0,0,0,2012-11-27 20:45:00,,2013
+Blackpool,Birmingham City,1-1,https://www.besoccer.com/match/blackpool-fc/birmingham-city-fc/2013441740,2013,19,championship,57,65,1,0,1,0,2012-11-27 21:00:00,,2013
+Blackburn Rovers,Bolton Wanderers,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/bolton-wanderers-fc/2013441747,2013,19,championship,65,65,1,0,2,0,2012-11-28 20:45:00,,2013
+Birmingham City,Middlesbrough,3-2,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/2013441748,2013,20,championship,65,62,1,0,1,0,2012-11-30 20:45:00,,2013
+Huddersfield Town,Leeds United,2-4,https://www.besoccer.com/match/huddersfield-town-fc/leeds-united-afc/2013441757,2013,20,championship,52,58,1,0,1,0,2012-12-01 13:30:00,,2013
+Bolton Wanderers,Ipswich Town,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/ipswich-town-fc/2013441750,2013,20,championship,66,55,1,0,2,0,2012-12-01 16:00:00,,2013
+Millwall,Charlton Athletic,0-0,https://www.besoccer.com/match/millwall-fc/charlton-athletic-fc/2013441751,2013,20,championship,56,55,0,0,2,0,2012-12-01 16:00:00,,2013
+Crystal Palace,Brighton & Hove Albion,3-0,https://www.besoccer.com/match/crystal-palace-fc/brighton-amp-hov/2013441752,2013,20,championship,58,52,2,0,4,0,2012-12-01 16:00:00,,2013
+Bristol City,Wolves,1-4,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/2013441753,2013,20,championship,50,60,2,0,0,0,2012-12-01 16:00:00,,2013
+Peterborough United,Blackpool,1-4,https://www.besoccer.com/match/peterborough-u/blackpool-fc/2013441754,2013,20,championship,48,57,0,0,2,0,2012-12-01 16:00:00,,2013
+Watford,Barnsley,4-1,https://www.besoccer.com/match/watford-fc/barnsley-fc/2013441755,2013,20,championship,56,48,0,0,0,0,2012-12-01 16:00:00,,2013
+Nottingham Forest,Hull City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/hull-city/2013441756,2013,20,championship,56,55,0,0,4,0,2012-12-01 16:00:00,,2013
+Leicester,Derby County,4-1,https://www.besoccer.com/match/leicester-city-fc/derby-county-fc/2013441749,2013,20,championship,60,53,0,0,1,0,2012-12-01 18:20:00,,2013
+Burnley,Blackburn Rovers,1-1,https://www.besoccer.com/match/burnley-fc/blackburn-rovers-fc/2013441758,2013,20,championship,57,65,1,0,1,0,2012-12-02 13:30:00,,2013
+Cardiff City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/2013441759,2013,20,championship,62,54,1,0,3,0,2012-12-02 16:00:00,,2013
+Blackburn Rovers,Cardiff City,1-4,https://www.besoccer.com/match/blackburn-rovers-fc/cardiff-city-fc/2013441760,2013,21,championship,65,62,3,0,3,0,2012-12-07 20:45:00,,2013
+Derby County,Leeds United,3-1,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/2013441770,2013,21,championship,53,58,3,0,0,0,2012-12-08 14:00:00,,2013
+Sheffield Wednesday,Bristol City,2-3,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/2013441761,2013,21,championship,54,50,3,0,1,0,2012-12-08 16:00:00,,2013
+Nottingham Forest,Burnley,2-0,https://www.besoccer.com/match/nottingham-forest-fc/burnley-fc/2013441762,2013,21,championship,56,57,2,0,3,0,2012-12-08 16:00:00,,2013
+Charlton Athletic,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/charlton-athletic-fc/brighton-amp-hov/2013441763,2013,21,championship,55,52,1,0,1,0,2012-12-08 16:00:00,,2013
+Crystal Palace,Blackpool,2-2,https://www.besoccer.com/match/crystal-palace-fc/blackpool-fc/2013441764,2013,21,championship,58,57,3,0,5,0,2012-12-08 16:00:00,,2013
+Watford,Hull City,1-2,https://www.besoccer.com/match/watford-fc/hull-city/2013441765,2013,21,championship,57,55,0,0,2,0,2012-12-08 16:00:00,,2013
+Ipswich Town,Millwall,3-0,https://www.besoccer.com/match/ipswich-town-fc/millwall-fc/2013441766,2013,21,championship,55,56,1,0,2,0,2012-12-08 16:00:00,,2013
+Peterborough United,Middlesbrough,2-3,https://www.besoccer.com/match/peterborough-u/middlesbrough-fc/2013441768,2013,21,championship,48,62,1,0,1,0,2012-12-08 16:00:00,,2013
+Huddersfield Town,Bolton Wanderers,2-2,https://www.besoccer.com/match/huddersfield-town-fc/bolton-wanderers-fc/2013441769,2013,21,championship,52,65,5,0,1,0,2012-12-08 16:00:00,,2013
+Leicester,Barnsley,2-2,https://www.besoccer.com/match/leicester-city-fc/barnsley-fc/2013441771,2013,21,championship,60,48,2,0,1,0,2012-12-08 16:00:00,,2013
+Wolves,Birmingham City,1-0,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/2013441767,2013,21,championship,61,65,1,0,2,0,2012-12-08 18:20:00,,2013
+Hull City,Huddersfield Town,2-0,https://www.besoccer.com/match/hull-city/huddersfield-town-fc/2013441778,2013,22,championship,55,52,2,0,1,0,2012-12-15 13:30:00,,2013
+Bristol City,Derby County,0-2,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/2013441772,2013,22,championship,50,53,1,0,2,0,2012-12-15 16:00:00,,2013
+Bolton Wanderers,Charlton Athletic,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/charlton-athletic-fc/2013441773,2013,22,championship,65,55,1,0,2,0,2012-12-15 16:00:00,,2013
+Leeds United,Ipswich Town,2-0,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/2013441774,2013,22,championship,58,55,1,0,0,0,2012-12-15 16:00:00,,2013
+Millwall,Leicester,1-0,https://www.besoccer.com/match/millwall-fc/leicester-city-fc/2013441775,2013,22,championship,55,60,2,0,3,0,2012-12-15 16:00:00,,2013
+Blackpool,Blackburn Rovers,2-0,https://www.besoccer.com/match/blackpool-fc/blackburn-rovers-fc/2013441776,2013,22,championship,57,65,0,0,1,0,2012-12-15 16:00:00,,2013
+Cardiff City,Peterborough United,1-2,https://www.besoccer.com/match/cardiff-city-fc/peterborough-u/2013441779,2013,22,championship,62,48,4,0,4,0,2012-12-15 16:00:00,,2013
+Birmingham City,Crystal Palace,2-2,https://www.besoccer.com/match/birmingham-city-fc/crystal-palace-fc/2013441780,2013,22,championship,65,58,2,0,2,0,2012-12-15 16:00:00,,2013
+Brighton & Hove Albion,Nottingham Forest,0-0,https://www.besoccer.com/match/brighton-amp-hov/nottingham-forest-fc/2013441781,2013,22,championship,52,56,0,0,2,0,2012-12-15 16:00:00,,2013
+Burnley,Watford,1-1,https://www.besoccer.com/match/burnley-fc/watford-fc/2013441782,2013,22,championship,57,56,1,0,2,0,2012-12-15 16:00:00,,2013
+Middlesbrough,Wolves,2-0,https://www.besoccer.com/match/middlesbrough-fc/wolverhampton/2013441783,2013,22,championship,62,61,1,0,0,0,2012-12-15 16:00:00,,2013
+Barnsley,Sheffield Wednesday,0-1,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/2013441777,2013,22,championship,48,54,2,0,3,0,2012-12-15 18:20:00,,2013
+Brighton & Hove Albion,Millwall,2-2,https://www.besoccer.com/match/brighton-amp-hov/millwall-fc/2013441784,2013,23,championship,52,55,1,0,4,0,2012-12-18 20:45:00,,2013
+Derby County,Hull City,1-2,https://www.besoccer.com/match/derby-county-fc/hull-city/2013441785,2013,23,championship,53,56,0,0,3,0,2012-12-21 20:45:00,,2013
+Blackpool,Wolves,1-2,https://www.besoccer.com/match/blackpool-fc/wolverhampton/2013441786,2013,23,championship,58,61,2,0,1,0,2012-12-21 20:45:00,,2013
+Watford,Nottingham Forest,2-0,https://www.besoccer.com/match/watford-fc/nottingham-forest-fc/2013441788,2013,23,championship,56,56,3,0,3,0,2012-12-22 16:00:00,,2013
+Millwall,Barnsley,1-2,https://www.besoccer.com/match/millwall-fc/barnsley-fc/2013441789,2013,23,championship,55,48,2,1,4,1,2012-12-22 16:00:00,,2013
+Birmingham City,Burnley,2-2,https://www.besoccer.com/match/birmingham-city-fc/burnley-fc/2013441790,2013,23,championship,65,57,4,0,2,0,2012-12-22 16:00:00,,2013
+Peterborough United,Bolton Wanderers,5-4,https://www.besoccer.com/match/peterborough-u/bolton-wanderers-fc/2013441791,2013,23,championship,48,65,0,0,4,0,2012-12-22 16:00:00,,2013
+Leicester,Cardiff City,0-1,https://www.besoccer.com/match/leicester-city-fc/cardiff-city-fc/2013441792,2013,23,championship,60,62,0,0,3,0,2012-12-22 16:00:00,,2013
+Leeds United,Middlesbrough,2-1,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/2013441793,2013,23,championship,58,63,1,0,1,0,2012-12-22 16:00:00,,2013
+Sheffield Wednesday,Charlton Athletic,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/charlton-athletic-fc/2013441794,2013,23,championship,54,55,1,0,1,0,2012-12-22 16:00:00,,2013
+Ipswich Town,Bristol City,1-1,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/2013441795,2013,23,championship,55,50,0,0,0,0,2012-12-22 16:00:00,,2013
+Crystal Palace,Huddersfield Town,1-1,https://www.besoccer.com/match/crystal-palace-fc/huddersfield-town-fc/2013441787,2013,23,championship,58,52,0,1,3,1,2012-12-22 18:20:00,,2013
+Nottingham Forest,Leeds United,4-2,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/2013441803,2013,24,championship,56,58,0,0,2,0,2012-12-26 13:15:00,,2013
+Charlton Athletic,Ipswich Town,1-2,https://www.besoccer.com/match/charlton-athletic-fc/ipswich-town-fc/2013441798,2013,24,championship,55,55,1,0,0,0,2012-12-26 14:00:00,,2013
+Burnley,Derby County,2-0,https://www.besoccer.com/match/burnley-fc/derby-county-fc/2013441796,2013,24,championship,57,53,4,0,1,0,2012-12-26 16:00:00,,2013
+Middlesbrough,Blackburn Rovers,1-0,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/2013441797,2013,24,championship,63,65,2,0,1,0,2012-12-26 16:00:00,,2013
+Wolves,Peterborough United,0-3,https://www.besoccer.com/match/wolverhampton/peterborough-u/2013441799,2013,24,championship,61,48,1,0,0,0,2012-12-26 16:00:00,,2013
+Bolton Wanderers,Sheffield Wednesday,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-wednesday-fc/2013441800,2013,24,championship,65,54,0,0,1,0,2012-12-26 16:00:00,,2013
+Hull City,Leicester,0-0,https://www.besoccer.com/match/hull-city/leicester-city-fc/2013441801,2013,24,championship,56,59,0,0,2,0,2012-12-26 16:00:00,,2013
+Huddersfield Town,Blackpool,1-1,https://www.besoccer.com/match/huddersfield-town-fc/blackpool-fc/2013441802,2013,24,championship,52,57,0,0,3,0,2012-12-26 16:00:00,,2013
+Cardiff City,Crystal Palace,2-1,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/2013441804,2013,24,championship,62,58,3,0,4,0,2012-12-26 16:00:00,,2013
+Barnsley,Birmingham City,1-2,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/2013441805,2013,24,championship,48,65,1,0,1,0,2012-12-26 16:00:00,,2013
+Bristol City,Peterborough United,4-2,https://www.besoccer.com/match/bristol-city-fc/peterborough-u/2013441806,2013,24,championship,50,49,3,0,1,0,2012-12-29 16:00:00,,2013
+Bolton Wanderers,Birmingham City,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/2013441807,2013,24,championship,65,65,1,0,2,0,2012-12-29 16:00:00,,2013
+Hull City,Leeds United,2-0,https://www.besoccer.com/match/hull-city/leeds-united-afc/2013441816,2013,25,championship,56,58,1,0,4,0,2012-12-29 13:30:00,,2013
+Huddersfield Town,Sheffield Wednesday,0-0,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-wednesday-fc/2013441815,2013,25,championship,52,54,3,0,3,0,2012-12-29 13:30:00,,2013
+Wolves,Ipswich Town,0-2,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/2013441808,2013,25,championship,60,55,1,0,2,0,2012-12-29 16:00:00,,2013
+Burnley,Leicester,0-1,https://www.besoccer.com/match/burnley-fc/leicester-city-fc/2013441809,2013,25,championship,57,59,3,0,2,0,2012-12-29 16:00:00,,2013
+Cardiff City,Millwall,1-0,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/2013441810,2013,25,championship,62,55,1,0,0,0,2012-12-29 16:00:00,,2013
+Barnsley,Blackburn Rovers,1-3,https://www.besoccer.com/match/barnsley-fc/blackburn-rovers-fc/2013441812,2013,25,championship,48,65,1,0,2,0,2012-12-29 16:00:00,,2013
+Nottingham Forest,Crystal Palace,2-2,https://www.besoccer.com/match/nottingham-forest-fc/crystal-palace-fc/2013441813,2013,25,championship,56,58,3,0,1,0,2012-12-29 16:00:00,,2013
+Charlton Athletic,Derby County,1-1,https://www.besoccer.com/match/charlton-athletic-fc/derby-county-fc/2013441814,2013,25,championship,55,53,1,0,3,0,2012-12-29 16:00:00,,2013
+Middlesbrough,Blackpool,4-2,https://www.besoccer.com/match/middlesbrough-fc/blackpool-fc/2013441817,2013,25,championship,63,57,1,0,0,0,2012-12-29 16:00:00,,2013
+Brighton & Hove Albion,Watford,1-3,https://www.besoccer.com/match/brighton-amp-hov/watford-fc/2013441811,2013,25,championship,52,57,1,0,2,0,2012-12-29 18:20:00,,2013
+Crystal Palace,Wolves,3-1,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/2013441818,2013,25,championship,58,60,2,0,4,0,2013-01-01 16:00:00,,2013
+Blackburn Rovers,Nottingham Forest,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/2013441819,2013,25,championship,65,56,3,0,1,0,2013-01-01 16:00:00,,2013
+Watford,Charlton Athletic,3-4,https://www.besoccer.com/match/watford-fc/charlton-athletic-fc/2013441825,2013,26,championship,57,55,3,0,3,0,2013-01-01 14:00:00,,2013
+Ipswich Town,Brighton & Hove Albion,0-3,https://www.besoccer.com/match/ipswich-town-fc/brighton-amp-hov/2013441820,2013,26,championship,56,52,1,0,2,0,2013-01-01 16:00:00,,2013
+Derby County,Middlesbrough,3-1,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/2013441821,2013,26,championship,53,63,1,0,3,0,2013-01-01 16:00:00,,2013
+Blackpool,Hull City,0-0,https://www.besoccer.com/match/blackpool-fc/hull-city/2013441822,2013,26,championship,57,56,1,0,0,0,2013-01-01 16:00:00,,2013
+Birmingham City,Cardiff City,0-1,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/2013441823,2013,26,championship,65,62,3,0,0,0,2013-01-01 16:00:00,,2013
+Millwall,Bristol City,2-1,https://www.besoccer.com/match/millwall-fc/bristol-city-fc/2013441824,2013,26,championship,55,50,1,0,2,0,2013-01-01 16:00:00,,2013
+Leeds United,Bolton Wanderers,1-0,https://www.besoccer.com/match/leeds-united-afc/bolton-wanderers-fc/2013441826,2013,26,championship,58,65,1,0,2,0,2013-01-01 16:00:00,,2013
+Peterborough United,Barnsley,2-1,https://www.besoccer.com/match/peterborough-u/barnsley-fc/2013441827,2013,26,championship,49,48,3,0,4,0,2013-01-01 16:00:00,,2013
+Leicester,Huddersfield Town,6-1,https://www.besoccer.com/match/leicester-city-fc/huddersfield-town-fc/2013441828,2013,26,championship,60,52,0,0,1,0,2013-01-01 16:00:00,,2013
+Sheffield Wednesday,Burnley,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/burnley-fc/2013441829,2013,26,championship,54,57,0,0,1,0,2013-01-01 16:00:00,,2013
+Wolves,Blackburn Rovers,1-1,https://www.besoccer.com/match/wolverhampton/blackburn-rovers-fc/2013441830,2013,26,championship,60,65,4,0,4,0,2013-01-11 20:45:00,,2013
+Cardiff City,Ipswich Town,0-0,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/2013441831,2013,26,championship,62,55,0,0,2,0,2013-01-12 16:00:00,,2013
+Brighton & Hove Albion,Derby County,2-1,https://www.besoccer.com/match/brighton-amp-hov/derby-county-fc/2013441832,2013,27,championship,53,54,2,0,4,0,2013-01-12 16:00:00,,2013
+Barnsley,Leeds United,2-0,https://www.besoccer.com/match/barnsley-fc/leeds-united-afc/2013441833,2013,27,championship,48,58,0,0,1,0,2013-01-12 16:00:00,,2013
+Bristol City,Leicester,0-4,https://www.besoccer.com/match/bristol-city-fc/leicester-city-fc/2013441834,2013,27,championship,50,60,0,0,0,0,2013-01-12 16:00:00,,2013
+Charlton Athletic,Blackpool,2-1,https://www.besoccer.com/match/charlton-athletic-fc/blackpool-fc/2013441835,2013,27,championship,55,58,1,0,0,0,2013-01-12 16:00:00,,2013
+Huddersfield Town,Birmingham City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/2013441836,2013,27,championship,52,65,3,0,4,0,2013-01-12 16:00:00,,2013
+Nottingham Forest,Peterborough United,2-1,https://www.besoccer.com/match/nottingham-forest-fc/peterborough-u/2013441838,2013,27,championship,56,48,1,0,1,0,2013-01-12 16:00:00,,2013
+Middlesbrough,Watford,1-2,https://www.besoccer.com/match/middlesbrough-fc/watford-fc/2013441839,2013,27,championship,63,57,1,0,0,0,2013-01-12 16:00:00,,2013
+Bolton Wanderers,Millwall,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/millwall-fc/2013441840,2013,27,championship,65,56,1,0,2,0,2013-01-12 16:00:00,,2013
+Burnley,Crystal Palace,1-0,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/2013441841,2013,27,championship,57,58,1,0,0,0,2013-01-12 16:00:00,,2013
+Hull City,Sheffield Wednesday,1-3,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/2013441837,2013,27,championship,56,54,1,0,0,0,2013-01-12 18:20:00,,2013
+Leicester,Middlesbrough,1-0,https://www.besoccer.com/match/leicester-city-fc/middlesbrough-fc/2013441842,2013,27,championship,60,63,2,0,1,0,2013-01-18 20:45:00,,2013
+Derby County,Nottingham Forest,1-1,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/2013441843,2013,27,championship,54,56,0,0,1,0,2013-01-19 14:00:00,,2013
+Watford,Huddersfield Town,4-0,https://www.besoccer.com/match/watford-fc/huddersfield-town-fc/2013441844,2013,28,championship,57,52,1,0,2,0,2013-01-19 16:00:00,,2013
+Millwall,Burnley,0-2,https://www.besoccer.com/match/millwall-fc/burnley-fc/2013441846,2013,28,championship,56,57,0,0,2,0,2013-01-19 16:00:00,,2013
+Crystal Palace,Bolton Wanderers,0-0,https://www.besoccer.com/match/crystal-palace-fc/bolton-wanderers-fc/2013441847,2013,28,championship,58,66,1,0,3,0,2013-01-19 16:00:00,,2013
+Birmingham City,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/birmingham-city-fc/brighton-amp-hov/2013441848,2013,28,championship,64,53,1,0,4,0,2013-01-19 16:00:00,,2013
+Leeds United,Bristol City,1-0,https://www.besoccer.com/match/leeds-united-afc/bristol-city-fc/2013441849,2013,28,championship,58,50,0,0,3,0,2013-01-19 16:00:00,,2013
+Sheffield Wednesday,Wolves,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/2013441850,2013,28,championship,54,60,1,0,2,0,2013-01-19 16:00:00,,2013
+Peterborough United,Hull City,1-1,https://www.besoccer.com/match/peterborough-u/hull-city/2013441851,2013,28,championship,48,56,0,0,2,0,2013-01-19 16:00:00,,2013
+Blackburn Rovers,Charlton Athletic,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/charlton-athletic-fc/2013441852,2013,28,championship,65,55,0,0,0,0,2013-01-19 16:00:00,,2013
+Ipswich Town,Barnsley,1-1,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/2013441853,2013,28,championship,55,48,0,0,1,0,2013-01-19 16:00:00,,2013
+Blackpool,Cardiff City,1-2,https://www.besoccer.com/match/blackpool-fc/cardiff-city-fc/2013441845,2013,28,championship,57,62,0,0,3,0,2013-01-19 18:20:00,,2013
+Blackburn Rovers,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/brighton-amp-hov/2013441854,2013,28,championship,65,53,3,0,3,0,2013-01-22 20:45:00,,2013
+Charlton Athletic,Sheffield Wednesday,1-2,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-wednesday-fc/2013441855,2013,28,championship,55,54,1,0,3,0,2013-01-26 16:00:00,,2013
+Nottingham Forest,Watford,0-3,https://www.besoccer.com/match/nottingham-forest-fc/watford-fc/2013441856,2013,29,championship,56,57,1,0,3,0,2013-01-26 16:00:00,,2013
+Burnley,Birmingham City,1-2,https://www.besoccer.com/match/burnley-fc/birmingham-city-fc/2013441857,2013,29,championship,57,64,1,1,0,1,2013-01-26 16:00:00,,2013
+Bristol City,Ipswich Town,2-1,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/2013441858,2013,29,championship,50,55,1,0,0,0,2013-01-26 16:00:00,,2013
+Wolves,Blackpool,1-2,https://www.besoccer.com/match/wolverhampton/blackpool-fc/2013441859,2013,29,championship,60,57,1,1,1,1,2013-01-26 16:00:00,,2013
+Bristol City,Watford,2-0,https://www.besoccer.com/match/bristol-city-fc/watford-fc/2013441860,2013,29,championship,50,57,0,0,3,0,2013-01-29 20:45:00,,2013
+Barnsley,Millwall,2-0,https://www.besoccer.com/match/barnsley-fc/millwall-fc/2013441861,2013,29,championship,49,56,0,0,2,0,2013-01-29 20:45:00,,2013
+Huddersfield Town,Crystal Palace,1-0,https://www.besoccer.com/match/huddersfield-town-fc/crystal-palace-fc/2013441862,2013,29,championship,52,58,2,0,1,0,2013-01-30 20:45:00,,2013
+Leicester,Wolves,2-1,https://www.besoccer.com/match/leicester-city-fc/wolverhampton/2013441863,2013,29,championship,60,60,0,0,1,0,2013-01-31 20:45:00,,2013
+Watford,Bolton Wanderers,2-1,https://www.besoccer.com/match/watford-fc/bolton-wanderers-fc/2013441864,2013,29,championship,57,66,2,0,4,0,2013-02-02 16:00:00,,2013
+Blackpool,Barnsley,1-2,https://www.besoccer.com/match/blackpool-fc/barnsley-fc/2013441865,2013,29,championship,57,49,1,1,0,1,2013-02-02 16:00:00,,2013
+Derby County,Huddersfield Town,3-0,https://www.besoccer.com/match/derby-county-fc/huddersfield-town-fc/2013441866,2013,29,championship,53,52,2,0,1,0,2013-02-02 16:00:00,,2013
+Crystal Palace,Charlton Athletic,2-1,https://www.besoccer.com/match/crystal-palace-fc/charlton-athletic-fc/2013441867,2013,29,championship,58,55,0,0,0,0,2013-02-02 16:00:00,,2013
+Blackburn Rovers,Bristol City,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/bristol-city-fc/2013441868,2013,30,championship,65,50,1,0,0,0,2013-02-02 16:00:00,,2013
+Leeds United,Cardiff City,0-1,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/2013441869,2013,30,championship,59,62,1,0,3,0,2013-02-02 16:00:00,,2013
+Birmingham City,Nottingham Forest,2-1,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/2013441870,2013,30,championship,65,56,2,0,0,0,2013-02-02 16:00:00,,2013
+Sheffield Wednesday,Brighton & Hove Albion,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/brighton-amp-hov/2013441871,2013,30,championship,54,53,2,0,2,0,2013-02-02 16:00:00,,2013
+Millwall,Hull City,0-1,https://www.besoccer.com/match/millwall-fc/hull-city/2013441872,2013,30,championship,56,56,3,0,1,0,2013-02-02 16:00:00,,2013
+Ipswich Town,Middlesbrough,4-0,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/2013441873,2013,30,championship,55,63,1,0,0,0,2013-02-02 16:00:00,,2013
+Peterborough United,Burnley,2-2,https://www.besoccer.com/match/peterborough-u/burnley-fc/2013441874,2013,30,championship,48,57,0,0,2,0,2013-02-02 16:00:00,,2013
+Watford,Crystal Palace,2-2,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/2013441875,2013,30,championship,57,58,5,0,2,0,2013-02-08 20:45:00,,2013
+Peterborough United,Leicester,2-1,https://www.besoccer.com/match/peterborough-u/leicester-city-fc/2013441876,2013,30,championship,48,60,0,0,0,0,2013-02-09 16:00:00,,2013
+Wolves,Leeds United,2-2,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/2013441877,2013,30,championship,59,59,0,0,0,0,2013-02-09 16:00:00,,2013
+Bolton Wanderers,Burnley,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/burnley-fc/2013441878,2013,30,championship,65,57,1,0,2,0,2013-02-09 16:00:00,,2013
+Brighton & Hove Albion,Hull City,1-0,https://www.besoccer.com/match/brighton-amp-hov/hull-city/2013441879,2013,30,championship,53,56,1,0,1,0,2013-02-09 18:20:00,,2013
+Blackpool,Millwall,2-1,https://www.besoccer.com/match/blackpool-fc/millwall-fc/2013441880,2013,31,championship,57,55,0,0,3,0,2013-02-09 16:00:00,,2013
+Blackburn Rovers,Ipswich Town,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/2013441881,2013,31,championship,65,56,1,0,0,0,2013-02-09 16:00:00,,2013
+Bristol City,Nottingham Forest,2-0,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/2013441882,2013,31,championship,50,55,1,0,1,0,2013-02-09 16:00:00,,2013
+Charlton Athletic,Birmingham City,1-1,https://www.besoccer.com/match/charlton-athletic-fc/birmingham-city-fc/2013441883,2013,31,championship,55,65,1,0,1,0,2013-02-09 16:00:00,,2013
+Middlesbrough,Barnsley,2-3,https://www.besoccer.com/match/middlesbrough-fc/barnsley-fc/2013441884,2013,31,championship,62,50,2,0,2,0,2013-02-09 16:00:00,,2013
+Sheffield Wednesday,Derby County,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/2013441885,2013,31,championship,54,53,2,0,2,0,2013-02-09 16:00:00,,2013
+Huddersfield Town,Cardiff City,0-0,https://www.besoccer.com/match/huddersfield-town-fc/cardiff-city-fc/2013441886,2013,31,championship,52,62,2,0,3,0,2013-02-09 16:00:00,,2013
+Hull City,Derby County,2-1,https://www.besoccer.com/match/hull-city/derby-county-fc/2013441887,2013,31,championship,56,53,3,0,3,0,2013-02-12 20:45:00,,2013
+Middlesbrough,Leeds United,1-0,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/2013441888,2013,31,championship,62,59,2,0,1,0,2013-02-12 20:45:00,,2013
+Brighton & Hove Albion,Blackburn Rovers,1-1,https://www.besoccer.com/match/brighton-amp-hov/blackburn-rovers-fc/2013441889,2013,31,championship,53,65,2,0,5,0,2013-02-12 20:45:00,,2013
+Crystal Palace,Middlesbrough,4-1,https://www.besoccer.com/match/crystal-palace-fc/middlesbrough-fc/2013441890,2013,31,championship,58,62,0,0,1,0,2013-02-16 16:00:00,,2013
+Hull City,Charlton Athletic,1-0,https://www.besoccer.com/match/hull-city/charlton-athletic-fc/2013441891,2013,31,championship,56,55,1,0,2,0,2013-02-16 16:00:00,,2013
+Cardiff City,Bristol City,2-1,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/2013441896,2013,32,championship,62,50,0,0,1,0,2013-02-16 14:00:00,,2013
+Ipswich Town,Blackpool,1-0,https://www.besoccer.com/match/ipswich-town-fc/blackpool-fc/2013441892,2013,32,championship,55,57,1,0,0,0,2013-02-16 16:00:00,,2013
+Derby County,Wolves,0-0,https://www.besoccer.com/match/derby-county-fc/wolverhampton/2013441893,2013,32,championship,53,59,1,0,2,0,2013-02-16 16:00:00,,2013
+Nottingham Forest,Bolton Wanderers,1-1,https://www.besoccer.com/match/nottingham-forest-fc/bolton-wanderers-fc/2013441894,2013,32,championship,55,66,1,0,3,0,2013-02-16 16:00:00,,2013
+Birmingham City,Watford,0-4,https://www.besoccer.com/match/birmingham-city-fc/watford-fc/2013441895,2013,32,championship,65,57,2,0,0,0,2013-02-16 16:00:00,,2013
+Leicester,Charlton Athletic,1-2,https://www.besoccer.com/match/leicester-city-fc/charlton-athletic-fc/2013441897,2013,32,championship,60,55,0,0,1,0,2013-02-19 20:45:00,,2013
+Barnsley,Wolves,2-1,https://www.besoccer.com/match/barnsley-fc/wolverhampton/2013441898,2013,32,championship,50,59,1,0,0,0,2013-02-19 20:45:00,,2013
+Hull City,Blackburn Rovers,2-0,https://www.besoccer.com/match/hull-city/blackburn-rovers-fc/2013441900,2013,32,championship,56,66,1,0,4,0,2013-02-19 20:45:00,,2013
+Derby County,Bolton Wanderers,1-1,https://www.besoccer.com/match/derby-county-fc/bolton-wanderers-fc/2013441901,2013,32,championship,53,65,0,0,1,0,2013-02-19 20:45:00,,2013
+Ipswich Town,Watford,0-2,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/2013441902,2013,32,championship,56,58,2,0,4,0,2013-02-19 20:45:00,,2013
+Birmingham City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/2013441903,2013,32,championship,64,54,0,0,4,0,2013-02-19 20:45:00,,2013
+Crystal Palace,Bristol City,2-1,https://www.besoccer.com/match/crystal-palace-fc/bristol-city-fc/2013441899,2013,32,championship,58,50,1,0,3,0,2013-02-19 21:00:00,,2013
+Nottingham Forest,Huddersfield Town,6-1,https://www.besoccer.com/match/nottingham-forest-fc/huddersfield-town-fc/2013441904,2013,33,championship,55,52,0,0,2,0,2013-02-19 20:45:00,,2013
+Cardiff City,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/cardiff-city-fc/brighton-amp-hov/2013441905,2013,33,championship,62,53,1,0,3,0,2013-02-19 20:45:00,,2013
+Burnley,Middlesbrough,0-0,https://www.besoccer.com/match/burnley-fc/middlesbrough-fc/2013441906,2013,33,championship,57,62,2,0,2,0,2013-02-19 20:45:00,,2013
+Millwall,Peterborough United,1-5,https://www.besoccer.com/match/millwall-fc/peterborough-u/2013441907,2013,33,championship,56,49,2,0,0,0,2013-02-19 20:45:00,,2013
+Leeds United,Blackpool,2-0,https://www.besoccer.com/match/leeds-united-afc/blackpool-fc/2013441908,2013,33,championship,59,57,0,0,0,0,2013-02-20 20:45:00,,2013
+Blackburn Rovers,Leeds United,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/2013441909,2013,33,championship,66,59,1,0,0,0,2013-02-23 16:00:00,,2013
+Huddersfield Town,Ipswich Town,0-0,https://www.besoccer.com/match/huddersfield-town-fc/ipswich-town-fc/2013441910,2013,33,championship,52,55,1,0,0,0,2013-02-23 16:00:00,,2013
+Blackpool,Leicester,0-0,https://www.besoccer.com/match/blackpool-fc/leicester-city-fc/2013441911,2013,33,championship,57,60,2,0,1,0,2013-02-23 16:00:00,,2013
+Brighton & Hove Albion,Burnley,1-0,https://www.besoccer.com/match/brighton-amp-hov/burnley-fc/2013441912,2013,33,championship,54,57,2,0,3,0,2013-02-23 16:00:00,,2013
+Watford,Derby County,2-1,https://www.besoccer.com/match/watford-fc/derby-county-fc/2013441913,2013,33,championship,58,53,0,0,2,0,2013-02-23 16:00:00,,2013
+Peterborough United,Birmingham City,0-2,https://www.besoccer.com/match/peterborough-u/birmingham-city-fc/2013441914,2013,33,championship,49,64,1,0,1,0,2013-02-23 16:00:00,,2013
+Bristol City,Barnsley,5-3,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/2013441915,2013,33,championship,50,51,0,0,1,0,2013-02-23 16:00:00,,2013
+Charlton Athletic,Nottingham Forest,0-2,https://www.besoccer.com/match/charlton-athletic-fc/nottingham-forest-fc/2013441916,2013,34,championship,55,55,0,1,1,1,2013-02-23 16:00:00,,2013
+Sheffield Wednesday,Crystal Palace,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/2013441917,2013,34,championship,54,59,3,0,2,0,2013-02-23 16:00:00,,2013
+Bolton Wanderers,Hull City,4-1,https://www.besoccer.com/match/bolton-wanderers-fc/hull-city/2013441919,2013,34,championship,65,56,2,0,1,0,2013-02-23 16:00:00,,2013
+Middlesbrough,Millwall,1-2,https://www.besoccer.com/match/middlesbrough-fc/millwall-fc/2013441918,2013,34,championship,62,55,0,0,3,0,2013-02-23 18:20:00,,2013
+Wolves,Cardiff City,1-2,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/2013441920,2013,34,championship,59,62,1,0,1,0,2013-02-24 15:00:00,,2013
+Leicester,Blackburn Rovers,3-0,https://www.besoccer.com/match/leicester-city-fc/blackburn-rovers-fc/2013441922,2013,34,championship,60,66,0,0,0,0,2013-02-26 20:45:00,,2013
+Burnley,Huddersfield Town,0-1,https://www.besoccer.com/match/burnley-fc/huddersfield-town-fc/2013441923,2013,34,championship,57,52,3,0,3,0,2013-02-26 20:45:00,,2013
+Bolton Wanderers,Peterborough United,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/peterborough-u/2013441921,2013,34,championship,66,49,1,0,0,0,2013-02-26 21:00:00,,2013
+Derby County,Crystal Palace,0-1,https://www.besoccer.com/match/derby-county-fc/crystal-palace-fc/2013441924,2013,34,championship,53,58,2,0,3,0,2013-03-01 20:45:00,,2013
+Wolves,Watford,1-1,https://www.besoccer.com/match/wolverhampton/watford-fc/2013441925,2013,34,championship,59,58,1,0,1,0,2013-03-01 20:45:00,,2013
+Blackpool,Bristol City,0-0,https://www.besoccer.com/match/blackpool-fc/bristol-city-fc/2013441926,2013,34,championship,57,50,1,0,1,0,2013-03-02 16:00:00,,2013
+Middlesbrough,Cardiff City,2-1,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/2013441927,2013,34,championship,62,62,2,0,3,0,2013-03-02 16:00:00,,2013
+Leeds United,Millwall,1-0,https://www.besoccer.com/match/leeds-united-afc/millwall-fc/2013441933,2013,35,championship,59,56,0,0,3,0,2013-03-02 13:30:00,,2013
+Charlton Athletic,Burnley,0-1,https://www.besoccer.com/match/charlton-athletic-fc/burnley-fc/2013441928,2013,35,championship,55,57,0,0,4,0,2013-03-02 16:00:00,,2013
+Barnsley,Bolton Wanderers,2-3,https://www.besoccer.com/match/barnsley-fc/bolton-wanderers-fc/2013441930,2013,35,championship,50,66,1,0,1,0,2013-03-02 16:00:00,,2013
+Hull City,Birmingham City,5-2,https://www.besoccer.com/match/hull-city/birmingham-city-fc/2013441931,2013,35,championship,56,64,1,0,0,0,2013-03-02 16:00:00,,2013
+Brighton & Hove Albion,Huddersfield Town,4-1,https://www.besoccer.com/match/brighton-amp-hov/huddersfield-town-fc/2013441932,2013,35,championship,54,52,0,0,4,0,2013-03-02 16:00:00,,2013
+Ipswich Town,Leicester,1-0,https://www.besoccer.com/match/ipswich-town-fc/leicester-city-fc/2013441934,2013,35,championship,55,60,1,0,2,0,2013-03-02 16:00:00,,2013
+Blackburn Rovers,Peterborough United,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/peterborough-u/2013441935,2013,35,championship,65,49,2,0,1,0,2013-03-02 16:00:00,,2013
+Sheffield Wednesday,Nottingham Forest,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/2013441929,2013,35,championship,55,56,1,0,4,0,2013-03-02 18:20:00,,2013
+Birmingham City,Blackpool,1-1,https://www.besoccer.com/match/birmingham-city-fc/blackpool-fc/2013441937,2013,35,championship,64,57,0,0,1,0,2013-03-05 20:45:00,,2013
+Millwall,Wolves,0-2,https://www.besoccer.com/match/millwall-fc/wolverhampton/2013441938,2013,35,championship,55,59,0,0,2,0,2013-03-05 20:45:00,,2013
+Peterborough United,Charlton Athletic,2-2,https://www.besoccer.com/match/peterborough-u/charlton-athletic-fc/2013441939,2013,35,championship,49,54,1,0,1,0,2013-03-05 20:45:00,,2013
+Crystal Palace,Hull City,4-2,https://www.besoccer.com/match/crystal-palace-fc/hull-city/2013441936,2013,35,championship,59,56,1,0,1,0,2013-03-05 21:00:00,,2013
+Huddersfield Town,Middlesbrough,2-1,https://www.besoccer.com/match/huddersfield-town-fc/middlesbrough-fc/2013441940,2013,36,championship,52,62,1,0,2,0,2013-03-05 20:45:00,,2013
+Burnley,Barnsley,1-1,https://www.besoccer.com/match/burnley-fc/barnsley-fc/2013441942,2013,36,championship,57,50,1,0,2,0,2013-03-05 20:45:00,,2013
+Cardiff City,Derby County,1-1,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/2013441943,2013,36,championship,62,53,2,0,2,0,2013-03-05 20:45:00,,2013
+Nottingham Forest,Ipswich Town,1-0,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/2013441944,2013,36,championship,56,56,4,0,0,0,2013-03-05 20:45:00,,2013
+Bristol City,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/bristol-city-fc/brighton-amp-hov/2013441945,2013,36,championship,50,54,0,0,0,0,2013-03-05 20:45:00,,2013
+Leicester,Leeds United,1-1,https://www.besoccer.com/match/leicester-city-fc/leeds-united-afc/2013441946,2013,36,championship,60,59,1,0,1,0,2013-03-05 20:45:00,,2013
+Watford,Sheffield Wednesday,2-1,https://www.besoccer.com/match/watford-fc/sheffield-wednesday-fc/2013441947,2013,36,championship,58,54,2,0,4,0,2013-03-05 20:45:00,,2013
+Bolton Wanderers,Blackburn Rovers,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/blackburn-rovers-fc/2013441941,2013,36,championship,66,65,1,0,2,0,2013-03-05 21:00:00,,2013
+Birmingham City,Derby County,3-1,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/2013441948,2013,36,championship,64,53,2,0,0,0,2013-03-09 16:00:00,,2013
+Peterborough United,Ipswich Town,0-0,https://www.besoccer.com/match/peterborough-u/ipswich-town-fc/2013441949,2013,36,championship,49,55,2,0,0,0,2013-03-09 16:00:00,,2013
+Crystal Palace,Leeds United,2-2,https://www.besoccer.com/match/crystal-palace-fc/leeds-united-afc/2013441950,2013,36,championship,59,59,0,0,4,0,2013-03-09 16:00:00,,2013
+Bolton Wanderers,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/brighton-amp-hov/2013441951,2013,36,championship,66,54,1,0,0,0,2013-03-09 16:00:00,,2013
+Huddersfield Town,Charlton Athletic,0-1,https://www.besoccer.com/match/huddersfield-town-fc/charlton-athletic-fc/2013441952,2013,37,championship,52,54,2,0,3,0,2013-03-09 16:00:00,,2013
+Nottingham Forest,Wolves,3-1,https://www.besoccer.com/match/nottingham-forest-fc/wolverhampton/2013441953,2013,37,championship,56,59,0,0,0,0,2013-03-09 16:00:00,,2013
+Leicester,Sheffield Wednesday,0-1,https://www.besoccer.com/match/leicester-city-fc/sheffield-wednesday-fc/2013441954,2013,37,championship,60,54,1,0,1,0,2013-03-09 16:00:00,,2013
+Bristol City,Middlesbrough,2-0,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/2013441955,2013,37,championship,50,62,0,0,1,0,2013-03-09 16:00:00,,2013
+Watford,Blackpool,1-2,https://www.besoccer.com/match/watford-fc/blackpool-fc/2013441956,2013,37,championship,58,57,1,0,0,0,2013-03-09 16:00:00,,2013
+Burnley,Hull City,0-1,https://www.besoccer.com/match/burnley-fc/hull-city/2013441957,2013,37,championship,57,56,0,0,1,0,2013-03-11 20:45:00,,2013
+Cardiff City,Leicester,1-1,https://www.besoccer.com/match/cardiff-city-fc/leicester-city-fc/2013441958,2013,37,championship,62,60,2,0,3,0,2013-03-12 20:45:00,,2013
+Leeds United,Peterborough United,1-1,https://www.besoccer.com/match/leeds-united-afc/peterborough-u/2013441959,2013,37,championship,59,49,3,0,0,0,2013-03-12 20:45:00,,2013
+Barnsley,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/barnsley-fc/brighton-amp-hov/2013441960,2013,37,championship,51,54,3,0,1,0,2013-03-12 20:45:00,,2013
+Ipswich Town,Bolton Wanderers,1-0,https://www.besoccer.com/match/ipswich-town-fc/bolton-wanderers-fc/2013441961,2013,37,championship,55,66,0,0,2,0,2013-03-16 16:00:00,,2013
+Middlesbrough,Birmingham City,0-1,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/2013441962,2013,37,championship,61,64,0,0,2,0,2013-03-16 16:00:00,,2013
+Wolves,Bristol City,2-1,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/2013441963,2013,37,championship,59,51,1,0,0,0,2013-03-16 16:00:00,,2013
+Leeds United,Huddersfield Town,1-2,https://www.besoccer.com/match/leeds-united-afc/huddersfield-town-fc/2013441966,2013,38,championship,59,52,3,0,1,0,2013-03-16 13:30:00,,2013
+Charlton Athletic,Millwall,0-2,https://www.besoccer.com/match/charlton-athletic-fc/millwall-fc/2013441969,2013,38,championship,55,56,1,0,2,0,2013-03-16 13:30:00,,2013
+Barnsley,Watford,1-0,https://www.besoccer.com/match/barnsley-fc/watford-fc/2013441964,2013,38,championship,51,58,3,0,2,0,2013-03-16 16:00:00,,2013
+Hull City,Nottingham Forest,1-2,https://www.besoccer.com/match/hull-city/nottingham-forest-fc/2013441965,2013,38,championship,56,56,2,0,5,0,2013-03-16 16:00:00,,2013
+Blackpool,Peterborough United,0-1,https://www.besoccer.com/match/blackpool-fc/peterborough-u/2013441967,2013,38,championship,57,49,2,0,1,0,2013-03-16 16:00:00,,2013
+Sheffield Wednesday,Cardiff City,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/2013441970,2013,38,championship,54,62,3,0,2,0,2013-03-16 16:00:00,,2013
+Derby County,Leicester,2-1,https://www.besoccer.com/match/derby-county-fc/leicester-city-fc/2013441968,2013,38,championship,53,60,3,0,2,0,2013-03-16 18:20:00,,2013
+Brighton & Hove Albion,Crystal Palace,3-0,https://www.besoccer.com/match/brighton-amp-hov/crystal-palace-fc/2013441971,2013,38,championship,54,59,2,0,1,0,2013-03-17 13:00:00,,2013
+Blackburn Rovers,Burnley,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/burnley-fc/2013441972,2013,38,championship,65,57,2,0,1,0,2013-03-17 13:30:00,,2013
+Watford,Burnley,3-3,https://www.besoccer.com/match/watford-fc/burnley-fc/2013441974,2013,38,championship,58,57,1,0,3,0,2013-03-29 16:00:00,,2013
+Blackburn Rovers,Blackpool,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/blackpool-fc/2013441975,2013,38,championship,65,57,0,0,2,0,2013-03-29 16:00:00,,2013
+Crystal Palace,Birmingham City,0-4,https://www.besoccer.com/match/crystal-palace-fc/birmingham-city-fc/2013441973,2013,38,championship,58,64,1,0,3,0,2013-03-29 18:30:00,,2013
+Leicester,Millwall,0-1,https://www.besoccer.com/match/leicester-city-fc/millwall-fc/2013441976,2013,39,championship,59,56,0,1,4,1,2013-03-29 20:45:00,,2013
+Derby County,Bristol City,3-0,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/2013441977,2013,39,championship,53,51,1,0,2,0,2013-03-29 20:45:00,,2013
+Wolves,Middlesbrough,3-2,https://www.besoccer.com/match/wolverhampton/middlesbrough-fc/2013441978,2013,39,championship,59,61,2,0,1,0,2013-03-30 16:00:00,,2013
+Ipswich Town,Leeds United,3-0,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/2013441980,2013,39,championship,56,59,2,0,3,0,2013-03-30 16:00:00,,2013
+Sheffield Wednesday,Barnsley,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/2013441981,2013,39,championship,54,51,2,0,2,0,2013-03-30 16:00:00,,2013
+Nottingham Forest,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/nottingham-forest-fc/brighton-amp-hov/2013441982,2013,39,championship,56,54,3,0,2,0,2013-03-30 16:00:00,,2013
+Charlton Athletic,Bolton Wanderers,3-2,https://www.besoccer.com/match/charlton-athletic-fc/bolton-wanderers-fc/2013441983,2013,39,championship,54,66,3,0,2,0,2013-03-30 16:00:00,,2013
+Peterborough United,Cardiff City,2-1,https://www.besoccer.com/match/peterborough-u/cardiff-city-fc/2013441984,2013,39,championship,49,62,0,0,2,0,2013-03-30 16:00:00,,2013
+Huddersfield Town,Hull City,0-1,https://www.besoccer.com/match/huddersfield-town-fc/hull-city/2013441979,2013,39,championship,52,56,4,0,4,0,2013-03-30 18:20:00,,2013
+Cardiff City,Blackburn Rovers,3-0,https://www.besoccer.com/match/cardiff-city-fc/blackburn-rovers-fc/2013441985,2013,39,championship,62,65,0,0,4,0,2013-04-01 16:00:00,,2013
+Bristol City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/2013441987,2013,39,championship,50,54,2,0,6,0,2013-04-01 16:00:00,,2013
+Leeds United,Derby County,1-2,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/2013441986,2013,39,championship,59,53,1,0,0,0,2013-04-01 18:05:00,,2013
+Barnsley,Leicester,2-0,https://www.besoccer.com/match/barnsley-fc/leicester-city-fc/2013441988,2013,40,championship,51,59,1,0,2,0,2013-04-01 16:00:00,,2013
+Burnley,Nottingham Forest,1-1,https://www.besoccer.com/match/burnley-fc/nottingham-forest-fc/2013441989,2013,40,championship,57,56,2,0,1,0,2013-04-01 16:00:00,,2013
+Birmingham City,Wolves,2-3,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/2013441990,2013,40,championship,64,59,2,0,4,0,2013-04-01 16:00:00,,2013
+Millwall,Ipswich Town,0-0,https://www.besoccer.com/match/millwall-fc/ipswich-town-fc/2013441991,2013,40,championship,56,56,3,0,2,0,2013-04-01 16:00:00,,2013
+Blackpool,Crystal Palace,1-0,https://www.besoccer.com/match/blackpool-fc/crystal-palace-fc/2013441992,2013,40,championship,57,58,0,0,1,0,2013-04-01 16:00:00,,2013
+Brighton & Hove Albion,Charlton Athletic,0-0,https://www.besoccer.com/match/brighton-amp-hov/charlton-athletic-fc/2013441993,2013,40,championship,54,55,2,0,2,0,2013-04-02 20:45:00,,2013
+Hull City,Watford,0-1,https://www.besoccer.com/match/hull-city/watford-fc/2013441994,2013,40,championship,56,58,0,0,1,0,2013-04-02 20:45:00,,2013
+Middlesbrough,Peterborough United,0-0,https://www.besoccer.com/match/middlesbrough-fc/peterborough-u/2013441996,2013,40,championship,61,50,0,0,0,0,2013-04-02 20:45:00,,2013
+Bolton Wanderers,Huddersfield Town,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/huddersfield-town-fc/2013441995,2013,40,championship,66,52,0,0,3,0,2013-04-02 21:00:00,,2013
+Derby County,Ipswich Town,0-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/2013441998,2013,40,championship,54,56,1,0,2,0,2013-04-06 16:00:00,,2013
+Brighton & Hove Albion,Leicester,1-1,https://www.besoccer.com/match/brighton-amp-hov/leicester-city-fc/2013441999,2013,40,championship,54,59,1,0,2,0,2013-04-06 16:00:00,,2013
+Watford,Cardiff City,0-0,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/2013441997,2013,40,championship,58,62,1,0,2,0,2013-04-06 18:20:00,,2013
+Charlton Athletic,Leeds United,2-1,https://www.besoccer.com/match/charlton-athletic-fc/leeds-united-afc/2013442000,2013,41,championship,55,59,1,0,3,0,2013-04-06 16:00:00,,2013
+Nottingham Forest,Blackpool,1-1,https://www.besoccer.com/match/nottingham-forest-fc/blackpool-fc/2013442001,2013,41,championship,56,57,3,0,2,0,2013-04-06 16:00:00,,2013
+Hull City,Middlesbrough,1-0,https://www.besoccer.com/match/hull-city/middlesbrough-fc/2013442002,2013,41,championship,56,61,4,0,0,0,2013-04-06 16:00:00,,2013
+Huddersfield Town,Peterborough United,2-2,https://www.besoccer.com/match/huddersfield-town-fc/peterborough-u/2013442003,2013,41,championship,52,50,5,0,1,0,2013-04-06 16:00:00,,2013
+Burnley,Bristol City,3-1,https://www.besoccer.com/match/burnley-fc/bristol-city-fc/2013442004,2013,41,championship,57,50,3,0,1,0,2013-04-06 16:00:00,,2013
+Crystal Palace,Barnsley,0-0,https://www.besoccer.com/match/crystal-palace-fc/barnsley-fc/2013442005,2013,41,championship,58,51,2,0,5,0,2013-04-06 16:00:00,,2013
+Bolton Wanderers,Wolves,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/wolverhampton/2013442006,2013,41,championship,66,59,2,0,2,0,2013-04-06 16:00:00,,2013
+Sheffield Wednesday,Blackburn Rovers,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/2013442007,2013,41,championship,54,65,5,0,5,0,2013-04-06 16:00:00,,2013
+Birmingham City,Millwall,1-1,https://www.besoccer.com/match/birmingham-city-fc/millwall-fc/2013442008,2013,41,championship,64,56,4,0,1,0,2013-04-06 16:00:00,,2013
+Cardiff City,Barnsley,1-1,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/2013442009,2013,41,championship,62,51,2,0,1,0,2013-04-09 20:45:00,,2013
+Millwall,Sheffield Wednesday,1-2,https://www.besoccer.com/match/millwall-fc/sheffield-wednesday-fc/2013442010,2013,41,championship,56,55,1,0,2,0,2013-04-09 20:45:00,,2013
+Leicester,Birmingham City,2-2,https://www.besoccer.com/match/leicester-city-fc/birmingham-city-fc/2013442011,2013,41,championship,59,64,0,0,1,0,2013-04-12 20:45:00,,2013
+Leeds United,Sheffield Wednesday,2-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/2013442014,2013,42,championship,58,55,0,0,3,0,2013-04-13 13:30:00,,2013
+Middlesbrough,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/middlesbrough-fc/brighton-amp-hov/2013442012,2013,42,championship,61,54,2,0,2,0,2013-04-13 16:00:00,,2013
+Blackpool,Burnley,1-0,https://www.besoccer.com/match/blackpool-fc/burnley-fc/2013442013,2013,42,championship,57,57,3,0,0,0,2013-04-13 16:00:00,,2013
+Ipswich Town,Hull City,1-2,https://www.besoccer.com/match/ipswich-town-fc/hull-city/2013442015,2013,42,championship,56,56,1,0,1,0,2013-04-13 16:00:00,,2013
+Wolves,Huddersfield Town,1-3,https://www.besoccer.com/match/wolverhampton/huddersfield-town-fc/2013442016,2013,42,championship,59,52,2,1,3,1,2013-04-13 16:00:00,,2013
+Barnsley,Charlton Athletic,0-6,https://www.besoccer.com/match/barnsley-fc/charlton-athletic-fc/2013442017,2013,42,championship,51,55,0,2,0,2,2013-04-13 16:00:00,,2013
+Bristol City,Bolton Wanderers,1-2,https://www.besoccer.com/match/bristol-city-fc/bolton-wanderers-fc/2013442018,2013,42,championship,50,66,1,0,2,0,2013-04-13 16:00:00,,2013
+Peterborough United,Watford,3-2,https://www.besoccer.com/match/peterborough-u/watford-fc/2013442019,2013,42,championship,50,58,2,0,2,0,2013-04-13 16:00:00,,2013
+Cardiff City,Nottingham Forest,3-0,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/2013442020,2013,42,championship,62,56,1,0,6,0,2013-04-13 16:00:00,,2013
+Blackburn Rovers,Derby County,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/2013442021,2013,42,championship,64,53,3,0,1,0,2013-04-13 16:00:00,,2013
+Wolves,Hull City,1-0,https://www.besoccer.com/match/wolverhampton/hull-city/2013442022,2013,42,championship,59,56,1,0,3,0,2013-04-16 20:45:00,,2013
+Ipswich Town,Crystal Palace,3-0,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/2013442023,2013,42,championship,56,58,3,0,3,0,2013-04-16 20:45:00,,2013
+Leicester,Bolton Wanderers,3-2,https://www.besoccer.com/match/leicester-city-fc/bolton-wanderers-fc/2013442024,2013,43,championship,59,66,1,0,1,0,2013-04-16 20:45:00,,2013
+Blackburn Rovers,Huddersfield Town,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/huddersfield-town-fc/2013442025,2013,43,championship,64,52,1,0,4,0,2013-04-16 20:45:00,,2013
+Middlesbrough,Nottingham Forest,1-0,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/2013442026,2013,43,championship,61,56,2,0,1,0,2013-04-16 20:45:00,,2013
+Leeds United,Burnley,1-0,https://www.besoccer.com/match/leeds-united-afc/burnley-fc/2013442028,2013,43,championship,58,57,2,0,4,0,2013-04-16 20:45:00,,2013
+Barnsley,Derby County,1-1,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/2013442029,2013,43,championship,51,53,2,0,0,0,2013-04-16 20:45:00,,2013
+Bristol City,Birmingham City,0-1,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/2013442030,2013,43,championship,50,64,0,0,1,0,2013-04-16 20:45:00,,2013
+Cardiff City,Charlton Athletic,0-0,https://www.besoccer.com/match/cardiff-city-fc/charlton-athletic-fc/2013442031,2013,43,championship,62,55,0,0,1,0,2013-04-16 20:45:00,,2013
+Millwall,Watford,1-0,https://www.besoccer.com/match/millwall-fc/watford-fc/2013442032,2013,43,championship,56,58,1,0,0,0,2013-04-16 20:45:00,,2013
+Peterborough United,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/peterborough-u/brighton-amp-hov/2013442033,2013,43,championship,50,54,1,0,2,0,2013-04-16 20:45:00,,2013
+Blackpool,Sheffield Wednesday,0-0,https://www.besoccer.com/match/blackpool-fc/sheffield-wednesday-fc/2013442027,2013,43,championship,57,55,3,0,3,0,2013-04-16 21:00:00,,2013
+Hull City,Bristol City,0-0,https://www.besoccer.com/match/hull-city/bristol-city-fc/2013442034,2013,43,championship,56,50,0,0,0,0,2013-04-19 20:45:00,,2013
+Crystal Palace,Leicester,2-2,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/2013442035,2013,43,championship,58,59,3,0,1,0,2013-04-20 16:00:00,,2013
+Huddersfield Town,Millwall,3-0,https://www.besoccer.com/match/huddersfield-town-fc/millwall-fc/2013442041,2013,44,championship,52,56,1,0,3,0,2013-04-20 13:30:00,,2013
+Burnley,Cardiff City,1-1,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/2013442044,2013,44,championship,57,62,2,0,1,0,2013-04-20 13:45:00,,2013
+Bolton Wanderers,Middlesbrough,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/middlesbrough-fc/2013442036,2013,44,championship,66,61,0,0,0,0,2013-04-20 16:00:00,,2013
+Nottingham Forest,Barnsley,0-0,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/2013442037,2013,44,championship,56,51,1,0,2,0,2013-04-20 16:00:00,,2013
+Watford,Blackburn Rovers,4-0,https://www.besoccer.com/match/watford-fc/blackburn-rovers-fc/2013442038,2013,44,championship,58,65,2,0,3,0,2013-04-20 16:00:00,,2013
+Charlton Athletic,Wolves,2-1,https://www.besoccer.com/match/charlton-athletic-fc/wolverhampton/2013442039,2013,44,championship,55,59,0,0,4,0,2013-04-20 16:00:00,,2013
+Birmingham City,Leeds United,1-0,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/2013442040,2013,44,championship,64,59,0,0,0,0,2013-04-20 16:00:00,,2013
+Sheffield Wednesday,Ipswich Town,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/2013442042,2013,44,championship,55,56,0,0,0,0,2013-04-20 16:00:00,,2013
+Derby County,Peterborough United,3-1,https://www.besoccer.com/match/derby-county-fc/peterborough-u/2013442043,2013,44,championship,53,50,3,1,2,1,2013-04-20 16:00:00,,2013
+Brighton & Hove Albion,Blackpool,6-1,https://www.besoccer.com/match/brighton-amp-hov/blackpool-fc/2013442045,2013,44,championship,54,57,1,0,1,0,2013-04-20 16:00:00,,2013
+Millwall,Blackburn Rovers,1-2,https://www.besoccer.com/match/millwall-fc/blackburn-rovers-fc/2013442046,2013,44,championship,56,64,4,0,2,0,2013-04-23 20:45:00,,2013
+Leicester,Watford,1-2,https://www.besoccer.com/match/leicester-city-fc/watford-fc/2013442047,2013,44,championship,59,58,2,0,1,0,2013-04-26 20:45:00,,2013
+Leeds United,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/leeds-united-afc/brighton-amp-hov/2013442048,2013,45,championship,58,55,1,2,2,2,2013-04-27 16:00:00,,2013
+Millwall,Nottingham Forest,0-1,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/2013442050,2013,45,championship,56,56,1,0,2,0,2013-04-27 16:00:00,,2013
+Cardiff City,Bolton Wanderers,1-1,https://www.besoccer.com/match/cardiff-city-fc/bolton-wanderers-fc/2013442051,2013,45,championship,62,66,0,0,3,0,2013-04-27 16:00:00,,2013
+Blackburn Rovers,Crystal Palace,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/crystal-palace-fc/2013442052,2013,45,championship,64,58,0,0,0,0,2013-04-27 16:00:00,,2013
+Bristol City,Huddersfield Town,1-3,https://www.besoccer.com/match/bristol-city-fc/huddersfield-town-fc/2013442053,2013,45,championship,50,52,0,0,0,0,2013-04-27 16:00:00,,2013
+Wolves,Burnley,1-2,https://www.besoccer.com/match/wolverhampton/burnley-fc/2013442054,2013,45,championship,59,57,2,0,2,0,2013-04-27 16:00:00,,2013
+Blackpool,Derby County,2-1,https://www.besoccer.com/match/blackpool-fc/derby-county-fc/2013442055,2013,45,championship,57,54,3,0,3,0,2013-04-27 16:00:00,,2013
+Middlesbrough,Charlton Athletic,2-2,https://www.besoccer.com/match/middlesbrough-fc/charlton-athletic-fc/2013442056,2013,45,championship,61,55,2,0,0,0,2013-04-27 16:00:00,,2013
+Barnsley,Hull City,2-0,https://www.besoccer.com/match/barnsley-fc/hull-city/2013442057,2013,45,championship,51,56,1,0,0,0,2013-04-27 16:00:00,,2013
+Ipswich Town,Birmingham City,3-1,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/2013442058,2013,45,championship,56,64,2,0,0,0,2013-04-27 16:00:00,,2013
+Peterborough United,Sheffield Wednesday,1-0,https://www.besoccer.com/match/peterborough-u/sheffield-wednesday-fc/2013442049,2013,45,championship,50,55,0,0,3,0,2013-04-27 18:20:00,,2013
+Millwall,Crystal Palace,0-0,https://www.besoccer.com/match/millwall-fc/crystal-palace-fc/2013442059,2013,45,championship,56,58,4,0,1,0,2013-04-30 20:45:00,,2013
+Watford,Leeds United,1-2,https://www.besoccer.com/match/watford-fc/leeds-united-afc/2013442060,2013,46,championship,58,58,2,0,2,0,2013-05-04 13:45:00,,2013
+Brighton & Hove Albion,Wolves,2-0,https://www.besoccer.com/match/brighton-amp-hov/wolverhampton/2013442061,2013,46,championship,55,59,0,0,1,0,2013-05-04 13:45:00,,2013
+Bolton Wanderers,Blackpool,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/blackpool-fc/2013442062,2013,46,championship,66,57,3,0,4,0,2013-05-04 13:45:00,,2013
+Derby County,Millwall,1-0,https://www.besoccer.com/match/derby-county-fc/millwall-fc/2013442063,2013,46,championship,53,56,0,0,3,0,2013-05-04 13:45:00,,2013
+Nottingham Forest,Leicester,2-3,https://www.besoccer.com/match/nottingham-forest-fc/leicester-city-fc/2013442064,2013,46,championship,56,59,1,0,2,0,2013-05-04 13:45:00,,2013
+Huddersfield Town,Barnsley,2-2,https://www.besoccer.com/match/huddersfield-town-fc/barnsley-fc/2013442065,2013,46,championship,53,51,3,0,3,0,2013-05-04 13:45:00,,2013
+Birmingham City,Blackburn Rovers,1-1,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/2013442066,2013,46,championship,64,64,0,0,0,0,2013-05-04 13:45:00,,2013
+Sheffield Wednesday,Middlesbrough,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/2013442067,2013,46,championship,54,61,0,0,1,0,2013-05-04 13:45:00,,2013
+Charlton Athletic,Bristol City,4-1,https://www.besoccer.com/match/charlton-athletic-fc/bristol-city-fc/2013442068,2013,46,championship,55,50,2,0,0,0,2013-05-04 13:45:00,,2013
+Hull City,Cardiff City,2-2,https://www.besoccer.com/match/hull-city/cardiff-city-fc/2013442069,2013,46,championship,56,62,2,0,2,0,2013-05-04 13:45:00,,2013
+Burnley,Ipswich Town,2-0,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/2013442070,2013,46,championship,57,56,1,0,0,0,2013-05-04 13:45:00,,2013
+Crystal Palace,Peterborough United,3-2,https://www.besoccer.com/match/crystal-palace-fc/peterborough-u/2013442071,2013,46,championship,58,50,3,0,1,0,2013-05-04 13:45:00,,2013

@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Sheffield United,Leicester,4-1,https://www.besoccer.com/match/sheffield-united/leicester-city-fc/20062449,2006,1,championship,62,64,1,0,1,0,2005-08-06 13:45:00,,2006
+Crewe Alexandra,Burnley,2-1,https://www.besoccer.com/match/crewe-alexandra/burnley-fc/20062439,2006,1,championship,50,56,2,0,3,0,2005-08-06 16:00:00,,2006
+Crystal Palace,Luton Town,1-2,https://www.besoccer.com/match/crystal-palace-fc/luton-town-fc/20062440,2006,1,championship,62,49,2,0,2,0,2005-08-06 16:00:00,,2006
+Derby County,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/derby-county-fc/brighton-amp-hov/20062441,2006,1,championship,59,44,1,0,1,0,2005-08-06 16:00:00,,2006
+Hull City,Queens Park Rangers,0-0,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/20062442,2006,1,championship,41,54,1,0,2,0,2005-08-06 16:00:00,,2006
+Ipswich Town,Cardiff City,1-0,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/20062443,2006,1,championship,64,53,1,0,1,0,2005-08-06 16:00:00,,2006
+Norwich City,Coventry City,1-1,https://www.besoccer.com/match/norwich-city-fc/coventry-city/20062444,2006,1,championship,61,59,2,0,2,0,2005-08-06 16:00:00,,2006
+Reading,Plymouth Argyle,1-2,https://www.besoccer.com/match/reading-fc/plymouth-argyle/20062445,2006,1,championship,55,46,2,0,1,0,2005-08-06 16:00:00,,2006
+Stoke City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/stoke-city/sheffield-wednesday-fc/20062447,2006,1,championship,53,52,0,1,3,1,2005-08-06 16:00:00,,2006
+Watford,Preston North End,1-2,https://www.besoccer.com/match/watford-fc/preston-north-end/20062448,2006,1,championship,57,58,1,0,2,0,2005-08-06 16:00:00,,2006
+Southampton,Wolves,0-0,https://www.besoccer.com/match/southampton-fc/wolverhampton/20062446,2006,1,championship,69,63,4,0,4,0,2005-08-06 18:15:00,,2006
+Leeds United,Millwall,2-1,https://www.besoccer.com/match/leeds-united-afc/millwall-fc/20062450,2006,1,championship,66,57,2,0,2,0,2005-08-07 13:15:00,,2006
+Preston North End,Derby County,1-1,https://www.besoccer.com/match/preston-north-end/derby-county-fc/20062451,2006,2,championship,59,59,0,0,2,0,2005-08-08 20:45:00,,2006
+Brighton & Hove Albion,Reading,0-2,https://www.besoccer.com/match/brighton-amp-hov/reading-fc/20062452,2006,2,championship,44,55,1,0,3,0,2005-08-09 20:45:00,,2006
+Burnley,Sheffield United,1-2,https://www.besoccer.com/match/burnley-fc/sheffield-united/20062453,2006,2,championship,56,62,0,0,0,0,2005-08-09 20:45:00,,2006
+Cardiff City,Leeds United,2-1,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/20062454,2006,2,championship,53,66,2,0,2,0,2005-08-09 20:45:00,,2006
+Leicester,Stoke City,4-2,https://www.besoccer.com/match/leicester-city-fc/stoke-city/20062455,2006,2,championship,64,53,2,0,1,0,2005-08-09 20:45:00,,2006
+Luton Town,Southampton,3-2,https://www.besoccer.com/match/luton-town-fc/southampton-fc/20062456,2006,2,championship,49,69,2,0,2,0,2005-08-09 20:45:00,,2006
+Millwall,Coventry City,0-0,https://www.besoccer.com/match/millwall-fc/coventry-city/20062457,2006,2,championship,57,59,3,0,3,0,2005-08-09 20:45:00,,2006
+Norwich City,Crewe Alexandra,1-1,https://www.besoccer.com/match/norwich-city-fc/crewe-alexandra/20062458,2006,2,championship,61,50,4,0,1,0,2005-08-09 20:45:00,,2006
+Plymouth Argyle,Watford,3-3,https://www.besoccer.com/match/plymouth-argyle/watford-fc/20062459,2006,2,championship,47,57,1,0,4,0,2005-08-09 20:45:00,,2006
+Queens Park Rangers,Ipswich Town,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/20062460,2006,2,championship,54,65,3,0,2,0,2005-08-09 20:45:00,,2006
+Sheffield Wednesday,Hull City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/20062461,2006,2,championship,52,41,1,0,0,0,2005-08-09 20:45:00,,2006
+Wolves,Crystal Palace,2-1,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/20062462,2006,2,championship,64,62,1,0,2,0,2005-08-09 20:45:00,,2006
+Cardiff City,Watford,1-3,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/20062463,2006,3,championship,53,57,0,0,0,0,2005-08-12 20:45:00,,2006
+Brighton & Hove Albion,Crewe Alexandra,2-2,https://www.besoccer.com/match/brighton-amp-hov/crewe-alexandra/20062464,2006,3,championship,44,50,2,0,1,0,2005-08-13 16:00:00,,2006
+Burnley,Coventry City,4-0,https://www.besoccer.com/match/burnley-fc/coventry-city/20062465,2006,3,championship,56,59,0,0,0,0,2005-08-13 16:00:00,,2006
+Leicester,Ipswich Town,0-0,https://www.besoccer.com/match/leicester-city-fc/ipswich-town-fc/20062466,2006,3,championship,64,64,2,0,1,0,2005-08-13 16:00:00,,2006
+Luton Town,Leeds United,0-0,https://www.besoccer.com/match/luton-town-fc/leeds-united-afc/20062467,2006,3,championship,50,66,1,0,1,0,2005-08-13 16:00:00,,2006
+Millwall,Stoke City,0-1,https://www.besoccer.com/match/millwall-fc/stoke-city/20062468,2006,3,championship,57,53,1,0,2,0,2005-08-13 16:00:00,,2006
+Norwich City,Crystal Palace,1-1,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/20062469,2006,3,championship,61,62,0,0,3,0,2005-08-13 16:00:00,,2006
+Plymouth Argyle,Derby County,0-2,https://www.besoccer.com/match/plymouth-argyle/derby-county-fc/20062470,2006,3,championship,47,59,1,0,3,0,2005-08-13 16:00:00,,2006
+Preston North End,Reading,0-3,https://www.besoccer.com/match/preston-north-end/reading-fc/20062471,2006,3,championship,59,55,2,0,0,0,2005-08-13 16:00:00,,2006
+Queens Park Rangers,Sheffield United,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/20062472,2006,3,championship,54,62,1,0,3,0,2005-08-13 16:00:00,,2006
+Sheffield Wednesday,Southampton,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/20062473,2006,3,championship,52,69,0,0,0,0,2005-08-13 16:00:00,,2006
+Wolves,Hull City,1-0,https://www.besoccer.com/match/wolverhampton/hull-city/20062474,2006,3,championship,64,41,1,0,1,0,2005-08-13 16:00:00,,2006
+Coventry City,Queens Park Rangers,3-0,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/20062475,2006,4,championship,59,54,5,0,3,0,2005-08-20 16:00:00,,2006
+Crewe Alexandra,Leicester,2-2,https://www.besoccer.com/match/crewe-alexandra/leicester-city-fc/20062476,2006,4,championship,50,64,0,0,1,0,2005-08-20 16:00:00,,2006
+Crystal Palace,Plymouth Argyle,1-0,https://www.besoccer.com/match/crystal-palace-fc/plymouth-argyle/20062477,2006,4,championship,62,46,4,0,3,0,2005-08-20 16:00:00,,2006
+Derby County,Cardiff City,2-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/20062478,2006,4,championship,59,53,4,0,6,0,2005-08-20 16:00:00,,2006
+Hull City,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/hull-city/brighton-amp-hov/20062479,2006,4,championship,41,44,0,0,2,0,2005-08-20 16:00:00,,2006
+Ipswich Town,Sheffield Wednesday,2-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/20062480,2006,4,championship,64,52,0,0,2,0,2005-08-20 16:00:00,,2006
+Leeds United,Wolves,2-0,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/20062481,2006,4,championship,66,64,0,0,1,0,2005-08-20 16:00:00,,2006
+Reading,Millwall,5-0,https://www.besoccer.com/match/reading-fc/millwall-fc/20062482,2006,4,championship,56,57,1,0,3,0,2005-08-20 16:00:00,,2006
+Sheffield United,Preston North End,2-1,https://www.besoccer.com/match/sheffield-united/preston-north-end/20062483,2006,4,championship,62,58,0,0,5,0,2005-08-20 16:00:00,,2006
+Southampton,Norwich City,1-0,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/20062484,2006,4,championship,69,61,3,0,1,0,2005-08-20 16:00:00,,2006
+Stoke City,Luton Town,2-1,https://www.besoccer.com/match/stoke-city/luton-town-fc/20062485,2006,4,championship,53,50,0,0,1,0,2005-08-20 16:00:00,,2006
+Watford,Burnley,3-1,https://www.besoccer.com/match/watford-fc/burnley-fc/20062486,2006,4,championship,57,56,3,0,2,0,2005-08-20 16:00:00,,2006
+Queens Park Rangers,Sheffield Wednesday,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/20062487,2006,5,championship,53,52,0,0,1,0,2005-08-26 20:45:00,,2006
+Burnley,Derby County,2-2,https://www.besoccer.com/match/burnley-fc/derby-county-fc/20062488,2006,5,championship,56,59,3,1,1,1,2005-08-27 16:00:00,,2006
+Cardiff City,Wolves,2-2,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/20062489,2006,5,championship,53,64,1,0,2,0,2005-08-27 16:00:00,,2006
+Crystal Palace,Stoke City,2-0,https://www.besoccer.com/match/crystal-palace-fc/stoke-city/20062490,2006,5,championship,62,53,0,0,1,0,2005-08-27 16:00:00,,2006
+Leicester,Luton Town,0-2,https://www.besoccer.com/match/leicester-city-fc/luton-town-fc/20062491,2006,5,championship,64,50,3,0,1,0,2005-08-27 16:00:00,,2006
+Millwall,Ipswich Town,1-2,https://www.besoccer.com/match/millwall-fc/ipswich-town-fc/20062492,2006,5,championship,57,64,1,0,2,0,2005-08-27 16:00:00,,2006
+Norwich City,Leeds United,0-1,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/20062493,2006,5,championship,61,66,0,0,2,0,2005-08-27 16:00:00,,2006
+Plymouth Argyle,Hull City,0-1,https://www.besoccer.com/match/plymouth-argyle/hull-city/20062494,2006,5,championship,47,41,3,0,2,0,2005-08-27 16:00:00,,2006
+Preston North End,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/preston-north-end/brighton-amp-hov/20062495,2006,5,championship,58,43,0,0,2,0,2005-08-27 16:00:00,,2006
+Sheffield United,Coventry City,2-1,https://www.besoccer.com/match/sheffield-united/coventry-city/20062496,2006,5,championship,62,59,2,0,3,0,2005-08-27 16:00:00,,2006
+Southampton,Crewe Alexandra,2-0,https://www.besoccer.com/match/southampton-fc/crewe-alexandra/20062497,2006,5,championship,70,49,1,0,1,0,2005-08-27 16:00:00,,2006
+Watford,Reading,0-0,https://www.besoccer.com/match/watford-fc/reading-fc/20062498,2006,5,championship,57,56,0,0,0,0,2005-08-27 18:15:00,,2006
+Luton Town,Millwall,2-1,https://www.besoccer.com/match/luton-town-fc/millwall-fc/20062505,2006,6,championship,50,57,1,0,1,0,2005-08-29 13:00:00,,2006
+Ipswich Town,Preston North End,0-4,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/20062504,2006,6,championship,64,58,0,0,2,0,2005-08-29 13:45:00,,2006
+Brighton & Hove Albion,Plymouth Argyle,2-0,https://www.besoccer.com/match/brighton-amp-hov/plymouth-argyle/20062499,2006,6,championship,43,46,1,0,1,0,2005-08-29 16:00:00,,2006
+Crewe Alexandra,Sheffield United,1-3,https://www.besoccer.com/match/crewe-alexandra/sheffield-united/20062501,2006,6,championship,49,62,1,0,0,0,2005-08-29 16:00:00,,2006
+Derby County,Watford,1-2,https://www.besoccer.com/match/derby-county-fc/watford-fc/20062502,2006,6,championship,59,57,4,1,1,1,2005-08-29 16:00:00,,2006
+Hull City,Leicester,1-1,https://www.besoccer.com/match/hull-city/leicester-city-fc/20062503,2006,6,championship,41,64,2,0,3,0,2005-08-29 16:00:00,,2006
+Reading,Burnley,2-1,https://www.besoccer.com/match/reading-fc/burnley-fc/20062506,2006,6,championship,56,56,1,0,2,0,2005-08-29 16:00:00,,2006
+Stoke City,Norwich City,3-1,https://www.besoccer.com/match/stoke-city/norwich-city-fc/20062507,2006,6,championship,53,61,2,0,1,0,2005-08-29 20:45:00,,2006
+Coventry City,Southampton,1-1,https://www.besoccer.com/match/coventry-city/southampton-fc/20062500,2006,6,championship,59,70,1,0,2,0,2005-08-29 21:00:00,,2006
+Wolves,Queens Park Rangers,3-1,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/20062508,2006,6,championship,64,53,1,0,0,0,2005-08-30 20:45:00,,2006
+Sheffield Wednesday,Cardiff City,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/20062509,2006,6,championship,52,54,1,0,2,0,2005-11-09 20:45:00,,2006
+Leeds United,Crystal Palace,0-1,https://www.besoccer.com/match/leeds-united-afc/crystal-palace-fc/20062510,2006,6,championship,67,63,2,0,1,0,2006-03-21 20:45:00,,2006
+Norwich City,Plymouth Argyle,2-0,https://www.besoccer.com/match/norwich-city-fc/plymouth-argyle/20062518,2006,7,championship,60,46,1,0,1,0,2005-09-10 13:45:00,,2006
+Burnley,Cardiff City,3-3,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/20062511,2006,7,championship,56,53,2,0,2,0,2005-09-10 16:00:00,,2006
+Coventry City,Reading,1-1,https://www.besoccer.com/match/coventry-city/reading-fc/20062512,2006,7,championship,59,56,4,0,0,0,2005-09-10 16:00:00,,2006
+Crystal Palace,Hull City,2-0,https://www.besoccer.com/match/crystal-palace-fc/hull-city/20062513,2006,7,championship,62,42,3,0,0,0,2005-09-10 16:00:00,,2006
+Leeds United,Brighton & Hove Albion,3-3,https://www.besoccer.com/match/leeds-united-afc/brighton-amp-hov/20062514,2006,7,championship,66,43,2,0,2,0,2005-09-10 16:00:00,,2006
+Leicester,Sheffield Wednesday,2-0,https://www.besoccer.com/match/leicester-city-fc/sheffield-wednesday-fc/20062515,2006,7,championship,64,52,1,0,2,0,2005-09-10 16:00:00,,2006
+Luton Town,Wolves,1-1,https://www.besoccer.com/match/luton-town-fc/wolverhampton/20062516,2006,7,championship,51,64,4,0,3,0,2005-09-10 16:00:00,,2006
+Millwall,Preston North End,1-2,https://www.besoccer.com/match/millwall-fc/preston-north-end/20062517,2006,7,championship,57,58,4,0,3,0,2005-09-10 16:00:00,,2006
+Sheffield United,Ipswich Town,2-0,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/20062519,2006,7,championship,62,64,0,0,4,0,2005-09-10 16:00:00,,2006
+Southampton,Queens Park Rangers,1-1,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/20062520,2006,7,championship,70,53,1,0,3,0,2005-09-10 16:00:00,,2006
+Stoke City,Watford,0-3,https://www.besoccer.com/match/stoke-city/watford-fc/20062521,2006,7,championship,54,57,3,1,1,1,2005-09-10 16:00:00,,2006
+Crewe Alexandra,Derby County,1-1,https://www.besoccer.com/match/crewe-alexandra/derby-county-fc/20062522,2006,7,championship,49,59,1,0,2,0,2005-09-11 14:30:00,,2006
+Brighton & Hove Albion,Sheffield United,0-1,https://www.besoccer.com/match/brighton-amp-hov/sheffield-united/20062523,2006,8,championship,44,63,5,0,4,0,2005-09-13 20:45:00,,2006
+Cardiff City,Leicester,1-0,https://www.besoccer.com/match/cardiff-city-fc/leicester-city-fc/20062524,2006,8,championship,53,64,2,0,2,0,2005-09-13 20:45:00,,2006
+Hull City,Stoke City,0-1,https://www.besoccer.com/match/hull-city/stoke-city/20062525,2006,8,championship,41,53,1,0,5,0,2005-09-13 20:45:00,,2006
+Ipswich Town,Southampton,2-2,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/20062526,2006,8,championship,63,69,2,0,1,0,2005-09-13 20:45:00,,2006
+Plymouth Argyle,Crewe Alexandra,1-1,https://www.besoccer.com/match/plymouth-argyle/crewe-alexandra/20062527,2006,8,championship,46,49,2,0,2,0,2005-09-13 20:45:00,,2006
+Preston North End,Burnley,0-0,https://www.besoccer.com/match/preston-north-end/burnley-fc/20062528,2006,8,championship,58,56,2,0,2,0,2005-09-13 20:45:00,,2006
+Queens Park Rangers,Luton Town,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/luton-town-fc/20062529,2006,8,championship,53,51,3,1,0,1,2005-09-13 20:45:00,,2006
+Watford,Norwich City,2-1,https://www.besoccer.com/match/watford-fc/norwich-city-fc/20062532,2006,8,championship,58,61,1,0,2,0,2005-09-13 20:45:00,,2006
+Wolves,Millwall,1-2,https://www.besoccer.com/match/wolverhampton/millwall-fc/20062533,2006,8,championship,64,57,1,0,1,0,2005-09-13 20:45:00,,2006
+Reading,Crystal Palace,3-2,https://www.besoccer.com/match/reading-fc/crystal-palace-fc/20062530,2006,8,championship,56,62,2,0,3,0,2005-09-13 21:00:00,,2006
+Sheffield Wednesday,Leeds United,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/20062531,2006,8,championship,52,66,0,0,0,0,2005-09-13 21:00:00,,2006
+Derby County,Coventry City,1-1,https://www.besoccer.com/match/derby-county-fc/coventry-city/20062534,2006,8,championship,59,59,2,0,1,0,2005-09-14 20:45:00,,2006
+Preston North End,Stoke City,0-1,https://www.besoccer.com/match/preston-north-end/stoke-city/20062535,2006,9,championship,58,53,2,0,0,0,2005-09-16 20:45:00,,2006
+Hull City,Luton Town,0-1,https://www.besoccer.com/match/hull-city/luton-town-fc/20062538,2006,9,championship,41,51,1,0,0,0,2005-09-17 13:45:00,,2006
+Brighton & Hove Albion,Coventry City,2-2,https://www.besoccer.com/match/brighton-amp-hov/coventry-city/20062536,2006,9,championship,43,59,0,0,1,0,2005-09-17 16:00:00,,2006
+Cardiff City,Crystal Palace,1-0,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/20062537,2006,9,championship,53,62,1,0,4,0,2005-09-17 16:00:00,,2006
+Plymouth Argyle,Burnley,1-0,https://www.besoccer.com/match/plymouth-argyle/burnley-fc/20062539,2006,9,championship,46,56,5,0,2,0,2005-09-17 16:00:00,,2006
+Queens Park Rangers,Leeds United,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/20062540,2006,9,championship,53,66,2,0,4,0,2005-09-17 16:00:00,,2006
+Reading,Crewe Alexandra,1-0,https://www.besoccer.com/match/reading-fc/crewe-alexandra/20062541,2006,9,championship,57,49,0,0,0,0,2005-09-17 16:00:00,,2006
+Sheffield Wednesday,Millwall,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/millwall-fc/20062542,2006,9,championship,52,57,1,0,2,0,2005-09-17 16:00:00,,2006
+Watford,Sheffield United,2-3,https://www.besoccer.com/match/watford-fc/sheffield-united/20062543,2006,9,championship,58,63,2,1,2,1,2005-09-17 16:00:00,,2006
+Wolves,Leicester,0-0,https://www.besoccer.com/match/wolverhampton/leicester-city-fc/20062544,2006,9,championship,63,64,1,0,3,0,2005-09-17 16:00:00,,2006
+Ipswich Town,Norwich City,0-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/20062546,2006,9,championship,63,60,2,1,3,1,2005-09-18 13:00:00,,2006
+Derby County,Southampton,2-2,https://www.besoccer.com/match/derby-county-fc/southampton-fc/20062545,2006,9,championship,59,69,3,0,7,0,2005-09-18 17:00:00,,2006
+Luton Town,Sheffield Wednesday,2-2,https://www.besoccer.com/match/luton-town-fc/sheffield-wednesday-fc/20062547,2006,10,championship,51,52,0,0,0,0,2005-09-23 20:45:00,,2006
+Burnley,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/burnley-fc/brighton-amp-hov/20062548,2006,10,championship,56,44,1,0,0,0,2005-09-24 16:00:00,,2006
+Coventry City,Hull City,0-2,https://www.besoccer.com/match/coventry-city/hull-city/20062549,2006,10,championship,59,41,0,0,2,0,2005-09-24 16:00:00,,2006
+Crewe Alexandra,Watford,0-0,https://www.besoccer.com/match/crewe-alexandra/watford-fc/20062550,2006,10,championship,49,58,0,0,4,0,2005-09-24 16:00:00,,2006
+Crystal Palace,Preston North End,1-1,https://www.besoccer.com/match/crystal-palace-fc/preston-north-end/20062551,2006,10,championship,62,58,0,0,4,0,2005-09-24 16:00:00,,2006
+Leeds United,Ipswich Town,0-2,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/20062552,2006,10,championship,66,63,0,0,0,0,2005-09-24 16:00:00,,2006
+Leicester,Queens Park Rangers,1-2,https://www.besoccer.com/match/leicester-city-fc/queens-park-rangers-fc/20062553,2006,10,championship,64,53,3,1,4,1,2005-09-24 16:00:00,,2006
+Millwall,Cardiff City,0-0,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/20062554,2006,10,championship,57,54,1,0,3,0,2005-09-24 16:00:00,,2006
+Norwich City,Reading,0-1,https://www.besoccer.com/match/norwich-city-fc/reading-fc/20062555,2006,10,championship,61,57,1,0,2,0,2005-09-24 16:00:00,,2006
+Sheffield United,Derby County,2-1,https://www.besoccer.com/match/sheffield-united/derby-county-fc/20062556,2006,10,championship,63,59,1,0,1,0,2005-09-24 16:00:00,,2006
+Southampton,Plymouth Argyle,0-0,https://www.besoccer.com/match/southampton-fc/plymouth-argyle/20062557,2006,10,championship,69,46,1,0,3,0,2005-09-24 16:00:00,,2006
+Stoke City,Wolves,1-3,https://www.besoccer.com/match/stoke-city/wolverhampton/20062558,2006,10,championship,54,63,1,0,0,0,2005-09-24 16:00:00,,2006
+Burnley,Ipswich Town,3-0,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/20062559,2006,11,championship,56,64,0,0,0,0,2005-09-27 20:45:00,,2006
+Crewe Alexandra,Wolves,0-4,https://www.besoccer.com/match/crewe-alexandra/wolverhampton/20062560,2006,11,championship,49,63,0,0,0,0,2005-09-27 20:45:00,,2006
+Leicester,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/leicester-city-fc/brighton-amp-hov/20062562,2006,11,championship,63,44,2,0,1,0,2005-09-27 20:45:00,,2006
+Luton Town,Preston North End,3-0,https://www.besoccer.com/match/luton-town-fc/preston-north-end/20062563,2006,11,championship,51,58,2,0,2,0,2005-09-27 20:45:00,,2006
+Millwall,Queens Park Rangers,1-1,https://www.besoccer.com/match/millwall-fc/queens-park-rangers-fc/20062564,2006,11,championship,57,53,0,0,1,0,2005-09-27 20:45:00,,2006
+Norwich City,Hull City,2-1,https://www.besoccer.com/match/norwich-city-fc/hull-city/20062565,2006,11,championship,61,42,0,0,3,0,2005-09-27 20:45:00,,2006
+Sheffield United,Plymouth Argyle,2-0,https://www.besoccer.com/match/sheffield-united/plymouth-argyle/20062566,2006,11,championship,63,46,3,0,2,0,2005-09-27 20:45:00,,2006
+Stoke City,Cardiff City,0-3,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/20062567,2006,11,championship,53,54,1,0,2,0,2005-09-27 20:45:00,,2006
+Crystal Palace,Sheffield Wednesday,2-0,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/20062561,2006,11,championship,62,52,2,0,1,0,2005-09-27 21:00:00,,2006
+Coventry City,Watford,3-1,https://www.besoccer.com/match/coventry-city/watford-fc/20062568,2006,11,championship,59,58,3,0,4,0,2005-09-28 20:45:00,,2006
+Leeds United,Derby County,3-1,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/20062569,2006,11,championship,66,59,3,0,0,0,2005-09-28 20:45:00,,2006
+Southampton,Reading,0-0,https://www.besoccer.com/match/southampton-fc/reading-fc/20062570,2006,11,championship,69,57,1,0,2,0,2005-09-28 20:45:00,,2006
+Hull City,Millwall,1-1,https://www.besoccer.com/match/hull-city/millwall-fc/20062571,2006,12,championship,42,57,0,0,1,0,2005-09-30 20:45:00,,2006
+Wolves,Burnley,0-1,https://www.besoccer.com/match/wolverhampton/burnley-fc/20062572,2006,12,championship,64,56,0,0,1,0,2005-09-30 20:45:00,,2006
+Brighton & Hove Albion,Norwich City,1-3,https://www.besoccer.com/match/brighton-amp-hov/norwich-city-fc/20062573,2006,12,championship,44,61,2,0,2,0,2005-10-01 16:00:00,,2006
+Cardiff City,Luton Town,1-2,https://www.besoccer.com/match/cardiff-city-fc/luton-town-fc/20062574,2006,12,championship,54,51,1,0,1,0,2005-10-01 16:00:00,,2006
+Derby County,Leicester,1-1,https://www.besoccer.com/match/derby-county-fc/leicester-city-fc/20062575,2006,12,championship,59,63,0,0,3,0,2005-10-01 16:00:00,,2006
+Ipswich Town,Crewe Alexandra,2-1,https://www.besoccer.com/match/ipswich-town-fc/crewe-alexandra/20062576,2006,12,championship,63,49,1,0,2,0,2005-10-01 16:00:00,,2006
+Plymouth Argyle,Stoke City,2-1,https://www.besoccer.com/match/plymouth-argyle/stoke-city/20062577,2006,12,championship,46,53,0,0,2,0,2005-10-01 16:00:00,,2006
+Preston North End,Southampton,1-1,https://www.besoccer.com/match/preston-north-end/southampton-fc/20062578,2006,12,championship,58,69,0,0,3,0,2005-10-01 16:00:00,,2006
+Reading,Sheffield United,2-1,https://www.besoccer.com/match/reading-fc/sheffield-united/20062579,2006,12,championship,57,63,0,0,3,0,2005-10-01 16:00:00,,2006
+Sheffield Wednesday,Coventry City,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/20062580,2006,12,championship,52,59,1,0,2,0,2005-10-01 16:00:00,,2006
+Watford,Leeds United,0-0,https://www.besoccer.com/match/watford-fc/leeds-united-afc/20062581,2006,12,championship,58,66,0,0,1,0,2005-10-01 16:00:00,,2006
+Queens Park Rangers,Crystal Palace,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/20062582,2006,12,championship,53,62,4,0,3,0,2005-10-03 20:45:00,,2006
+Burnley,Leeds United,1-2,https://www.besoccer.com/match/burnley-fc/leeds-united-afc/20062584,2006,13,championship,56,66,3,0,3,0,2005-10-15 13:30:00,,2006
+Brighton & Hove Albion,Cardiff City,1-2,https://www.besoccer.com/match/brighton-amp-hov/cardiff-city-fc/20062583,2006,13,championship,44,54,3,0,2,0,2005-10-15 16:00:00,,2006
+Coventry City,Crystal Palace,1-4,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/20062585,2006,13,championship,59,62,1,1,0,1,2005-10-15 16:00:00,,2006
+Crewe Alexandra,Luton Town,3-1,https://www.besoccer.com/match/crewe-alexandra/luton-town-fc/20062586,2006,13,championship,49,51,1,0,1,0,2005-10-15 16:00:00,,2006
+Derby County,Stoke City,2-1,https://www.besoccer.com/match/derby-county-fc/stoke-city/20062587,2006,13,championship,59,53,1,0,2,0,2005-10-15 16:00:00,,2006
+Norwich City,Millwall,1-1,https://www.besoccer.com/match/norwich-city-fc/millwall-fc/20062588,2006,13,championship,61,57,2,0,6,0,2005-10-15 16:00:00,,2006
+Plymouth Argyle,Sheffield Wednesday,1-1,https://www.besoccer.com/match/plymouth-argyle/sheffield-wednesday-fc/20062589,2006,13,championship,46,52,2,0,5,0,2005-10-15 16:00:00,,2006
+Preston North End,Queens Park Rangers,1-1,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/20062590,2006,13,championship,58,53,0,0,1,0,2005-10-15 16:00:00,,2006
+Sheffield United,Wolves,1-0,https://www.besoccer.com/match/sheffield-united/wolverhampton/20062591,2006,13,championship,63,63,1,0,1,0,2005-10-15 16:00:00,,2006
+Southampton,Hull City,1-1,https://www.besoccer.com/match/southampton-fc/hull-city/20062592,2006,13,championship,69,42,2,0,1,0,2005-10-15 16:00:00,,2006
+Watford,Leicester,1-2,https://www.besoccer.com/match/watford-fc/leicester-city-fc/20062593,2006,13,championship,58,63,1,0,2,0,2005-10-15 16:00:00,,2006
+Reading,Ipswich Town,2-0,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/20062594,2006,13,championship,57,63,0,0,5,0,2005-10-16 14:30:00,,2006
+Cardiff City,Preston North End,2-2,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/20062595,2006,14,championship,54,58,1,0,2,0,2005-10-18 20:45:00,,2006
+Hull City,Reading,1-1,https://www.besoccer.com/match/hull-city/reading-fc/20062597,2006,14,championship,42,57,1,0,0,0,2005-10-18 20:45:00,,2006
+Ipswich Town,Coventry City,2-2,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/20062598,2006,14,championship,63,59,1,0,2,0,2005-10-18 20:45:00,,2006
+Leeds United,Southampton,2-1,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/20062599,2006,14,championship,66,69,2,0,2,0,2005-10-18 20:45:00,,2006
+Leicester,Burnley,0-1,https://www.besoccer.com/match/leicester-city-fc/burnley-fc/20062600,2006,14,championship,64,56,1,0,2,0,2005-10-18 20:45:00,,2006
+Luton Town,Norwich City,4-2,https://www.besoccer.com/match/luton-town-fc/norwich-city-fc/20062601,2006,14,championship,51,61,2,0,1,0,2005-10-18 20:45:00,,2006
+Millwall,Sheffield United,0-4,https://www.besoccer.com/match/millwall-fc/sheffield-united/20062602,2006,14,championship,57,63,1,0,3,0,2005-10-18 20:45:00,,2006
+Queens Park Rangers,Plymouth Argyle,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/plymouth-argyle/20062603,2006,14,championship,53,46,2,0,1,0,2005-10-18 20:45:00,,2006
+Sheffield Wednesday,Watford,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/watford-fc/20062604,2006,14,championship,52,58,2,0,3,0,2005-10-18 20:45:00,,2006
+Stoke City,Crewe Alexandra,2-0,https://www.besoccer.com/match/stoke-city/crewe-alexandra/20062605,2006,14,championship,53,49,0,1,1,1,2005-10-18 20:45:00,,2006
+Wolves,Derby County,1-1,https://www.besoccer.com/match/wolverhampton/derby-county-fc/20062606,2006,14,championship,63,59,1,0,1,0,2005-10-18 20:45:00,,2006
+Crystal Palace,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/crystal-palace-fc/brighton-amp-hov/20062596,2006,14,championship,63,43,0,0,1,0,2005-10-18 21:00:00,,2006
+Leeds United,Sheffield United,1-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-united/20062607,2006,15,championship,66,63,4,0,0,0,2005-10-21 20:45:00,,2006
+Cardiff City,Crewe Alexandra,6-1,https://www.besoccer.com/match/cardiff-city-fc/crewe-alexandra/20062608,2006,15,championship,54,49,2,0,2,0,2005-10-22 16:00:00,,2006
+Crystal Palace,Burnley,2-0,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/20062609,2006,15,championship,62,57,2,0,2,0,2005-10-22 16:00:00,,2006
+Hull City,Derby County,2-1,https://www.besoccer.com/match/hull-city/derby-county-fc/20062610,2006,15,championship,42,59,3,0,7,0,2005-10-22 16:00:00,,2006
+Ipswich Town,Watford,0-1,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/20062611,2006,15,championship,63,58,1,0,4,0,2005-10-22 16:00:00,,2006
+Luton Town,Plymouth Argyle,1-1,https://www.besoccer.com/match/luton-town-fc/plymouth-argyle/20062612,2006,15,championship,51,46,0,0,3,0,2005-10-22 16:00:00,,2006
+Millwall,Southampton,0-2,https://www.besoccer.com/match/millwall-fc/southampton-fc/20062613,2006,15,championship,57,69,2,0,3,0,2005-10-22 16:00:00,,2006
+Queens Park Rangers,Norwich City,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/20062614,2006,15,championship,53,60,1,0,2,0,2005-10-22 16:00:00,,2006
+Stoke City,Reading,0-1,https://www.besoccer.com/match/stoke-city/reading-fc/20062615,2006,15,championship,53,57,3,0,2,0,2005-10-22 16:00:00,,2006
+Wolves,Preston North End,1-1,https://www.besoccer.com/match/wolverhampton/preston-north-end/20062616,2006,15,championship,63,58,2,0,2,0,2005-10-22 16:00:00,,2006
+Leicester,Coventry City,2-1,https://www.besoccer.com/match/leicester-city-fc/coventry-city/20062617,2006,15,championship,63,59,2,0,2,0,2005-10-23 16:00:00,,2006
+Sheffield Wednesday,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/brighton-amp-hov/20062618,2006,15,championship,52,44,0,0,1,0,2005-10-24 20:45:00,,2006
+Burnley,Hull City,1-0,https://www.besoccer.com/match/burnley-fc/hull-city/20062619,2006,16,championship,56,42,1,0,2,0,2005-10-28 20:45:00,,2006
+Brighton & Hove Albion,Ipswich Town,1-1,https://www.besoccer.com/match/brighton-amp-hov/ipswich-town-fc/20062620,2006,16,championship,44,63,2,0,1,0,2005-10-29 16:00:00,,2006
+Coventry City,Luton Town,1-0,https://www.besoccer.com/match/coventry-city/luton-town-fc/20062621,2006,16,championship,59,51,2,0,0,0,2005-10-29 16:00:00,,2006
+Crewe Alexandra,Crystal Palace,2-2,https://www.besoccer.com/match/crewe-alexandra/crystal-palace-fc/20062622,2006,16,championship,49,63,1,0,1,0,2005-10-29 16:00:00,,2006
+Derby County,Queens Park Rangers,1-2,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/20062623,2006,16,championship,59,54,1,0,0,0,2005-10-29 16:00:00,,2006
+Norwich City,Sheffield Wednesday,0-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/20062624,2006,16,championship,60,52,0,0,1,0,2005-10-29 16:00:00,,2006
+Preston North End,Leicester,0-0,https://www.besoccer.com/match/preston-north-end/leicester-city-fc/20062625,2006,16,championship,58,64,3,0,3,0,2005-10-29 16:00:00,,2006
+Reading,Leeds United,1-1,https://www.besoccer.com/match/reading-fc/leeds-united-afc/20062626,2006,16,championship,58,66,1,0,1,0,2005-10-29 16:00:00,,2006
+Sheffield United,Cardiff City,0-0,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/20062627,2006,16,championship,63,54,0,0,0,0,2005-10-29 16:00:00,,2006
+Southampton,Stoke City,2-0,https://www.besoccer.com/match/southampton-fc/stoke-city/20062628,2006,16,championship,69,53,0,0,1,0,2005-10-29 16:00:00,,2006
+Watford,Wolves,3-1,https://www.besoccer.com/match/watford-fc/wolverhampton/20062629,2006,16,championship,58,63,1,0,1,0,2005-10-29 16:00:00,,2006
+Plymouth Argyle,Millwall,0-0,https://www.besoccer.com/match/plymouth-argyle/millwall-fc/20062630,2006,16,championship,46,57,0,0,1,0,2005-10-30 14:30:00,,2006
+Brighton & Hove Albion,Wolves,1-1,https://www.besoccer.com/match/brighton-amp-hov/wolverhampton/20062631,2006,17,championship,44,63,1,0,2,0,2005-11-01 20:45:00,,2006
+Burnley,Millwall,2-1,https://www.besoccer.com/match/burnley-fc/millwall-fc/20062632,2006,17,championship,57,57,4,0,2,0,2005-11-01 20:45:00,,2006
+Crewe Alexandra,Leeds United,1-0,https://www.besoccer.com/match/crewe-alexandra/leeds-united-afc/20062633,2006,17,championship,49,66,1,0,3,0,2005-11-01 20:45:00,,2006
+Norwich City,Cardiff City,1-0,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/20062634,2006,17,championship,60,54,2,0,1,0,2005-11-01 20:45:00,,2006
+Preston North End,Hull City,3-0,https://www.besoccer.com/match/preston-north-end/hull-city/20062635,2006,17,championship,58,42,0,0,0,0,2005-11-01 20:45:00,,2006
+Sheffield United,Luton Town,4-0,https://www.besoccer.com/match/sheffield-united/luton-town-fc/20062637,2006,17,championship,63,51,1,0,1,0,2005-11-01 20:45:00,,2006
+Watford,Queens Park Rangers,3-1,https://www.besoccer.com/match/watford-fc/queens-park-rangers-fc/20062638,2006,17,championship,58,54,0,0,0,0,2005-11-01 20:45:00,,2006
+Reading,Sheffield Wednesday,2-0,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/20062636,2006,17,championship,58,52,0,0,1,0,2005-11-01 21:00:00,,2006
+Coventry City,Stoke City,1-2,https://www.besoccer.com/match/coventry-city/stoke-city/20062639,2006,17,championship,59,53,2,0,1,0,2005-11-02 20:45:00,,2006
+Derby County,Ipswich Town,3-3,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/20062640,2006,17,championship,58,63,1,0,2,0,2005-11-02 20:45:00,,2006
+Plymouth Argyle,Leicester,1-0,https://www.besoccer.com/match/plymouth-argyle/leicester-city-fc/20062641,2006,17,championship,47,63,1,0,1,0,2006-01-24 20:45:00,,2006
+Southampton,Crystal Palace,0-0,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/20062642,2006,17,championship,68,63,1,0,1,0,2006-01-25 20:45:00,,2006
+Crystal Palace,Sheffield United,2-3,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/20062643,2006,18,championship,63,63,1,0,3,0,2005-11-05 16:00:00,,2006
+Hull City,Watford,1-2,https://www.besoccer.com/match/hull-city/watford-fc/20062644,2006,18,championship,42,58,0,0,0,0,2005-11-05 16:00:00,,2006
+Ipswich Town,Plymouth Argyle,3-1,https://www.besoccer.com/match/ipswich-town-fc/plymouth-argyle/20062645,2006,18,championship,63,46,2,0,1,0,2005-11-05 16:00:00,,2006
+Leeds United,Preston North End,0-0,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/20062646,2006,18,championship,66,58,1,0,4,0,2005-11-05 16:00:00,,2006
+Leicester,Southampton,0-0,https://www.besoccer.com/match/leicester-city-fc/southampton-fc/20062647,2006,18,championship,64,69,1,0,2,0,2005-11-05 16:00:00,,2006
+Luton Town,Burnley,2-3,https://www.besoccer.com/match/luton-town-fc/burnley-fc/20062648,2006,18,championship,51,57,1,0,0,0,2005-11-05 16:00:00,,2006
+Millwall,Crewe Alexandra,1-3,https://www.besoccer.com/match/millwall-fc/crewe-alexandra/20062649,2006,18,championship,57,49,2,0,1,0,2005-11-05 16:00:00,,2006
+Queens Park Rangers,Reading,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/20062650,2006,18,championship,54,58,1,0,2,0,2005-11-05 16:00:00,,2006
+Sheffield Wednesday,Derby County,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/20062651,2006,18,championship,52,59,1,0,2,0,2005-11-05 16:00:00,,2006
+Stoke City,Brighton & Hove Albion,3-0,https://www.besoccer.com/match/stoke-city/brighton-amp-hov/20062652,2006,18,championship,53,44,4,0,1,0,2005-11-05 16:00:00,,2006
+Wolves,Norwich City,2-0,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/20062653,2006,18,championship,63,60,0,0,0,0,2005-11-05 16:00:00,,2006
+Cardiff City,Coventry City,0-0,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/20062654,2006,18,championship,54,59,2,0,2,0,2005-11-06 16:00:00,,2006
+Derby County,Wolves,0-3,https://www.besoccer.com/match/derby-county-fc/wolverhampton/20062655,2006,19,championship,58,63,0,0,0,0,2005-11-18 20:45:00,,2006
+Burnley,Leicester,1-0,https://www.besoccer.com/match/burnley-fc/leicester-city-fc/20062656,2006,19,championship,57,64,1,0,1,0,2005-11-19 16:00:00,,2006
+Coventry City,Ipswich Town,1-1,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/20062657,2006,19,championship,59,63,1,0,1,0,2005-11-19 16:00:00,,2006
+Crewe Alexandra,Stoke City,1-2,https://www.besoccer.com/match/crewe-alexandra/stoke-city/20062658,2006,19,championship,49,53,1,0,3,0,2005-11-19 16:00:00,,2006
+Norwich City,Luton Town,2-0,https://www.besoccer.com/match/norwich-city-fc/luton-town-fc/20062659,2006,19,championship,60,51,2,0,2,0,2005-11-19 16:00:00,,2006
+Plymouth Argyle,Queens Park Rangers,3-1,https://www.besoccer.com/match/plymouth-argyle/queens-park-rangers-fc/20062660,2006,19,championship,46,53,3,0,9,0,2005-11-19 16:00:00,,2006
+Preston North End,Cardiff City,2-1,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/20062661,2006,19,championship,58,54,0,0,3,0,2005-11-19 16:00:00,,2006
+Reading,Hull City,3-1,https://www.besoccer.com/match/reading-fc/hull-city/20062662,2006,19,championship,58,42,0,0,1,0,2005-11-19 16:00:00,,2006
+Sheffield United,Millwall,2-2,https://www.besoccer.com/match/sheffield-united/millwall-fc/20062663,2006,19,championship,63,57,2,1,5,1,2005-11-19 16:00:00,,2006
+Southampton,Leeds United,3-4,https://www.besoccer.com/match/southampton-fc/leeds-united-afc/20062664,2006,19,championship,69,66,2,0,2,0,2005-11-19 16:00:00,,2006
+Watford,Sheffield Wednesday,2-1,https://www.besoccer.com/match/watford-fc/sheffield-wednesday-fc/20062665,2006,19,championship,58,52,0,0,0,0,2005-11-19 16:00:00,,2006
+Brighton & Hove Albion,Crystal Palace,2-3,https://www.besoccer.com/match/brighton-amp-hov/crystal-palace-fc/20062666,2006,19,championship,44,63,4,0,2,0,2005-11-20 14:30:00,,2006
+Cardiff City,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/cardiff-city-fc/brighton-amp-hov/20062667,2006,20,championship,54,44,1,0,3,0,2005-11-22 20:45:00,,2006
+Hull City,Southampton,1-1,https://www.besoccer.com/match/hull-city/southampton-fc/20062669,2006,20,championship,42,69,1,0,1,0,2005-11-22 20:45:00,,2006
+Ipswich Town,Reading,0-3,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/20062670,2006,20,championship,63,58,0,0,0,0,2005-11-22 20:45:00,,2006
+Leeds United,Burnley,2-0,https://www.besoccer.com/match/leeds-united-afc/burnley-fc/20062671,2006,20,championship,66,57,2,0,3,0,2005-11-22 20:45:00,,2006
+Leicester,Watford,2-2,https://www.besoccer.com/match/leicester-city-fc/watford-fc/20062672,2006,20,championship,64,58,1,0,3,0,2005-11-22 20:45:00,,2006
+Luton Town,Crewe Alexandra,4-1,https://www.besoccer.com/match/luton-town-fc/crewe-alexandra/20062673,2006,20,championship,51,49,0,0,0,0,2005-11-22 20:45:00,,2006
+Millwall,Norwich City,1-0,https://www.besoccer.com/match/millwall-fc/norwich-city-fc/20062674,2006,20,championship,57,60,1,0,3,0,2005-11-22 20:45:00,,2006
+Queens Park Rangers,Preston North End,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/20062675,2006,20,championship,53,58,1,0,1,0,2005-11-22 20:45:00,,2006
+Sheffield Wednesday,Plymouth Argyle,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/plymouth-argyle/20062676,2006,20,championship,52,46,0,0,0,0,2005-11-22 20:45:00,,2006
+Stoke City,Derby County,1-2,https://www.besoccer.com/match/stoke-city/derby-county-fc/20062677,2006,20,championship,53,58,1,0,3,0,2005-11-22 20:45:00,,2006
+Wolves,Sheffield United,0-0,https://www.besoccer.com/match/wolverhampton/sheffield-united/20062678,2006,20,championship,63,63,3,0,1,0,2005-11-22 20:45:00,,2006
+Crystal Palace,Coventry City,2-0,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/20062668,2006,20,championship,63,59,0,0,2,0,2005-11-22 21:00:00,,2006
+Wolves,Southampton,0-0,https://www.besoccer.com/match/wolverhampton/southampton-fc/20062689,2006,21,championship,63,69,2,0,1,0,2005-11-26 13:30:00,,2006
+Brighton & Hove Albion,Derby County,0-0,https://www.besoccer.com/match/brighton-amp-hov/derby-county-fc/20062679,2006,21,championship,44,58,0,0,2,0,2005-11-26 16:00:00,,2006
+Burnley,Crewe Alexandra,3-0,https://www.besoccer.com/match/burnley-fc/crewe-alexandra/20062680,2006,21,championship,57,49,1,0,1,0,2005-11-26 16:00:00,,2006
+Coventry City,Norwich City,2-2,https://www.besoccer.com/match/coventry-city/norwich-city-fc/20062681,2006,21,championship,58,60,4,0,3,0,2005-11-26 16:00:00,,2006
+Leicester,Sheffield United,4-2,https://www.besoccer.com/match/leicester-city-fc/sheffield-united/20062682,2006,21,championship,64,63,5,0,5,0,2005-11-26 16:00:00,,2006
+Luton Town,Crystal Palace,2-0,https://www.besoccer.com/match/luton-town-fc/crystal-palace-fc/20062683,2006,21,championship,51,63,2,0,2,0,2005-11-26 16:00:00,,2006
+Millwall,Leeds United,0-1,https://www.besoccer.com/match/millwall-fc/leeds-united-afc/20062684,2006,21,championship,57,66,2,0,4,0,2005-11-26 16:00:00,,2006
+Plymouth Argyle,Reading,0-2,https://www.besoccer.com/match/plymouth-argyle/reading-fc/20062685,2006,21,championship,46,59,2,0,2,0,2005-11-26 16:00:00,,2006
+Preston North End,Watford,1-1,https://www.besoccer.com/match/preston-north-end/watford-fc/20062686,2006,21,championship,59,58,2,0,3,0,2005-11-26 16:00:00,,2006
+Queens Park Rangers,Hull City,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/20062687,2006,21,championship,53,42,2,0,1,0,2005-11-26 16:00:00,,2006
+Sheffield Wednesday,Stoke City,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/stoke-city/20062688,2006,21,championship,52,53,1,0,5,0,2005-11-26 16:00:00,,2006
+Cardiff City,Ipswich Town,2-1,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/20062690,2006,21,championship,54,63,1,0,0,0,2005-11-28 20:45:00,,2006
+Coventry City,Plymouth Argyle,3-1,https://www.besoccer.com/match/coventry-city/plymouth-argyle/20062691,2006,22,championship,58,46,3,0,1,0,2005-12-03 16:00:00,,2006
+Crewe Alexandra,Preston North End,0-2,https://www.besoccer.com/match/crewe-alexandra/preston-north-end/20062692,2006,22,championship,49,59,1,0,1,0,2005-12-03 16:00:00,,2006
+Crystal Palace,Millwall,1-1,https://www.besoccer.com/match/crystal-palace-fc/millwall-fc/20062693,2006,22,championship,63,57,2,0,2,0,2005-12-03 16:00:00,,2006
+Derby County,Norwich City,2-0,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/20062694,2006,22,championship,58,60,1,0,2,0,2005-12-03 16:00:00,,2006
+Hull City,Cardiff City,2-0,https://www.besoccer.com/match/hull-city/cardiff-city-fc/20062695,2006,22,championship,42,54,0,0,3,0,2005-12-03 16:00:00,,2006
+Ipswich Town,Wolves,1-1,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/20062696,2006,22,championship,63,63,2,0,0,0,2005-12-03 16:00:00,,2006
+Leeds United,Leicester,2-1,https://www.besoccer.com/match/leeds-united-afc/leicester-city-fc/20062697,2006,22,championship,66,64,1,0,1,0,2005-12-03 16:00:00,,2006
+Reading,Luton Town,3-0,https://www.besoccer.com/match/reading-fc/luton-town-fc/20062698,2006,22,championship,59,51,0,0,0,0,2005-12-03 16:00:00,,2006
+Sheffield United,Sheffield Wednesday,1-0,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/20062699,2006,22,championship,63,52,1,0,1,0,2005-12-03 16:00:00,,2006
+Southampton,Burnley,1-1,https://www.besoccer.com/match/southampton-fc/burnley-fc/20062700,2006,22,championship,69,57,1,0,2,0,2005-12-03 16:00:00,,2006
+Stoke City,Queens Park Rangers,1-2,https://www.besoccer.com/match/stoke-city/queens-park-rangers-fc/20062701,2006,22,championship,53,53,2,1,4,1,2005-12-03 16:00:00,,2006
+Watford,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/watford-fc/brighton-amp-hov/20062702,2006,22,championship,58,44,0,0,2,0,2005-12-03 16:00:00,,2006
+Stoke City,Leicester,3-2,https://www.besoccer.com/match/stoke-city/leicester-city-fc/20062703,2006,23,championship,53,64,2,0,3,0,2005-12-09 20:45:00,,2006
+Coventry City,Millwall,1-0,https://www.besoccer.com/match/coventry-city/millwall-fc/20062704,2006,23,championship,59,57,0,0,0,0,2005-12-10 16:00:00,,2006
+Crewe Alexandra,Norwich City,1-2,https://www.besoccer.com/match/crewe-alexandra/norwich-city-fc/20062705,2006,23,championship,48,60,0,0,0,0,2005-12-10 16:00:00,,2006
+Crystal Palace,Wolves,1-1,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/20062706,2006,23,championship,63,63,2,0,2,0,2005-12-10 16:00:00,,2006
+Derby County,Preston North End,1-1,https://www.besoccer.com/match/derby-county-fc/preston-north-end/20062707,2006,23,championship,58,59,0,0,4,0,2005-12-10 16:00:00,,2006
+Hull City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/20062708,2006,23,championship,42,51,0,0,1,0,2005-12-10 16:00:00,,2006
+Ipswich Town,Queens Park Rangers,2-2,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/20062709,2006,23,championship,63,53,2,0,2,0,2005-12-10 16:00:00,,2006
+Leeds United,Cardiff City,0-1,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/20062710,2006,23,championship,67,54,4,0,2,0,2005-12-10 16:00:00,,2006
+Reading,Brighton & Hove Albion,5-1,https://www.besoccer.com/match/reading-fc/brighton-amp-hov/20062711,2006,23,championship,59,44,1,0,3,0,2005-12-10 16:00:00,,2006
+Sheffield United,Burnley,3-0,https://www.besoccer.com/match/sheffield-united/burnley-fc/20062712,2006,23,championship,63,57,0,0,0,0,2005-12-10 16:00:00,,2006
+Watford,Plymouth Argyle,1-1,https://www.besoccer.com/match/watford-fc/plymouth-argyle/20062713,2006,23,championship,58,46,0,0,1,0,2005-12-10 16:00:00,,2006
+Southampton,Luton Town,1-0,https://www.besoccer.com/match/southampton-fc/luton-town-fc/20062714,2006,23,championship,69,51,2,0,3,0,2005-12-11 14:30:00,,2006
+Brighton & Hove Albion,Hull City,2-1,https://www.besoccer.com/match/brighton-amp-hov/hull-city/20062715,2006,24,championship,44,42,2,0,0,0,2005-12-16 20:45:00,,2006
+Preston North End,Sheffield United,0-0,https://www.besoccer.com/match/preston-north-end/sheffield-united/20062716,2006,24,championship,59,63,1,0,1,0,2005-12-16 20:45:00,,2006
+Burnley,Watford,4-1,https://www.besoccer.com/match/burnley-fc/watford-fc/20062717,2006,24,championship,57,58,2,0,0,0,2005-12-17 16:00:00,,2006
+Cardiff City,Derby County,0-0,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/20062718,2006,24,championship,54,58,0,0,1,0,2005-12-17 16:00:00,,2006
+Leicester,Crewe Alexandra,1-1,https://www.besoccer.com/match/leicester-city-fc/crewe-alexandra/20062719,2006,24,championship,64,48,1,0,2,0,2005-12-17 16:00:00,,2006
+Luton Town,Stoke City,2-3,https://www.besoccer.com/match/luton-town-fc/stoke-city/20062720,2006,24,championship,51,54,2,0,3,0,2005-12-17 16:00:00,,2006
+Millwall,Reading,0-2,https://www.besoccer.com/match/millwall-fc/reading-fc/20062721,2006,24,championship,57,59,1,1,1,1,2005-12-17 16:00:00,,2006
+Norwich City,Southampton,3-1,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/20062722,2006,24,championship,60,69,0,0,3,0,2005-12-17 16:00:00,,2006
+Plymouth Argyle,Crystal Palace,2-0,https://www.besoccer.com/match/plymouth-argyle/crystal-palace-fc/20062723,2006,24,championship,46,63,3,0,5,0,2005-12-17 16:00:00,,2006
+Sheffield Wednesday,Ipswich Town,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/20062724,2006,24,championship,51,63,0,0,1,0,2005-12-17 16:00:00,,2006
+Wolves,Leeds United,1-0,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/20062725,2006,24,championship,63,66,2,0,3,0,2005-12-17 16:00:00,,2006
+Queens Park Rangers,Coventry City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/20062726,2006,24,championship,53,59,2,1,2,1,2005-12-19 20:45:00,,2006
+Watford,Southampton,3-0,https://www.besoccer.com/match/watford-fc/southampton-fc/20062737,2006,25,championship,58,68,0,0,0,0,2005-12-26 13:00:00,,2006
+Brighton & Hove Albion,Queens Park Rangers,1-0,https://www.besoccer.com/match/brighton-amp-hov/queens-park-rangers-fc/20062727,2006,25,championship,44,53,3,0,2,0,2005-12-26 14:00:00,,2006
+Cardiff City,Plymouth Argyle,0-2,https://www.besoccer.com/match/cardiff-city-fc/plymouth-argyle/20062729,2006,25,championship,54,46,2,1,2,1,2005-12-26 14:00:00,,2006
+Preston North End,Sheffield Wednesday,0-0,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/20062735,2006,25,championship,59,51,0,0,1,0,2005-12-26 14:30:00,,2006
+Burnley,Stoke City,1-0,https://www.besoccer.com/match/burnley-fc/stoke-city/20062728,2006,25,championship,57,54,3,0,0,0,2005-12-26 16:00:00,,2006
+Crewe Alexandra,Hull City,2-2,https://www.besoccer.com/match/crewe-alexandra/hull-city/20062730,2006,25,championship,48,42,1,0,2,0,2005-12-26 16:00:00,,2006
+Derby County,Luton Town,1-1,https://www.besoccer.com/match/derby-county-fc/luton-town-fc/20062731,2006,25,championship,58,51,2,0,1,0,2005-12-26 16:00:00,,2006
+Ipswich Town,Crystal Palace,0-2,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/20062732,2006,25,championship,63,62,3,0,6,0,2005-12-26 16:00:00,,2006
+Leeds United,Coventry City,3-1,https://www.besoccer.com/match/leeds-united-afc/coventry-city/20062733,2006,25,championship,66,59,3,0,1,0,2005-12-26 16:00:00,,2006
+Leicester,Millwall,1-1,https://www.besoccer.com/match/leicester-city-fc/millwall-fc/20062734,2006,25,championship,63,57,1,0,5,0,2005-12-26 16:00:00,,2006
+Sheffield United,Norwich City,1-3,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/20062736,2006,25,championship,63,60,2,0,6,0,2005-12-26 16:00:00,,2006
+Wolves,Reading,0-2,https://www.besoccer.com/match/wolverhampton/reading-fc/20062738,2006,25,championship,63,59,0,0,0,0,2005-12-26 16:00:00,,2006
+Coventry City,Crewe Alexandra,1-1,https://www.besoccer.com/match/coventry-city/crewe-alexandra/20062739,2006,26,championship,59,48,4,0,1,0,2005-12-28 20:45:00,,2006
+Hull City,Ipswich Town,2-0,https://www.besoccer.com/match/hull-city/ipswich-town-fc/20062741,2006,26,championship,42,62,1,0,0,0,2005-12-28 20:45:00,,2006
+Luton Town,Brighton & Hove Albion,3-0,https://www.besoccer.com/match/luton-town-fc/brighton-amp-hov/20062742,2006,26,championship,51,44,1,0,2,0,2005-12-28 20:45:00,,2006
+Millwall,Watford,0-0,https://www.besoccer.com/match/millwall-fc/watford-fc/20062743,2006,26,championship,57,58,2,0,3,0,2005-12-28 20:45:00,,2006
+Norwich City,Burnley,2-1,https://www.besoccer.com/match/norwich-city-fc/burnley-fc/20062744,2006,26,championship,60,57,3,0,0,0,2005-12-28 20:45:00,,2006
+Queens Park Rangers,Cardiff City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/20062745,2006,26,championship,53,54,1,0,1,0,2005-12-28 20:45:00,,2006
+Sheffield Wednesday,Wolves,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/20062747,2006,26,championship,51,63,3,0,2,0,2005-12-28 20:45:00,,2006
+Southampton,Sheffield United,0-1,https://www.besoccer.com/match/southampton-fc/sheffield-united/20062748,2006,26,championship,68,63,1,0,4,0,2005-12-28 20:45:00,,2006
+Stoke City,Leeds United,0-1,https://www.besoccer.com/match/stoke-city/leeds-united-afc/20062749,2006,26,championship,54,66,2,0,0,0,2005-12-28 20:45:00,,2006
+Crystal Palace,Derby County,2-0,https://www.besoccer.com/match/crystal-palace-fc/derby-county-fc/20062740,2006,26,championship,63,58,2,0,2,0,2005-12-28 21:00:00,,2006
+Reading,Leicester,2-0,https://www.besoccer.com/match/reading-fc/leicester-city-fc/20062746,2006,26,championship,60,63,4,0,2,0,2005-12-28 21:00:00,,2006
+Plymouth Argyle,Preston North End,0-0,https://www.besoccer.com/match/plymouth-argyle/preston-north-end/20062750,2006,26,championship,48,60,1,0,0,0,2006-03-07 20:45:00,,2006
+Leeds United,Hull City,2-0,https://www.besoccer.com/match/leeds-united-afc/hull-city/20062757,2006,27,championship,50,50,1,0,0,0,2005-12-31 13:00:00,,2006
+Brighton & Hove Albion,Millwall,1-2,https://www.besoccer.com/match/brighton-amp-hov/millwall-fc/20062751,2006,27,championship,50,50,2,0,3,0,2005-12-31 14:00:00,,2006
+Burnley,Sheffield Wednesday,1-2,https://www.besoccer.com/match/burnley-fc/sheffield-wednesday-fc/20062752,2006,27,championship,50,50,0,0,1,0,2005-12-31 14:00:00,,2006
+Cardiff City,Southampton,2-1,https://www.besoccer.com/match/cardiff-city-fc/southampton-fc/20062753,2006,27,championship,50,50,1,0,2,0,2005-12-31 14:00:00,,2006
+Ipswich Town,Luton Town,1-0,https://www.besoccer.com/match/ipswich-town-fc/luton-town-fc/20062756,2006,27,championship,50,50,0,0,2,0,2005-12-31 14:00:00,,2006
+Preston North End,Coventry City,3-1,https://www.besoccer.com/match/preston-north-end/coventry-city/20062759,2006,27,championship,50,50,1,0,1,0,2005-12-31 14:00:00,,2006
+Watford,Crystal Palace,1-2,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/20062761,2006,27,championship,50,50,1,0,4,0,2005-12-31 14:00:00,,2006
+Crewe Alexandra,Queens Park Rangers,3-4,https://www.besoccer.com/match/crewe-alexandra/queens-park-rangers-fc/20062754,2006,27,championship,50,50,1,0,0,0,2005-12-31 16:00:00,,2006
+Leicester,Norwich City,0-1,https://www.besoccer.com/match/leicester-city-fc/norwich-city-fc/20062758,2006,27,championship,50,50,4,0,1,0,2005-12-31 16:00:00,,2006
+Sheffield United,Stoke City,2-1,https://www.besoccer.com/match/sheffield-united/stoke-city/20062760,2006,27,championship,50,50,3,0,1,0,2005-12-31 16:00:00,,2006
+Wolves,Plymouth Argyle,1-1,https://www.besoccer.com/match/wolverhampton/plymouth-argyle/20062762,2006,27,championship,50,50,1,0,1,0,2005-12-31 16:00:00,,2006
+Derby County,Reading,2-2,https://www.besoccer.com/match/derby-county-fc/reading-fc/20062755,2006,27,championship,50,50,1,0,0,0,2005-12-31 18:15:00,,2006
+Luton Town,Watford,1-2,https://www.besoccer.com/match/luton-town-fc/watford-fc/20062765,2006,28,championship,51,58,1,0,2,0,2006-01-02 13:00:00,,2006
+Coventry City,Wolves,2-0,https://www.besoccer.com/match/coventry-city/wolverhampton/20062763,2006,28,championship,59,63,0,0,4,0,2006-01-02 16:00:00,,2006
+Crystal Palace,Leicester,2-0,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/20062764,2006,28,championship,63,63,0,0,4,0,2006-01-02 16:00:00,,2006
+Millwall,Derby County,2-1,https://www.besoccer.com/match/millwall-fc/derby-county-fc/20062766,2006,28,championship,57,58,0,0,0,0,2006-01-02 16:00:00,,2006
+Norwich City,Preston North End,0-3,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/20062767,2006,28,championship,60,59,1,0,0,0,2006-01-02 16:00:00,,2006
+Queens Park Rangers,Burnley,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/burnley-fc/20062769,2006,28,championship,53,57,0,0,2,0,2006-01-02 16:00:00,,2006
+Reading,Cardiff City,5-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/20062770,2006,28,championship,60,54,0,0,1,0,2006-01-02 16:00:00,,2006
+Sheffield Wednesday,Crewe Alexandra,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/crewe-alexandra/20062771,2006,28,championship,51,48,1,0,1,0,2006-01-02 16:00:00,,2006
+Southampton,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/southampton-fc/brighton-amp-hov/20062772,2006,28,championship,68,44,0,0,0,0,2006-01-02 16:00:00,,2006
+Stoke City,Ipswich Town,2-2,https://www.besoccer.com/match/stoke-city/ipswich-town-fc/20062773,2006,28,championship,53,62,2,0,0,0,2006-01-02 16:00:00,,2006
+Plymouth Argyle,Leeds United,0-3,https://www.besoccer.com/match/plymouth-argyle/leeds-united-afc/20062768,2006,28,championship,47,66,0,0,0,0,2006-01-02 18:15:00,,2006
+Hull City,Sheffield United,1-3,https://www.besoccer.com/match/hull-city/sheffield-united/20062774,2006,28,championship,43,63,1,0,2,0,2006-01-03 20:45:00,,2006
+Wolves,Luton Town,2-1,https://www.besoccer.com/match/wolverhampton/luton-town-fc/20062775,2006,29,championship,63,51,1,0,0,0,2006-01-13 20:45:00,,2006
+Brighton & Hove Albion,Leeds United,2-1,https://www.besoccer.com/match/brighton-amp-hov/leeds-united-afc/20062776,2006,29,championship,44,67,3,0,2,0,2006-01-14 16:00:00,,2006
+Cardiff City,Burnley,3-0,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/20062777,2006,29,championship,54,57,1,0,2,0,2006-01-14 16:00:00,,2006
+Derby County,Crewe Alexandra,5-1,https://www.besoccer.com/match/derby-county-fc/crewe-alexandra/20062778,2006,29,championship,58,48,0,0,1,0,2006-01-14 16:00:00,,2006
+Hull City,Crystal Palace,1-2,https://www.besoccer.com/match/hull-city/crystal-palace-fc/20062779,2006,29,championship,42,63,2,0,1,0,2006-01-14 16:00:00,,2006
+Ipswich Town,Sheffield United,1-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/20062780,2006,29,championship,62,63,1,0,2,0,2006-01-14 16:00:00,,2006
+Plymouth Argyle,Norwich City,1-1,https://www.besoccer.com/match/plymouth-argyle/norwich-city-fc/20062781,2006,29,championship,47,60,1,0,2,0,2006-01-14 16:00:00,,2006
+Preston North End,Millwall,2-0,https://www.besoccer.com/match/preston-north-end/millwall-fc/20062782,2006,29,championship,59,57,2,0,2,0,2006-01-14 16:00:00,,2006
+Queens Park Rangers,Southampton,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/20062783,2006,29,championship,53,68,0,0,1,0,2006-01-14 16:00:00,,2006
+Reading,Coventry City,2-0,https://www.besoccer.com/match/reading-fc/coventry-city/20062784,2006,29,championship,60,59,1,0,2,0,2006-01-14 16:00:00,,2006
+Sheffield Wednesday,Leicester,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leicester-city-fc/20062785,2006,29,championship,51,63,1,0,2,0,2006-01-14 16:00:00,,2006
+Watford,Stoke City,1-0,https://www.besoccer.com/match/watford-fc/stoke-city/20062786,2006,29,championship,58,53,0,0,0,0,2006-01-14 16:00:00,,2006
+Crystal Palace,Reading,1-1,https://www.besoccer.com/match/crystal-palace-fc/reading-fc/20062787,2006,30,championship,63,61,2,0,0,0,2006-01-20 20:45:00,,2006
+Burnley,Preston North End,0-2,https://www.besoccer.com/match/burnley-fc/preston-north-end/20062788,2006,30,championship,57,59,2,0,2,0,2006-01-21 16:00:00,,2006
+Coventry City,Derby County,6-1,https://www.besoccer.com/match/coventry-city/derby-county-fc/20062789,2006,30,championship,59,58,3,0,1,0,2006-01-21 16:00:00,,2006
+Crewe Alexandra,Plymouth Argyle,1-2,https://www.besoccer.com/match/crewe-alexandra/plymouth-argyle/20062790,2006,30,championship,48,47,1,0,1,0,2006-01-21 16:00:00,,2006
+Leeds United,Sheffield Wednesday,3-0,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/20062791,2006,30,championship,66,51,1,0,2,0,2006-01-21 16:00:00,,2006
+Leicester,Cardiff City,1-2,https://www.besoccer.com/match/leicester-city-fc/cardiff-city-fc/20062792,2006,30,championship,63,54,0,0,1,0,2006-01-21 16:00:00,,2006
+Luton Town,Queens Park Rangers,2-0,https://www.besoccer.com/match/luton-town-fc/queens-park-rangers-fc/20062793,2006,30,championship,51,53,1,0,2,0,2006-01-21 16:00:00,,2006
+Millwall,Wolves,0-0,https://www.besoccer.com/match/millwall-fc/wolverhampton/20062794,2006,30,championship,57,63,2,0,0,0,2006-01-21 16:00:00,,2006
+Norwich City,Watford,2-3,https://www.besoccer.com/match/norwich-city-fc/watford-fc/20062795,2006,30,championship,60,58,0,0,0,0,2006-01-21 16:00:00,,2006
+Sheffield United,Brighton & Hove Albion,3-1,https://www.besoccer.com/match/sheffield-united/brighton-amp-hov/20062796,2006,30,championship,63,44,1,0,1,0,2006-01-21 16:00:00,,2006
+Southampton,Ipswich Town,0-2,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/20062797,2006,30,championship,68,62,2,0,4,0,2006-01-21 16:00:00,,2006
+Stoke City,Hull City,0-3,https://www.besoccer.com/match/stoke-city/hull-city/20062798,2006,30,championship,53,42,3,0,4,0,2006-01-21 16:00:00,,2006
+Watford,Crewe Alexandra,4-1,https://www.besoccer.com/match/watford-fc/crewe-alexandra/20062799,2006,31,championship,58,48,0,0,0,0,2006-01-28 16:00:00,,2006
+Brighton & Hove Albion,Burnley,0-0,https://www.besoccer.com/match/brighton-amp-hov/burnley-fc/20062800,2006,31,championship,44,57,0,0,3,0,2006-01-31 20:45:00,,2006
+Cardiff City,Millwall,1-1,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/20062801,2006,31,championship,54,57,1,0,4,0,2006-01-31 20:45:00,,2006
+Hull City,Coventry City,1-2,https://www.besoccer.com/match/hull-city/coventry-city/20062802,2006,31,championship,43,59,4,0,3,0,2006-01-31 20:45:00,,2006
+Ipswich Town,Leeds United,1-1,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/20062803,2006,31,championship,62,67,1,0,2,0,2006-01-31 20:45:00,,2006
+Plymouth Argyle,Southampton,2-1,https://www.besoccer.com/match/plymouth-argyle/southampton-fc/20062804,2006,31,championship,47,68,1,0,2,0,2006-01-31 20:45:00,,2006
+Preston North End,Crystal Palace,2-0,https://www.besoccer.com/match/preston-north-end/crystal-palace-fc/20062805,2006,31,championship,59,63,3,0,4,0,2006-01-31 20:45:00,,2006
+Queens Park Rangers,Leicester,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/leicester-city-fc/20062806,2006,31,championship,53,63,2,0,3,0,2006-01-31 20:45:00,,2006
+Sheffield Wednesday,Luton Town,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/luton-town-fc/20062808,2006,31,championship,51,51,1,0,2,0,2006-01-31 20:45:00,,2006
+Reading,Norwich City,4-0,https://www.besoccer.com/match/reading-fc/norwich-city-fc/20062807,2006,31,championship,61,60,0,0,3,0,2006-01-31 21:00:00,,2006
+Derby County,Sheffield United,0-1,https://www.besoccer.com/match/derby-county-fc/sheffield-united/20062809,2006,31,championship,58,63,2,1,4,1,2006-02-01 20:45:00,,2006
+Wolves,Stoke City,0-0,https://www.besoccer.com/match/wolverhampton/stoke-city/20062810,2006,31,championship,63,53,0,0,1,0,2006-03-07 20:45:00,,2006
+Burnley,Plymouth Argyle,1-0,https://www.besoccer.com/match/burnley-fc/plymouth-argyle/20062811,2006,32,championship,56,47,0,0,0,0,2006-02-04 16:00:00,,2006
+Coventry City,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/coventry-city/brighton-amp-hov/20062812,2006,32,championship,59,44,1,0,0,0,2006-02-04 16:00:00,,2006
+Crewe Alexandra,Reading,3-4,https://www.besoccer.com/match/crewe-alexandra/reading-fc/20062813,2006,32,championship,48,61,0,1,0,1,2006-02-04 16:00:00,,2006
+Crystal Palace,Cardiff City,1-0,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/20062814,2006,32,championship,63,54,0,1,1,1,2006-02-04 16:00:00,,2006
+Leeds United,Queens Park Rangers,2-0,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/20062815,2006,32,championship,67,53,2,0,1,0,2006-02-04 16:00:00,,2006
+Leicester,Wolves,1-0,https://www.besoccer.com/match/leicester-city-fc/wolverhampton/20062816,2006,32,championship,63,63,0,0,0,0,2006-02-04 16:00:00,,2006
+Luton Town,Hull City,2-3,https://www.besoccer.com/match/luton-town-fc/hull-city/20062817,2006,32,championship,51,43,0,0,3,0,2006-02-04 16:00:00,,2006
+Millwall,Sheffield Wednesday,0-1,https://www.besoccer.com/match/millwall-fc/sheffield-wednesday-fc/20062818,2006,32,championship,57,51,1,0,4,0,2006-02-04 16:00:00,,2006
+Southampton,Derby County,0-0,https://www.besoccer.com/match/southampton-fc/derby-county-fc/20062819,2006,32,championship,68,58,0,0,0,0,2006-02-04 16:00:00,,2006
+Stoke City,Preston North End,0-0,https://www.besoccer.com/match/stoke-city/preston-north-end/20062820,2006,32,championship,53,60,1,1,3,1,2006-02-04 16:00:00,,2006
+Norwich City,Ipswich Town,1-2,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/20062821,2006,32,championship,60,62,2,0,1,0,2006-02-05 12:15:00,,2006
+Sheffield United,Watford,1-4,https://www.besoccer.com/match/sheffield-united/watford-fc/20062822,2006,32,championship,63,59,2,1,2,1,2006-02-06 20:45:00,,2006
+Reading,Southampton,2-0,https://www.besoccer.com/match/reading-fc/southampton-fc/20062823,2006,33,championship,61,68,0,0,1,0,2006-02-10 20:45:00,,2006
+Brighton & Hove Albion,Leicester,1-2,https://www.besoccer.com/match/brighton-amp-hov/leicester-city-fc/20062824,2006,33,championship,44,63,2,0,2,0,2006-02-11 16:00:00,,2006
+Cardiff City,Stoke City,3-0,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/20062825,2006,33,championship,54,53,2,0,1,0,2006-02-11 16:00:00,,2006
+Derby County,Leeds United,0-0,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/20062826,2006,33,championship,58,67,2,0,2,0,2006-02-11 16:00:00,,2006
+Hull City,Norwich City,1-1,https://www.besoccer.com/match/hull-city/norwich-city-fc/20062827,2006,33,championship,43,59,2,0,2,0,2006-02-11 16:00:00,,2006
+Ipswich Town,Burnley,2-1,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/20062828,2006,33,championship,62,57,1,0,4,0,2006-02-11 16:00:00,,2006
+Plymouth Argyle,Sheffield United,0-0,https://www.besoccer.com/match/plymouth-argyle/sheffield-united/20062829,2006,33,championship,47,63,2,0,0,0,2006-02-11 16:00:00,,2006
+Preston North End,Luton Town,5-1,https://www.besoccer.com/match/preston-north-end/luton-town-fc/20062830,2006,33,championship,60,51,2,0,2,0,2006-02-11 16:00:00,,2006
+Queens Park Rangers,Millwall,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/millwall-fc/20062831,2006,33,championship,53,57,2,0,3,0,2006-02-11 16:00:00,,2006
+Sheffield Wednesday,Crystal Palace,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/20062832,2006,33,championship,51,63,0,0,2,0,2006-02-11 16:00:00,,2006
+Watford,Coventry City,4-0,https://www.besoccer.com/match/watford-fc/coventry-city/20062833,2006,33,championship,59,59,2,0,3,0,2006-02-11 16:00:00,,2006
+Wolves,Crewe Alexandra,1-1,https://www.besoccer.com/match/wolverhampton/crewe-alexandra/20062834,2006,33,championship,63,47,0,0,0,0,2006-02-11 16:00:00,,2006
+Burnley,Wolves,0-1,https://www.besoccer.com/match/burnley-fc/wolverhampton/20062835,2006,34,championship,56,63,2,0,2,0,2006-02-14 20:45:00,,2006
+Crewe Alexandra,Ipswich Town,1-2,https://www.besoccer.com/match/crewe-alexandra/ipswich-town-fc/20062836,2006,34,championship,47,62,1,0,0,0,2006-02-14 20:45:00,,2006
+Leeds United,Watford,2-1,https://www.besoccer.com/match/leeds-united-afc/watford-fc/20062838,2006,34,championship,67,59,1,0,2,0,2006-02-14 20:45:00,,2006
+Leicester,Derby County,2-2,https://www.besoccer.com/match/leicester-city-fc/derby-county-fc/20062839,2006,34,championship,63,58,1,0,3,0,2006-02-14 20:45:00,,2006
+Luton Town,Cardiff City,3-3,https://www.besoccer.com/match/luton-town-fc/cardiff-city-fc/20062840,2006,34,championship,51,54,1,0,1,0,2006-02-14 20:45:00,,2006
+Millwall,Hull City,1-1,https://www.besoccer.com/match/millwall-fc/hull-city/20062841,2006,34,championship,56,43,1,1,2,1,2006-02-14 20:45:00,,2006
+Norwich City,Brighton & Hove Albion,3-0,https://www.besoccer.com/match/norwich-city-fc/brighton-amp-hov/20062842,2006,34,championship,59,44,1,0,3,0,2006-02-14 20:45:00,,2006
+Sheffield United,Reading,1-1,https://www.besoccer.com/match/sheffield-united/reading-fc/20062843,2006,34,championship,63,61,0,0,0,0,2006-02-14 20:45:00,,2006
+Stoke City,Plymouth Argyle,0-0,https://www.besoccer.com/match/stoke-city/plymouth-argyle/20062844,2006,34,championship,53,47,1,0,2,0,2006-02-14 20:45:00,,2006
+Crystal Palace,Queens Park Rangers,2-1,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/20062837,2006,34,championship,63,53,1,0,2,0,2006-02-14 21:00:00,,2006
+Coventry City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/20062845,2006,34,championship,59,51,2,0,1,0,2006-02-15 20:45:00,,2006
+Southampton,Preston North End,0-0,https://www.besoccer.com/match/southampton-fc/preston-north-end/20062846,2006,34,championship,67,60,2,0,0,0,2006-02-15 20:45:00,,2006
+Luton Town,Reading,3-2,https://www.besoccer.com/match/luton-town-fc/reading-fc/20062847,2006,35,championship,51,61,2,0,4,0,2006-02-17 20:45:00,,2006
+Brighton & Hove Albion,Watford,0-1,https://www.besoccer.com/match/brighton-amp-hov/watford-fc/20062848,2006,35,championship,43,59,2,0,2,0,2006-02-18 16:00:00,,2006
+Cardiff City,Hull City,1-0,https://www.besoccer.com/match/cardiff-city-fc/hull-city/20062849,2006,35,championship,54,43,1,0,1,0,2006-02-18 16:00:00,,2006
+Leicester,Leeds United,1-1,https://www.besoccer.com/match/leicester-city-fc/leeds-united-afc/20062850,2006,35,championship,63,67,1,1,2,1,2006-02-18 16:00:00,,2006
+Millwall,Crystal Palace,1-1,https://www.besoccer.com/match/millwall-fc/crystal-palace-fc/20062851,2006,35,championship,56,63,2,0,1,0,2006-02-18 16:00:00,,2006
+Norwich City,Derby County,2-0,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/20062852,2006,35,championship,60,58,2,0,1,0,2006-02-18 16:00:00,,2006
+Plymouth Argyle,Coventry City,3-1,https://www.besoccer.com/match/plymouth-argyle/coventry-city/20062853,2006,35,championship,47,59,0,0,3,0,2006-02-18 16:00:00,,2006
+Sheffield Wednesday,Sheffield United,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/20062854,2006,35,championship,51,63,2,0,0,0,2006-02-18 16:00:00,,2006
+Wolves,Ipswich Town,1-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/20062855,2006,35,championship,63,62,3,0,3,0,2006-02-18 16:00:00,,2006
+Burnley,Southampton,1-1,https://www.besoccer.com/match/burnley-fc/southampton-fc/20062856,2006,35,championship,56,67,0,0,0,0,2006-03-28 20:45:00,,2006
+Preston North End,Crewe Alexandra,1-0,https://www.besoccer.com/match/preston-north-end/crewe-alexandra/20062857,2006,35,championship,60,48,2,0,1,0,2006-03-28 20:45:00,,2006
+Queens Park Rangers,Stoke City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/stoke-city/20062858,2006,35,championship,53,53,0,0,2,0,2006-03-29 20:45:00,,2006
+Coventry City,Burnley,1-0,https://www.besoccer.com/match/coventry-city/burnley-fc/20062859,2006,36,championship,59,56,1,0,4,0,2006-02-25 16:00:00,,2006
+Crewe Alexandra,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/crewe-alexandra/brighton-amp-hov/20062860,2006,36,championship,47,43,0,0,0,0,2006-02-25 16:00:00,,2006
+Crystal Palace,Norwich City,4-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/20062861,2006,36,championship,63,60,1,0,1,0,2006-02-25 16:00:00,,2006
+Derby County,Plymouth Argyle,1-0,https://www.besoccer.com/match/derby-county-fc/plymouth-argyle/20062862,2006,36,championship,58,48,1,0,1,0,2006-02-25 16:00:00,,2006
+Hull City,Wolves,2-3,https://www.besoccer.com/match/hull-city/wolverhampton/20062863,2006,36,championship,43,63,0,0,5,0,2006-02-25 16:00:00,,2006
+Ipswich Town,Leicester,2-0,https://www.besoccer.com/match/ipswich-town-fc/leicester-city-fc/20062864,2006,36,championship,62,63,1,0,1,0,2006-02-25 16:00:00,,2006
+Leeds United,Luton Town,2-1,https://www.besoccer.com/match/leeds-united-afc/luton-town-fc/20062865,2006,36,championship,67,51,2,0,1,0,2006-02-25 16:00:00,,2006
+Reading,Preston North End,2-1,https://www.besoccer.com/match/reading-fc/preston-north-end/20062866,2006,36,championship,61,60,0,0,3,0,2006-02-25 16:00:00,,2006
+Sheffield United,Queens Park Rangers,2-3,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/20062867,2006,36,championship,63,53,1,0,4,0,2006-02-25 16:00:00,,2006
+Southampton,Sheffield Wednesday,3-0,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/20062868,2006,36,championship,68,51,1,0,1,0,2006-02-25 16:00:00,,2006
+Stoke City,Millwall,2-1,https://www.besoccer.com/match/stoke-city/millwall-fc/20062869,2006,36,championship,53,56,1,0,2,0,2006-02-25 16:00:00,,2006
+Watford,Cardiff City,2-1,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/20062870,2006,36,championship,59,54,0,0,2,0,2006-02-25 16:00:00,,2006
+Sheffield United,Crewe Alexandra,0-0,https://www.besoccer.com/match/sheffield-united/crewe-alexandra/20062871,2006,37,championship,62,48,0,0,1,0,2006-03-03 20:45:00,,2006
+Burnley,Reading,0-3,https://www.besoccer.com/match/burnley-fc/reading-fc/20062872,2006,37,championship,56,61,1,0,0,0,2006-03-04 16:00:00,,2006
+Cardiff City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/20062873,2006,37,championship,54,51,0,0,0,0,2006-03-04 16:00:00,,2006
+Crystal Palace,Leeds United,1-2,https://www.besoccer.com/match/crystal-palace-fc/leeds-united-afc/20062874,2006,37,championship,63,67,0,0,0,0,2006-03-04 16:00:00,,2006
+Leicester,Hull City,3-2,https://www.besoccer.com/match/leicester-city-fc/hull-city/20062875,2006,37,championship,63,43,0,0,1,0,2006-03-04 16:00:00,,2006
+Millwall,Luton Town,2-1,https://www.besoccer.com/match/millwall-fc/luton-town-fc/20062876,2006,37,championship,56,51,3,0,1,0,2006-03-04 16:00:00,,2006
+Norwich City,Stoke City,2-1,https://www.besoccer.com/match/norwich-city-fc/stoke-city/20062877,2006,37,championship,60,53,0,0,2,0,2006-03-04 16:00:00,,2006
+Plymouth Argyle,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/plymouth-argyle/brighton-amp-hov/20062878,2006,37,championship,48,43,0,0,4,0,2006-03-04 16:00:00,,2006
+Queens Park Rangers,Wolves,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/20062879,2006,37,championship,53,63,0,0,2,0,2006-03-04 16:00:00,,2006
+Southampton,Coventry City,1-1,https://www.besoccer.com/match/southampton-fc/coventry-city/20062880,2006,37,championship,68,59,0,0,1,0,2006-03-04 16:00:00,,2006
+Watford,Derby County,2-2,https://www.besoccer.com/match/watford-fc/derby-county-fc/20062881,2006,37,championship,59,58,2,0,1,0,2006-03-04 16:00:00,,2006
+Preston North End,Ipswich Town,3-1,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/20062882,2006,37,championship,60,62,1,0,2,0,2006-03-14 20:45:00,,2006
+Brighton & Hove Albion,Preston North End,0-0,https://www.besoccer.com/match/brighton-amp-hov/preston-north-end/20062883,2006,38,championship,43,60,1,0,3,0,2006-03-11 16:00:00,,2006
+Coventry City,Sheffield United,2-0,https://www.besoccer.com/match/coventry-city/sheffield-united/20062884,2006,38,championship,59,62,3,0,0,0,2006-03-11 16:00:00,,2006
+Crewe Alexandra,Southampton,1-1,https://www.besoccer.com/match/crewe-alexandra/southampton-fc/20062885,2006,38,championship,48,68,0,0,0,0,2006-03-11 16:00:00,,2006
+Derby County,Burnley,3-0,https://www.besoccer.com/match/derby-county-fc/burnley-fc/20062886,2006,38,championship,58,56,0,0,3,0,2006-03-11 16:00:00,,2006
+Hull City,Plymouth Argyle,1-0,https://www.besoccer.com/match/hull-city/plymouth-argyle/20062887,2006,38,championship,43,48,1,0,2,0,2006-03-11 16:00:00,,2006
+Ipswich Town,Millwall,1-1,https://www.besoccer.com/match/ipswich-town-fc/millwall-fc/20062888,2006,38,championship,62,56,1,0,3,0,2006-03-11 16:00:00,,2006
+Leeds United,Norwich City,2-2,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/20062889,2006,38,championship,67,60,3,0,2,0,2006-03-11 16:00:00,,2006
+Luton Town,Leicester,1-2,https://www.besoccer.com/match/luton-town-fc/leicester-city-fc/20062890,2006,38,championship,51,63,2,0,2,0,2006-03-11 16:00:00,,2006
+Reading,Watford,0-0,https://www.besoccer.com/match/reading-fc/watford-fc/20062891,2006,38,championship,61,59,2,0,0,0,2006-03-11 16:00:00,,2006
+Sheffield Wednesday,Queens Park Rangers,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/20062892,2006,38,championship,51,53,2,0,0,0,2006-03-11 16:00:00,,2006
+Wolves,Cardiff City,2-0,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/20062893,2006,38,championship,63,54,1,0,3,0,2006-03-11 16:00:00,,2006
+Stoke City,Crystal Palace,1-3,https://www.besoccer.com/match/stoke-city/crystal-palace-fc/20062894,2006,38,championship,53,63,1,0,0,0,2006-03-13 20:45:00,,2006
+Coventry City,Leeds United,1-1,https://www.besoccer.com/match/coventry-city/leeds-united-afc/20062895,2006,39,championship,59,67,3,0,0,0,2006-03-18 16:00:00,,2006
+Crystal Palace,Ipswich Town,2-2,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/20062896,2006,39,championship,63,62,0,0,3,0,2006-03-18 16:00:00,,2006
+Hull City,Crewe Alexandra,1-0,https://www.besoccer.com/match/hull-city/crewe-alexandra/20062897,2006,39,championship,43,48,1,0,0,0,2006-03-18 16:00:00,,2006
+Luton Town,Derby County,1-0,https://www.besoccer.com/match/luton-town-fc/derby-county-fc/20062898,2006,39,championship,51,58,1,0,0,0,2006-03-18 16:00:00,,2006
+Millwall,Leicester,0-1,https://www.besoccer.com/match/millwall-fc/leicester-city-fc/20062899,2006,39,championship,56,63,2,0,1,0,2006-03-18 16:00:00,,2006
+Norwich City,Sheffield United,2-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/20062900,2006,39,championship,60,62,0,0,0,0,2006-03-18 16:00:00,,2006
+Plymouth Argyle,Cardiff City,0-1,https://www.besoccer.com/match/plymouth-argyle/cardiff-city-fc/20062901,2006,39,championship,48,54,1,0,5,0,2006-03-18 16:00:00,,2006
+Queens Park Rangers,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/brighton-amp-hov/20062902,2006,39,championship,53,43,1,1,2,1,2006-03-18 16:00:00,,2006
+Reading,Wolves,1-1,https://www.besoccer.com/match/reading-fc/wolverhampton/20062903,2006,39,championship,61,63,2,0,2,0,2006-03-18 16:00:00,,2006
+Sheffield Wednesday,Preston North End,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/20062904,2006,39,championship,51,60,1,0,5,0,2006-03-18 16:00:00,,2006
+Stoke City,Burnley,1-0,https://www.besoccer.com/match/stoke-city/burnley-fc/20062905,2006,39,championship,53,56,2,0,3,0,2006-03-18 16:00:00,,2006
+Southampton,Watford,1-3,https://www.besoccer.com/match/southampton-fc/watford-fc/20062906,2006,39,championship,67,59,0,0,1,0,2006-03-20 20:45:00,,2006
+Burnley,Norwich City,2-0,https://www.besoccer.com/match/burnley-fc/norwich-city-fc/20062907,2006,40,championship,56,60,0,0,1,0,2006-03-24 20:45:00,,2006
+Brighton & Hove Albion,Luton Town,1-1,https://www.besoccer.com/match/brighton-amp-hov/luton-town-fc/20062908,2006,40,championship,43,51,1,0,1,0,2006-03-25 16:00:00,,2006
+Cardiff City,Queens Park Rangers,0-0,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/20062909,2006,40,championship,54,53,1,0,0,0,2006-03-25 16:00:00,,2006
+Crewe Alexandra,Coventry City,4-1,https://www.besoccer.com/match/crewe-alexandra/coventry-city/20062910,2006,40,championship,48,59,0,0,1,0,2006-03-25 16:00:00,,2006
+Derby County,Crystal Palace,2-1,https://www.besoccer.com/match/derby-county-fc/crystal-palace-fc/20062911,2006,40,championship,58,63,2,0,2,0,2006-03-25 16:00:00,,2006
+Ipswich Town,Hull City,1-1,https://www.besoccer.com/match/ipswich-town-fc/hull-city/20062912,2006,40,championship,62,43,0,0,1,0,2006-03-25 16:00:00,,2006
+Leeds United,Stoke City,0-0,https://www.besoccer.com/match/leeds-united-afc/stoke-city/20062913,2006,40,championship,67,53,2,0,1,0,2006-03-25 16:00:00,,2006
+Leicester,Reading,1-1,https://www.besoccer.com/match/leicester-city-fc/reading-fc/20062914,2006,40,championship,63,61,1,0,2,0,2006-03-25 16:00:00,,2006
+Preston North End,Plymouth Argyle,0-0,https://www.besoccer.com/match/preston-north-end/plymouth-argyle/20062915,2006,40,championship,60,47,2,0,1,0,2006-03-25 16:00:00,,2006
+Sheffield United,Southampton,3-0,https://www.besoccer.com/match/sheffield-united/southampton-fc/20062916,2006,40,championship,62,67,0,0,1,0,2006-03-25 16:00:00,,2006
+Watford,Millwall,0-2,https://www.besoccer.com/match/watford-fc/millwall-fc/20062917,2006,40,championship,59,56,1,0,4,0,2006-03-25 16:00:00,,2006
+Wolves,Sheffield Wednesday,1-3,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/20062918,2006,40,championship,63,51,3,0,0,0,2006-03-25 16:00:00,,2006
+Crystal Palace,Watford,3-1,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/20062919,2006,41,championship,63,59,1,0,0,0,2006-03-31 20:45:00,,2006
+Hull City,Leeds United,1-0,https://www.besoccer.com/match/hull-city/leeds-united-afc/20062921,2006,41,championship,43,67,2,0,1,0,2006-04-01 13:00:00,,2006
+Coventry City,Preston North End,0-1,https://www.besoccer.com/match/coventry-city/preston-north-end/20062920,2006,41,championship,59,60,1,0,3,0,2006-04-01 16:00:00,,2006
+Luton Town,Ipswich Town,1-0,https://www.besoccer.com/match/luton-town-fc/ipswich-town-fc/20062922,2006,41,championship,51,62,4,0,0,0,2006-04-01 16:00:00,,2006
+Millwall,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/millwall-fc/brighton-amp-hov/20062923,2006,41,championship,57,43,3,0,0,0,2006-04-01 16:00:00,,2006
+Norwich City,Leicester,2-1,https://www.besoccer.com/match/norwich-city-fc/leicester-city-fc/20062924,2006,41,championship,60,63,1,0,2,0,2006-04-01 16:00:00,,2006
+Plymouth Argyle,Wolves,2-0,https://www.besoccer.com/match/plymouth-argyle/wolverhampton/20062925,2006,41,championship,48,63,1,0,3,0,2006-04-01 16:00:00,,2006
+Queens Park Rangers,Crewe Alexandra,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/crewe-alexandra/20062926,2006,41,championship,53,48,2,0,0,0,2006-04-01 16:00:00,,2006
+Reading,Derby County,5-0,https://www.besoccer.com/match/reading-fc/derby-county-fc/20062927,2006,41,championship,61,58,0,0,0,0,2006-04-01 16:00:00,,2006
+Sheffield Wednesday,Burnley,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/burnley-fc/20062928,2006,41,championship,51,56,1,0,1,0,2006-04-01 16:00:00,,2006
+Southampton,Cardiff City,3-2,https://www.besoccer.com/match/southampton-fc/cardiff-city-fc/20062929,2006,41,championship,67,54,1,0,1,0,2006-04-01 16:00:00,,2006
+Stoke City,Sheffield United,1-1,https://www.besoccer.com/match/stoke-city/sheffield-united/20062930,2006,41,championship,53,62,1,0,1,0,2006-04-01 16:00:00,,2006
+Leicester,Crystal Palace,2-0,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/20062931,2006,42,championship,63,63,2,0,2,0,2006-04-07 20:45:00,,2006
+Brighton & Hove Albion,Southampton,0-2,https://www.besoccer.com/match/brighton-amp-hov/southampton-fc/20062932,2006,42,championship,44,67,1,0,0,0,2006-04-08 16:00:00,,2006
+Burnley,Queens Park Rangers,1-0,https://www.besoccer.com/match/burnley-fc/queens-park-rangers-fc/20062933,2006,42,championship,56,53,0,0,0,0,2006-04-08 16:00:00,,2006
+Cardiff City,Reading,2-5,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/20062934,2006,42,championship,54,62,1,0,0,0,2006-04-08 16:00:00,,2006
+Crewe Alexandra,Sheffield Wednesday,2-0,https://www.besoccer.com/match/crewe-alexandra/sheffield-wednesday-fc/20062935,2006,42,championship,48,51,2,0,2,0,2006-04-08 16:00:00,,2006
+Derby County,Millwall,1-0,https://www.besoccer.com/match/derby-county-fc/millwall-fc/20062936,2006,42,championship,58,56,0,0,1,0,2006-04-08 16:00:00,,2006
+Ipswich Town,Stoke City,1-4,https://www.besoccer.com/match/ipswich-town-fc/stoke-city/20062937,2006,42,championship,62,53,1,0,1,0,2006-04-08 16:00:00,,2006
+Leeds United,Plymouth Argyle,0-0,https://www.besoccer.com/match/leeds-united-afc/plymouth-argyle/20062938,2006,42,championship,66,48,1,0,3,0,2006-04-08 16:00:00,,2006
+Preston North End,Norwich City,2-0,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/20062939,2006,42,championship,60,60,1,0,1,0,2006-04-08 16:00:00,,2006
+Sheffield United,Hull City,3-2,https://www.besoccer.com/match/sheffield-united/hull-city/20062940,2006,42,championship,62,43,0,0,1,0,2006-04-08 16:00:00,,2006
+Wolves,Coventry City,2-2,https://www.besoccer.com/match/wolverhampton/coventry-city/20062941,2006,42,championship,63,59,2,0,1,0,2006-04-08 16:00:00,,2006
+Watford,Luton Town,1-1,https://www.besoccer.com/match/watford-fc/luton-town-fc/20062942,2006,42,championship,59,51,2,0,3,0,2006-04-09 13:00:00,,2006
+Cardiff City,Sheffield United,0-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/20062943,2006,43,championship,54,62,0,0,1,0,2006-04-14 16:00:00,,2006
+Wolves,Watford,1-1,https://www.besoccer.com/match/wolverhampton/watford-fc/20062944,2006,43,championship,63,59,1,0,0,0,2006-04-14 18:15:00,,2006
+Crystal Palace,Crewe Alexandra,2-2,https://www.besoccer.com/match/crystal-palace-fc/crewe-alexandra/20062945,2006,43,championship,63,48,0,0,0,0,2006-04-15 16:00:00,,2006
+Hull City,Burnley,0-0,https://www.besoccer.com/match/hull-city/burnley-fc/20062946,2006,43,championship,43,56,0,0,4,0,2006-04-15 16:00:00,,2006
+Ipswich Town,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/ipswich-town-fc/brighton-amp-hov/20062947,2006,43,championship,62,43,2,0,4,0,2006-04-15 16:00:00,,2006
+Leeds United,Reading,1-1,https://www.besoccer.com/match/leeds-united-afc/reading-fc/20062948,2006,43,championship,66,62,0,0,0,0,2006-04-15 16:00:00,,2006
+Leicester,Preston North End,1-2,https://www.besoccer.com/match/leicester-city-fc/preston-north-end/20062949,2006,43,championship,63,60,0,0,5,0,2006-04-15 16:00:00,,2006
+Luton Town,Coventry City,1-2,https://www.besoccer.com/match/luton-town-fc/coventry-city/20062950,2006,43,championship,51,59,3,0,0,0,2006-04-15 16:00:00,,2006
+Millwall,Plymouth Argyle,1-1,https://www.besoccer.com/match/millwall-fc/plymouth-argyle/20062951,2006,43,championship,56,48,1,0,2,0,2006-04-15 16:00:00,,2006
+Queens Park Rangers,Derby County,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/20062952,2006,43,championship,53,58,1,0,1,0,2006-04-15 16:00:00,,2006
+Stoke City,Southampton,1-2,https://www.besoccer.com/match/stoke-city/southampton-fc/20062954,2006,43,championship,53,67,1,0,1,0,2006-04-15 16:00:00,,2006
+Sheffield Wednesday,Norwich City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/20062953,2006,43,championship,51,60,2,0,1,0,2006-04-15 16:15:00,,2006
+Brighton & Hove Albion,Sheffield Wednesday,0-2,https://www.besoccer.com/match/brighton-amp-hov/sheffield-wednesday-fc/20062955,2006,44,championship,44,51,4,0,1,0,2006-04-17 16:00:00,,2006
+Burnley,Crystal Palace,0-0,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/20062956,2006,44,championship,56,63,2,0,2,0,2006-04-17 16:00:00,,2006
+Coventry City,Leicester,1-1,https://www.besoccer.com/match/coventry-city/leicester-city-fc/20062957,2006,44,championship,59,63,1,0,3,0,2006-04-17 16:00:00,,2006
+Crewe Alexandra,Cardiff City,1-1,https://www.besoccer.com/match/crewe-alexandra/cardiff-city-fc/20062958,2006,44,championship,48,54,0,0,0,0,2006-04-17 16:00:00,,2006
+Derby County,Hull City,1-1,https://www.besoccer.com/match/derby-county-fc/hull-city/20062959,2006,44,championship,58,43,0,0,0,0,2006-04-17 16:00:00,,2006
+Norwich City,Queens Park Rangers,3-2,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/20062960,2006,44,championship,59,53,1,0,2,0,2006-04-17 16:00:00,,2006
+Plymouth Argyle,Luton Town,1-2,https://www.besoccer.com/match/plymouth-argyle/luton-town-fc/20062961,2006,44,championship,48,51,1,0,2,0,2006-04-17 16:00:00,,2006
+Preston North End,Wolves,2-0,https://www.besoccer.com/match/preston-north-end/wolverhampton/20062962,2006,44,championship,60,63,0,0,0,0,2006-04-17 16:00:00,,2006
+Reading,Stoke City,3-1,https://www.besoccer.com/match/reading-fc/stoke-city/20062963,2006,44,championship,62,53,0,0,0,0,2006-04-17 16:00:00,,2006
+Southampton,Millwall,2-0,https://www.besoccer.com/match/southampton-fc/millwall-fc/20062964,2006,44,championship,67,56,1,0,1,0,2006-04-17 16:00:00,,2006
+Watford,Ipswich Town,2-1,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/20062965,2006,44,championship,59,62,1,0,1,0,2006-04-17 16:00:00,,2006
+Sheffield United,Leeds United,1-1,https://www.besoccer.com/match/sheffield-united/leeds-united-afc/20062966,2006,44,championship,62,66,0,0,4,0,2006-04-18 20:45:00,,2006
+Cardiff City,Norwich City,0-1,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/20062967,2006,45,championship,54,59,1,0,1,0,2006-04-22 16:00:00,,2006
+Crystal Palace,Southampton,2-1,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/20062968,2006,45,championship,63,67,1,0,2,0,2006-04-22 16:00:00,,2006
+Hull City,Preston North End,1-1,https://www.besoccer.com/match/hull-city/preston-north-end/20062969,2006,45,championship,44,60,0,0,2,0,2006-04-22 16:00:00,,2006
+Ipswich Town,Derby County,2-0,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/20062970,2006,45,championship,61,58,0,0,1,0,2006-04-22 16:00:00,,2006
+Leeds United,Crewe Alexandra,1-0,https://www.besoccer.com/match/leeds-united-afc/crewe-alexandra/20062971,2006,45,championship,66,48,0,0,0,0,2006-04-22 16:00:00,,2006
+Leicester,Plymouth Argyle,1-0,https://www.besoccer.com/match/leicester-city-fc/plymouth-argyle/20062972,2006,45,championship,63,48,1,0,0,0,2006-04-22 16:00:00,,2006
+Luton Town,Sheffield United,1-1,https://www.besoccer.com/match/luton-town-fc/sheffield-united/20062973,2006,45,championship,51,62,1,0,2,0,2006-04-22 16:00:00,,2006
+Millwall,Burnley,1-0,https://www.besoccer.com/match/millwall-fc/burnley-fc/20062974,2006,45,championship,56,56,1,0,2,0,2006-04-22 16:00:00,,2006
+Queens Park Rangers,Watford,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/watford-fc/20062975,2006,45,championship,53,59,1,0,2,0,2006-04-22 16:00:00,,2006
+Sheffield Wednesday,Reading,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/20062976,2006,45,championship,52,62,1,0,1,0,2006-04-22 16:00:00,,2006
+Stoke City,Coventry City,0-1,https://www.besoccer.com/match/stoke-city/coventry-city/20062977,2006,45,championship,53,59,1,0,0,0,2006-04-22 16:00:00,,2006
+Wolves,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/wolverhampton/brighton-amp-hov/20062978,2006,45,championship,63,43,1,0,1,0,2006-04-22 16:00:00,,2006
+Brighton & Hove Albion,Stoke City,1-5,https://www.besoccer.com/match/brighton-amp-hov/stoke-city/20062979,2006,46,championship,43,53,1,0,0,0,2006-04-30 14:30:00,,2006
+Burnley,Luton Town,1-1,https://www.besoccer.com/match/burnley-fc/luton-town-fc/20062980,2006,46,championship,56,51,0,0,2,0,2006-04-30 14:30:00,,2006
+Coventry City,Cardiff City,3-1,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/20062981,2006,46,championship,59,54,0,0,3,0,2006-04-30 14:30:00,,2006
+Crewe Alexandra,Millwall,4-2,https://www.besoccer.com/match/crewe-alexandra/millwall-fc/20062982,2006,46,championship,48,56,0,0,0,0,2006-04-30 14:30:00,,2006
+Derby County,Sheffield Wednesday,0-2,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/20062983,2006,46,championship,58,52,2,0,3,0,2006-04-30 14:30:00,,2006
+Norwich City,Wolves,1-2,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/20062984,2006,46,championship,60,63,2,0,3,0,2006-04-30 14:30:00,,2006
+Plymouth Argyle,Ipswich Town,2-1,https://www.besoccer.com/match/plymouth-argyle/ipswich-town-fc/20062985,2006,46,championship,48,62,1,0,2,0,2006-04-30 14:30:00,,2006
+Preston North End,Leeds United,2-0,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/20062986,2006,46,championship,60,66,3,0,1,0,2006-04-30 14:30:00,,2006
+Reading,Queens Park Rangers,2-1,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/20062987,2006,46,championship,62,52,0,0,0,0,2006-04-30 14:30:00,,2006
+Sheffield United,Crystal Palace,1-0,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/20062988,2006,46,championship,62,63,1,0,2,0,2006-04-30 14:30:00,,2006
+Southampton,Leicester,2-0,https://www.besoccer.com/match/southampton-fc/leicester-city-fc/20062989,2006,46,championship,67,63,1,0,2,0,2006-04-30 14:30:00,,2006
+Watford,Hull City,0-0,https://www.besoccer.com/match/watford-fc/hull-city/20062990,2006,46,championship,59,44,0,0,0,0,2006-04-30 14:30:00,,2006

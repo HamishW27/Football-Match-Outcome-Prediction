@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Birmingham City,Sheffield United,1-0,https://www.besoccer.com/match/birmingham-city-fc/sheffield-united/200936553,2009,1,championship,64,62,2,0,1,0,2008-08-09 13:45:00,,2009
+Blackpool,Bristol City,0-1,https://www.besoccer.com/match/blackpool-fc/bristol-city-fc/200936554,2009,1,championship,50,55,1,0,3,0,2008-08-09 16:00:00,,2009
+Cardiff City,Southampton,2-1,https://www.besoccer.com/match/cardiff-city-fc/southampton-fc/200936555,2009,1,championship,59,63,1,0,0,0,2008-08-09 16:00:00,,2009
+Charlton Athletic,Swansea City,2-0,https://www.besoccer.com/match/charlton-athletic-fc/swansea-city-afc/200936556,2009,1,championship,64,46,0,0,1,0,2008-08-09 16:00:00,,2009
+Coventry City,Norwich City,2-0,https://www.besoccer.com/match/coventry-city/norwich-city-fc/200936557,2009,1,championship,57,57,2,0,2,0,2008-08-09 16:00:00,,2009
+Crystal Palace,Watford,0-0,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/200936558,2009,1,championship,61,59,2,0,1,0,2008-08-09 16:00:00,,2009
+Derby County,Doncaster Rovers,0-1,https://www.besoccer.com/match/derby-county-fc/doncaster-rovers/200936559,2009,1,championship,54,45,0,0,2,0,2008-08-09 16:00:00,,2009
+Ipswich Town,Preston North End,1-2,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/200936560,2009,1,championship,60,60,0,0,1,0,2008-08-09 16:00:00,,2009
+Plymouth Argyle,Wolves,2-2,https://www.besoccer.com/match/plymouth-argyle/wolverhampton/200936561,2009,1,championship,54,61,3,0,2,0,2008-08-09 16:00:00,,2009
+Queens Park Rangers,Barnsley,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/200936562,2009,1,championship,52,51,1,0,0,0,2008-08-09 16:00:00,,2009
+Sheffield Wednesday,Burnley,4-1,https://www.besoccer.com/match/sheffield-wednesday-fc/burnley-fc/200936563,2009,1,championship,54,55,2,0,1,0,2008-08-09 16:00:00,,2009
+Nottingham Forest,Reading,0-0,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/200936564,2009,1,championship,54,63,1,0,1,0,2008-08-10 14:15:00,,2009
+Barnsley,Coventry City,1-2,https://www.besoccer.com/match/barnsley-fc/coventry-city/200936565,2009,2,championship,51,58,3,0,3,0,2008-08-16 16:00:00,,2009
+Doncaster Rovers,Cardiff City,1-1,https://www.besoccer.com/match/doncaster-rovers/cardiff-city-fc/200936566,2009,2,championship,45,59,0,0,1,0,2008-08-16 16:00:00,,2009
+Norwich City,Blackpool,1-1,https://www.besoccer.com/match/norwich-city-fc/blackpool-fc/200936567,2009,2,championship,56,49,1,0,4,0,2008-08-16 16:00:00,,2009
+Preston North End,Crystal Palace,2-0,https://www.besoccer.com/match/preston-north-end/crystal-palace-fc/200936568,2009,2,championship,60,61,0,0,2,0,2008-08-16 16:00:00,,2009
+Reading,Plymouth Argyle,2-0,https://www.besoccer.com/match/reading-fc/plymouth-argyle/200936569,2009,2,championship,63,53,0,0,0,0,2008-08-16 16:00:00,,2009
+Sheffield United,Queens Park Rangers,3-0,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/200936570,2009,2,championship,62,53,1,0,1,0,2008-08-16 16:00:00,,2009
+Southampton,Birmingham City,1-2,https://www.besoccer.com/match/southampton-fc/birmingham-city-fc/200936571,2009,2,championship,63,65,0,0,0,0,2008-08-16 16:00:00,,2009
+Swansea City,Nottingham Forest,3-1,https://www.besoccer.com/match/swansea-city-afc/nottingham-forest-fc/200936572,2009,2,championship,46,54,2,0,2,0,2008-08-16 16:00:00,,2009
+Watford,Charlton Athletic,1-0,https://www.besoccer.com/match/watford-fc/charlton-athletic-fc/200936573,2009,2,championship,60,64,4,0,0,0,2008-08-16 16:00:00,,2009
+Wolves,Sheffield Wednesday,4-1,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/200936574,2009,2,championship,61,54,1,0,0,0,2008-08-16 16:00:00,,2009
+Burnley,Ipswich Town,0-3,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/200936575,2009,2,championship,55,60,0,0,1,0,2008-08-16 16:50:00,,2009
+Bristol City,Derby County,1-1,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/200936576,2009,2,championship,55,54,0,0,1,0,2008-08-16 18:20:00,,2009
+Charlton Athletic,Reading,4-2,https://www.besoccer.com/match/charlton-athletic-fc/reading-fc/200936577,2009,3,championship,64,64,1,0,1,0,2008-08-23 13:45:00,,2009
+Birmingham City,Barnsley,2-0,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/200936578,2009,3,championship,65,50,1,0,1,0,2008-08-23 16:00:00,,2009
+Blackpool,Sheffield United,1-3,https://www.besoccer.com/match/blackpool-fc/sheffield-united/200936579,2009,3,championship,49,62,1,0,1,0,2008-08-23 16:00:00,,2009
+Cardiff City,Norwich City,2-2,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/200936580,2009,3,championship,59,56,0,0,0,0,2008-08-23 16:00:00,,2009
+Coventry City,Bristol City,0-3,https://www.besoccer.com/match/coventry-city/bristol-city-fc/200936581,2009,3,championship,58,55,3,0,1,0,2008-08-23 16:00:00,,2009
+Crystal Palace,Burnley,0-0,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/200936582,2009,3,championship,61,55,2,0,3,0,2008-08-23 16:00:00,,2009
+Derby County,Southampton,0-1,https://www.besoccer.com/match/derby-county-fc/southampton-fc/200936583,2009,3,championship,54,63,0,0,1,0,2008-08-23 16:00:00,,2009
+Ipswich Town,Wolves,0-2,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/200936584,2009,3,championship,60,62,2,1,2,1,2008-08-23 16:00:00,,2009
+Nottingham Forest,Watford,3-2,https://www.besoccer.com/match/nottingham-forest-fc/watford-fc/200936585,2009,3,championship,54,60,0,0,0,0,2008-08-23 16:00:00,,2009
+Queens Park Rangers,Doncaster Rovers,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/doncaster-rovers/200936586,2009,3,championship,53,45,2,0,0,0,2008-08-23 16:00:00,,2009
+Sheffield Wednesday,Preston North End,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/200936587,2009,3,championship,54,60,2,0,1,0,2008-08-23 16:00:00,,2009
+Plymouth Argyle,Swansea City,0-1,https://www.besoccer.com/match/plymouth-argyle/swansea-city-afc/200936588,2009,3,championship,53,47,1,0,1,0,2008-08-23 18:20:00,,2009
+Southampton,Blackpool,0-1,https://www.besoccer.com/match/southampton-fc/blackpool-fc/200936589,2009,4,championship,64,49,4,0,2,0,2008-08-30 13:45:00,,2009
+Barnsley,Derby County,2-0,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/200936590,2009,4,championship,50,54,2,0,1,0,2008-08-30 16:00:00,,2009
+Bristol City,Queens Park Rangers,1-1,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/200936591,2009,4,championship,55,53,2,0,3,0,2008-08-30 16:00:00,,2009
+Burnley,Plymouth Argyle,0-0,https://www.besoccer.com/match/burnley-fc/plymouth-argyle/200936592,2009,4,championship,56,53,0,0,1,0,2008-08-30 16:00:00,,2009
+Doncaster Rovers,Coventry City,1-0,https://www.besoccer.com/match/doncaster-rovers/coventry-city/200936593,2009,4,championship,45,57,0,0,0,0,2008-08-30 16:00:00,,2009
+Norwich City,Birmingham City,1-1,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/200936594,2009,4,championship,56,65,2,0,1,0,2008-08-30 16:00:00,,2009
+Preston North End,Charlton Athletic,2-1,https://www.besoccer.com/match/preston-north-end/charlton-athletic-fc/200936595,2009,4,championship,60,64,2,0,2,0,2008-08-30 16:00:00,,2009
+Reading,Crystal Palace,4-2,https://www.besoccer.com/match/reading-fc/crystal-palace-fc/200936596,2009,4,championship,64,61,2,0,1,0,2008-08-30 16:00:00,,2009
+Sheffield United,Cardiff City,0-0,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/200936597,2009,4,championship,62,59,0,0,0,0,2008-08-30 16:00:00,,2009
+Swansea City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/swansea-city-afc/sheffield-wednesday-fc/200936598,2009,4,championship,47,54,0,0,3,0,2008-08-30 16:00:00,,2009
+Wolves,Nottingham Forest,5-1,https://www.besoccer.com/match/wolverhampton/nottingham-forest-fc/200936599,2009,4,championship,62,54,0,0,2,0,2008-08-30 16:00:00,,2009
+Watford,Ipswich Town,2-1,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/200936600,2009,4,championship,60,60,2,0,2,0,2008-08-30 18:20:00,,2009
+Birmingham City,Doncaster Rovers,1-0,https://www.besoccer.com/match/birmingham-city-fc/doncaster-rovers/200936601,2009,5,championship,65,45,2,1,1,1,2008-09-13 16:00:00,,2009
+Blackpool,Barnsley,1-0,https://www.besoccer.com/match/blackpool-fc/barnsley-fc/200936602,2009,5,championship,49,51,3,0,3,0,2008-09-13 16:00:00,,2009
+Cardiff City,Bristol City,0-0,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/200936603,2009,5,championship,59,55,0,0,1,0,2008-09-13 16:00:00,,2009
+Charlton Athletic,Wolves,1-3,https://www.besoccer.com/match/charlton-athletic-fc/wolverhampton/200936604,2009,5,championship,64,62,4,0,1,0,2008-09-13 16:00:00,,2009
+Coventry City,Preston North End,0-0,https://www.besoccer.com/match/coventry-city/preston-north-end/200936605,2009,5,championship,57,60,0,0,0,0,2008-09-13 16:00:00,,2009
+Crystal Palace,Swansea City,2-0,https://www.besoccer.com/match/crystal-palace-fc/swansea-city-afc/200936606,2009,5,championship,60,47,1,0,3,0,2008-09-13 16:00:00,,2009
+Ipswich Town,Reading,2-0,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/200936607,2009,5,championship,60,64,1,0,2,0,2008-09-13 16:00:00,,2009
+Nottingham Forest,Burnley,1-2,https://www.besoccer.com/match/nottingham-forest-fc/burnley-fc/200936608,2009,5,championship,53,56,0,0,2,0,2008-09-13 16:00:00,,2009
+Plymouth Argyle,Norwich City,1-2,https://www.besoccer.com/match/plymouth-argyle/norwich-city-fc/200936609,2009,5,championship,53,56,1,0,2,0,2008-09-13 16:00:00,,2009
+Sheffield Wednesday,Watford,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/watford-fc/200936610,2009,5,championship,54,60,2,0,2,0,2008-09-13 16:00:00,,2009
+Derby County,Sheffield United,2-1,https://www.besoccer.com/match/derby-county-fc/sheffield-united/200936611,2009,5,championship,54,62,1,0,3,0,2008-09-13 18:20:00,,2009
+Queens Park Rangers,Southampton,4-1,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/200936612,2009,5,championship,53,64,2,0,2,0,2008-09-14 17:00:00,,2009
+Barnsley,Cardiff City,0-1,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/200936613,2009,6,championship,50,59,3,0,0,0,2008-09-16 20:45:00,,2009
+Bristol City,Birmingham City,1-2,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/200936614,2009,6,championship,55,65,1,0,3,0,2008-09-16 20:45:00,,2009
+Burnley,Blackpool,2-0,https://www.besoccer.com/match/burnley-fc/blackpool-fc/200936615,2009,6,championship,56,49,0,0,0,0,2008-09-16 20:45:00,,2009
+Doncaster Rovers,Charlton Athletic,0-1,https://www.besoccer.com/match/doncaster-rovers/charlton-athletic-fc/200936616,2009,6,championship,45,63,1,0,0,0,2008-09-16 20:45:00,,2009
+Preston North End,Nottingham Forest,2-1,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/200936617,2009,6,championship,60,53,0,0,1,0,2008-09-16 20:45:00,,2009
+Sheffield United,Coventry City,1-1,https://www.besoccer.com/match/sheffield-united/coventry-city/200936618,2009,6,championship,62,57,1,1,3,1,2008-09-16 20:45:00,,2009
+Swansea City,Derby County,1-1,https://www.besoccer.com/match/swansea-city-afc/derby-county-fc/200936619,2009,6,championship,47,54,0,0,2,0,2008-09-16 20:45:00,,2009
+Watford,Plymouth Argyle,1-2,https://www.besoccer.com/match/watford-fc/plymouth-argyle/200936620,2009,6,championship,60,53,1,0,2,0,2008-09-16 20:45:00,,2009
+Wolves,Crystal Palace,2-1,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/200936621,2009,6,championship,62,61,2,0,2,0,2008-09-16 20:45:00,,2009
+Reading,Sheffield Wednesday,6-0,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/200936622,2009,6,championship,64,54,0,0,1,0,2008-09-16 21:00:00,,2009
+Norwich City,Queens Park Rangers,0-1,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/200936623,2009,6,championship,57,53,2,0,1,0,2008-09-17 20:45:00,,2009
+Southampton,Ipswich Town,2-2,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/200936624,2009,6,championship,63,60,0,0,4,0,2008-09-17 20:45:00,,2009
+Birmingham City,Blackpool,0-1,https://www.besoccer.com/match/birmingham-city-fc/blackpool-fc/200936625,2009,7,championship,65,49,0,0,1,0,2008-09-20 16:00:00,,2009
+Bristol City,Doncaster Rovers,4-1,https://www.besoccer.com/match/bristol-city-fc/doncaster-rovers/200936626,2009,7,championship,55,45,2,0,2,0,2008-09-20 16:00:00,,2009
+Coventry City,Queens Park Rangers,1-0,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/200936627,2009,7,championship,57,54,4,0,1,0,2008-09-20 16:00:00,,2009
+Crystal Palace,Plymouth Argyle,1-2,https://www.besoccer.com/match/crystal-palace-fc/plymouth-argyle/200936628,2009,7,championship,60,53,2,0,2,0,2008-09-20 16:00:00,,2009
+Derby County,Cardiff City,1-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/200936629,2009,7,championship,54,59,0,0,0,0,2008-09-20 16:00:00,,2009
+Norwich City,Sheffield United,1-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/200936630,2009,7,championship,56,62,0,0,2,0,2008-09-20 16:00:00,,2009
+Nottingham Forest,Charlton Athletic,0-0,https://www.besoccer.com/match/nottingham-forest-fc/charlton-athletic-fc/200936631,2009,7,championship,53,63,2,0,2,0,2008-09-20 16:00:00,,2009
+Sheffield Wednesday,Ipswich Town,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/200936633,2009,7,championship,54,60,0,0,0,0,2008-09-20 16:00:00,,2009
+Southampton,Barnsley,0-0,https://www.besoccer.com/match/southampton-fc/barnsley-fc/200936634,2009,7,championship,63,50,2,0,1,0,2008-09-20 16:00:00,,2009
+Swansea City,Burnley,1-1,https://www.besoccer.com/match/swansea-city-afc/burnley-fc/200936635,2009,7,championship,47,56,2,0,4,0,2008-09-20 16:00:00,,2009
+Watford,Reading,2-2,https://www.besoccer.com/match/watford-fc/reading-fc/200936636,2009,7,championship,59,64,4,0,4,0,2008-09-20 16:00:00,,2009
+Preston North End,Wolves,1-3,https://www.besoccer.com/match/preston-north-end/wolverhampton/200936632,2009,7,championship,60,62,1,0,2,0,2008-09-20 16:15:00,,2009
+Wolves,Bristol City,2-0,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/200936637,2009,8,championship,62,55,1,0,1,0,2008-09-27 13:30:00,,2009
+Barnsley,Norwich City,0-0,https://www.besoccer.com/match/barnsley-fc/norwich-city-fc/200936638,2009,8,championship,50,57,1,0,0,0,2008-09-27 16:00:00,,2009
+Blackpool,Coventry City,1-1,https://www.besoccer.com/match/blackpool-fc/coventry-city/200936639,2009,8,championship,49,57,0,0,2,0,2008-09-27 16:00:00,,2009
+Burnley,Preston North End,3-1,https://www.besoccer.com/match/burnley-fc/preston-north-end/200936640,2009,8,championship,56,60,0,0,4,0,2008-09-27 16:00:00,,2009
+Cardiff City,Birmingham City,1-2,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/200936641,2009,8,championship,59,65,1,0,1,0,2008-09-27 16:00:00,,2009
+Charlton Athletic,Sheffield Wednesday,1-2,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-wednesday-fc/200936642,2009,8,championship,63,54,1,0,3,0,2008-09-27 16:00:00,,2009
+Doncaster Rovers,Southampton,0-2,https://www.besoccer.com/match/doncaster-rovers/southampton-fc/200936643,2009,8,championship,45,63,0,0,0,0,2008-09-27 16:00:00,,2009
+Plymouth Argyle,Nottingham Forest,1-0,https://www.besoccer.com/match/plymouth-argyle/nottingham-forest-fc/200936644,2009,8,championship,53,53,1,0,2,0,2008-09-27 16:00:00,,2009
+Queens Park Rangers,Derby County,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/200936645,2009,8,championship,54,54,1,0,1,0,2008-09-27 16:00:00,,2009
+Reading,Swansea City,4-0,https://www.besoccer.com/match/reading-fc/swansea-city-afc/200936646,2009,8,championship,64,48,1,0,1,0,2008-09-27 16:00:00,,2009
+Sheffield United,Watford,2-1,https://www.besoccer.com/match/sheffield-united/watford-fc/200936647,2009,8,championship,62,60,0,0,0,0,2008-09-27 16:00:00,,2009
+Ipswich Town,Crystal Palace,1-1,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/200936648,2009,8,championship,60,60,2,0,2,0,2008-09-27 18:20:00,,2009
+Bristol City,Plymouth Argyle,2-2,https://www.besoccer.com/match/bristol-city-fc/plymouth-argyle/200936649,2009,9,championship,55,53,2,0,1,0,2008-09-30 20:45:00,,2009
+Burnley,Watford,3-2,https://www.besoccer.com/match/burnley-fc/watford-fc/200936650,2009,9,championship,56,60,0,0,0,0,2008-09-30 20:45:00,,2009
+Cardiff City,Coventry City,2-1,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/200936651,2009,9,championship,59,57,0,0,2,0,2008-09-30 20:45:00,,2009
+Derby County,Birmingham City,1-1,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/200936652,2009,9,championship,55,65,3,0,0,0,2008-09-30 20:45:00,,2009
+Doncaster Rovers,Sheffield United,0-2,https://www.besoccer.com/match/doncaster-rovers/sheffield-united/200936653,2009,9,championship,45,62,1,0,2,0,2008-09-30 20:45:00,,2009
+Ipswich Town,Barnsley,3-0,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/200936654,2009,9,championship,60,50,0,0,2,0,2008-09-30 20:45:00,,2009
+Preston North End,Swansea City,0-2,https://www.besoccer.com/match/preston-north-end/swansea-city-afc/200936655,2009,9,championship,59,47,0,0,0,0,2008-09-30 20:45:00,,2009
+Sheffield Wednesday,Nottingham Forest,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/200936656,2009,9,championship,54,53,0,0,0,0,2008-09-30 20:45:00,,2009
+Southampton,Norwich City,2-0,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/200936657,2009,9,championship,63,57,0,0,2,0,2008-09-30 20:45:00,,2009
+Wolves,Reading,0-3,https://www.besoccer.com/match/wolverhampton/reading-fc/200936658,2009,9,championship,63,64,1,0,0,0,2008-09-30 20:45:00,,2009
+Crystal Palace,Charlton Athletic,1-0,https://www.besoccer.com/match/crystal-palace-fc/charlton-athletic-fc/200936659,2009,9,championship,60,63,0,0,0,0,2008-09-30 20:45:00,,2009
+Queens Park Rangers,Blackpool,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/blackpool-fc/200936660,2009,9,championship,54,49,1,0,0,0,2008-09-30 21:00:00,,2009
+Blackpool,Cardiff City,1-1,https://www.besoccer.com/match/blackpool-fc/cardiff-city-fc/200936661,2009,10,championship,49,59,1,0,1,0,2008-10-04 13:30:00,,2009
+Birmingham City,Queens Park Rangers,1-0,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/200936662,2009,10,championship,65,54,1,0,1,0,2008-10-04 13:45:00,,2009
+Barnsley,Doncaster Rovers,4-1,https://www.besoccer.com/match/barnsley-fc/doncaster-rovers/200936663,2009,10,championship,50,45,4,1,2,1,2008-10-04 16:00:00,,2009
+Charlton Athletic,Ipswich Town,2-1,https://www.besoccer.com/match/charlton-athletic-fc/ipswich-town-fc/200936664,2009,10,championship,63,60,2,0,0,0,2008-10-04 16:00:00,,2009
+Norwich City,Derby County,1-2,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/200936665,2009,10,championship,56,55,1,0,4,0,2008-10-04 16:00:00,,2009
+Nottingham Forest,Crystal Palace,0-2,https://www.besoccer.com/match/nottingham-forest-fc/crystal-palace-fc/200936666,2009,10,championship,53,60,3,0,3,0,2008-10-04 16:00:00,,2009
+Plymouth Argyle,Sheffield Wednesday,4-0,https://www.besoccer.com/match/plymouth-argyle/sheffield-wednesday-fc/200936667,2009,10,championship,53,55,0,0,0,0,2008-10-04 16:00:00,,2009
+Reading,Burnley,3-1,https://www.besoccer.com/match/reading-fc/burnley-fc/200936668,2009,10,championship,64,57,1,0,2,0,2008-10-04 16:00:00,,2009
+Sheffield United,Bristol City,3-0,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/200936669,2009,10,championship,62,55,1,0,2,0,2008-10-04 16:00:00,,2009
+Swansea City,Wolves,3-1,https://www.besoccer.com/match/swansea-city-afc/wolverhampton/200936670,2009,10,championship,48,62,4,0,1,0,2008-10-04 16:00:00,,2009
+Watford,Preston North End,2-1,https://www.besoccer.com/match/watford-fc/preston-north-end/200936671,2009,10,championship,60,59,0,0,2,0,2008-10-04 16:00:00,,2009
+Coventry City,Southampton,4-1,https://www.besoccer.com/match/coventry-city/southampton-fc/200936672,2009,10,championship,57,63,1,0,2,0,2008-10-04 18:20:00,,2009
+Bristol City,Norwich City,1-0,https://www.besoccer.com/match/bristol-city-fc/norwich-city-fc/200936673,2009,11,championship,55,56,2,0,2,0,2008-10-18 16:00:00,,2009
+Burnley,Birmingham City,1-1,https://www.besoccer.com/match/burnley-fc/birmingham-city-fc/200936674,2009,11,championship,56,65,2,0,1,0,2008-10-18 16:00:00,,2009
+Cardiff City,Charlton Athletic,2-0,https://www.besoccer.com/match/cardiff-city-fc/charlton-athletic-fc/200936675,2009,11,championship,59,63,1,0,1,0,2008-10-18 16:00:00,,2009
+Derby County,Plymouth Argyle,2-1,https://www.besoccer.com/match/derby-county-fc/plymouth-argyle/200936676,2009,11,championship,55,53,0,0,0,0,2008-10-18 16:00:00,,2009
+Doncaster Rovers,Blackpool,0-0,https://www.besoccer.com/match/doncaster-rovers/blackpool-fc/200936677,2009,11,championship,45,49,2,0,1,0,2008-10-18 16:00:00,,2009
+Ipswich Town,Swansea City,2-2,https://www.besoccer.com/match/ipswich-town-fc/swansea-city-afc/200936678,2009,11,championship,60,48,3,0,2,0,2008-10-18 16:00:00,,2009
+Preston North End,Reading,2-1,https://www.besoccer.com/match/preston-north-end/reading-fc/200936679,2009,11,championship,59,64,2,0,0,0,2008-10-18 16:00:00,,2009
+Queens Park Rangers,Nottingham Forest,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/200936680,2009,11,championship,54,53,2,0,2,0,2008-10-18 16:00:00,,2009
+Southampton,Watford,0-3,https://www.besoccer.com/match/southampton-fc/watford-fc/200936681,2009,11,championship,63,60,1,0,4,0,2008-10-18 16:00:00,,2009
+Wolves,Coventry City,2-1,https://www.besoccer.com/match/wolverhampton/coventry-city/200936682,2009,11,championship,62,57,4,0,5,0,2008-10-18 16:00:00,,2009
+Crystal Palace,Barnsley,3-0,https://www.besoccer.com/match/crystal-palace-fc/barnsley-fc/200936683,2009,11,championship,61,50,0,0,1,0,2008-10-18 18:20:00,,2009
+Sheffield Wednesday,Sheffield United,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/200936684,2009,11,championship,54,63,2,0,2,0,2008-10-19 14:15:00,,2009
+Barnsley,Sheffield Wednesday,2-1,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/200936685,2009,12,championship,50,55,2,0,2,0,2008-10-21 20:45:00,,2009
+Birmingham City,Crystal Palace,1-0,https://www.besoccer.com/match/birmingham-city-fc/crystal-palace-fc/200936686,2009,12,championship,65,61,0,0,1,0,2008-10-21 20:45:00,,2009
+Blackpool,Derby County,3-2,https://www.besoccer.com/match/blackpool-fc/derby-county-fc/200936687,2009,12,championship,49,55,0,0,2,0,2008-10-21 20:45:00,,2009
+Charlton Athletic,Bristol City,0-2,https://www.besoccer.com/match/charlton-athletic-fc/bristol-city-fc/200936688,2009,12,championship,63,55,0,0,0,0,2008-10-21 20:45:00,,2009
+Coventry City,Burnley,1-3,https://www.besoccer.com/match/coventry-city/burnley-fc/200936689,2009,12,championship,57,57,4,0,3,0,2008-10-21 20:45:00,,2009
+Norwich City,Wolves,5-2,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/200936690,2009,12,championship,56,62,1,0,1,0,2008-10-21 20:45:00,,2009
+Nottingham Forest,Ipswich Town,1-1,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/200936691,2009,12,championship,53,60,1,0,1,0,2008-10-21 20:45:00,,2009
+Plymouth Argyle,Preston North End,1-0,https://www.besoccer.com/match/plymouth-argyle/preston-north-end/200936692,2009,12,championship,53,59,1,0,1,0,2008-10-21 20:45:00,,2009
+Sheffield United,Southampton,0-0,https://www.besoccer.com/match/sheffield-united/southampton-fc/200936693,2009,12,championship,62,62,1,0,0,0,2008-10-21 20:45:00,,2009
+Swansea City,Queens Park Rangers,0-0,https://www.besoccer.com/match/swansea-city-afc/queens-park-rangers-fc/200936694,2009,12,championship,48,54,0,0,6,0,2008-10-21 20:45:00,,2009
+Watford,Cardiff City,2-2,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/200936695,2009,12,championship,60,59,1,1,1,1,2008-10-21 20:45:00,,2009
+Reading,Doncaster Rovers,2-1,https://www.besoccer.com/match/reading-fc/doncaster-rovers/200936696,2009,12,championship,64,45,1,0,2,0,2008-10-21 21:00:00,,2009
+Barnsley,Bristol City,0-0,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/200936697,2009,13,championship,50,55,1,0,2,0,2008-10-25 16:00:00,,2009
+Birmingham City,Sheffield Wednesday,3-1,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/200936698,2009,13,championship,65,54,2,0,1,0,2008-10-25 16:00:00,,2009
+Blackpool,Crystal Palace,2-2,https://www.besoccer.com/match/blackpool-fc/crystal-palace-fc/200936699,2009,13,championship,49,61,1,0,1,0,2008-10-25 16:00:00,,2009
+Charlton Athletic,Burnley,1-1,https://www.besoccer.com/match/charlton-athletic-fc/burnley-fc/200936700,2009,13,championship,63,57,1,0,1,0,2008-10-25 16:00:00,,2009
+Coventry City,Derby County,1-1,https://www.besoccer.com/match/coventry-city/derby-county-fc/200936701,2009,13,championship,57,55,2,0,2,0,2008-10-25 16:00:00,,2009
+Norwich City,Doncaster Rovers,2-1,https://www.besoccer.com/match/norwich-city-fc/doncaster-rovers/200936702,2009,13,championship,56,45,5,0,2,0,2008-10-25 16:00:00,,2009
+Nottingham Forest,Cardiff City,0-1,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/200936703,2009,13,championship,53,59,0,0,2,0,2008-10-25 16:00:00,,2009
+Plymouth Argyle,Ipswich Town,1-3,https://www.besoccer.com/match/plymouth-argyle/ipswich-town-fc/200936704,2009,13,championship,53,60,6,0,3,0,2008-10-25 16:00:00,,2009
+Sheffield United,Preston North End,1-0,https://www.besoccer.com/match/sheffield-united/preston-north-end/200936705,2009,13,championship,62,59,3,0,3,0,2008-10-25 16:00:00,,2009
+Swansea City,Southampton,3-0,https://www.besoccer.com/match/swansea-city-afc/southampton-fc/200936706,2009,13,championship,48,62,1,0,2,0,2008-10-25 16:00:00,,2009
+Watford,Wolves,2-3,https://www.besoccer.com/match/watford-fc/wolverhampton/200936707,2009,13,championship,60,62,1,0,3,0,2008-10-25 16:00:00,,2009
+Reading,Queens Park Rangers,0-0,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/200936708,2009,13,championship,64,54,1,0,1,0,2008-10-25 18:20:00,,2009
+Bristol City,Sheffield United,0-0,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/200936709,2009,14,championship,55,62,2,0,2,0,2008-10-28 20:45:00,,2009
+Burnley,Reading,1-0,https://www.besoccer.com/match/burnley-fc/reading-fc/200936710,2009,14,championship,57,64,0,0,0,0,2008-10-28 20:45:00,,2009
+Cardiff City,Blackpool,2-0,https://www.besoccer.com/match/cardiff-city-fc/blackpool-fc/200936711,2009,14,championship,59,49,1,0,2,0,2008-10-28 20:45:00,,2009
+Derby County,Norwich City,3-1,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/200936712,2009,14,championship,55,57,0,0,0,0,2008-10-28 20:45:00,,2009
+Doncaster Rovers,Barnsley,0-1,https://www.besoccer.com/match/doncaster-rovers/barnsley-fc/200936713,2009,14,championship,44,50,1,0,1,0,2008-10-28 20:45:00,,2009
+Ipswich Town,Charlton Athletic,1-1,https://www.besoccer.com/match/ipswich-town-fc/charlton-athletic-fc/200936714,2009,14,championship,60,63,1,0,2,0,2008-10-28 20:45:00,,2009
+Preston North End,Watford,2-0,https://www.besoccer.com/match/preston-north-end/watford-fc/200936715,2009,14,championship,59,60,0,0,0,0,2008-10-28 20:45:00,,2009
+Sheffield Wednesday,Plymouth Argyle,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/plymouth-argyle/200936716,2009,14,championship,54,53,0,0,2,0,2008-10-28 20:45:00,,2009
+Southampton,Coventry City,1-1,https://www.besoccer.com/match/southampton-fc/coventry-city/200936717,2009,14,championship,62,57,3,0,0,0,2008-10-28 20:45:00,,2009
+Wolves,Swansea City,2-1,https://www.besoccer.com/match/wolverhampton/swansea-city-afc/200936718,2009,14,championship,62,49,0,0,0,0,2008-10-28 20:45:00,,2009
+Crystal Palace,Nottingham Forest,1-2,https://www.besoccer.com/match/crystal-palace-fc/nottingham-forest-fc/200936719,2009,14,championship,61,53,2,0,1,0,2008-10-28 21:00:00,,2009
+Queens Park Rangers,Birmingham City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/200936720,2009,14,championship,54,65,2,1,2,1,2008-10-28 21:00:00,,2009
+Bristol City,Reading,1-4,https://www.besoccer.com/match/bristol-city-fc/reading-fc/200936721,2009,15,championship,55,64,1,0,3,0,2008-11-01 16:00:00,,2009
+Burnley,Norwich City,2-0,https://www.besoccer.com/match/burnley-fc/norwich-city-fc/200936722,2009,15,championship,57,56,3,0,0,0,2008-11-01 16:00:00,,2009
+Charlton Athletic,Barnsley,1-3,https://www.besoccer.com/match/charlton-athletic-fc/barnsley-fc/200936723,2009,15,championship,63,51,1,0,2,0,2008-11-01 16:00:00,,2009
+Crystal Palace,Sheffield Wednesday,1-1,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/200936724,2009,15,championship,60,54,1,0,0,0,2008-11-01 16:00:00,,2009
+Doncaster Rovers,Swansea City,0-0,https://www.besoccer.com/match/doncaster-rovers/swansea-city-afc/200936725,2009,15,championship,44,49,2,0,2,0,2008-11-01 16:00:00,,2009
+Ipswich Town,Queens Park Rangers,2-0,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/200936726,2009,15,championship,60,54,1,0,1,0,2008-11-01 16:00:00,,2009
+Preston North End,Southampton,2-3,https://www.besoccer.com/match/preston-north-end/southampton-fc/200936727,2009,15,championship,59,62,0,0,1,0,2008-11-01 16:00:00,,2009
+Sheffield United,Plymouth Argyle,2-0,https://www.besoccer.com/match/sheffield-united/plymouth-argyle/200936728,2009,15,championship,62,53,0,0,2,0,2008-11-01 16:00:00,,2009
+Watford,Blackpool,3-4,https://www.besoccer.com/match/watford-fc/blackpool-fc/200936729,2009,15,championship,60,49,2,0,4,0,2008-11-01 16:00:00,,2009
+Cardiff City,Wolves,1-2,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/200936730,2009,15,championship,59,62,0,0,0,0,2008-11-01 18:20:00,,2009
+Derby County,Nottingham Forest,1-1,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/200936731,2009,15,championship,55,53,3,0,5,0,2008-11-02 14:15:00,,2009
+Birmingham City,Coventry City,0-1,https://www.besoccer.com/match/birmingham-city-fc/coventry-city/200936732,2009,15,championship,65,57,0,0,2,0,2008-11-03 20:45:00,,2009
+Barnsley,Sheffield United,1-2,https://www.besoccer.com/match/barnsley-fc/sheffield-united/200936733,2009,16,championship,51,63,1,1,2,1,2008-11-08 16:00:00,,2009
+Blackpool,Ipswich Town,0-1,https://www.besoccer.com/match/blackpool-fc/ipswich-town-fc/200936734,2009,16,championship,50,60,2,0,1,0,2008-11-08 16:00:00,,2009
+Coventry City,Crystal Palace,0-2,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/200936735,2009,16,championship,57,60,1,0,0,0,2008-11-08 16:00:00,,2009
+Norwich City,Preston North End,2-2,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/200936736,2009,16,championship,56,59,2,1,0,1,2008-11-08 16:00:00,,2009
+Nottingham Forest,Birmingham City,1-1,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/200936737,2009,16,championship,53,65,1,0,4,0,2008-11-08 16:00:00,,2009
+Plymouth Argyle,Charlton Athletic,2-2,https://www.besoccer.com/match/plymouth-argyle/charlton-athletic-fc/200936738,2009,16,championship,53,62,2,0,3,0,2008-11-08 16:00:00,,2009
+Queens Park Rangers,Cardiff City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/200936739,2009,16,championship,54,59,1,0,1,0,2008-11-08 16:00:00,,2009
+Reading,Derby County,3-0,https://www.besoccer.com/match/reading-fc/derby-county-fc/200936740,2009,16,championship,64,55,0,0,1,0,2008-11-08 16:00:00,,2009
+Sheffield Wednesday,Doncaster Rovers,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/doncaster-rovers/200936741,2009,16,championship,54,44,0,0,0,0,2008-11-08 16:00:00,,2009
+Wolves,Burnley,2-0,https://www.besoccer.com/match/wolverhampton/burnley-fc/200936742,2009,16,championship,62,57,1,0,5,0,2008-11-08 16:00:00,,2009
+Southampton,Bristol City,0-1,https://www.besoccer.com/match/southampton-fc/bristol-city-fc/200936743,2009,16,championship,62,55,1,0,1,0,2008-11-08 18:20:00,,2009
+Swansea City,Watford,3-1,https://www.besoccer.com/match/swansea-city-afc/watford-fc/200936744,2009,16,championship,49,59,2,0,4,0,2008-11-09 15:00:00,,2009
+Barnsley,Watford,2-1,https://www.besoccer.com/match/barnsley-fc/watford-fc/200936745,2009,17,championship,51,59,0,0,0,0,2008-11-15 16:00:00,,2009
+Birmingham City,Charlton Athletic,3-2,https://www.besoccer.com/match/birmingham-city-fc/charlton-athletic-fc/200936746,2009,17,championship,65,62,3,0,2,0,2008-11-15 16:00:00,,2009
+Bristol City,Nottingham Forest,2-2,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/200936747,2009,17,championship,55,53,0,0,0,0,2008-11-15 16:00:00,,2009
+Cardiff City,Crystal Palace,2-1,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/200936748,2009,17,championship,59,61,1,0,0,0,2008-11-15 16:00:00,,2009
+Coventry City,Plymouth Argyle,0-1,https://www.besoccer.com/match/coventry-city/plymouth-argyle/200936749,2009,17,championship,57,53,3,0,2,0,2008-11-15 16:00:00,,2009
+Derby County,Sheffield Wednesday,3-0,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/200936750,2009,17,championship,56,54,1,0,1,0,2008-11-15 16:00:00,,2009
+Norwich City,Swansea City,2-3,https://www.besoccer.com/match/norwich-city-fc/swansea-city-afc/200936751,2009,17,championship,56,49,0,0,1,0,2008-11-15 16:00:00,,2009
+Queens Park Rangers,Burnley,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/burnley-fc/200936752,2009,17,championship,54,57,1,0,3,0,2008-11-15 16:00:00,,2009
+Sheffield United,Reading,0-2,https://www.besoccer.com/match/sheffield-united/reading-fc/200936753,2009,17,championship,63,64,1,0,3,0,2008-11-15 16:00:00,,2009
+Southampton,Wolves,1-2,https://www.besoccer.com/match/southampton-fc/wolverhampton/200936754,2009,17,championship,62,62,3,1,2,1,2008-11-15 16:00:00,,2009
+Doncaster Rovers,Ipswich Town,1-0,https://www.besoccer.com/match/doncaster-rovers/ipswich-town-fc/200936755,2009,17,championship,44,60,2,0,2,0,2008-11-15 18:20:00,,2009
+Blackpool,Preston North End,1-3,https://www.besoccer.com/match/blackpool-fc/preston-north-end/200936756,2009,17,championship,49,59,3,0,2,0,2008-11-16 14:00:00,,2009
+Swansea City,Birmingham City,2-3,https://www.besoccer.com/match/swansea-city-afc/birmingham-city-fc/200936757,2009,18,championship,49,65,1,0,1,0,2008-11-21 20:45:00,,2009
+Plymouth Argyle,Cardiff City,2-1,https://www.besoccer.com/match/plymouth-argyle/cardiff-city-fc/200936758,2009,18,championship,54,59,1,0,1,0,2008-11-22 13:45:00,,2009
+Burnley,Doncaster Rovers,0-0,https://www.besoccer.com/match/burnley-fc/doncaster-rovers/200936759,2009,18,championship,58,44,3,0,2,0,2008-11-22 16:00:00,,2009
+Charlton Athletic,Sheffield United,2-5,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-united/200936760,2009,18,championship,62,62,1,0,0,0,2008-11-22 16:00:00,,2009
+Crystal Palace,Bristol City,4-2,https://www.besoccer.com/match/crystal-palace-fc/bristol-city-fc/200936761,2009,18,championship,60,55,0,0,1,0,2008-11-22 16:00:00,,2009
+Ipswich Town,Derby County,2-0,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/200936762,2009,18,championship,60,56,1,0,2,0,2008-11-22 16:00:00,,2009
+Preston North End,Barnsley,2-1,https://www.besoccer.com/match/preston-north-end/barnsley-fc/200936763,2009,18,championship,59,51,2,0,3,0,2008-11-22 16:00:00,,2009
+Reading,Southampton,1-2,https://www.besoccer.com/match/reading-fc/southampton-fc/200936764,2009,18,championship,64,62,1,0,3,0,2008-11-22 16:00:00,,2009
+Sheffield Wednesday,Coventry City,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/200936765,2009,18,championship,54,57,1,0,3,0,2008-11-22 16:00:00,,2009
+Watford,Queens Park Rangers,3-0,https://www.besoccer.com/match/watford-fc/queens-park-rangers-fc/200936766,2009,18,championship,59,54,1,0,4,0,2008-11-22 16:00:00,,2009
+Wolves,Blackpool,2-0,https://www.besoccer.com/match/wolverhampton/blackpool-fc/200936767,2009,18,championship,62,49,1,0,2,0,2008-11-22 16:00:00,,2009
+Nottingham Forest,Norwich City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/200936768,2009,18,championship,53,56,1,0,1,0,2008-11-22 18:20:00,,2009
+Barnsley,Burnley,3-2,https://www.besoccer.com/match/barnsley-fc/burnley-fc/200936769,2009,19,championship,51,57,1,0,4,0,2008-11-24 20:45:00,,2009
+Birmingham City,Ipswich Town,2-1,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/200936770,2009,19,championship,65,60,0,0,1,0,2008-11-25 20:45:00,,2009
+Blackpool,Sheffield Wednesday,0-2,https://www.besoccer.com/match/blackpool-fc/sheffield-wednesday-fc/200936771,2009,19,championship,49,54,0,0,0,0,2008-11-25 20:45:00,,2009
+Bristol City,Watford,1-1,https://www.besoccer.com/match/bristol-city-fc/watford-fc/200936772,2009,19,championship,55,60,1,0,2,0,2008-11-25 20:45:00,,2009
+Cardiff City,Reading,2-2,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/200936773,2009,19,championship,59,64,1,0,0,0,2008-11-25 20:45:00,,2009
+Coventry City,Swansea City,1-1,https://www.besoccer.com/match/coventry-city/swansea-city-afc/200936774,2009,19,championship,57,49,2,0,0,0,2008-11-25 20:45:00,,2009
+Derby County,Preston North End,2-2,https://www.besoccer.com/match/derby-county-fc/preston-north-end/200936775,2009,19,championship,56,59,1,0,0,0,2008-11-25 20:45:00,,2009
+Doncaster Rovers,Nottingham Forest,0-0,https://www.besoccer.com/match/doncaster-rovers/nottingham-forest-fc/200936776,2009,19,championship,44,53,2,0,1,0,2008-11-25 20:45:00,,2009
+Norwich City,Crystal Palace,1-2,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/200936777,2009,19,championship,56,61,0,0,2,0,2008-11-25 20:45:00,,2009
+Sheffield United,Wolves,1-3,https://www.besoccer.com/match/sheffield-united/wolverhampton/200936778,2009,19,championship,63,63,0,0,3,0,2008-11-25 20:45:00,,2009
+Southampton,Plymouth Argyle,0-0,https://www.besoccer.com/match/southampton-fc/plymouth-argyle/200936779,2009,19,championship,62,54,0,0,1,0,2008-11-25 20:45:00,,2009
+Queens Park Rangers,Charlton Athletic,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/charlton-athletic-fc/200936780,2009,19,championship,54,62,3,0,1,0,2008-11-25 21:00:00,,2009
+Wolves,Birmingham City,1-1,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/200936781,2009,20,championship,63,65,2,0,4,0,2008-11-29 13:30:00,,2009
+Burnley,Derby County,3-0,https://www.besoccer.com/match/burnley-fc/derby-county-fc/200936782,2009,20,championship,57,56,1,0,3,0,2008-11-29 16:00:00,,2009
+Charlton Athletic,Southampton,0-0,https://www.besoccer.com/match/charlton-athletic-fc/southampton-fc/200936783,2009,20,championship,62,62,1,0,1,0,2008-11-29 16:00:00,,2009
+Crystal Palace,Queens Park Rangers,0-0,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/200936784,2009,20,championship,61,54,1,0,2,0,2008-11-29 16:00:00,,2009
+Ipswich Town,Sheffield United,1-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/200936785,2009,20,championship,60,63,2,0,0,0,2008-11-29 16:00:00,,2009
+Nottingham Forest,Barnsley,1-0,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/200936786,2009,20,championship,53,51,2,0,1,0,2008-11-29 16:00:00,,2009
+Plymouth Argyle,Blackpool,1-2,https://www.besoccer.com/match/plymouth-argyle/blackpool-fc/200936787,2009,20,championship,54,49,0,0,0,0,2008-11-29 16:00:00,,2009
+Sheffield Wednesday,Norwich City,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/200936788,2009,20,championship,54,56,1,0,0,0,2008-11-29 16:00:00,,2009
+Watford,Doncaster Rovers,1-1,https://www.besoccer.com/match/watford-fc/doncaster-rovers/200936789,2009,20,championship,59,45,5,0,4,0,2008-11-29 16:00:00,,2009
+Preston North End,Bristol City,2-0,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/200936790,2009,20,championship,59,55,1,0,1,0,2008-11-29 18:20:00,,2009
+Swansea City,Cardiff City,2-2,https://www.besoccer.com/match/swansea-city-afc/cardiff-city-fc/200936791,2009,20,championship,49,59,2,0,2,0,2008-11-30 12:15:00,,2009
+Reading,Coventry City,3-1,https://www.besoccer.com/match/reading-fc/coventry-city/200936792,2009,20,championship,64,57,1,0,1,0,2008-12-01 21:00:00,,2009
+Birmingham City,Watford,3-2,https://www.besoccer.com/match/birmingham-city-fc/watford-fc/200936794,2009,21,championship,65,59,1,0,0,0,2008-12-06 16:00:00,,2009
+Blackpool,Charlton Athletic,2-0,https://www.besoccer.com/match/blackpool-fc/charlton-athletic-fc/200936795,2009,21,championship,49,62,1,0,0,0,2008-12-06 16:00:00,,2009
+Bristol City,Swansea City,0-0,https://www.besoccer.com/match/bristol-city-fc/swansea-city-afc/200936796,2009,21,championship,55,49,3,0,3,0,2008-12-06 16:00:00,,2009
+Cardiff City,Preston North End,2-0,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/200936797,2009,21,championship,59,59,0,0,2,0,2008-12-06 16:00:00,,2009
+Coventry City,Nottingham Forest,2-2,https://www.besoccer.com/match/coventry-city/nottingham-forest-fc/200936798,2009,21,championship,57,53,2,0,0,0,2008-12-06 16:00:00,,2009
+Derby County,Crystal Palace,1-2,https://www.besoccer.com/match/derby-county-fc/crystal-palace-fc/200936799,2009,21,championship,56,61,1,0,1,0,2008-12-06 16:00:00,,2009
+Doncaster Rovers,Plymouth Argyle,1-0,https://www.besoccer.com/match/doncaster-rovers/plymouth-argyle/200936800,2009,21,championship,45,54,2,0,1,0,2008-12-06 16:00:00,,2009
+Sheffield United,Burnley,2-3,https://www.besoccer.com/match/sheffield-united/burnley-fc/200936801,2009,21,championship,63,58,2,0,2,0,2008-12-06 16:00:00,,2009
+Southampton,Sheffield Wednesday,1-1,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/200936802,2009,21,championship,62,54,0,0,1,0,2008-12-06 16:00:00,,2009
+Barnsley,Reading,0-1,https://www.besoccer.com/match/barnsley-fc/reading-fc/200936793,2009,21,championship,51,64,2,0,1,0,2008-12-06 16:15:00,,2009
+Queens Park Rangers,Wolves,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/200936803,2009,21,championship,54,63,1,0,1,0,2008-12-06 18:20:00,,2009
+Norwich City,Ipswich Town,2-0,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/200936804,2009,21,championship,56,60,1,0,3,0,2008-12-07 14:15:00,,2009
+Crystal Palace,Southampton,3-0,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/200936805,2009,22,championship,61,62,1,0,1,0,2008-12-08 21:00:00,,2009
+Burnley,Cardiff City,2-2,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/200936806,2009,22,championship,58,59,1,0,1,0,2008-12-09 20:45:00,,2009
+Charlton Athletic,Coventry City,1-2,https://www.besoccer.com/match/charlton-athletic-fc/coventry-city/200936807,2009,22,championship,62,57,3,0,2,0,2008-12-09 20:45:00,,2009
+Nottingham Forest,Sheffield United,0-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/200936808,2009,22,championship,53,62,1,0,1,0,2008-12-09 20:45:00,,2009
+Plymouth Argyle,Birmingham City,0-1,https://www.besoccer.com/match/plymouth-argyle/birmingham-city-fc/200936809,2009,22,championship,53,65,1,0,0,0,2008-12-09 20:45:00,,2009
+Preston North End,Doncaster Rovers,1-0,https://www.besoccer.com/match/preston-north-end/doncaster-rovers/200936810,2009,22,championship,59,45,1,0,0,0,2008-12-09 20:45:00,,2009
+Sheffield Wednesday,Queens Park Rangers,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/200936811,2009,22,championship,54,54,1,0,0,0,2008-12-09 20:45:00,,2009
+Swansea City,Barnsley,2-2,https://www.besoccer.com/match/swansea-city-afc/barnsley-fc/200936812,2009,22,championship,49,51,3,0,1,0,2008-12-09 20:45:00,,2009
+Wolves,Derby County,3-0,https://www.besoccer.com/match/wolverhampton/derby-county-fc/200936813,2009,22,championship,63,56,0,0,0,0,2008-12-09 20:45:00,,2009
+Reading,Blackpool,1-0,https://www.besoccer.com/match/reading-fc/blackpool-fc/200936814,2009,22,championship,64,49,1,0,2,0,2008-12-09 21:00:00,,2009
+Ipswich Town,Bristol City,3-1,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/200936815,2009,22,championship,60,55,3,1,2,1,2008-12-10 20:45:00,,2009
+Watford,Norwich City,2-1,https://www.besoccer.com/match/watford-fc/norwich-city-fc/200936816,2009,22,championship,59,56,1,0,2,0,2008-12-10 20:45:00,,2009
+Burnley,Southampton,3-2,https://www.besoccer.com/match/burnley-fc/southampton-fc/200936817,2009,23,championship,58,62,2,0,3,0,2008-12-13 16:00:00,,2009
+Crystal Palace,Doncaster Rovers,2-1,https://www.besoccer.com/match/crystal-palace-fc/doncaster-rovers/200936818,2009,23,championship,61,45,0,0,2,0,2008-12-13 16:00:00,,2009
+Ipswich Town,Cardiff City,1-2,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/200936819,2009,23,championship,60,59,2,0,0,0,2008-12-13 16:00:00,,2009
+Nottingham Forest,Blackpool,0-0,https://www.besoccer.com/match/nottingham-forest-fc/blackpool-fc/200936820,2009,23,championship,53,49,1,0,4,0,2008-12-13 16:00:00,,2009
+Plymouth Argyle,Queens Park Rangers,1-1,https://www.besoccer.com/match/plymouth-argyle/queens-park-rangers-fc/200936821,2009,23,championship,53,54,1,0,2,0,2008-12-13 16:00:00,,2009
+Reading,Norwich City,2-0,https://www.besoccer.com/match/reading-fc/norwich-city-fc/200936822,2009,23,championship,64,56,1,0,1,0,2008-12-13 16:00:00,,2009
+Sheffield Wednesday,Bristol City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/200936823,2009,23,championship,54,55,0,0,0,0,2008-12-13 16:00:00,,2009
+Swansea City,Sheffield United,1-1,https://www.besoccer.com/match/swansea-city-afc/sheffield-united/200936824,2009,23,championship,49,62,0,0,1,0,2008-12-13 16:00:00,,2009
+Watford,Coventry City,2-1,https://www.besoccer.com/match/watford-fc/coventry-city/200936825,2009,23,championship,59,57,1,0,0,0,2008-12-13 16:00:00,,2009
+Wolves,Barnsley,2-0,https://www.besoccer.com/match/wolverhampton/barnsley-fc/200936826,2009,23,championship,63,51,0,0,2,0,2008-12-13 16:00:00,,2009
+Preston North End,Birmingham City,1-0,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/200936827,2009,23,championship,59,65,0,0,3,0,2008-12-13 18:20:00,,2009
+Charlton Athletic,Derby County,2-2,https://www.besoccer.com/match/charlton-athletic-fc/derby-county-fc/200936828,2009,23,championship,61,56,0,0,2,0,2008-12-15 20:45:00,,2009
+Birmingham City,Reading,1-3,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/200936829,2009,24,championship,65,65,1,0,2,0,2008-12-20 13:45:00,,2009
+Barnsley,Plymouth Argyle,2-0,https://www.besoccer.com/match/barnsley-fc/plymouth-argyle/200936830,2009,24,championship,51,53,3,0,1,0,2008-12-20 16:00:00,,2009
+Blackpool,Swansea City,1-1,https://www.besoccer.com/match/blackpool-fc/swansea-city-afc/200936831,2009,24,championship,49,49,1,0,1,0,2008-12-20 16:00:00,,2009
+Bristol City,Burnley,1-2,https://www.besoccer.com/match/bristol-city-fc/burnley-fc/200936832,2009,24,championship,55,59,0,0,0,0,2008-12-20 16:00:00,,2009
+Cardiff City,Sheffield Wednesday,2-0,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/200936833,2009,24,championship,59,54,0,0,2,0,2008-12-20 16:00:00,,2009
+Coventry City,Ipswich Town,2-2,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/200936834,2009,24,championship,57,60,0,0,2,0,2008-12-20 16:00:00,,2009
+Derby County,Watford,1-0,https://www.besoccer.com/match/derby-county-fc/watford-fc/200936835,2009,24,championship,56,59,0,0,0,0,2008-12-20 16:00:00,,2009
+Doncaster Rovers,Wolves,0-1,https://www.besoccer.com/match/doncaster-rovers/wolverhampton/200936836,2009,24,championship,45,63,1,0,2,0,2008-12-20 16:00:00,,2009
+Norwich City,Charlton Athletic,1-0,https://www.besoccer.com/match/norwich-city-fc/charlton-athletic-fc/200936837,2009,24,championship,56,61,1,0,2,0,2008-12-20 16:00:00,,2009
+Queens Park Rangers,Preston North End,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/200936838,2009,24,championship,54,59,1,0,1,0,2008-12-20 16:00:00,,2009
+Southampton,Nottingham Forest,0-2,https://www.besoccer.com/match/southampton-fc/nottingham-forest-fc/200936839,2009,24,championship,62,53,4,0,2,0,2008-12-20 16:00:00,,2009
+Sheffield United,Crystal Palace,2-2,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/200936840,2009,24,championship,62,61,3,0,3,0,2008-12-20 18:20:00,,2009
+Watford,Bristol City,2-4,https://www.besoccer.com/match/watford-fc/bristol-city-fc/200936841,2009,25,championship,59,54,0,0,3,0,2008-12-26 13:00:00,,2009
+Charlton Athletic,Queens Park Rangers,2-2,https://www.besoccer.com/match/charlton-athletic-fc/queens-park-rangers-fc/200936842,2009,25,championship,61,54,3,0,3,0,2008-12-26 14:00:00,,2009
+Crystal Palace,Norwich City,3-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/200936843,2009,25,championship,61,56,4,0,1,0,2008-12-26 14:00:00,,2009
+Burnley,Barnsley,1-2,https://www.besoccer.com/match/burnley-fc/barnsley-fc/200936844,2009,25,championship,59,51,1,0,1,0,2008-12-26 16:00:00,,2009
+Ipswich Town,Birmingham City,0-1,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/200936845,2009,25,championship,60,65,3,0,2,0,2008-12-26 16:00:00,,2009
+Nottingham Forest,Doncaster Rovers,2-4,https://www.besoccer.com/match/nottingham-forest-fc/doncaster-rovers/200936846,2009,25,championship,53,45,4,0,3,0,2008-12-26 16:00:00,,2009
+Plymouth Argyle,Southampton,2-0,https://www.besoccer.com/match/plymouth-argyle/southampton-fc/200936847,2009,25,championship,53,61,1,0,3,0,2008-12-26 16:00:00,,2009
+Preston North End,Derby County,2-0,https://www.besoccer.com/match/preston-north-end/derby-county-fc/200936848,2009,25,championship,59,56,1,0,0,0,2008-12-26 16:00:00,,2009
+Reading,Cardiff City,1-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/200936849,2009,25,championship,65,59,2,0,2,0,2008-12-26 16:00:00,,2009
+Sheffield Wednesday,Blackpool,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/blackpool-fc/200936850,2009,25,championship,54,49,2,0,4,0,2008-12-26 16:00:00,,2009
+Swansea City,Coventry City,0-0,https://www.besoccer.com/match/swansea-city-afc/coventry-city/200936851,2009,25,championship,49,57,1,0,4,0,2008-12-26 16:00:00,,2009
+Wolves,Sheffield United,1-1,https://www.besoccer.com/match/wolverhampton/sheffield-united/200936852,2009,25,championship,63,62,2,0,1,0,2008-12-26 16:00:00,,2009
+Barnsley,Preston North End,1-1,https://www.besoccer.com/match/barnsley-fc/preston-north-end/200936853,2009,26,championship,51,59,3,0,1,0,2008-12-28 16:00:00,,2009
+Birmingham City,Swansea City,0-0,https://www.besoccer.com/match/birmingham-city-fc/swansea-city-afc/200936854,2009,26,championship,65,49,2,0,2,0,2008-12-28 16:00:00,,2009
+Bristol City,Crystal Palace,1-0,https://www.besoccer.com/match/bristol-city-fc/crystal-palace-fc/200936855,2009,26,championship,55,61,1,0,2,0,2008-12-28 16:00:00,,2009
+Cardiff City,Plymouth Argyle,1-0,https://www.besoccer.com/match/cardiff-city-fc/plymouth-argyle/200936856,2009,26,championship,59,53,1,0,1,0,2008-12-28 16:00:00,,2009
+Coventry City,Sheffield Wednesday,2-0,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/200936857,2009,26,championship,57,54,0,0,0,0,2008-12-28 16:00:00,,2009
+Derby County,Ipswich Town,0-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/200936858,2009,26,championship,56,60,1,1,2,1,2008-12-28 16:00:00,,2009
+Doncaster Rovers,Burnley,2-1,https://www.besoccer.com/match/doncaster-rovers/burnley-fc/200936859,2009,26,championship,45,59,1,0,2,0,2008-12-28 16:00:00,,2009
+Norwich City,Nottingham Forest,2-3,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/200936860,2009,26,championship,56,53,2,0,4,0,2008-12-28 16:00:00,,2009
+Queens Park Rangers,Watford,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/watford-fc/200936861,2009,26,championship,55,59,3,0,4,0,2008-12-28 16:00:00,,2009
+Sheffield United,Charlton Athletic,3-1,https://www.besoccer.com/match/sheffield-united/charlton-athletic-fc/200936862,2009,26,championship,62,61,1,0,5,0,2008-12-28 16:00:00,,2009
+Southampton,Reading,1-1,https://www.besoccer.com/match/southampton-fc/reading-fc/200936863,2009,26,championship,61,65,4,0,3,0,2008-12-28 16:00:00,,2009
+Blackpool,Wolves,2-2,https://www.besoccer.com/match/blackpool-fc/wolverhampton/200936864,2009,26,championship,49,63,1,0,3,0,2008-12-29 20:45:00,,2009
+Reading,Watford,4-0,https://www.besoccer.com/match/reading-fc/watford-fc/200936865,2009,27,championship,64,59,0,0,0,0,2009-01-09 21:00:00,,2009
+Barnsley,Southampton,0-1,https://www.besoccer.com/match/barnsley-fc/southampton-fc/200936866,2009,27,championship,51,61,0,0,2,0,2009-01-10 16:00:00,,2009
+Charlton Athletic,Nottingham Forest,0-2,https://www.besoccer.com/match/charlton-athletic-fc/nottingham-forest-fc/200936869,2009,27,championship,61,54,1,0,0,0,2009-01-10 16:00:00,,2009
+Ipswich Town,Sheffield Wednesday,1-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/200936871,2009,27,championship,60,54,1,0,0,0,2009-01-10 16:00:00,,2009
+Queens Park Rangers,Coventry City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/200936873,2009,27,championship,55,57,2,0,3,0,2009-01-10 16:00:00,,2009
+Sheffield United,Norwich City,1-0,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/200936874,2009,27,championship,63,56,1,0,0,0,2009-01-10 16:00:00,,2009
+Wolves,Preston North End,1-3,https://www.besoccer.com/match/wolverhampton/preston-north-end/200936875,2009,27,championship,63,59,0,0,2,0,2009-01-10 16:00:00,,2009
+Burnley,Swansea City,0-2,https://www.besoccer.com/match/burnley-fc/swansea-city-afc/200936876,2009,27,championship,59,49,1,1,1,1,2009-01-10 18:20:00,,2009
+Blackpool,Birmingham City,2-0,https://www.besoccer.com/match/blackpool-fc/birmingham-city-fc/200936867,2009,27,championship,49,64,2,1,1,1,2009-01-24 20:45:00,,2009
+Doncaster Rovers,Bristol City,1-0,https://www.besoccer.com/match/doncaster-rovers/bristol-city-fc/200936870,2009,27,championship,47,56,0,0,3,0,2009-02-17 20:45:00,,2009
+Plymouth Argyle,Crystal Palace,1-3,https://www.besoccer.com/match/plymouth-argyle/crystal-palace-fc/200936872,2009,27,championship,53,61,1,0,0,0,2009-02-17 20:45:00,,2009
+Cardiff City,Derby County,4-1,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/200936868,2009,27,championship,60,57,0,0,0,0,2009-04-08 20:45:00,,2009
+Preston North End,Burnley,2-1,https://www.besoccer.com/match/preston-north-end/burnley-fc/200936877,2009,28,championship,60,59,3,0,0,0,2009-01-17 13:45:00,,2009
+Birmingham City,Cardiff City,1-1,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/200936878,2009,28,championship,64,60,1,0,2,0,2009-01-17 16:00:00,,2009
+Coventry City,Blackpool,2-1,https://www.besoccer.com/match/coventry-city/blackpool-fc/200936879,2009,28,championship,57,49,1,0,2,0,2009-01-17 16:00:00,,2009
+Crystal Palace,Ipswich Town,1-4,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/200936880,2009,28,championship,61,60,1,0,2,0,2009-01-17 16:00:00,,2009
+Derby County,Queens Park Rangers,0-2,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/200936881,2009,28,championship,56,54,2,0,0,0,2009-01-17 16:00:00,,2009
+Norwich City,Barnsley,4-0,https://www.besoccer.com/match/norwich-city-fc/barnsley-fc/200936882,2009,28,championship,55,51,0,0,3,0,2009-01-17 16:00:00,,2009
+Nottingham Forest,Plymouth Argyle,2-0,https://www.besoccer.com/match/nottingham-forest-fc/plymouth-argyle/200936883,2009,28,championship,54,53,4,0,1,0,2009-01-17 16:00:00,,2009
+Sheffield Wednesday,Charlton Athletic,4-1,https://www.besoccer.com/match/sheffield-wednesday-fc/charlton-athletic-fc/200936884,2009,28,championship,54,61,4,0,2,0,2009-01-17 16:00:00,,2009
+Southampton,Doncaster Rovers,1-2,https://www.besoccer.com/match/southampton-fc/doncaster-rovers/200936885,2009,28,championship,61,45,3,0,2,0,2009-01-17 16:00:00,,2009
+Swansea City,Reading,2-0,https://www.besoccer.com/match/swansea-city-afc/reading-fc/200936886,2009,28,championship,50,65,1,0,1,0,2009-01-17 16:00:00,,2009
+Watford,Sheffield United,0-2,https://www.besoccer.com/match/watford-fc/sheffield-united/200936887,2009,28,championship,59,63,1,0,1,0,2009-01-17 16:00:00,,2009
+Bristol City,Wolves,2-2,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/200936888,2009,28,championship,55,63,1,0,1,0,2009-01-17 18:20:00,,2009
+Barnsley,Ipswich Town,1-2,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/200936889,2009,29,championship,51,60,0,0,0,0,2009-01-27 20:45:00,,2009
+Birmingham City,Derby County,1-0,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/200936890,2009,29,championship,64,56,2,0,1,0,2009-01-27 20:45:00,,2009
+Blackpool,Queens Park Rangers,0-3,https://www.besoccer.com/match/blackpool-fc/queens-park-rangers-fc/200936891,2009,29,championship,49,55,0,0,2,0,2009-01-27 20:45:00,,2009
+Charlton Athletic,Crystal Palace,1-0,https://www.besoccer.com/match/charlton-athletic-fc/crystal-palace-fc/200936892,2009,29,championship,61,61,3,0,3,0,2009-01-27 20:45:00,,2009
+Norwich City,Southampton,2-2,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/200936894,2009,29,championship,56,61,3,0,4,0,2009-01-27 20:45:00,,2009
+Nottingham Forest,Sheffield Wednesday,2-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/200936895,2009,29,championship,55,54,2,0,1,0,2009-01-27 20:45:00,,2009
+Plymouth Argyle,Bristol City,0-2,https://www.besoccer.com/match/plymouth-argyle/bristol-city-fc/200936896,2009,29,championship,53,55,0,0,3,0,2009-01-27 20:45:00,,2009
+Sheffield United,Doncaster Rovers,0-1,https://www.besoccer.com/match/sheffield-united/doncaster-rovers/200936898,2009,29,championship,63,46,2,0,1,0,2009-01-27 20:45:00,,2009
+Swansea City,Preston North End,4-1,https://www.besoccer.com/match/swansea-city-afc/preston-north-end/200936899,2009,29,championship,51,60,1,0,3,0,2009-01-27 20:45:00,,2009
+Watford,Burnley,3-0,https://www.besoccer.com/match/watford-fc/burnley-fc/200936900,2009,29,championship,59,59,1,0,1,0,2009-01-27 20:45:00,,2009
+Reading,Wolves,1-0,https://www.besoccer.com/match/reading-fc/wolverhampton/200936897,2009,29,championship,64,63,1,0,1,0,2009-01-27 21:00:00,,2009
+Coventry City,Cardiff City,0-2,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/200936893,2009,29,championship,58,60,0,0,0,0,2009-01-28 20:45:00,,2009
+Doncaster Rovers,Norwich City,1-1,https://www.besoccer.com/match/doncaster-rovers/norwich-city-fc/200936906,2009,30,championship,46,56,0,0,1,0,2009-01-30 20:45:00,,2009
+Bristol City,Barnsley,2-0,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/200936901,2009,30,championship,55,51,0,0,2,0,2009-01-31 16:00:00,,2009
+Burnley,Charlton Athletic,2-1,https://www.besoccer.com/match/burnley-fc/charlton-athletic-fc/200936902,2009,30,championship,59,61,0,0,1,0,2009-01-31 16:00:00,,2009
+Cardiff City,Nottingham Forest,2-0,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/200936903,2009,30,championship,60,55,1,0,2,0,2009-01-31 16:00:00,,2009
+Crystal Palace,Blackpool,0-1,https://www.besoccer.com/match/crystal-palace-fc/blackpool-fc/200936904,2009,30,championship,61,49,1,0,1,0,2009-01-31 16:00:00,,2009
+Derby County,Coventry City,2-1,https://www.besoccer.com/match/derby-county-fc/coventry-city/200936905,2009,30,championship,56,57,1,0,0,0,2009-01-31 16:00:00,,2009
+Ipswich Town,Plymouth Argyle,0-0,https://www.besoccer.com/match/ipswich-town-fc/plymouth-argyle/200936907,2009,30,championship,60,53,1,0,2,0,2009-01-31 16:00:00,,2009
+Preston North End,Sheffield United,0-0,https://www.besoccer.com/match/preston-north-end/sheffield-united/200936908,2009,30,championship,59,63,1,0,1,0,2009-01-31 16:00:00,,2009
+Queens Park Rangers,Reading,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/200936909,2009,30,championship,55,64,1,0,2,0,2009-01-31 16:00:00,,2009
+Southampton,Swansea City,2-2,https://www.besoccer.com/match/southampton-fc/swansea-city-afc/200936911,2009,30,championship,61,51,2,0,1,0,2009-01-31 16:00:00,,2009
+Wolves,Watford,3-1,https://www.besoccer.com/match/wolverhampton/watford-fc/200936912,2009,30,championship,63,59,2,0,2,0,2009-01-31 16:00:00,,2009
+Sheffield Wednesday,Birmingham City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/200936910,2009,30,championship,54,64,0,0,2,0,2009-01-31 18:20:00,,2009
+Bristol City,Charlton Athletic,2-1,https://www.besoccer.com/match/bristol-city-fc/charlton-athletic-fc/200936913,2009,31,championship,55,61,0,0,3,0,2009-02-03 20:45:00,,2009
+Preston North End,Plymouth Argyle,1-1,https://www.besoccer.com/match/preston-north-end/plymouth-argyle/200936920,2009,31,championship,59,53,0,0,3,0,2009-02-03 20:45:00,,2009
+Southampton,Sheffield United,1-2,https://www.besoccer.com/match/southampton-fc/sheffield-united/200936923,2009,31,championship,61,63,3,0,0,0,2009-02-03 20:45:00,,2009
+Wolves,Norwich City,3-3,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/200936924,2009,31,championship,63,56,1,0,1,0,2009-02-03 20:45:00,,2009
+Burnley,Coventry City,1-1,https://www.besoccer.com/match/burnley-fc/coventry-city/200936914,2009,31,championship,60,58,0,0,1,0,2009-02-17 20:45:00,,2009
+Sheffield Wednesday,Barnsley,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/200936922,2009,31,championship,54,51,1,0,4,0,2009-02-17 20:45:00,,2009
+Derby County,Blackpool,4-1,https://www.besoccer.com/match/derby-county-fc/blackpool-fc/200936917,2009,31,championship,57,49,1,0,2,0,2009-02-18 20:45:00,,2009
+Ipswich Town,Nottingham Forest,2-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/200936919,2009,31,championship,60,54,3,0,4,0,2009-02-18 20:45:00,,2009
+Crystal Palace,Birmingham City,0-0,https://www.besoccer.com/match/crystal-palace-fc/birmingham-city-fc/200936916,2009,31,championship,61,64,2,1,1,1,2009-02-24 21:00:00,,2009
+Doncaster Rovers,Reading,0-1,https://www.besoccer.com/match/doncaster-rovers/reading-fc/200936918,2009,31,championship,47,64,1,0,2,0,2009-03-17 20:45:00,,2009
+Queens Park Rangers,Swansea City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/swansea-city-afc/200936921,2009,31,championship,54,52,1,0,1,0,2009-03-17 21:00:00,,2009
+Cardiff City,Watford,2-1,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/200936915,2009,31,championship,60,60,2,0,4,0,2009-03-18 20:45:00,,2009
+Sheffield United,Sheffield Wednesday,1-2,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/200936934,2009,32,championship,63,54,0,0,3,0,2009-02-07 13:00:00,,2009
+Birmingham City,Burnley,1-1,https://www.besoccer.com/match/birmingham-city-fc/burnley-fc/200936926,2009,32,championship,64,60,2,0,2,0,2009-02-07 16:00:00,,2009
+Blackpool,Doncaster Rovers,2-3,https://www.besoccer.com/match/blackpool-fc/doncaster-rovers/200936927,2009,32,championship,49,47,1,1,0,1,2009-02-07 16:00:00,,2009
+Coventry City,Wolves,2-1,https://www.besoccer.com/match/coventry-city/wolverhampton/200936929,2009,32,championship,57,63,2,0,2,0,2009-02-07 16:00:00,,2009
+Norwich City,Bristol City,1-2,https://www.besoccer.com/match/norwich-city-fc/bristol-city-fc/200936930,2009,32,championship,56,56,0,1,0,1,2009-02-07 16:00:00,,2009
+Nottingham Forest,Queens Park Rangers,2-2,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/200936931,2009,32,championship,54,55,4,0,1,0,2009-02-07 16:00:00,,2009
+Plymouth Argyle,Derby County,0-3,https://www.besoccer.com/match/plymouth-argyle/derby-county-fc/200936932,2009,32,championship,53,57,0,0,0,0,2009-02-07 16:00:00,,2009
+Reading,Preston North End,0-0,https://www.besoccer.com/match/reading-fc/preston-north-end/200936933,2009,32,championship,64,59,1,0,3,0,2009-02-07 16:00:00,,2009
+Swansea City,Ipswich Town,3-0,https://www.besoccer.com/match/swansea-city-afc/ipswich-town-fc/200936935,2009,32,championship,51,60,1,0,2,0,2009-02-07 16:00:00,,2009
+Barnsley,Crystal Palace,3-1,https://www.besoccer.com/match/barnsley-fc/crystal-palace-fc/200936925,2009,32,championship,51,60,1,0,1,0,2009-03-17 20:45:00,,2009
+Watford,Southampton,2-2,https://www.besoccer.com/match/watford-fc/southampton-fc/200936936,2009,32,championship,60,61,0,0,2,0,2009-04-07 20:45:00,,2009
+Charlton Athletic,Cardiff City,2-2,https://www.besoccer.com/match/charlton-athletic-fc/cardiff-city-fc/200936928,2009,32,championship,60,61,3,0,2,0,2009-04-21 20:45:00,,2009
+Birmingham City,Nottingham Forest,2-0,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/200936937,2009,33,championship,64,54,1,0,1,0,2009-02-14 16:00:00,,2009
+Bristol City,Southampton,2-0,https://www.besoccer.com/match/bristol-city-fc/southampton-fc/200936938,2009,33,championship,56,61,3,0,3,0,2009-02-14 16:00:00,,2009
+Burnley,Wolves,1-0,https://www.besoccer.com/match/burnley-fc/wolverhampton/200936939,2009,33,championship,60,63,0,0,0,0,2009-02-14 16:00:00,,2009
+Charlton Athletic,Plymouth Argyle,2-0,https://www.besoccer.com/match/charlton-athletic-fc/plymouth-argyle/200936941,2009,33,championship,61,53,3,0,3,0,2009-02-14 16:00:00,,2009
+Doncaster Rovers,Sheffield Wednesday,1-0,https://www.besoccer.com/match/doncaster-rovers/sheffield-wednesday-fc/200936944,2009,33,championship,47,54,2,0,1,0,2009-02-14 16:00:00,,2009
+Ipswich Town,Blackpool,1-1,https://www.besoccer.com/match/ipswich-town-fc/blackpool-fc/200936945,2009,33,championship,60,49,1,0,2,0,2009-02-14 16:00:00,,2009
+Preston North End,Norwich City,1-0,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/200936946,2009,33,championship,59,56,1,0,2,0,2009-02-14 16:00:00,,2009
+Watford,Swansea City,2-0,https://www.besoccer.com/match/watford-fc/swansea-city-afc/200936948,2009,33,championship,59,52,2,0,2,0,2009-02-17 20:45:00,,2009
+Cardiff City,Queens Park Rangers,0-0,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/200936940,2009,33,championship,61,55,0,0,2,0,2009-02-25 20:45:00,,2009
+Sheffield United,Barnsley,2-1,https://www.besoccer.com/match/sheffield-united/barnsley-fc/200936947,2009,33,championship,63,51,1,0,2,0,2009-04-07 20:45:00,,2009
+Crystal Palace,Coventry City,1-1,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/200936942,2009,33,championship,60,58,2,0,1,0,2009-04-07 21:00:00,,2009
+Derby County,Reading,0-2,https://www.besoccer.com/match/derby-county-fc/reading-fc/200936943,2009,33,championship,57,64,1,0,0,0,2009-04-21 20:45:00,,2009
+Nottingham Forest,Derby County,1-3,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/200936953,2009,34,championship,54,57,3,0,0,0,2009-02-21 14:00:00,,2009
+Barnsley,Charlton Athletic,0-0,https://www.besoccer.com/match/barnsley-fc/charlton-athletic-fc/200936949,2009,34,championship,51,61,0,0,0,0,2009-02-21 16:00:00,,2009
+Blackpool,Watford,0-2,https://www.besoccer.com/match/blackpool-fc/watford-fc/200936950,2009,34,championship,49,59,1,0,2,0,2009-02-21 16:00:00,,2009
+Coventry City,Birmingham City,1-0,https://www.besoccer.com/match/coventry-city/birmingham-city-fc/200936951,2009,34,championship,58,64,1,0,2,0,2009-02-21 16:00:00,,2009
+Norwich City,Burnley,1-1,https://www.besoccer.com/match/norwich-city-fc/burnley-fc/200936952,2009,34,championship,55,60,0,0,1,0,2009-02-21 16:00:00,,2009
+Plymouth Argyle,Sheffield United,2-2,https://www.besoccer.com/match/plymouth-argyle/sheffield-united/200936954,2009,34,championship,52,63,1,0,3,0,2009-02-21 16:00:00,,2009
+Reading,Bristol City,0-2,https://www.besoccer.com/match/reading-fc/bristol-city-fc/200936956,2009,34,championship,64,56,1,0,1,0,2009-02-21 16:00:00,,2009
+Sheffield Wednesday,Crystal Palace,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/200936957,2009,34,championship,54,61,2,0,2,0,2009-02-21 16:00:00,,2009
+Southampton,Preston North End,3-1,https://www.besoccer.com/match/southampton-fc/preston-north-end/200936958,2009,34,championship,61,60,1,0,1,0,2009-02-21 16:00:00,,2009
+Swansea City,Doncaster Rovers,3-1,https://www.besoccer.com/match/swansea-city-afc/doncaster-rovers/200936959,2009,34,championship,52,47,2,0,2,0,2009-02-21 16:00:00,,2009
+Queens Park Rangers,Ipswich Town,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/200936955,2009,34,championship,55,60,0,0,1,0,2009-02-21 18:20:00,,2009
+Wolves,Cardiff City,2-2,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/200936960,2009,34,championship,63,61,1,0,0,0,2009-02-22 14:00:00,,2009
+Doncaster Rovers,Derby County,2-1,https://www.besoccer.com/match/doncaster-rovers/derby-county-fc/200936964,2009,35,championship,47,57,0,0,0,0,2009-02-27 20:45:00,,2009
+Barnsley,Queens Park Rangers,2-1,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/200936961,2009,35,championship,51,55,1,0,0,0,2009-02-28 16:00:00,,2009
+Bristol City,Blackpool,0-0,https://www.besoccer.com/match/bristol-city-fc/blackpool-fc/200936962,2009,35,championship,56,49,0,0,2,0,2009-02-28 16:00:00,,2009
+Burnley,Sheffield Wednesday,2-4,https://www.besoccer.com/match/burnley-fc/sheffield-wednesday-fc/200936963,2009,35,championship,60,54,2,0,1,0,2009-02-28 16:00:00,,2009
+Norwich City,Coventry City,1-2,https://www.besoccer.com/match/norwich-city-fc/coventry-city/200936965,2009,35,championship,55,58,2,0,1,0,2009-02-28 16:00:00,,2009
+Preston North End,Ipswich Town,3-2,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/200936966,2009,35,championship,59,60,5,0,2,0,2009-02-28 16:00:00,,2009
+Reading,Nottingham Forest,0-1,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/200936967,2009,35,championship,64,54,1,0,3,0,2009-02-28 16:00:00,,2009
+Southampton,Cardiff City,1-0,https://www.besoccer.com/match/southampton-fc/cardiff-city-fc/200936969,2009,35,championship,61,61,1,0,0,0,2009-02-28 16:00:00,,2009
+Swansea City,Charlton Athletic,1-1,https://www.besoccer.com/match/swansea-city-afc/charlton-athletic-fc/200936970,2009,35,championship,52,61,3,0,5,0,2009-02-28 16:00:00,,2009
+Watford,Crystal Palace,2-0,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/200936971,2009,35,championship,59,61,0,0,2,0,2009-02-28 16:00:00,,2009
+Wolves,Plymouth Argyle,0-1,https://www.besoccer.com/match/wolverhampton/plymouth-argyle/200936972,2009,35,championship,63,52,1,0,0,0,2009-02-28 16:00:00,,2009
+Sheffield United,Birmingham City,2-1,https://www.besoccer.com/match/sheffield-united/birmingham-city-fc/200936968,2009,35,championship,63,64,3,0,3,0,2009-03-01 13:15:00,,2009
+Blackpool,Burnley,0-1,https://www.besoccer.com/match/blackpool-fc/burnley-fc/200936974,2009,36,championship,49,60,3,0,2,0,2009-03-03 20:45:00,,2009
+Cardiff City,Barnsley,3-1,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/200936975,2009,36,championship,60,51,1,0,2,0,2009-03-03 20:45:00,,2009
+Charlton Athletic,Doncaster Rovers,1-2,https://www.besoccer.com/match/charlton-athletic-fc/doncaster-rovers/200936976,2009,36,championship,61,47,2,0,3,0,2009-03-03 20:45:00,,2009
+Derby County,Swansea City,2-2,https://www.besoccer.com/match/derby-county-fc/swansea-city-afc/200936979,2009,36,championship,57,52,1,0,2,0,2009-03-03 20:45:00,,2009
+Ipswich Town,Southampton,0-3,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/200936980,2009,36,championship,60,61,0,0,2,0,2009-03-03 20:45:00,,2009
+Nottingham Forest,Preston North End,2-1,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/200936981,2009,36,championship,54,60,2,0,0,0,2009-03-03 20:45:00,,2009
+Plymouth Argyle,Watford,2-1,https://www.besoccer.com/match/plymouth-argyle/watford-fc/200936982,2009,36,championship,53,60,0,0,1,0,2009-03-03 20:45:00,,2009
+Sheffield Wednesday,Reading,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/200936984,2009,36,championship,55,64,1,0,3,0,2009-03-03 20:45:00,,2009
+Crystal Palace,Wolves,0-1,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/200936978,2009,36,championship,60,63,2,0,4,0,2009-03-03 21:00:00,,2009
+Queens Park Rangers,Norwich City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/200936983,2009,36,championship,54,55,0,0,2,0,2009-03-03 21:00:00,,2009
+Birmingham City,Bristol City,1-0,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/200936973,2009,36,championship,64,56,0,0,3,0,2009-03-04 20:45:00,,2009
+Coventry City,Sheffield United,1-2,https://www.besoccer.com/match/coventry-city/sheffield-united/200936977,2009,36,championship,58,63,3,0,1,0,2009-03-04 20:45:00,,2009
+Derby County,Bristol City,2-1,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/200936991,2009,37,championship,57,56,1,0,0,0,2009-03-07 14:00:00,,2009
+Birmingham City,Southampton,1-0,https://www.besoccer.com/match/birmingham-city-fc/southampton-fc/200936985,2009,37,championship,64,61,0,0,3,0,2009-03-07 16:00:00,,2009
+Blackpool,Norwich City,2-0,https://www.besoccer.com/match/blackpool-fc/norwich-city-fc/200936986,2009,37,championship,49,55,2,0,1,0,2009-03-07 16:00:00,,2009
+Cardiff City,Doncaster Rovers,3-0,https://www.besoccer.com/match/cardiff-city-fc/doncaster-rovers/200936987,2009,37,championship,61,47,0,0,1,0,2009-03-07 16:00:00,,2009
+Charlton Athletic,Watford,2-3,https://www.besoccer.com/match/charlton-athletic-fc/watford-fc/200936988,2009,37,championship,61,59,0,0,0,0,2009-03-07 16:00:00,,2009
+Crystal Palace,Preston North End,2-1,https://www.besoccer.com/match/crystal-palace-fc/preston-north-end/200936990,2009,37,championship,60,59,1,0,0,0,2009-03-07 16:00:00,,2009
+Nottingham Forest,Swansea City,1-1,https://www.besoccer.com/match/nottingham-forest-fc/swansea-city-afc/200936993,2009,37,championship,54,52,3,0,2,0,2009-03-07 16:00:00,,2009
+Plymouth Argyle,Reading,2-2,https://www.besoccer.com/match/plymouth-argyle/reading-fc/200936994,2009,37,championship,53,64,0,0,1,0,2009-03-07 16:00:00,,2009
+Queens Park Rangers,Sheffield United,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/200936995,2009,37,championship,54,63,1,0,0,0,2009-03-07 16:00:00,,2009
+Sheffield Wednesday,Wolves,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/200936996,2009,37,championship,54,63,0,0,3,0,2009-03-07 16:00:00,,2009
+Ipswich Town,Burnley,1-1,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/200936992,2009,37,championship,60,60,0,0,1,0,2009-03-17 20:45:00,,2009
+Coventry City,Barnsley,1-1,https://www.besoccer.com/match/coventry-city/barnsley-fc/200936989,2009,37,championship,58,51,2,0,2,0,2009-04-21 20:45:00,,2009
+Barnsley,Birmingham City,1-1,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/200936997,2009,38,championship,51,64,1,0,2,0,2009-03-10 20:45:00,,2009
+Bristol City,Coventry City,2-0,https://www.besoccer.com/match/bristol-city-fc/coventry-city/200936998,2009,38,championship,56,58,1,0,2,0,2009-03-10 20:45:00,,2009
+Doncaster Rovers,Queens Park Rangers,2-0,https://www.besoccer.com/match/doncaster-rovers/queens-park-rangers-fc/200937000,2009,38,championship,47,54,1,0,1,0,2009-03-10 20:45:00,,2009
+Norwich City,Cardiff City,2-0,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/200937001,2009,38,championship,55,61,1,0,0,0,2009-03-10 20:45:00,,2009
+Preston North End,Sheffield Wednesday,1-1,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/200937002,2009,38,championship,59,54,0,0,0,0,2009-03-10 20:45:00,,2009
+Sheffield United,Blackpool,2-2,https://www.besoccer.com/match/sheffield-united/blackpool-fc/200937004,2009,38,championship,63,49,0,0,2,0,2009-03-10 20:45:00,,2009
+Southampton,Derby County,1-1,https://www.besoccer.com/match/southampton-fc/derby-county-fc/200937005,2009,38,championship,61,57,0,0,0,0,2009-03-10 20:45:00,,2009
+Swansea City,Plymouth Argyle,1-0,https://www.besoccer.com/match/swansea-city-afc/plymouth-argyle/200937006,2009,38,championship,52,53,2,0,6,0,2009-03-10 20:45:00,,2009
+Watford,Nottingham Forest,2-1,https://www.besoccer.com/match/watford-fc/nottingham-forest-fc/200937007,2009,38,championship,60,54,1,0,1,0,2009-03-10 20:45:00,,2009
+Wolves,Ipswich Town,0-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/200937008,2009,38,championship,63,60,1,0,4,0,2009-03-10 20:45:00,,2009
+Reading,Charlton Athletic,2-2,https://www.besoccer.com/match/reading-fc/charlton-athletic-fc/200937003,2009,38,championship,64,60,2,0,1,0,2009-03-10 21:00:00,,2009
+Burnley,Crystal Palace,4-2,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/200936999,2009,38,championship,60,60,0,0,3,0,2009-03-11 20:45:00,,2009
+Barnsley,Blackpool,0-1,https://www.besoccer.com/match/barnsley-fc/blackpool-fc/200937009,2009,39,championship,51,49,2,0,2,0,2009-03-14 16:00:00,,2009
+Burnley,Nottingham Forest,5-0,https://www.besoccer.com/match/burnley-fc/nottingham-forest-fc/200937011,2009,39,championship,60,54,0,0,2,0,2009-03-14 16:00:00,,2009
+Norwich City,Plymouth Argyle,1-0,https://www.besoccer.com/match/norwich-city-fc/plymouth-argyle/200937013,2009,39,championship,55,53,2,0,1,0,2009-03-14 16:00:00,,2009
+Preston North End,Coventry City,2-1,https://www.besoccer.com/match/preston-north-end/coventry-city/200937014,2009,39,championship,59,58,1,0,2,0,2009-03-14 16:00:00,,2009
+Reading,Ipswich Town,0-1,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/200937015,2009,39,championship,64,60,0,0,2,0,2009-03-14 16:00:00,,2009
+Sheffield United,Derby County,4-2,https://www.besoccer.com/match/sheffield-united/derby-county-fc/200937016,2009,39,championship,63,57,1,0,3,0,2009-03-14 16:00:00,,2009
+Southampton,Queens Park Rangers,0-0,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/200937017,2009,39,championship,61,54,2,0,2,0,2009-03-14 16:00:00,,2009
+Swansea City,Crystal Palace,1-3,https://www.besoccer.com/match/swansea-city-afc/crystal-palace-fc/200937018,2009,39,championship,52,60,0,0,4,0,2009-03-14 16:00:00,,2009
+Watford,Sheffield Wednesday,2-2,https://www.besoccer.com/match/watford-fc/sheffield-wednesday-fc/200937019,2009,39,championship,60,54,2,0,2,0,2009-03-14 16:00:00,,2009
+Wolves,Charlton Athletic,2-1,https://www.besoccer.com/match/wolverhampton/charlton-athletic-fc/200937020,2009,39,championship,63,60,1,0,0,0,2009-03-14 16:00:00,,2009
+Doncaster Rovers,Birmingham City,0-2,https://www.besoccer.com/match/doncaster-rovers/birmingham-city-fc/200937012,2009,39,championship,48,64,0,0,0,0,2009-03-14 18:20:00,,2009
+Bristol City,Cardiff City,1-1,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/200937010,2009,39,championship,56,61,3,0,2,0,2009-03-15 14:15:00,,2009
+Birmingham City,Norwich City,1-1,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/200937021,2009,40,championship,64,56,0,0,2,0,2009-03-21 16:00:00,,2009
+Blackpool,Southampton,1-1,https://www.besoccer.com/match/blackpool-fc/southampton-fc/200937022,2009,40,championship,49,61,3,0,3,0,2009-03-21 16:00:00,,2009
+Charlton Athletic,Preston North End,0-0,https://www.besoccer.com/match/charlton-athletic-fc/preston-north-end/200937024,2009,40,championship,60,59,0,0,0,0,2009-03-21 16:00:00,,2009
+Coventry City,Doncaster Rovers,1-0,https://www.besoccer.com/match/coventry-city/doncaster-rovers/200937025,2009,40,championship,58,47,3,0,1,0,2009-03-21 16:00:00,,2009
+Derby County,Barnsley,0-0,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/200937027,2009,40,championship,57,51,1,0,0,0,2009-03-21 16:00:00,,2009
+Ipswich Town,Watford,0-0,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/200937028,2009,40,championship,60,60,2,0,0,0,2009-03-21 16:00:00,,2009
+Nottingham Forest,Wolves,0-1,https://www.besoccer.com/match/nottingham-forest-fc/wolverhampton/200937029,2009,40,championship,54,63,3,0,2,0,2009-03-21 16:00:00,,2009
+Plymouth Argyle,Burnley,1-2,https://www.besoccer.com/match/plymouth-argyle/burnley-fc/200937030,2009,40,championship,53,60,0,0,1,0,2009-03-21 16:00:00,,2009
+Queens Park Rangers,Bristol City,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/200937031,2009,40,championship,54,56,1,0,2,0,2009-03-21 16:00:00,,2009
+Sheffield Wednesday,Swansea City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/swansea-city-afc/200937032,2009,40,championship,54,52,2,0,1,0,2009-03-21 16:00:00,,2009
+Crystal Palace,Reading,0-0,https://www.besoccer.com/match/crystal-palace-fc/reading-fc/200937026,2009,40,championship,60,64,1,0,2,0,2009-03-21 18:20:00,,2009
+Cardiff City,Sheffield United,0-3,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/200937023,2009,40,championship,61,63,2,2,3,2,2009-03-22 16:00:00,,2009
+Barnsley,Nottingham Forest,1-1,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/200937033,2009,41,championship,51,54,4,0,1,0,2009-04-04 16:00:00,,2009
+Blackpool,Plymouth Argyle,0-1,https://www.besoccer.com/match/blackpool-fc/plymouth-argyle/200937035,2009,41,championship,49,52,1,0,0,0,2009-04-04 16:00:00,,2009
+Coventry City,Reading,0-0,https://www.besoccer.com/match/coventry-city/reading-fc/200937038,2009,41,championship,58,64,4,0,3,0,2009-04-04 16:00:00,,2009
+Derby County,Burnley,1-1,https://www.besoccer.com/match/derby-county-fc/burnley-fc/200937039,2009,41,championship,57,60,1,0,1,0,2009-04-04 16:00:00,,2009
+Doncaster Rovers,Watford,1-2,https://www.besoccer.com/match/doncaster-rovers/watford-fc/200937040,2009,41,championship,47,60,1,0,0,0,2009-04-04 16:00:00,,2009
+Norwich City,Sheffield Wednesday,0-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/200937041,2009,41,championship,56,54,1,0,1,0,2009-04-04 16:00:00,,2009
+Queens Park Rangers,Crystal Palace,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/200937042,2009,41,championship,54,60,0,0,4,0,2009-04-04 16:00:00,,2009
+Sheffield United,Ipswich Town,2-0,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/200937043,2009,41,championship,63,60,1,0,2,0,2009-04-04 16:00:00,,2009
+Southampton,Charlton Athletic,2-3,https://www.besoccer.com/match/southampton-fc/charlton-athletic-fc/200937044,2009,41,championship,61,60,1,0,4,0,2009-04-04 16:00:00,,2009
+Bristol City,Preston North End,1-1,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/200937036,2009,41,championship,56,59,0,0,1,0,2009-04-04 18:20:00,,2009
+Cardiff City,Swansea City,2-2,https://www.besoccer.com/match/cardiff-city-fc/swansea-city-afc/200937037,2009,41,championship,60,52,0,0,1,0,2009-04-05 12:00:00,,2009
+Birmingham City,Wolves,2-0,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/200937034,2009,41,championship,64,63,0,1,1,1,2009-04-06 20:45:00,,2009
+Wolves,Southampton,3-0,https://www.besoccer.com/match/wolverhampton/southampton-fc/200937056,2009,42,championship,63,61,1,0,2,0,2009-04-10 16:15:00,,2009
+Reading,Sheffield United,0-1,https://www.besoccer.com/match/reading-fc/sheffield-united/200937052,2009,42,championship,64,64,2,0,1,0,2009-04-10 18:30:00,,2009
+Preston North End,Blackpool,0-1,https://www.besoccer.com/match/preston-north-end/blackpool-fc/200937051,2009,42,championship,59,49,0,0,1,0,2009-04-11 14:00:00,,2009
+Burnley,Queens Park Rangers,1-0,https://www.besoccer.com/match/burnley-fc/queens-park-rangers-fc/200937045,2009,42,championship,60,54,1,0,0,0,2009-04-11 16:00:00,,2009
+Charlton Athletic,Birmingham City,0-0,https://www.besoccer.com/match/charlton-athletic-fc/birmingham-city-fc/200937046,2009,42,championship,60,64,1,0,2,0,2009-04-11 16:00:00,,2009
+Crystal Palace,Cardiff City,0-2,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/200937047,2009,42,championship,60,61,2,0,2,0,2009-04-11 16:00:00,,2009
+Ipswich Town,Doncaster Rovers,1-3,https://www.besoccer.com/match/ipswich-town-fc/doncaster-rovers/200937048,2009,42,championship,60,47,0,0,3,0,2009-04-11 16:00:00,,2009
+Nottingham Forest,Bristol City,3-2,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/200937049,2009,42,championship,54,56,2,0,2,0,2009-04-11 16:00:00,,2009
+Plymouth Argyle,Coventry City,4-0,https://www.besoccer.com/match/plymouth-argyle/coventry-city/200937050,2009,42,championship,53,58,0,0,4,0,2009-04-11 16:00:00,,2009
+Sheffield Wednesday,Derby County,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/200937053,2009,42,championship,55,57,1,0,2,0,2009-04-11 16:00:00,,2009
+Swansea City,Norwich City,2-1,https://www.besoccer.com/match/swansea-city-afc/norwich-city-fc/200937054,2009,42,championship,52,55,4,0,2,0,2009-04-11 16:00:00,,2009
+Watford,Barnsley,1-1,https://www.besoccer.com/match/watford-fc/barnsley-fc/200937055,2009,42,championship,60,51,0,0,1,0,2009-04-11 16:00:00,,2009
+Barnsley,Swansea City,1-3,https://www.besoccer.com/match/barnsley-fc/swansea-city-afc/200937057,2009,43,championship,51,52,4,0,2,0,2009-04-13 16:00:00,,2009
+Birmingham City,Plymouth Argyle,1-1,https://www.besoccer.com/match/birmingham-city-fc/plymouth-argyle/200937058,2009,43,championship,64,53,3,1,3,1,2009-04-13 16:00:00,,2009
+Blackpool,Reading,2-2,https://www.besoccer.com/match/blackpool-fc/reading-fc/200937059,2009,43,championship,49,64,1,0,2,0,2009-04-13 16:00:00,,2009
+Bristol City,Ipswich Town,1-1,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/200937060,2009,43,championship,56,60,1,0,1,0,2009-04-13 16:00:00,,2009
+Cardiff City,Burnley,3-1,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/200937061,2009,43,championship,61,60,1,0,4,0,2009-04-13 16:00:00,,2009
+Coventry City,Charlton Athletic,0-0,https://www.besoccer.com/match/coventry-city/charlton-athletic-fc/200937062,2009,43,championship,58,60,0,0,1,0,2009-04-13 16:00:00,,2009
+Derby County,Wolves,2-3,https://www.besoccer.com/match/derby-county-fc/wolverhampton/200937063,2009,43,championship,57,63,0,0,1,0,2009-04-13 16:00:00,,2009
+Doncaster Rovers,Preston North End,0-2,https://www.besoccer.com/match/doncaster-rovers/preston-north-end/200937064,2009,43,championship,48,59,2,0,3,0,2009-04-13 16:00:00,,2009
+Norwich City,Watford,2-0,https://www.besoccer.com/match/norwich-city-fc/watford-fc/200937065,2009,43,championship,55,60,2,0,1,0,2009-04-13 16:00:00,,2009
+Queens Park Rangers,Sheffield Wednesday,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/200937066,2009,43,championship,54,54,2,0,2,0,2009-04-13 16:00:00,,2009
+Sheffield United,Nottingham Forest,0-0,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/200937067,2009,43,championship,64,54,1,0,3,0,2009-04-13 16:00:00,,2009
+Southampton,Crystal Palace,1-0,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/200937068,2009,43,championship,61,60,0,0,2,0,2009-04-13 16:00:00,,2009
+Charlton Athletic,Blackpool,2-2,https://www.besoccer.com/match/charlton-athletic-fc/blackpool-fc/200937070,2009,44,championship,60,49,2,0,0,0,2009-04-18 16:00:00,,2009
+Crystal Palace,Derby County,1-0,https://www.besoccer.com/match/crystal-palace-fc/derby-county-fc/200937071,2009,44,championship,60,57,2,0,1,0,2009-04-18 16:00:00,,2009
+Nottingham Forest,Coventry City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/coventry-city/200937073,2009,44,championship,54,58,2,0,3,0,2009-04-18 16:00:00,,2009
+Plymouth Argyle,Doncaster Rovers,0-3,https://www.besoccer.com/match/plymouth-argyle/doncaster-rovers/200937074,2009,44,championship,53,47,0,0,1,0,2009-04-18 16:00:00,,2009
+Preston North End,Cardiff City,6-0,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/200937075,2009,44,championship,59,61,2,0,1,0,2009-04-18 16:00:00,,2009
+Reading,Barnsley,0-0,https://www.besoccer.com/match/reading-fc/barnsley-fc/200937076,2009,44,championship,64,51,2,0,1,0,2009-04-18 16:00:00,,2009
+Sheffield Wednesday,Southampton,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/200937077,2009,44,championship,54,61,0,0,1,0,2009-04-18 16:00:00,,2009
+Swansea City,Bristol City,1-0,https://www.besoccer.com/match/swansea-city-afc/bristol-city-fc/200937078,2009,44,championship,52,56,1,0,4,0,2009-04-18 16:00:00,,2009
+Watford,Birmingham City,0-1,https://www.besoccer.com/match/watford-fc/birmingham-city-fc/200937079,2009,44,championship,59,64,0,0,0,0,2009-04-18 16:00:00,,2009
+Wolves,Queens Park Rangers,1-0,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/200937080,2009,44,championship,63,54,1,0,1,0,2009-04-18 16:00:00,,2009
+Ipswich Town,Norwich City,3-2,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/200937072,2009,44,championship,60,56,4,0,1,0,2009-04-19 13:45:00,,2009
+Burnley,Sheffield United,1-0,https://www.besoccer.com/match/burnley-fc/sheffield-united/200937069,2009,44,championship,60,64,0,0,0,0,2009-04-20 20:45:00,,2009
+Blackpool,Nottingham Forest,1-1,https://www.besoccer.com/match/blackpool-fc/nottingham-forest-fc/200937083,2009,45,championship,50,54,2,1,2,1,2009-04-25 13:30:00,,2009
+Barnsley,Wolves,1-1,https://www.besoccer.com/match/barnsley-fc/wolverhampton/200937081,2009,45,championship,51,63,1,0,1,0,2009-04-25 16:00:00,,2009
+Bristol City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/200937084,2009,45,championship,56,54,1,0,0,0,2009-04-25 16:00:00,,2009
+Cardiff City,Ipswich Town,0-3,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/200937085,2009,45,championship,61,60,2,0,2,0,2009-04-25 16:00:00,,2009
+Coventry City,Watford,2-3,https://www.besoccer.com/match/coventry-city/watford-fc/200937086,2009,45,championship,58,59,2,1,0,1,2009-04-25 16:00:00,,2009
+Derby County,Charlton Athletic,1-0,https://www.besoccer.com/match/derby-county-fc/charlton-athletic-fc/200937087,2009,45,championship,57,60,2,0,1,0,2009-04-25 16:00:00,,2009
+Doncaster Rovers,Crystal Palace,2-0,https://www.besoccer.com/match/doncaster-rovers/crystal-palace-fc/200937088,2009,45,championship,48,60,1,0,1,0,2009-04-25 16:00:00,,2009
+Queens Park Rangers,Plymouth Argyle,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/plymouth-argyle/200937090,2009,45,championship,54,53,0,0,2,0,2009-04-25 16:00:00,,2009
+Sheffield United,Swansea City,1-0,https://www.besoccer.com/match/sheffield-united/swansea-city-afc/200937091,2009,45,championship,64,53,1,0,1,0,2009-04-25 16:00:00,,2009
+Southampton,Burnley,2-2,https://www.besoccer.com/match/southampton-fc/burnley-fc/200937092,2009,45,championship,61,60,4,0,3,0,2009-04-25 16:00:00,,2009
+Birmingham City,Preston North End,1-2,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/200937082,2009,45,championship,64,60,2,1,1,1,2009-04-25 18:20:00,,2009
+Norwich City,Reading,0-2,https://www.besoccer.com/match/norwich-city-fc/reading-fc/200937089,2009,45,championship,55,64,1,0,3,0,2009-04-27 20:45:00,,2009
+Burnley,Bristol City,4-0,https://www.besoccer.com/match/burnley-fc/bristol-city-fc/200937093,2009,46,championship,60,56,1,0,2,0,2009-05-03 16:00:00,,2009
+Charlton Athletic,Norwich City,4-2,https://www.besoccer.com/match/charlton-athletic-fc/norwich-city-fc/200937094,2009,46,championship,60,55,2,0,2,0,2009-05-03 16:00:00,,2009
+Crystal Palace,Sheffield United,0-0,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/200937095,2009,46,championship,60,64,2,0,1,0,2009-05-03 16:00:00,,2009
+Ipswich Town,Coventry City,2-1,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/200937096,2009,46,championship,60,58,0,0,1,0,2009-05-03 16:00:00,,2009
+Nottingham Forest,Southampton,3-1,https://www.besoccer.com/match/nottingham-forest-fc/southampton-fc/200937097,2009,46,championship,54,61,0,0,1,0,2009-05-03 16:00:00,,2009
+Plymouth Argyle,Barnsley,1-2,https://www.besoccer.com/match/plymouth-argyle/barnsley-fc/200937098,2009,46,championship,53,51,0,0,0,0,2009-05-03 16:00:00,,2009
+Preston North End,Queens Park Rangers,2-1,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/200937099,2009,46,championship,60,54,2,0,2,0,2009-05-03 16:00:00,,2009
+Reading,Birmingham City,1-2,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/200937100,2009,46,championship,64,64,0,0,3,0,2009-05-03 16:00:00,,2009
+Sheffield Wednesday,Cardiff City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/200937101,2009,46,championship,54,60,1,0,2,0,2009-05-03 16:00:00,,2009
+Swansea City,Blackpool,0-1,https://www.besoccer.com/match/swansea-city-afc/blackpool-fc/200937102,2009,46,championship,53,50,1,0,1,0,2009-05-03 16:00:00,,2009
+Watford,Derby County,3-1,https://www.besoccer.com/match/watford-fc/derby-county-fc/200937103,2009,46,championship,59,57,1,0,0,0,2009-05-03 16:00:00,,2009
+Wolves,Doncaster Rovers,1-0,https://www.besoccer.com/match/wolverhampton/doncaster-rovers/200937104,2009,46,championship,63,48,0,0,0,0,2009-05-03 16:00:00,,2009

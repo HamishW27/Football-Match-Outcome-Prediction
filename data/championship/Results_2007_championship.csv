@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Luton Town,Leicester,2-0,https://www.besoccer.com/match/luton-town-fc/leicester-city-fc/200713057,2007,1,championship,51,63,2,0,3,0,2006-08-05 13:30:00,,2007
+Barnsley,Cardiff City,1-2,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/200713058,2007,1,championship,50,54,2,0,1,0,2006-08-05 16:00:00,,2007
+Birmingham City,Colchester United,2-1,https://www.besoccer.com/match/birmingham-city-fc/colchester-united/200713059,2007,1,championship,66,47,1,1,0,1,2006-08-05 16:00:00,,2007
+Burnley,Queens Park Rangers,2-0,https://www.besoccer.com/match/burnley-fc/queens-park-rangers-fc/200713060,2007,1,championship,56,52,3,0,0,0,2006-08-05 16:00:00,,2007
+Ipswich Town,Crystal Palace,1-2,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/200713061,2007,1,championship,61,63,2,0,2,0,2006-08-05 16:00:00,,2007
+Leeds United,Norwich City,1-0,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/200713062,2007,1,championship,66,60,2,0,0,0,2006-08-05 16:00:00,,2007
+Plymouth Argyle,Wolves,1-1,https://www.besoccer.com/match/plymouth-argyle/wolverhampton/200713063,2007,1,championship,48,63,4,0,3,0,2006-08-05 16:00:00,,2007
+Preston North End,Sheffield Wednesday,0-0,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/200713064,2007,1,championship,61,52,2,0,1,0,2006-08-05 16:00:00,,2007
+Southend United,Stoke City,1-0,https://www.besoccer.com/match/southend-united/stoke-city/200713065,2007,1,championship,41,53,0,0,1,0,2006-08-05 16:00:00,,2007
+West Bromwich Albion,Hull City,2-0,https://www.besoccer.com/match/west-bromwich/hull-city/200713066,2007,1,championship,62,44,1,0,2,0,2006-08-05 16:00:00,,2007
+Coventry City,Sunderland,2-1,https://www.besoccer.com/match/coventry-city/sunderland-afc/200713067,2007,1,championship,59,62,1,0,1,0,2006-08-06 14:30:00,,2007
+Derby County,Southampton,2-2,https://www.besoccer.com/match/derby-county-fc/southampton-fc/200713068,2007,1,championship,57,67,0,0,2,0,2006-08-06 17:00:00,,2007
+Cardiff City,West Bromwich Albion,1-1,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/200713069,2007,2,championship,54,62,1,0,3,0,2006-08-08 20:45:00,,2007
+Colchester United,Plymouth Argyle,0-1,https://www.besoccer.com/match/colchester-united/plymouth-argyle/200713070,2007,2,championship,47,48,2,0,4,0,2006-08-08 20:45:00,,2007
+Hull City,Barnsley,2-3,https://www.besoccer.com/match/hull-city/barnsley-fc/200713071,2007,2,championship,44,50,1,0,0,0,2006-08-08 20:45:00,,2007
+Leicester,Burnley,0-1,https://www.besoccer.com/match/leicester-city-fc/burnley-fc/200713072,2007,2,championship,63,56,2,0,2,0,2006-08-08 20:45:00,,2007
+Norwich City,Preston North End,2-0,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/200713073,2007,2,championship,59,61,1,0,3,0,2006-08-08 20:45:00,,2007
+Sheffield Wednesday,Luton Town,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/luton-town-fc/200713074,2007,2,championship,52,52,0,0,2,0,2006-08-08 20:45:00,,2007
+Stoke City,Derby County,2-0,https://www.besoccer.com/match/stoke-city/derby-county-fc/200713075,2007,2,championship,53,57,1,0,3,0,2006-08-08 20:45:00,,2007
+Wolves,Ipswich Town,1-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/200713076,2007,2,championship,63,61,0,1,3,1,2006-08-08 20:45:00,,2007
+Crystal Palace,Southend United,3-1,https://www.besoccer.com/match/crystal-palace-fc/southend-united/200713077,2007,2,championship,63,41,0,0,0,0,2006-08-08 21:00:00,,2007
+Queens Park Rangers,Leeds United,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/200713078,2007,2,championship,52,66,1,0,4,0,2006-08-08 21:00:00,,2007
+Southampton,Coventry City,2-0,https://www.besoccer.com/match/southampton-fc/coventry-city/200713079,2007,2,championship,67,60,0,0,2,0,2006-08-09 20:45:00,,2007
+Sunderland,Birmingham City,0-1,https://www.besoccer.com/match/sunderland-afc/birmingham-city-fc/200713080,2007,2,championship,61,66,0,0,2,0,2006-08-09 20:45:00,,2007
+Wolves,Preston North End,1-3,https://www.besoccer.com/match/wolverhampton/preston-north-end/200713081,2007,3,championship,63,60,1,0,4,0,2006-08-11 20:45:00,,2007
+Stoke City,Birmingham City,0-0,https://www.besoccer.com/match/stoke-city/birmingham-city-fc/200713082,2007,3,championship,53,67,2,0,1,0,2006-08-12 13:30:00,,2007
+Cardiff City,Coventry City,1-0,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/200713083,2007,3,championship,54,59,2,0,1,0,2006-08-12 16:00:00,,2007
+Colchester United,Barnsley,1-2,https://www.besoccer.com/match/colchester-united/barnsley-fc/200713084,2007,3,championship,47,50,2,0,1,0,2006-08-12 16:00:00,,2007
+Leicester,Ipswich Town,3-1,https://www.besoccer.com/match/leicester-city-fc/ipswich-town-fc/200713085,2007,3,championship,62,61,0,0,1,0,2006-08-12 16:00:00,,2007
+Norwich City,Luton Town,3-2,https://www.besoccer.com/match/norwich-city-fc/luton-town-fc/200713086,2007,3,championship,60,52,2,0,1,0,2006-08-12 16:00:00,,2007
+Queens Park Rangers,Southend United,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/southend-united/200713087,2007,3,championship,52,41,3,0,1,0,2006-08-12 16:00:00,,2007
+Sheffield Wednesday,Burnley,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/burnley-fc/200713088,2007,3,championship,52,56,1,0,2,0,2006-08-12 16:00:00,,2007
+Southampton,West Bromwich Albion,0-0,https://www.besoccer.com/match/southampton-fc/west-bromwich/200713089,2007,3,championship,67,62,1,0,2,0,2006-08-12 16:00:00,,2007
+Sunderland,Plymouth Argyle,2-3,https://www.besoccer.com/match/sunderland-afc/plymouth-argyle/200713090,2007,3,championship,61,48,0,0,0,0,2006-08-12 16:00:00,,2007
+Hull City,Derby County,1-2,https://www.besoccer.com/match/hull-city/derby-county-fc/200713091,2007,3,championship,43,57,3,0,2,0,2006-08-12 18:30:00,,2007
+Crystal Palace,Leeds United,1-0,https://www.besoccer.com/match/crystal-palace-fc/leeds-united-afc/200713092,2007,3,championship,63,66,2,0,2,0,2006-08-13 13:00:00,,2007
+Coventry City,Leicester,0-0,https://www.besoccer.com/match/coventry-city/leicester-city-fc/200713093,2007,4,championship,59,63,2,0,2,0,2006-08-18 20:45:00,,2007
+Barnsley,Southampton,2-2,https://www.besoccer.com/match/barnsley-fc/southampton-fc/200713094,2007,4,championship,50,67,1,0,2,0,2006-08-19 16:00:00,,2007
+Birmingham City,Crystal Palace,2-1,https://www.besoccer.com/match/birmingham-city-fc/crystal-palace-fc/200713095,2007,4,championship,67,63,1,0,0,0,2006-08-19 16:00:00,,2007
+Burnley,Wolves,0-1,https://www.besoccer.com/match/burnley-fc/wolverhampton/200713096,2007,4,championship,56,63,0,0,4,0,2006-08-19 16:00:00,,2007
+Derby County,Norwich City,0-0,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/200713097,2007,4,championship,57,60,3,0,2,0,2006-08-19 16:00:00,,2007
+Ipswich Town,Hull City,0-0,https://www.besoccer.com/match/ipswich-town-fc/hull-city/200713098,2007,4,championship,61,43,1,0,2,0,2006-08-19 16:00:00,,2007
+Leeds United,Cardiff City,0-1,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/200713099,2007,4,championship,66,54,3,0,0,0,2006-08-19 16:00:00,,2007
+Luton Town,Stoke City,2-2,https://www.besoccer.com/match/luton-town-fc/stoke-city/200713100,2007,4,championship,52,53,0,0,2,0,2006-08-19 16:00:00,,2007
+Plymouth Argyle,Sheffield Wednesday,1-2,https://www.besoccer.com/match/plymouth-argyle/sheffield-wednesday-fc/200713101,2007,4,championship,49,52,1,0,3,0,2006-08-19 16:00:00,,2007
+Preston North End,Queens Park Rangers,1-1,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/200713102,2007,4,championship,61,52,1,0,0,0,2006-08-19 16:00:00,,2007
+Southend United,Sunderland,3-1,https://www.besoccer.com/match/southend-united/sunderland-afc/200713103,2007,4,championship,41,61,0,0,2,0,2006-08-19 16:00:00,,2007
+West Bromwich Albion,Colchester United,2-1,https://www.besoccer.com/match/west-bromwich/colchester-united/200713104,2007,4,championship,62,47,3,0,0,0,2006-08-19 16:00:00,,2007
+Queens Park Rangers,Ipswich Town,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/200713105,2007,5,championship,53,61,1,0,0,0,2006-08-25 20:45:00,,2007
+Cardiff City,Birmingham City,2-0,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/200713106,2007,5,championship,53,67,1,0,2,0,2006-08-26 14:00:00,,2007
+Colchester United,Derby County,4-3,https://www.besoccer.com/match/colchester-united/derby-county-fc/200713107,2007,5,championship,46,58,0,0,2,0,2006-08-26 16:00:00,,2007
+Crystal Palace,Burnley,2-2,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/200713108,2007,5,championship,63,56,0,0,1,0,2006-08-26 16:00:00,,2007
+Hull City,Coventry City,0-1,https://www.besoccer.com/match/hull-city/coventry-city/200713109,2007,5,championship,44,59,0,0,2,0,2006-08-26 16:00:00,,2007
+Leicester,Southend United,1-0,https://www.besoccer.com/match/leicester-city-fc/southend-united/200713110,2007,5,championship,63,42,2,0,1,0,2006-08-26 16:00:00,,2007
+Norwich City,Barnsley,5-1,https://www.besoccer.com/match/norwich-city-fc/barnsley-fc/200713111,2007,5,championship,60,50,0,0,0,0,2006-08-26 16:00:00,,2007
+Southampton,Preston North End,1-1,https://www.besoccer.com/match/southampton-fc/preston-north-end/200713112,2007,5,championship,67,60,0,0,3,0,2006-08-26 16:00:00,,2007
+Stoke City,Plymouth Argyle,1-1,https://www.besoccer.com/match/stoke-city/plymouth-argyle/200713113,2007,5,championship,53,48,0,0,3,0,2006-08-26 16:00:00,,2007
+Wolves,Luton Town,1-0,https://www.besoccer.com/match/wolverhampton/luton-town-fc/200713114,2007,5,championship,63,52,0,0,0,0,2006-08-26 16:00:00,,2007
+Sheffield Wednesday,Leeds United,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/200713115,2007,5,championship,51,66,3,1,0,1,2006-08-27 14:15:00,,2007
+Sunderland,West Bromwich Albion,2-0,https://www.besoccer.com/match/sunderland-afc/west-bromwich/200713116,2007,5,championship,60,62,2,0,2,0,2006-08-28 16:00:00,,2007
+Barnsley,Stoke City,2-2,https://www.besoccer.com/match/barnsley-fc/stoke-city/200713117,2007,6,championship,50,53,1,0,2,0,2006-09-09 16:00:00,,2007
+Birmingham City,Hull City,2-1,https://www.besoccer.com/match/birmingham-city-fc/hull-city/200713118,2007,6,championship,66,44,2,0,2,0,2006-09-09 16:00:00,,2007
+Burnley,Colchester United,1-2,https://www.besoccer.com/match/burnley-fc/colchester-united/200713119,2007,6,championship,56,46,0,0,1,0,2006-09-09 16:00:00,,2007
+Coventry City,Norwich City,3-0,https://www.besoccer.com/match/coventry-city/norwich-city-fc/200713120,2007,6,championship,59,60,2,0,4,0,2006-09-09 16:00:00,,2007
+Derby County,Sunderland,1-2,https://www.besoccer.com/match/derby-county-fc/sunderland-afc/200713121,2007,6,championship,57,61,1,0,5,0,2006-09-09 16:00:00,,2007
+Ipswich Town,Southampton,2-1,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/200713122,2007,6,championship,61,67,3,0,4,0,2006-09-09 16:00:00,,2007
+Luton Town,Crystal Palace,2-1,https://www.besoccer.com/match/luton-town-fc/crystal-palace-fc/200713123,2007,6,championship,52,63,0,0,1,0,2006-09-09 16:00:00,,2007
+Plymouth Argyle,Queens Park Rangers,1-1,https://www.besoccer.com/match/plymouth-argyle/queens-park-rangers-fc/200713124,2007,6,championship,48,52,1,0,3,0,2006-09-09 16:00:00,,2007
+Preston North End,Cardiff City,2-1,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/200713125,2007,6,championship,60,54,1,0,2,0,2006-09-09 16:00:00,,2007
+Southend United,Sheffield Wednesday,0-0,https://www.besoccer.com/match/southend-united/sheffield-wednesday-fc/200713126,2007,6,championship,42,51,2,0,1,0,2006-09-09 16:00:00,,2007
+West Bromwich Albion,Leicester,2-0,https://www.besoccer.com/match/west-bromwich/leicester-city-fc/200713127,2007,6,championship,62,63,1,0,0,0,2006-09-09 16:00:00,,2007
+Leeds United,Wolves,0-1,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/200713128,2007,6,championship,66,63,0,0,3,0,2006-09-10 14:15:00,,2007
+Burnley,Barnsley,4-2,https://www.besoccer.com/match/burnley-fc/barnsley-fc/200713129,2007,7,championship,56,50,2,0,2,0,2006-09-12 20:45:00,,2007
+Ipswich Town,Coventry City,2-1,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/200713130,2007,7,championship,61,59,3,0,2,0,2006-09-12 20:45:00,,2007
+Leicester,Hull City,0-1,https://www.besoccer.com/match/leicester-city-fc/hull-city/200713131,2007,7,championship,63,44,1,0,1,0,2006-09-12 20:45:00,,2007
+Luton Town,Colchester United,1-1,https://www.besoccer.com/match/luton-town-fc/colchester-united/200713132,2007,7,championship,52,47,1,0,2,0,2006-09-12 20:45:00,,2007
+Plymouth Argyle,Cardiff City,3-3,https://www.besoccer.com/match/plymouth-argyle/cardiff-city-fc/200713133,2007,7,championship,48,54,1,0,5,0,2006-09-12 20:45:00,,2007
+Preston North End,West Bromwich Albion,1-0,https://www.besoccer.com/match/preston-north-end/west-bromwich/200713134,2007,7,championship,60,62,2,0,3,0,2006-09-12 20:45:00,,2007
+Sheffield Wednesday,Stoke City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/stoke-city/200713135,2007,7,championship,51,53,2,0,2,0,2006-09-12 20:45:00,,2007
+Southend United,Norwich City,3-3,https://www.besoccer.com/match/southend-united/norwich-city-fc/200713136,2007,7,championship,42,60,2,0,1,0,2006-09-12 20:45:00,,2007
+Wolves,Derby County,0-1,https://www.besoccer.com/match/wolverhampton/derby-county-fc/200713137,2007,7,championship,63,57,0,0,3,0,2006-09-12 20:45:00,,2007
+Crystal Palace,Southampton,0-2,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/200713138,2007,7,championship,63,67,1,0,2,0,2006-09-12 21:00:00,,2007
+Queens Park Rangers,Birmingham City,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/200713139,2007,7,championship,52,66,0,0,3,0,2006-09-12 21:00:00,,2007
+Leeds United,Sunderland,0-3,https://www.besoccer.com/match/leeds-united-afc/sunderland-afc/200713140,2007,7,championship,66,61,5,0,2,0,2006-09-13 20:45:00,,2007
+Hull City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/200713141,2007,8,championship,44,51,3,0,2,0,2006-09-15 20:45:00,,2007
+Barnsley,Wolves,1-0,https://www.besoccer.com/match/barnsley-fc/wolverhampton/200713142,2007,8,championship,50,63,1,0,1,0,2006-09-16 16:00:00,,2007
+Birmingham City,Ipswich Town,2-2,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/200713143,2007,8,championship,67,61,1,1,2,1,2006-09-16 16:00:00,,2007
+Cardiff City,Luton Town,4-1,https://www.besoccer.com/match/cardiff-city-fc/luton-town-fc/200713144,2007,8,championship,54,52,1,0,3,0,2006-09-16 16:00:00,,2007
+Colchester United,Queens Park Rangers,2-1,https://www.besoccer.com/match/colchester-united/queens-park-rangers-fc/200713145,2007,8,championship,47,52,0,0,3,0,2006-09-16 16:00:00,,2007
+Coventry City,Leeds United,1-0,https://www.besoccer.com/match/coventry-city/leeds-united-afc/200713146,2007,8,championship,59,66,2,0,3,0,2006-09-16 16:00:00,,2007
+Derby County,Preston North End,1-1,https://www.besoccer.com/match/derby-county-fc/preston-north-end/200713147,2007,8,championship,57,61,1,0,2,0,2006-09-16 16:00:00,,2007
+Norwich City,Crystal Palace,0-1,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/200713148,2007,8,championship,60,62,1,0,2,0,2006-09-16 16:00:00,,2007
+Southampton,Plymouth Argyle,1-0,https://www.besoccer.com/match/southampton-fc/plymouth-argyle/200713149,2007,8,championship,67,48,1,0,2,0,2006-09-16 16:00:00,,2007
+Stoke City,Burnley,0-1,https://www.besoccer.com/match/stoke-city/burnley-fc/200713150,2007,8,championship,53,56,1,0,2,0,2006-09-16 16:00:00,,2007
+Sunderland,Leicester,1-1,https://www.besoccer.com/match/sunderland-afc/leicester-city-fc/200713151,2007,8,championship,61,62,0,0,1,0,2006-09-16 16:00:00,,2007
+West Bromwich Albion,Southend United,1-1,https://www.besoccer.com/match/west-bromwich/southend-united/200713152,2007,8,championship,62,42,1,0,4,0,2006-09-16 16:00:00,,2007
+Preston North End,Barnsley,1-0,https://www.besoccer.com/match/preston-north-end/barnsley-fc/200713153,2007,9,championship,61,50,1,0,3,0,2006-09-22 20:45:00,,2007
+Burnley,Southampton,2-3,https://www.besoccer.com/match/burnley-fc/southampton-fc/200713154,2007,9,championship,56,68,1,1,1,1,2006-09-23 16:00:00,,2007
+Crystal Palace,Coventry City,1-0,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/200713155,2007,9,championship,63,59,3,0,2,0,2006-09-23 16:00:00,,2007
+Ipswich Town,Sunderland,3-1,https://www.besoccer.com/match/ipswich-town-fc/sunderland-afc/200713156,2007,9,championship,61,61,4,0,4,0,2006-09-23 16:00:00,,2007
+Leeds United,Birmingham City,3-2,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/200713157,2007,9,championship,66,67,1,0,3,0,2006-09-23 16:00:00,,2007
+Leicester,Colchester United,0-0,https://www.besoccer.com/match/leicester-city-fc/colchester-united/200713158,2007,9,championship,63,47,0,0,0,0,2006-09-23 16:00:00,,2007
+Luton Town,West Bromwich Albion,2-2,https://www.besoccer.com/match/luton-town-fc/west-bromwich/200713159,2007,9,championship,52,62,1,0,4,0,2006-09-23 16:00:00,,2007
+Plymouth Argyle,Norwich City,3-1,https://www.besoccer.com/match/plymouth-argyle/norwich-city-fc/200713160,2007,9,championship,48,60,0,0,2,0,2006-09-23 16:00:00,,2007
+Queens Park Rangers,Hull City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/200713161,2007,9,championship,52,44,3,0,3,0,2006-09-23 16:00:00,,2007
+Sheffield Wednesday,Derby County,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/200713162,2007,9,championship,51,57,1,0,6,0,2006-09-23 16:00:00,,2007
+Wolves,Stoke City,2-0,https://www.besoccer.com/match/wolverhampton/stoke-city/200713163,2007,9,championship,63,53,1,0,2,0,2006-09-23 16:00:00,,2007
+Southend United,Cardiff City,0-3,https://www.besoccer.com/match/southend-united/cardiff-city-fc/200713164,2007,9,championship,42,54,0,0,2,0,2006-09-24 14:15:00,,2007
+Colchester United,Ipswich Town,1-0,https://www.besoccer.com/match/colchester-united/ipswich-town-fc/200713165,2007,10,championship,47,61,2,0,2,0,2006-09-29 20:45:00,,2007
+Barnsley,Luton Town,1-2,https://www.besoccer.com/match/barnsley-fc/luton-town-fc/200713166,2007,10,championship,50,52,0,0,2,0,2006-09-30 16:00:00,,2007
+Birmingham City,Leicester,1-1,https://www.besoccer.com/match/birmingham-city-fc/leicester-city-fc/200713167,2007,10,championship,66,63,2,0,3,0,2006-09-30 16:00:00,,2007
+Cardiff City,Wolves,4-0,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/200713168,2007,10,championship,54,63,0,0,2,0,2006-09-30 16:00:00,,2007
+Coventry City,Plymouth Argyle,0-1,https://www.besoccer.com/match/coventry-city/plymouth-argyle/200713169,2007,10,championship,59,48,2,0,1,0,2006-09-30 16:00:00,,2007
+Derby County,Southend United,3-0,https://www.besoccer.com/match/derby-county-fc/southend-united/200713170,2007,10,championship,57,42,4,0,1,0,2006-09-30 16:00:00,,2007
+Hull City,Crystal Palace,1-1,https://www.besoccer.com/match/hull-city/crystal-palace-fc/200713171,2007,10,championship,44,63,1,0,1,0,2006-09-30 16:00:00,,2007
+Southampton,Queens Park Rangers,1-2,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/200713172,2007,10,championship,68,52,1,0,1,0,2006-09-30 16:00:00,,2007
+Stoke City,Preston North End,1-1,https://www.besoccer.com/match/stoke-city/preston-north-end/200713173,2007,10,championship,53,61,3,0,2,0,2006-09-30 16:00:00,,2007
+Sunderland,Sheffield Wednesday,1-0,https://www.besoccer.com/match/sunderland-afc/sheffield-wednesday-fc/200713174,2007,10,championship,61,51,1,0,1,0,2006-09-30 16:00:00,,2007
+West Bromwich Albion,Leeds United,4-2,https://www.besoccer.com/match/west-bromwich/leeds-united-afc/200713175,2007,10,championship,62,66,4,1,2,1,2006-09-30 16:00:00,,2007
+Norwich City,Burnley,1-4,https://www.besoccer.com/match/norwich-city-fc/burnley-fc/200713176,2007,10,championship,60,56,0,1,2,1,2006-10-01 14:15:00,,2007
+Southend United,Coventry City,2-3,https://www.besoccer.com/match/southend-united/coventry-city/200713177,2007,11,championship,42,59,2,0,2,0,2006-10-13 20:45:00,,2007
+Burnley,Hull City,2-0,https://www.besoccer.com/match/burnley-fc/hull-city/200713178,2007,11,championship,56,44,0,0,2,0,2006-10-14 16:00:00,,2007
+Crystal Palace,Cardiff City,1-2,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/200713179,2007,11,championship,63,54,0,0,1,0,2006-10-14 16:00:00,,2007
+Ipswich Town,West Bromwich Albion,1-5,https://www.besoccer.com/match/ipswich-town-fc/west-bromwich/200713180,2007,11,championship,61,62,4,0,3,0,2006-10-14 16:00:00,,2007
+Leeds United,Stoke City,0-4,https://www.besoccer.com/match/leeds-united-afc/stoke-city/200713181,2007,11,championship,65,53,3,0,1,0,2006-10-14 16:00:00,,2007
+Leicester,Southampton,3-2,https://www.besoccer.com/match/leicester-city-fc/southampton-fc/200713182,2007,11,championship,63,68,2,0,4,0,2006-10-14 16:00:00,,2007
+Luton Town,Birmingham City,3-2,https://www.besoccer.com/match/luton-town-fc/birmingham-city-fc/200713183,2007,11,championship,52,66,1,0,0,0,2006-10-14 16:00:00,,2007
+Preston North End,Sunderland,4-1,https://www.besoccer.com/match/preston-north-end/sunderland-afc/200713184,2007,11,championship,61,61,1,0,3,0,2006-10-14 16:00:00,,2007
+Queens Park Rangers,Norwich City,3-3,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/200713185,2007,11,championship,52,59,3,0,1,0,2006-10-14 16:00:00,,2007
+Sheffield Wednesday,Barnsley,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/200713186,2007,11,championship,51,49,2,0,3,0,2006-10-14 16:00:00,,2007
+Wolves,Colchester United,1-0,https://www.besoccer.com/match/wolverhampton/colchester-united/200713187,2007,11,championship,62,47,2,0,2,0,2006-10-14 16:00:00,,2007
+Plymouth Argyle,Derby County,3-1,https://www.besoccer.com/match/plymouth-argyle/derby-county-fc/200713188,2007,11,championship,48,58,4,0,2,0,2006-10-15 14:15:00,,2007
+Barnsley,Plymouth Argyle,2-2,https://www.besoccer.com/match/barnsley-fc/plymouth-argyle/200713189,2007,12,championship,49,49,1,0,1,0,2006-10-17 20:45:00,,2007
+Birmingham City,Norwich City,0-1,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/200713190,2007,12,championship,66,59,1,0,0,0,2006-10-17 20:45:00,,2007
+Burnley,Southend United,0-0,https://www.besoccer.com/match/burnley-fc/southend-united/200713191,2007,12,championship,56,42,0,0,2,0,2006-10-17 20:45:00,,2007
+Cardiff City,Southampton,1-0,https://www.besoccer.com/match/cardiff-city-fc/southampton-fc/200713192,2007,12,championship,55,68,0,0,3,0,2006-10-17 20:45:00,,2007
+Hull City,Luton Town,0-0,https://www.besoccer.com/match/hull-city/luton-town-fc/200713193,2007,12,championship,44,52,4,0,1,0,2006-10-17 20:45:00,,2007
+Ipswich Town,Preston North End,2-3,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/200713194,2007,12,championship,61,61,2,0,2,0,2006-10-17 20:45:00,,2007
+Leeds United,Leicester,1-2,https://www.besoccer.com/match/leeds-united-afc/leicester-city-fc/200713195,2007,12,championship,65,63,5,1,2,1,2006-10-17 20:45:00,,2007
+Stoke City,Sunderland,2-1,https://www.besoccer.com/match/stoke-city/sunderland-afc/200713196,2007,12,championship,53,61,1,0,2,0,2006-10-17 20:45:00,,2007
+Wolves,Coventry City,1-0,https://www.besoccer.com/match/wolverhampton/coventry-city/200713197,2007,12,championship,62,59,2,0,1,0,2006-10-17 20:45:00,,2007
+Crystal Palace,West Bromwich Albion,0-2,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/200713198,2007,12,championship,62,63,2,0,2,0,2006-10-17 21:00:00,,2007
+Queens Park Rangers,Derby County,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/200713199,2007,12,championship,52,57,2,0,3,0,2006-10-17 21:00:00,,2007
+Colchester United,Sheffield Wednesday,4-0,https://www.besoccer.com/match/colchester-united/sheffield-wednesday-fc/200713200,2007,12,championship,47,51,1,0,2,0,2006-10-18 20:45:00,,2007
+Derby County,Birmingham City,0-1,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/200713201,2007,13,championship,57,66,1,0,2,0,2006-10-21 16:00:00,,2007
+Leicester,Crystal Palace,1-1,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/200713202,2007,13,championship,63,62,0,0,1,0,2006-10-21 16:00:00,,2007
+Luton Town,Leeds United,5-1,https://www.besoccer.com/match/luton-town-fc/leeds-united-afc/200713203,2007,13,championship,52,65,0,0,2,0,2006-10-21 16:00:00,,2007
+Norwich City,Cardiff City,1-0,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/200713204,2007,13,championship,60,55,2,1,2,1,2006-10-21 16:00:00,,2007
+Plymouth Argyle,Burnley,0-0,https://www.besoccer.com/match/plymouth-argyle/burnley-fc/200713205,2007,13,championship,49,56,2,0,2,0,2006-10-21 16:00:00,,2007
+Preston North End,Hull City,2-1,https://www.besoccer.com/match/preston-north-end/hull-city/200713206,2007,13,championship,61,44,1,0,4,0,2006-10-21 16:00:00,,2007
+Sheffield Wednesday,Queens Park Rangers,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/200713207,2007,13,championship,50,52,1,0,4,0,2006-10-21 16:00:00,,2007
+Southampton,Stoke City,1-0,https://www.besoccer.com/match/southampton-fc/stoke-city/200713208,2007,13,championship,67,53,3,0,6,0,2006-10-21 16:00:00,,2007
+Southend United,Ipswich Town,1-3,https://www.besoccer.com/match/southend-united/ipswich-town-fc/200713209,2007,13,championship,42,61,2,0,6,0,2006-10-21 16:00:00,,2007
+Sunderland,Barnsley,2-0,https://www.besoccer.com/match/sunderland-afc/barnsley-fc/200713210,2007,13,championship,60,49,0,0,2,0,2006-10-21 16:00:00,,2007
+West Bromwich Albion,Wolves,3-0,https://www.besoccer.com/match/west-bromwich/wolverhampton/200713211,2007,13,championship,63,63,3,0,1,0,2006-10-22 13:00:00,,2007
+Coventry City,Colchester United,2-1,https://www.besoccer.com/match/coventry-city/colchester-united/200713212,2007,13,championship,59,47,0,0,3,0,2006-10-23 21:00:00,,2007
+Burnley,Preston North End,3-2,https://www.besoccer.com/match/burnley-fc/preston-north-end/200713213,2007,14,championship,56,61,0,0,3,0,2006-10-27 20:45:00,,2007
+Birmingham City,West Bromwich Albion,2-0,https://www.besoccer.com/match/birmingham-city-fc/west-bromwich/200713214,2007,14,championship,67,63,0,0,2,0,2006-10-28 13:00:00,,2007
+Barnsley,Coventry City,0-1,https://www.besoccer.com/match/barnsley-fc/coventry-city/200713215,2007,14,championship,49,59,1,0,1,0,2006-10-28 16:00:00,,2007
+Cardiff City,Derby County,2-2,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/200713216,2007,14,championship,55,57,0,0,0,0,2006-10-28 16:00:00,,2007
+Colchester United,Southampton,2-0,https://www.besoccer.com/match/colchester-united/southampton-fc/200713217,2007,14,championship,47,67,2,0,2,0,2006-10-28 16:00:00,,2007
+Crystal Palace,Plymouth Argyle,0-1,https://www.besoccer.com/match/crystal-palace-fc/plymouth-argyle/200713218,2007,14,championship,62,49,2,0,0,0,2006-10-28 16:00:00,,2007
+Hull City,Sunderland,0-1,https://www.besoccer.com/match/hull-city/sunderland-afc/200713219,2007,14,championship,44,61,3,0,3,0,2006-10-28 16:00:00,,2007
+Leeds United,Southend United,2-0,https://www.besoccer.com/match/leeds-united-afc/southend-united/200713220,2007,14,championship,64,43,3,0,0,0,2006-10-28 16:00:00,,2007
+Queens Park Rangers,Leicester,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/leicester-city-fc/200713221,2007,14,championship,52,63,2,0,1,0,2006-10-28 16:00:00,,2007
+Stoke City,Norwich City,5-0,https://www.besoccer.com/match/stoke-city/norwich-city-fc/200713222,2007,14,championship,53,60,0,0,0,0,2006-10-28 16:00:00,,2007
+Wolves,Sheffield Wednesday,2-2,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/200713223,2007,14,championship,62,51,0,0,2,0,2006-10-28 16:00:00,,2007
+Ipswich Town,Luton Town,5-0,https://www.besoccer.com/match/ipswich-town-fc/luton-town-fc/200713224,2007,14,championship,61,53,2,0,0,0,2006-10-29 14:15:00,,2007
+Coventry City,Birmingham City,0-1,https://www.besoccer.com/match/coventry-city/birmingham-city-fc/200713225,2007,15,championship,59,67,2,0,3,0,2006-10-31 20:45:00,,2007
+Leicester,Stoke City,2-1,https://www.besoccer.com/match/leicester-city-fc/stoke-city/200713226,2007,15,championship,63,53,2,0,2,0,2006-10-31 20:45:00,,2007
+Luton Town,Burnley,0-2,https://www.besoccer.com/match/luton-town-fc/burnley-fc/200713227,2007,15,championship,53,56,0,0,2,0,2006-10-31 20:45:00,,2007
+Norwich City,Colchester United,1-1,https://www.besoccer.com/match/norwich-city-fc/colchester-united/200713228,2007,15,championship,59,48,0,0,2,0,2006-10-31 20:45:00,,2007
+Plymouth Argyle,Ipswich Town,1-1,https://www.besoccer.com/match/plymouth-argyle/ipswich-town-fc/200713229,2007,15,championship,49,61,2,0,6,0,2006-10-31 20:45:00,,2007
+Preston North End,Leeds United,4-1,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/200713230,2007,15,championship,61,64,0,0,3,0,2006-10-31 20:45:00,,2007
+Sheffield Wednesday,Crystal Palace,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/200713231,2007,15,championship,51,62,2,0,3,0,2006-10-31 20:45:00,,2007
+Southend United,Hull City,2-3,https://www.besoccer.com/match/southend-united/hull-city/200713232,2007,15,championship,43,44,1,0,0,0,2006-10-31 20:45:00,,2007
+Sunderland,Cardiff City,1-2,https://www.besoccer.com/match/sunderland-afc/cardiff-city-fc/200713233,2007,15,championship,61,55,0,0,2,0,2006-10-31 20:45:00,,2007
+West Bromwich Albion,Queens Park Rangers,3-3,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/200713234,2007,15,championship,63,52,0,0,3,0,2006-10-31 20:45:00,,2007
+Derby County,Barnsley,2-1,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/200713235,2007,15,championship,57,49,1,0,1,0,2006-11-01 20:45:00,,2007
+Southampton,Wolves,2-0,https://www.besoccer.com/match/southampton-fc/wolverhampton/200713236,2007,15,championship,67,62,0,0,1,0,2006-11-01 20:45:00,,2007
+Barnsley,Leeds United,3-2,https://www.besoccer.com/match/barnsley-fc/leeds-united-afc/200713237,2007,16,championship,49,64,3,0,2,0,2006-11-04 16:00:00,,2007
+Burnley,Ipswich Town,1-0,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/200713238,2007,16,championship,56,61,2,0,3,0,2006-11-04 16:00:00,,2007
+Colchester United,Cardiff City,3-1,https://www.besoccer.com/match/colchester-united/cardiff-city-fc/200713239,2007,16,championship,48,55,2,0,0,0,2006-11-04 16:00:00,,2007
+Derby County,West Bromwich Albion,2-1,https://www.besoccer.com/match/derby-county-fc/west-bromwich/200713240,2007,16,championship,57,63,2,0,2,0,2006-11-04 16:00:00,,2007
+Norwich City,Sunderland,1-0,https://www.besoccer.com/match/norwich-city-fc/sunderland-afc/200713241,2007,16,championship,59,61,2,0,2,0,2006-11-04 16:00:00,,2007
+Plymouth Argyle,Birmingham City,0-1,https://www.besoccer.com/match/plymouth-argyle/birmingham-city-fc/200713242,2007,16,championship,49,67,0,0,3,0,2006-11-04 16:00:00,,2007
+Preston North End,Luton Town,3-0,https://www.besoccer.com/match/preston-north-end/luton-town-fc/200713243,2007,16,championship,61,52,0,0,1,0,2006-11-04 16:00:00,,2007
+Queens Park Rangers,Crystal Palace,4-2,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/200713244,2007,16,championship,52,62,1,0,1,0,2006-11-04 16:00:00,,2007
+Sheffield Wednesday,Leicester,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leicester-city-fc/200713245,2007,16,championship,51,63,0,0,4,0,2006-11-04 16:00:00,,2007
+Southampton,Hull City,0-0,https://www.besoccer.com/match/southampton-fc/hull-city/200713246,2007,16,championship,67,44,1,0,2,0,2006-11-04 16:00:00,,2007
+Wolves,Southend United,3-1,https://www.besoccer.com/match/wolverhampton/southend-united/200713247,2007,16,championship,62,43,1,0,2,0,2006-11-04 16:00:00,,2007
+Stoke City,Coventry City,1-0,https://www.besoccer.com/match/stoke-city/coventry-city/200713248,2007,16,championship,53,59,0,1,5,1,2006-11-06 21:00:00,,2007
+Birmingham City,Barnsley,2-0,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/200713249,2007,17,championship,67,49,1,0,1,0,2006-11-11 16:00:00,,2007
+Cardiff City,Burnley,1-0,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/200713250,2007,17,championship,55,57,1,0,5,0,2006-11-11 16:00:00,,2007
+Coventry City,Derby County,1-2,https://www.besoccer.com/match/coventry-city/derby-county-fc/200713251,2007,17,championship,59,58,1,0,4,0,2006-11-11 16:00:00,,2007
+Crystal Palace,Stoke City,0-1,https://www.besoccer.com/match/crystal-palace-fc/stoke-city/200713252,2007,17,championship,62,54,3,0,3,0,2006-11-11 16:00:00,,2007
+Hull City,Wolves,2-0,https://www.besoccer.com/match/hull-city/wolverhampton/200713253,2007,17,championship,44,62,2,0,2,0,2006-11-11 16:00:00,,2007
+Ipswich Town,Sheffield Wednesday,0-2,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/200713254,2007,17,championship,61,51,2,0,2,0,2006-11-11 16:00:00,,2007
+Leeds United,Colchester United,3-0,https://www.besoccer.com/match/leeds-united-afc/colchester-united/200713255,2007,17,championship,64,48,2,0,2,0,2006-11-11 16:00:00,,2007
+Leicester,Plymouth Argyle,2-2,https://www.besoccer.com/match/leicester-city-fc/plymouth-argyle/200713256,2007,17,championship,63,49,2,0,2,0,2006-11-11 16:00:00,,2007
+Luton Town,Queens Park Rangers,2-3,https://www.besoccer.com/match/luton-town-fc/queens-park-rangers-fc/200713257,2007,17,championship,52,52,0,0,1,0,2006-11-11 16:00:00,,2007
+Southend United,Preston North End,0-0,https://www.besoccer.com/match/southend-united/preston-north-end/200713258,2007,17,championship,43,61,3,0,3,0,2006-11-11 16:00:00,,2007
+Sunderland,Southampton,1-1,https://www.besoccer.com/match/sunderland-afc/southampton-fc/200713259,2007,17,championship,60,67,1,0,0,0,2006-11-11 16:00:00,,2007
+West Bromwich Albion,Norwich City,0-1,https://www.besoccer.com/match/west-bromwich/norwich-city-fc/200713260,2007,17,championship,63,59,1,0,2,0,2006-11-11 16:00:00,,2007
+Cardiff City,Queens Park Rangers,0-1,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/200713261,2007,18,championship,55,53,1,0,3,0,2006-11-17 20:45:00,,2007
+Birmingham City,Wolves,1-1,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/200713262,2007,18,championship,67,62,0,0,0,0,2006-11-18 13:00:00,,2007
+Coventry City,Sheffield Wednesday,3-1,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/200713263,2007,18,championship,59,51,1,0,2,0,2006-11-18 16:00:00,,2007
+Crystal Palace,Barnsley,2-0,https://www.besoccer.com/match/crystal-palace-fc/barnsley-fc/200713264,2007,18,championship,61,49,0,0,1,0,2006-11-18 16:00:00,,2007
+Hull City,Stoke City,0-2,https://www.besoccer.com/match/hull-city/stoke-city/200713265,2007,18,championship,44,54,0,0,3,0,2006-11-18 16:00:00,,2007
+Leeds United,Southampton,0-3,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/200713266,2007,18,championship,64,67,0,0,1,0,2006-11-18 16:00:00,,2007
+Leicester,Preston North End,0-1,https://www.besoccer.com/match/leicester-city-fc/preston-north-end/200713267,2007,18,championship,63,61,1,0,1,0,2006-11-18 16:00:00,,2007
+Luton Town,Derby County,0-2,https://www.besoccer.com/match/luton-town-fc/derby-county-fc/200713268,2007,18,championship,52,58,1,0,1,0,2006-11-18 16:00:00,,2007
+Southend United,Plymouth Argyle,1-1,https://www.besoccer.com/match/southend-united/plymouth-argyle/200713269,2007,18,championship,43,49,0,0,2,0,2006-11-18 16:00:00,,2007
+Sunderland,Colchester United,3-1,https://www.besoccer.com/match/sunderland-afc/colchester-united/200713270,2007,18,championship,60,48,1,0,0,0,2006-11-18 16:00:00,,2007
+West Bromwich Albion,Burnley,3-0,https://www.besoccer.com/match/west-bromwich/burnley-fc/200713271,2007,18,championship,63,56,2,0,4,0,2006-11-18 16:00:00,,2007
+Ipswich Town,Norwich City,3-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/200713272,2007,18,championship,61,60,2,0,2,0,2006-11-19 12:30:00,,2007
+Wolves,Sunderland,1-1,https://www.besoccer.com/match/wolverhampton/sunderland-afc/200713273,2007,19,championship,62,61,1,0,2,0,2006-11-24 21:00:00,,2007
+Barnsley,Ipswich Town,1-0,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/200713274,2007,19,championship,49,61,2,0,2,0,2006-11-25 16:00:00,,2007
+Burnley,Birmingham City,1-2,https://www.besoccer.com/match/burnley-fc/birmingham-city-fc/200713275,2007,19,championship,56,67,1,0,2,0,2006-11-25 16:00:00,,2007
+Colchester United,Southend United,3-0,https://www.besoccer.com/match/colchester-united/southend-united/200713276,2007,19,championship,48,43,2,0,2,0,2006-11-25 16:00:00,,2007
+Derby County,Leicester,1-0,https://www.besoccer.com/match/derby-county-fc/leicester-city-fc/200713277,2007,19,championship,58,62,2,0,2,0,2006-11-25 16:00:00,,2007
+Norwich City,Hull City,1-1,https://www.besoccer.com/match/norwich-city-fc/hull-city/200713278,2007,19,championship,59,44,0,0,0,0,2006-11-25 16:00:00,,2007
+Plymouth Argyle,Leeds United,1-2,https://www.besoccer.com/match/plymouth-argyle/leeds-united-afc/200713279,2007,19,championship,49,64,4,0,2,0,2006-11-25 16:00:00,,2007
+Preston North End,Crystal Palace,0-0,https://www.besoccer.com/match/preston-north-end/crystal-palace-fc/200713280,2007,19,championship,61,62,1,0,1,0,2006-11-25 16:00:00,,2007
+Queens Park Rangers,Coventry City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/200713281,2007,19,championship,53,59,1,0,3,0,2006-11-25 16:00:00,,2007
+Sheffield Wednesday,Cardiff City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/200713282,2007,19,championship,51,55,2,0,3,0,2006-11-25 16:00:00,,2007
+Southampton,Luton Town,2-1,https://www.besoccer.com/match/southampton-fc/luton-town-fc/200713283,2007,19,championship,67,52,0,0,1,0,2006-11-25 16:00:00,,2007
+Stoke City,West Bromwich Albion,1-0,https://www.besoccer.com/match/stoke-city/west-bromwich/200713284,2007,19,championship,54,63,0,0,2,0,2006-11-25 16:00:00,,2007
+Barnsley,Southend United,2-0,https://www.besoccer.com/match/barnsley-fc/southend-united/200713285,2007,20,championship,49,43,2,0,4,0,2006-11-28 20:45:00,,2007
+Burnley,Leeds United,2-1,https://www.besoccer.com/match/burnley-fc/leeds-united-afc/200713286,2007,20,championship,56,64,1,0,2,0,2006-11-28 20:45:00,,2007
+Colchester United,Hull City,5-1,https://www.besoccer.com/match/colchester-united/hull-city/200713287,2007,20,championship,48,44,0,0,3,0,2006-11-28 20:45:00,,2007
+Norwich City,Leicester,3-1,https://www.besoccer.com/match/norwich-city-fc/leicester-city-fc/200713288,2007,20,championship,59,62,3,0,3,0,2006-11-28 20:45:00,,2007
+Plymouth Argyle,Luton Town,1-0,https://www.besoccer.com/match/plymouth-argyle/luton-town-fc/200713289,2007,20,championship,49,52,0,0,0,0,2006-11-28 20:45:00,,2007
+Preston North End,Coventry City,1-1,https://www.besoccer.com/match/preston-north-end/coventry-city/200713290,2007,20,championship,61,59,0,0,3,0,2006-11-28 20:45:00,,2007
+Sheffield Wednesday,West Bromwich Albion,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/west-bromwich/200713291,2007,20,championship,51,63,2,0,5,0,2006-11-28 20:45:00,,2007
+Stoke City,Cardiff City,3-0,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/200713292,2007,20,championship,54,55,1,0,2,0,2006-11-28 20:45:00,,2007
+Wolves,Crystal Palace,1-1,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/200713293,2007,20,championship,62,62,0,0,2,0,2006-11-28 20:45:00,,2007
+Queens Park Rangers,Sunderland,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/sunderland-afc/200713294,2007,20,championship,53,61,1,0,1,0,2006-11-28 21:00:00,,2007
+Derby County,Ipswich Town,2-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/200713295,2007,20,championship,58,61,3,0,3,0,2006-11-29 20:45:00,,2007
+Southampton,Birmingham City,4-3,https://www.besoccer.com/match/southampton-fc/birmingham-city-fc/200713296,2007,20,championship,67,67,2,0,4,0,2006-11-29 20:45:00,,2007
+Leeds United,Barnsley,2-2,https://www.besoccer.com/match/leeds-united-afc/barnsley-fc/200713297,2007,21,championship,64,49,2,0,1,0,2006-12-02 13:00:00,,2007
+Birmingham City,Plymouth Argyle,3-0,https://www.besoccer.com/match/birmingham-city-fc/plymouth-argyle/200713298,2007,21,championship,67,49,0,0,1,0,2006-12-02 16:00:00,,2007
+Cardiff City,Colchester United,0-0,https://www.besoccer.com/match/cardiff-city-fc/colchester-united/200713299,2007,21,championship,54,48,0,0,1,0,2006-12-02 16:00:00,,2007
+Coventry City,Stoke City,0-0,https://www.besoccer.com/match/coventry-city/stoke-city/200713300,2007,21,championship,59,54,1,0,1,0,2006-12-02 16:00:00,,2007
+Crystal Palace,Queens Park Rangers,3-0,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/200713301,2007,21,championship,62,52,0,0,2,0,2006-12-02 16:00:00,,2007
+Hull City,Southampton,2-4,https://www.besoccer.com/match/hull-city/southampton-fc/200713302,2007,21,championship,44,67,1,0,1,0,2006-12-02 16:00:00,,2007
+Ipswich Town,Burnley,1-1,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/200713303,2007,21,championship,61,56,0,0,4,0,2006-12-02 16:00:00,,2007
+Leicester,Sheffield Wednesday,1-4,https://www.besoccer.com/match/leicester-city-fc/sheffield-wednesday-fc/200713304,2007,21,championship,62,52,3,0,3,0,2006-12-02 16:00:00,,2007
+Luton Town,Preston North End,2-0,https://www.besoccer.com/match/luton-town-fc/preston-north-end/200713305,2007,21,championship,52,61,2,0,1,0,2006-12-02 16:00:00,,2007
+Southend United,Wolves,0-1,https://www.besoccer.com/match/southend-united/wolverhampton/200713306,2007,21,championship,43,62,1,0,1,0,2006-12-02 16:00:00,,2007
+Sunderland,Norwich City,1-0,https://www.besoccer.com/match/sunderland-afc/norwich-city-fc/200713307,2007,21,championship,61,60,1,0,2,0,2006-12-02 16:00:00,,2007
+West Bromwich Albion,Derby County,1-0,https://www.besoccer.com/match/west-bromwich/derby-county-fc/200713308,2007,21,championship,62,58,2,0,0,0,2006-12-02 16:00:00,,2007
+Birmingham City,Preston North End,3-1,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/200713309,2007,22,championship,67,61,3,0,3,0,2006-12-09 16:00:00,,2007
+Cardiff City,Ipswich Town,2-2,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/200713310,2007,22,championship,54,61,0,0,1,0,2006-12-09 16:00:00,,2007
+Coventry City,Burnley,1-0,https://www.besoccer.com/match/coventry-city/burnley-fc/200713311,2007,22,championship,59,56,1,0,3,0,2006-12-09 16:00:00,,2007
+Crystal Palace,Colchester United,1-3,https://www.besoccer.com/match/crystal-palace-fc/colchester-united/200713312,2007,22,championship,62,48,1,0,0,0,2006-12-09 16:00:00,,2007
+Leeds United,Derby County,0-1,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/200713313,2007,22,championship,64,58,3,0,3,0,2006-12-09 16:00:00,,2007
+Norwich City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/200713314,2007,22,championship,59,52,2,0,3,0,2006-12-09 16:00:00,,2007
+Plymouth Argyle,Hull City,1-0,https://www.besoccer.com/match/plymouth-argyle/hull-city/200713315,2007,22,championship,49,44,1,0,1,0,2006-12-09 16:00:00,,2007
+Southend United,Southampton,2-1,https://www.besoccer.com/match/southend-united/southampton-fc/200713316,2007,22,championship,43,67,1,0,1,0,2006-12-09 16:00:00,,2007
+Stoke City,Queens Park Rangers,1-0,https://www.besoccer.com/match/stoke-city/queens-park-rangers-fc/200713317,2007,22,championship,54,52,1,0,1,0,2006-12-09 16:00:00,,2007
+Sunderland,Luton Town,2-1,https://www.besoccer.com/match/sunderland-afc/luton-town-fc/200713318,2007,22,championship,61,52,0,0,1,0,2006-12-09 16:00:00,,2007
+Wolves,Leicester,1-2,https://www.besoccer.com/match/wolverhampton/leicester-city-fc/200713319,2007,22,championship,62,62,1,0,2,0,2006-12-09 16:00:00,,2007
+Barnsley,West Bromwich Albion,1-1,https://www.besoccer.com/match/barnsley-fc/west-bromwich/200713320,2007,22,championship,49,62,1,0,2,0,2006-12-10 14:15:00,,2007
+Luton Town,Southend United,0-0,https://www.besoccer.com/match/luton-town-fc/southend-united/200713321,2007,23,championship,52,43,0,0,0,0,2006-12-15 20:45:00,,2007
+Burnley,Sunderland,2-2,https://www.besoccer.com/match/burnley-fc/sunderland-afc/200713322,2007,23,championship,56,61,1,0,2,0,2006-12-16 16:00:00,,2007
+Colchester United,Stoke City,3-0,https://www.besoccer.com/match/colchester-united/stoke-city/200713323,2007,23,championship,49,55,1,0,2,0,2006-12-16 16:00:00,,2007
+Derby County,Crystal Palace,1-0,https://www.besoccer.com/match/derby-county-fc/crystal-palace-fc/200713324,2007,23,championship,58,61,1,0,2,0,2006-12-16 16:00:00,,2007
+Hull City,Cardiff City,4-1,https://www.besoccer.com/match/hull-city/cardiff-city-fc/200713325,2007,23,championship,44,54,2,0,2,0,2006-12-16 16:00:00,,2007
+Ipswich Town,Leeds United,1-0,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/200713326,2007,23,championship,61,63,3,0,3,0,2006-12-16 16:00:00,,2007
+Leicester,Barnsley,2-0,https://www.besoccer.com/match/leicester-city-fc/barnsley-fc/200713327,2007,23,championship,62,49,2,0,0,0,2006-12-16 16:00:00,,2007
+Preston North End,Plymouth Argyle,3-0,https://www.besoccer.com/match/preston-north-end/plymouth-argyle/200713328,2007,23,championship,61,49,1,0,3,0,2006-12-16 16:00:00,,2007
+Queens Park Rangers,Wolves,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/200713329,2007,23,championship,52,62,0,0,2,0,2006-12-16 16:00:00,,2007
+Sheffield Wednesday,Birmingham City,0-3,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/200713330,2007,23,championship,52,67,0,0,4,0,2006-12-16 16:00:00,,2007
+Southampton,Norwich City,2-1,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/200713331,2007,23,championship,67,59,1,0,1,0,2006-12-16 16:00:00,,2007
+West Bromwich Albion,Coventry City,5-0,https://www.besoccer.com/match/west-bromwich/coventry-city/200713332,2007,23,championship,62,59,1,0,4,0,2006-12-16 16:00:00,,2007
+Crystal Palace,Sunderland,1-0,https://www.besoccer.com/match/crystal-palace-fc/sunderland-afc/200713333,2007,24,championship,61,61,1,0,1,0,2006-12-22 21:00:00,,2007
+Leeds United,Hull City,0-0,https://www.besoccer.com/match/leeds-united-afc/hull-city/200713334,2007,24,championship,63,44,2,0,1,0,2006-12-23 13:00:00,,2007
+Burnley,Derby County,0-0,https://www.besoccer.com/match/burnley-fc/derby-county-fc/200713335,2007,24,championship,56,58,0,0,0,0,2006-12-23 16:00:00,,2007
+Ipswich Town,Stoke City,0-1,https://www.besoccer.com/match/ipswich-town-fc/stoke-city/200713336,2007,24,championship,61,54,1,0,2,0,2006-12-23 16:00:00,,2007
+Leicester,Cardiff City,0-0,https://www.besoccer.com/match/leicester-city-fc/cardiff-city-fc/200713337,2007,24,championship,62,54,1,0,1,0,2006-12-23 16:00:00,,2007
+Luton Town,Coventry City,3-1,https://www.besoccer.com/match/luton-town-fc/coventry-city/200713338,2007,24,championship,52,59,4,0,0,0,2006-12-23 16:00:00,,2007
+Plymouth Argyle,West Bromwich Albion,2-2,https://www.besoccer.com/match/plymouth-argyle/west-bromwich/200713339,2007,24,championship,49,63,2,0,4,0,2006-12-23 16:00:00,,2007
+Preston North End,Colchester United,1-0,https://www.besoccer.com/match/preston-north-end/colchester-united/200713340,2007,24,championship,61,49,2,0,1,0,2006-12-23 16:00:00,,2007
+Queens Park Rangers,Barnsley,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/200713341,2007,24,championship,52,49,3,0,1,0,2006-12-23 16:00:00,,2007
+Sheffield Wednesday,Southampton,3-3,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/200713342,2007,24,championship,52,67,1,0,1,0,2006-12-23 16:00:00,,2007
+Southend United,Birmingham City,0-4,https://www.besoccer.com/match/southend-united/birmingham-city-fc/200713343,2007,24,championship,43,67,0,0,2,0,2006-12-23 16:00:00,,2007
+Wolves,Norwich City,2-2,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/200713344,2007,24,championship,62,59,2,0,4,0,2006-12-23 16:00:00,,2007
+Southampton,Crystal Palace,1-1,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/200713345,2007,25,championship,67,61,0,1,3,1,2006-12-26 13:00:00,,2007
+Cardiff City,Plymouth Argyle,2-2,https://www.besoccer.com/match/cardiff-city-fc/plymouth-argyle/200713346,2007,25,championship,54,49,2,0,4,0,2006-12-26 14:00:00,,2007
+Barnsley,Burnley,1-0,https://www.besoccer.com/match/barnsley-fc/burnley-fc/200713347,2007,25,championship,49,56,1,0,2,0,2006-12-26 16:00:00,,2007
+Birmingham City,Queens Park Rangers,2-1,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/200713348,2007,25,championship,67,52,1,0,1,0,2006-12-26 16:00:00,,2007
+Colchester United,Luton Town,4-1,https://www.besoccer.com/match/colchester-united/luton-town-fc/200713349,2007,25,championship,49,52,0,0,2,0,2006-12-26 16:00:00,,2007
+Coventry City,Ipswich Town,1-2,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/200713350,2007,25,championship,59,61,0,0,2,0,2006-12-26 16:00:00,,2007
+Derby County,Wolves,0-2,https://www.besoccer.com/match/derby-county-fc/wolverhampton/200713351,2007,25,championship,58,62,1,0,3,0,2006-12-26 16:00:00,,2007
+Hull City,Leicester,1-2,https://www.besoccer.com/match/hull-city/leicester-city-fc/200713352,2007,25,championship,44,62,2,1,1,1,2006-12-26 16:00:00,,2007
+Norwich City,Southend United,0-0,https://www.besoccer.com/match/norwich-city-fc/southend-united/200713353,2007,25,championship,59,43,3,0,2,0,2006-12-26 16:00:00,,2007
+Stoke City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/stoke-city/sheffield-wednesday-fc/200713354,2007,25,championship,54,52,3,0,7,0,2006-12-26 16:00:00,,2007
+Sunderland,Leeds United,2-0,https://www.besoccer.com/match/sunderland-afc/leeds-united-afc/200713355,2007,25,championship,61,63,0,0,1,0,2006-12-26 16:00:00,,2007
+West Bromwich Albion,Preston North End,4-2,https://www.besoccer.com/match/west-bromwich/preston-north-end/200713356,2007,25,championship,63,61,2,0,2,0,2006-12-26 16:00:00,,2007
+Birmingham City,Luton Town,2-2,https://www.besoccer.com/match/birmingham-city-fc/luton-town-fc/200713357,2007,26,championship,67,52,2,0,2,0,2006-12-29 20:45:00,,2007
+Barnsley,Sheffield Wednesday,0-3,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/200713358,2007,26,championship,49,52,1,0,1,0,2006-12-30 14:00:00,,2007
+Cardiff City,Crystal Palace,0-0,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/200713359,2007,26,championship,54,61,3,0,1,0,2006-12-30 16:00:00,,2007
+Colchester United,Wolves,2-1,https://www.besoccer.com/match/colchester-united/wolverhampton/200713360,2007,26,championship,49,62,0,0,2,0,2006-12-30 16:00:00,,2007
+Coventry City,Southend United,1-1,https://www.besoccer.com/match/coventry-city/southend-united/200713361,2007,26,championship,58,43,2,0,0,0,2006-12-30 16:00:00,,2007
+Derby County,Plymouth Argyle,1-0,https://www.besoccer.com/match/derby-county-fc/plymouth-argyle/200713362,2007,26,championship,58,49,1,0,3,0,2006-12-30 16:00:00,,2007
+Hull City,Burnley,2-0,https://www.besoccer.com/match/hull-city/burnley-fc/200713363,2007,26,championship,44,56,3,0,3,0,2006-12-30 16:00:00,,2007
+Norwich City,Queens Park Rangers,1-0,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/200713364,2007,26,championship,59,52,0,0,2,0,2006-12-30 16:00:00,,2007
+Southampton,Leicester,2-0,https://www.besoccer.com/match/southampton-fc/leicester-city-fc/200713365,2007,26,championship,67,62,0,0,1,0,2006-12-30 16:00:00,,2007
+Stoke City,Leeds United,3-1,https://www.besoccer.com/match/stoke-city/leeds-united-afc/200713366,2007,26,championship,54,63,0,0,1,0,2006-12-30 16:00:00,,2007
+Sunderland,Preston North End,0-1,https://www.besoccer.com/match/sunderland-afc/preston-north-end/200713367,2007,26,championship,61,61,0,0,0,0,2006-12-30 16:00:00,,2007
+West Bromwich Albion,Ipswich Town,2-0,https://www.besoccer.com/match/west-bromwich/ipswich-town-fc/200713368,2007,26,championship,63,61,3,0,2,0,2006-12-30 16:00:00,,2007
+Crystal Palace,Norwich City,3-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/200713369,2007,27,championship,61,59,0,0,0,0,2007-01-01 16:00:00,,2007
+Ipswich Town,Birmingham City,1-0,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/200713370,2007,27,championship,61,67,1,0,1,0,2007-01-01 16:00:00,,2007
+Leeds United,Coventry City,2-1,https://www.besoccer.com/match/leeds-united-afc/coventry-city/200713371,2007,27,championship,63,58,2,0,3,0,2007-01-01 16:00:00,,2007
+Leicester,Sunderland,0-2,https://www.besoccer.com/match/leicester-city-fc/sunderland-afc/200713372,2007,27,championship,62,61,1,0,1,0,2007-01-01 16:00:00,,2007
+Luton Town,Cardiff City,0-0,https://www.besoccer.com/match/luton-town-fc/cardiff-city-fc/200713373,2007,27,championship,52,54,4,0,1,0,2007-01-01 16:00:00,,2007
+Plymouth Argyle,Southampton,1-1,https://www.besoccer.com/match/plymouth-argyle/southampton-fc/200713374,2007,27,championship,49,67,3,0,3,0,2007-01-01 16:00:00,,2007
+Preston North End,Derby County,1-2,https://www.besoccer.com/match/preston-north-end/derby-county-fc/200713375,2007,27,championship,61,58,2,0,5,0,2007-01-01 16:00:00,,2007
+Queens Park Rangers,Colchester United,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/colchester-united/200713376,2007,27,championship,52,49,1,0,0,0,2007-01-01 16:00:00,,2007
+Sheffield Wednesday,Hull City,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/200713377,2007,27,championship,52,44,1,0,3,0,2007-01-01 16:00:00,,2007
+Southend United,West Bromwich Albion,3-1,https://www.besoccer.com/match/southend-united/west-bromwich/200713378,2007,27,championship,43,63,2,0,5,0,2007-01-01 16:00:00,,2007
+Wolves,Barnsley,2-0,https://www.besoccer.com/match/wolverhampton/barnsley-fc/200713379,2007,27,championship,62,49,2,0,3,0,2007-01-01 16:00:00,,2007
+Burnley,Stoke City,0-1,https://www.besoccer.com/match/burnley-fc/stoke-city/200713380,2007,27,championship,56,55,2,0,0,0,2007-01-23 20:45:00,,2007
+West Bromwich Albion,Luton Town,3-2,https://www.besoccer.com/match/west-bromwich/luton-town-fc/200713381,2007,28,championship,63,52,1,0,2,0,2007-01-12 20:45:00,,2007
+Barnsley,Preston North End,0-1,https://www.besoccer.com/match/barnsley-fc/preston-north-end/200713382,2007,28,championship,49,61,3,0,1,0,2007-01-13 16:00:00,,2007
+Cardiff City,Southend United,0-1,https://www.besoccer.com/match/cardiff-city-fc/southend-united/200713383,2007,28,championship,54,44,0,0,0,0,2007-01-13 16:00:00,,2007
+Colchester United,Leicester,1-1,https://www.besoccer.com/match/colchester-united/leicester-city-fc/200713384,2007,28,championship,49,62,3,0,4,0,2007-01-13 16:00:00,,2007
+Coventry City,Crystal Palace,2-4,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/200713385,2007,28,championship,58,62,1,0,0,0,2007-01-13 16:00:00,,2007
+Derby County,Sheffield Wednesday,1-0,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/200713386,2007,28,championship,59,53,0,0,3,0,2007-01-13 16:00:00,,2007
+Hull City,Queens Park Rangers,2-1,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/200713387,2007,28,championship,45,52,3,0,4,0,2007-01-13 16:00:00,,2007
+Norwich City,Plymouth Argyle,1-3,https://www.besoccer.com/match/norwich-city-fc/plymouth-argyle/200713388,2007,28,championship,59,49,2,0,2,0,2007-01-13 16:00:00,,2007
+Southampton,Burnley,0-0,https://www.besoccer.com/match/southampton-fc/burnley-fc/200713389,2007,28,championship,67,56,1,0,2,0,2007-01-13 16:00:00,,2007
+Stoke City,Wolves,1-1,https://www.besoccer.com/match/stoke-city/wolverhampton/200713390,2007,28,championship,55,62,3,0,2,0,2007-01-13 16:00:00,,2007
+Sunderland,Ipswich Town,1-0,https://www.besoccer.com/match/sunderland-afc/ipswich-town-fc/200713391,2007,28,championship,61,61,1,0,1,0,2007-01-13 16:00:00,,2007
+Birmingham City,Leeds United,1-0,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/200713392,2007,28,championship,68,62,1,0,0,0,2007-02-27 20:45:00,,2007
+Wolves,Cardiff City,1-2,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/200713401,2007,29,championship,62,54,0,0,1,0,2007-01-20 14:00:00,,2007
+Crystal Palace,Hull City,1-1,https://www.besoccer.com/match/crystal-palace-fc/hull-city/200713393,2007,29,championship,62,45,0,0,2,0,2007-01-20 16:00:00,,2007
+Ipswich Town,Colchester United,3-2,https://www.besoccer.com/match/ipswich-town-fc/colchester-united/200713394,2007,29,championship,61,49,3,1,2,1,2007-01-20 16:00:00,,2007
+Leeds United,West Bromwich Albion,2-3,https://www.besoccer.com/match/leeds-united-afc/west-bromwich/200713395,2007,29,championship,63,63,2,0,1,0,2007-01-20 16:00:00,,2007
+Luton Town,Barnsley,0-2,https://www.besoccer.com/match/luton-town-fc/barnsley-fc/200713396,2007,29,championship,52,48,2,0,2,0,2007-01-20 16:00:00,,2007
+Preston North End,Stoke City,3-2,https://www.besoccer.com/match/preston-north-end/stoke-city/200713397,2007,29,championship,61,55,0,0,3,0,2007-01-20 16:00:00,,2007
+Queens Park Rangers,Southampton,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/200713398,2007,29,championship,52,67,0,0,0,0,2007-01-20 16:00:00,,2007
+Sheffield Wednesday,Sunderland,2-4,https://www.besoccer.com/match/sheffield-wednesday-fc/sunderland-afc/200713399,2007,29,championship,52,61,0,0,2,0,2007-01-20 16:00:00,,2007
+Southend United,Derby County,0-1,https://www.besoccer.com/match/southend-united/derby-county-fc/200713400,2007,29,championship,45,59,1,0,3,0,2007-01-20 16:00:00,,2007
+Plymouth Argyle,Coventry City,3-2,https://www.besoccer.com/match/plymouth-argyle/coventry-city/200713402,2007,29,championship,50,58,2,0,5,0,2007-01-22 20:45:00,,2007
+Burnley,Norwich City,3-0,https://www.besoccer.com/match/burnley-fc/norwich-city-fc/200713403,2007,29,championship,55,59,1,0,1,0,2007-04-17 20:45:00,,2007
+Leicester,Birmingham City,1-2,https://www.besoccer.com/match/leicester-city-fc/birmingham-city-fc/200713404,2007,29,championship,61,67,0,0,2,0,2007-04-17 20:45:00,,2007
+Cardiff City,Leicester,3-2,https://www.besoccer.com/match/cardiff-city-fc/leicester-city-fc/200713405,2007,30,championship,54,62,1,0,2,0,2007-01-27 16:00:00,,2007
+Barnsley,Queens Park Rangers,2-0,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/200713406,2007,30,championship,49,52,1,0,2,0,2007-01-30 20:45:00,,2007
+Birmingham City,Southend United,1-3,https://www.besoccer.com/match/birmingham-city-fc/southend-united/200713407,2007,30,championship,68,45,0,0,1,0,2007-01-30 20:45:00,,2007
+Colchester United,Preston North End,1-0,https://www.besoccer.com/match/colchester-united/preston-north-end/200713408,2007,30,championship,49,62,1,0,1,0,2007-01-30 20:45:00,,2007
+Coventry City,Luton Town,1-0,https://www.besoccer.com/match/coventry-city/luton-town-fc/200713409,2007,30,championship,57,52,3,0,0,0,2007-01-30 20:45:00,,2007
+Derby County,Burnley,1-0,https://www.besoccer.com/match/derby-county-fc/burnley-fc/200713410,2007,30,championship,59,56,2,0,4,0,2007-01-30 20:45:00,,2007
+Hull City,Leeds United,1-2,https://www.besoccer.com/match/hull-city/leeds-united-afc/200713411,2007,30,championship,45,63,1,0,4,0,2007-01-30 20:45:00,,2007
+Norwich City,Wolves,0-1,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/200713412,2007,30,championship,59,62,1,0,2,0,2007-01-30 20:45:00,,2007
+Stoke City,Ipswich Town,0-0,https://www.besoccer.com/match/stoke-city/ipswich-town-fc/200713413,2007,30,championship,55,61,0,0,2,0,2007-01-30 20:45:00,,2007
+Sunderland,Crystal Palace,0-0,https://www.besoccer.com/match/sunderland-afc/crystal-palace-fc/200713414,2007,30,championship,61,61,0,0,0,0,2007-01-30 20:45:00,,2007
+Southampton,Sheffield Wednesday,2-1,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/200713415,2007,30,championship,67,52,0,0,1,0,2007-01-31 20:45:00,,2007
+West Bromwich Albion,Plymouth Argyle,2-1,https://www.besoccer.com/match/west-bromwich/plymouth-argyle/200713416,2007,30,championship,64,50,2,0,3,0,2007-01-31 20:45:00,,2007
+Cardiff City,Barnsley,2-0,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/200713417,2007,31,championship,54,49,0,0,1,0,2007-02-02 20:45:00,,2007
+Colchester United,Birmingham City,1-1,https://www.besoccer.com/match/colchester-united/birmingham-city-fc/200713418,2007,31,championship,49,68,2,0,0,0,2007-02-03 16:00:00,,2007
+Crystal Palace,Ipswich Town,2-0,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/200713419,2007,31,championship,61,61,1,0,2,0,2007-02-03 16:00:00,,2007
+Hull City,West Bromwich Albion,0-1,https://www.besoccer.com/match/hull-city/west-bromwich/200713420,2007,31,championship,45,64,2,0,1,0,2007-02-03 16:00:00,,2007
+Leicester,Luton Town,1-1,https://www.besoccer.com/match/leicester-city-fc/luton-town-fc/200713421,2007,31,championship,62,52,2,0,4,0,2007-02-03 16:00:00,,2007
+Norwich City,Leeds United,2-1,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/200713422,2007,31,championship,59,63,1,0,1,0,2007-02-03 16:00:00,,2007
+Queens Park Rangers,Burnley,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/burnley-fc/200713423,2007,31,championship,51,56,1,0,0,0,2007-02-03 16:00:00,,2007
+Sheffield Wednesday,Preston North End,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/200713424,2007,31,championship,52,62,1,0,1,0,2007-02-03 16:00:00,,2007
+Southampton,Derby County,0-1,https://www.besoccer.com/match/southampton-fc/derby-county-fc/200713425,2007,31,championship,67,59,2,0,3,0,2007-02-03 16:00:00,,2007
+Stoke City,Southend United,1-1,https://www.besoccer.com/match/stoke-city/southend-united/200713426,2007,31,championship,55,45,4,0,3,0,2007-02-03 16:00:00,,2007
+Sunderland,Coventry City,2-0,https://www.besoccer.com/match/sunderland-afc/coventry-city/200713427,2007,31,championship,61,57,1,0,1,0,2007-02-03 16:00:00,,2007
+Wolves,Plymouth Argyle,2-2,https://www.besoccer.com/match/wolverhampton/plymouth-argyle/200713428,2007,31,championship,62,50,2,0,4,0,2007-02-03 16:00:00,,2007
+Southend United,Queens Park Rangers,5-0,https://www.besoccer.com/match/southend-united/queens-park-rangers-fc/200713429,2007,32,championship,45,52,0,0,4,0,2007-02-09 20:45:00,,2007
+Barnsley,Colchester United,0-3,https://www.besoccer.com/match/barnsley-fc/colchester-united/200713430,2007,32,championship,49,49,1,0,0,0,2007-02-10 16:00:00,,2007
+Burnley,Sheffield Wednesday,1-1,https://www.besoccer.com/match/burnley-fc/sheffield-wednesday-fc/200713431,2007,32,championship,55,52,1,0,0,0,2007-02-10 16:00:00,,2007
+Coventry City,Cardiff City,2-2,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/200713432,2007,32,championship,57,55,3,0,2,0,2007-02-10 16:00:00,,2007
+Derby County,Hull City,2-2,https://www.besoccer.com/match/derby-county-fc/hull-city/200713433,2007,32,championship,59,45,1,0,2,0,2007-02-10 16:00:00,,2007
+Ipswich Town,Leicester,0-2,https://www.besoccer.com/match/ipswich-town-fc/leicester-city-fc/200713434,2007,32,championship,61,62,1,0,1,0,2007-02-10 16:00:00,,2007
+Leeds United,Crystal Palace,2-1,https://www.besoccer.com/match/leeds-united-afc/crystal-palace-fc/200713435,2007,32,championship,62,62,0,0,1,0,2007-02-10 16:00:00,,2007
+Plymouth Argyle,Sunderland,0-2,https://www.besoccer.com/match/plymouth-argyle/sunderland-afc/200713436,2007,32,championship,50,61,1,0,0,0,2007-02-10 16:00:00,,2007
+Preston North End,Wolves,0-1,https://www.besoccer.com/match/preston-north-end/wolverhampton/200713437,2007,32,championship,62,62,1,0,0,0,2007-02-10 16:00:00,,2007
+West Bromwich Albion,Southampton,1-1,https://www.besoccer.com/match/west-bromwich/southampton-fc/200713438,2007,32,championship,64,67,3,0,0,0,2007-02-10 16:00:00,,2007
+Birmingham City,Stoke City,1-0,https://www.besoccer.com/match/birmingham-city-fc/stoke-city/200713439,2007,32,championship,68,55,0,0,1,0,2007-02-11 12:30:00,,2007
+Luton Town,Norwich City,2-3,https://www.besoccer.com/match/luton-town-fc/norwich-city-fc/200713440,2007,32,championship,52,59,0,0,1,0,2007-02-27 20:45:00,,2007
+Colchester United,West Bromwich Albion,1-2,https://www.besoccer.com/match/colchester-united/west-bromwich/200713441,2007,33,championship,49,64,1,0,2,0,2007-02-13 20:45:00,,2007
+Cardiff City,Leeds United,1-0,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/200713442,2007,33,championship,55,63,3,0,3,0,2007-02-17 16:00:00,,2007
+Crystal Palace,Birmingham City,0-1,https://www.besoccer.com/match/crystal-palace-fc/birmingham-city-fc/200713443,2007,33,championship,61,68,1,0,1,0,2007-02-17 16:00:00,,2007
+Leicester,Coventry City,3-0,https://www.besoccer.com/match/leicester-city-fc/coventry-city/200713444,2007,33,championship,62,57,0,0,2,0,2007-02-17 16:00:00,,2007
+Southampton,Barnsley,5-2,https://www.besoccer.com/match/southampton-fc/barnsley-fc/200713445,2007,33,championship,67,48,1,0,5,0,2007-02-17 16:00:00,,2007
+Stoke City,Luton Town,0-0,https://www.besoccer.com/match/stoke-city/luton-town-fc/200713446,2007,33,championship,55,52,4,1,2,1,2007-02-17 16:00:00,,2007
+Sunderland,Southend United,4-0,https://www.besoccer.com/match/sunderland-afc/southend-united/200713447,2007,33,championship,61,46,1,0,3,0,2007-02-17 16:00:00,,2007
+Wolves,Burnley,2-1,https://www.besoccer.com/match/wolverhampton/burnley-fc/200713448,2007,33,championship,62,55,0,0,2,0,2007-02-17 16:00:00,,2007
+Hull City,Ipswich Town,2-5,https://www.besoccer.com/match/hull-city/ipswich-town-fc/200713449,2007,33,championship,45,60,1,0,1,0,2007-03-06 20:45:00,,2007
+Norwich City,Derby County,1-2,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/200713450,2007,33,championship,59,59,1,0,1,0,2007-03-06 20:45:00,,2007
+Sheffield Wednesday,Plymouth Argyle,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/plymouth-argyle/200713451,2007,33,championship,52,51,2,0,0,0,2007-03-06 20:45:00,,2007
+Queens Park Rangers,Preston North End,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/200713452,2007,33,championship,51,61,2,0,1,0,2007-04-03 20:45:00,,2007
+Barnsley,Hull City,3-0,https://www.besoccer.com/match/barnsley-fc/hull-city/200713453,2007,34,championship,48,45,2,0,2,0,2007-02-20 20:45:00,,2007
+Birmingham City,Sunderland,1-1,https://www.besoccer.com/match/birmingham-city-fc/sunderland-afc/200713454,2007,34,championship,68,61,2,0,1,0,2007-02-20 20:45:00,,2007
+Burnley,Leicester,0-1,https://www.besoccer.com/match/burnley-fc/leicester-city-fc/200713455,2007,34,championship,55,62,1,0,2,0,2007-02-20 20:45:00,,2007
+Coventry City,Southampton,2-1,https://www.besoccer.com/match/coventry-city/southampton-fc/200713456,2007,34,championship,57,67,2,0,1,0,2007-02-20 20:45:00,,2007
+Ipswich Town,Wolves,0-1,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/200713457,2007,34,championship,60,62,0,0,1,0,2007-02-20 20:45:00,,2007
+Leeds United,Queens Park Rangers,0-0,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/200713458,2007,34,championship,62,51,2,0,4,0,2007-02-20 20:45:00,,2007
+Luton Town,Sheffield Wednesday,3-2,https://www.besoccer.com/match/luton-town-fc/sheffield-wednesday-fc/200713459,2007,34,championship,52,52,0,0,0,0,2007-02-20 20:45:00,,2007
+Plymouth Argyle,Colchester United,3-0,https://www.besoccer.com/match/plymouth-argyle/colchester-united/200713460,2007,34,championship,51,49,0,0,2,0,2007-02-20 20:45:00,,2007
+Preston North End,Norwich City,2-1,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/200713461,2007,34,championship,62,59,0,0,1,0,2007-02-20 20:45:00,,2007
+Southend United,Crystal Palace,0-1,https://www.besoccer.com/match/southend-united/crystal-palace-fc/200713462,2007,34,championship,45,61,0,0,0,0,2007-02-20 20:45:00,,2007
+West Bromwich Albion,Cardiff City,1-0,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/200713463,2007,34,championship,64,55,0,0,1,0,2007-02-20 20:45:00,,2007
+Derby County,Stoke City,0-2,https://www.besoccer.com/match/derby-county-fc/stoke-city/200713464,2007,34,championship,59,55,3,0,1,0,2007-02-21 20:45:00,,2007
+Cardiff City,Preston North End,4-1,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/200713465,2007,35,championship,55,62,0,0,2,0,2007-02-23 20:45:00,,2007
+Colchester United,Burnley,0-0,https://www.besoccer.com/match/colchester-united/burnley-fc/200713466,2007,35,championship,49,55,0,0,2,0,2007-02-24 16:00:00,,2007
+Crystal Palace,Luton Town,2-1,https://www.besoccer.com/match/crystal-palace-fc/luton-town-fc/200713467,2007,35,championship,61,52,1,0,1,0,2007-02-24 16:00:00,,2007
+Hull City,Birmingham City,2-0,https://www.besoccer.com/match/hull-city/birmingham-city-fc/200713468,2007,35,championship,45,68,1,0,0,0,2007-02-24 16:00:00,,2007
+Leicester,West Bromwich Albion,1-1,https://www.besoccer.com/match/leicester-city-fc/west-bromwich/200713469,2007,35,championship,62,64,0,0,1,0,2007-02-24 16:00:00,,2007
+Norwich City,Coventry City,1-1,https://www.besoccer.com/match/norwich-city-fc/coventry-city/200713470,2007,35,championship,59,57,2,0,1,0,2007-02-24 16:00:00,,2007
+Queens Park Rangers,Plymouth Argyle,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/plymouth-argyle/200713471,2007,35,championship,51,51,2,0,2,0,2007-02-24 16:00:00,,2007
+Sheffield Wednesday,Southend United,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/southend-united/200713472,2007,35,championship,52,45,1,0,2,0,2007-02-24 16:00:00,,2007
+Southampton,Ipswich Town,1-0,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/200713473,2007,35,championship,67,60,1,0,1,0,2007-02-24 16:00:00,,2007
+Sunderland,Derby County,2-1,https://www.besoccer.com/match/sunderland-afc/derby-county-fc/200713474,2007,35,championship,61,59,2,0,2,0,2007-02-24 16:00:00,,2007
+Wolves,Leeds United,1-0,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/200713475,2007,35,championship,62,62,3,0,2,0,2007-02-24 16:00:00,,2007
+Stoke City,Barnsley,0-1,https://www.besoccer.com/match/stoke-city/barnsley-fc/200713476,2007,35,championship,55,48,2,0,4,0,2007-02-26 20:45:00,,2007
+Derby County,Colchester United,5-1,https://www.besoccer.com/match/derby-county-fc/colchester-united/200713477,2007,36,championship,58,49,2,0,1,0,2007-03-02 20:45:00,,2007
+Barnsley,Norwich City,1-3,https://www.besoccer.com/match/barnsley-fc/norwich-city-fc/200713478,2007,36,championship,49,59,3,0,2,0,2007-03-03 16:00:00,,2007
+Burnley,Crystal Palace,1-1,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/200713479,2007,36,championship,55,61,2,0,2,0,2007-03-03 16:00:00,,2007
+Coventry City,Hull City,2-0,https://www.besoccer.com/match/coventry-city/hull-city/200713480,2007,36,championship,57,45,0,0,3,0,2007-03-03 16:00:00,,2007
+Ipswich Town,Queens Park Rangers,2-1,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/200713481,2007,36,championship,60,51,1,0,2,0,2007-03-03 16:00:00,,2007
+Leeds United,Sheffield Wednesday,2-3,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/200713482,2007,36,championship,62,52,1,0,3,0,2007-03-03 16:00:00,,2007
+Luton Town,Wolves,2-3,https://www.besoccer.com/match/luton-town-fc/wolverhampton/200713483,2007,36,championship,52,62,4,0,1,0,2007-03-03 16:00:00,,2007
+Plymouth Argyle,Stoke City,1-1,https://www.besoccer.com/match/plymouth-argyle/stoke-city/200713484,2007,36,championship,51,55,2,0,2,0,2007-03-03 16:00:00,,2007
+Southend United,Leicester,2-2,https://www.besoccer.com/match/southend-united/leicester-city-fc/200713485,2007,36,championship,45,62,2,0,2,0,2007-03-03 16:00:00,,2007
+West Bromwich Albion,Sunderland,1-2,https://www.besoccer.com/match/west-bromwich/sunderland-afc/200713486,2007,36,championship,64,62,1,1,1,1,2007-03-03 16:00:00,,2007
+Birmingham City,Cardiff City,1-0,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/200713487,2007,36,championship,68,55,1,0,2,0,2007-03-04 12:30:00,,2007
+Preston North End,Southampton,3-1,https://www.besoccer.com/match/preston-north-end/southampton-fc/200713488,2007,36,championship,61,67,1,0,0,0,2007-03-05 21:00:00,,2007
+Birmingham City,Derby County,1-0,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/200713489,2007,37,championship,68,59,2,1,2,1,2007-03-09 20:45:00,,2007
+Barnsley,Sunderland,0-2,https://www.besoccer.com/match/barnsley-fc/sunderland-afc/200713490,2007,37,championship,48,62,1,0,1,0,2007-03-10 14:30:00,,2007
+Cardiff City,Norwich City,1-0,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/200713491,2007,37,championship,55,59,2,0,2,0,2007-03-10 16:00:00,,2007
+Colchester United,Coventry City,0-0,https://www.besoccer.com/match/colchester-united/coventry-city/200713492,2007,37,championship,49,57,0,0,2,0,2007-03-10 16:00:00,,2007
+Crystal Palace,Leicester,2-0,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/200713493,2007,37,championship,61,62,1,0,1,0,2007-03-10 16:00:00,,2007
+Hull City,Preston North End,2-0,https://www.besoccer.com/match/hull-city/preston-north-end/200713494,2007,37,championship,45,62,0,0,2,0,2007-03-10 16:00:00,,2007
+Ipswich Town,Southend United,0-2,https://www.besoccer.com/match/ipswich-town-fc/southend-united/200713495,2007,37,championship,60,45,4,0,2,0,2007-03-10 16:00:00,,2007
+Leeds United,Luton Town,1-0,https://www.besoccer.com/match/leeds-united-afc/luton-town-fc/200713496,2007,37,championship,62,52,3,0,2,0,2007-03-10 16:00:00,,2007
+Queens Park Rangers,Sheffield Wednesday,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/200713497,2007,37,championship,51,52,3,0,4,0,2007-03-10 16:00:00,,2007
+Stoke City,Southampton,2-1,https://www.besoccer.com/match/stoke-city/southampton-fc/200713498,2007,37,championship,55,67,3,0,3,0,2007-03-10 16:00:00,,2007
+Wolves,West Bromwich Albion,1-0,https://www.besoccer.com/match/wolverhampton/west-bromwich/200713499,2007,37,championship,62,64,0,0,1,0,2007-03-11 13:00:00,,2007
+Burnley,Plymouth Argyle,4-0,https://www.besoccer.com/match/burnley-fc/plymouth-argyle/200713500,2007,37,championship,55,51,0,0,4,0,2007-04-03 20:45:00,,2007
+Coventry City,Wolves,2-1,https://www.besoccer.com/match/coventry-city/wolverhampton/200713501,2007,38,championship,57,62,0,0,3,0,2007-03-13 20:45:00,,2007
+Derby County,Queens Park Rangers,1-1,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/200713502,2007,38,championship,59,51,2,0,5,0,2007-03-13 20:45:00,,2007
+Leicester,Leeds United,1-1,https://www.besoccer.com/match/leicester-city-fc/leeds-united-afc/200713503,2007,38,championship,62,62,1,0,3,0,2007-03-13 20:45:00,,2007
+Luton Town,Hull City,1-2,https://www.besoccer.com/match/luton-town-fc/hull-city/200713504,2007,38,championship,51,45,2,0,4,0,2007-03-13 20:45:00,,2007
+Norwich City,Birmingham City,1-0,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/200713505,2007,38,championship,59,68,0,0,0,0,2007-03-13 20:45:00,,2007
+Preston North End,Ipswich Town,1-0,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/200713506,2007,38,championship,61,60,5,0,3,0,2007-03-13 20:45:00,,2007
+Sheffield Wednesday,Colchester United,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/colchester-united/200713507,2007,38,championship,52,49,2,0,2,0,2007-03-13 20:45:00,,2007
+Southampton,Cardiff City,2-2,https://www.besoccer.com/match/southampton-fc/cardiff-city-fc/200713508,2007,38,championship,67,55,3,0,1,0,2007-03-13 20:45:00,,2007
+Southend United,Burnley,1-0,https://www.besoccer.com/match/southend-united/burnley-fc/200713509,2007,38,championship,46,55,1,0,3,0,2007-03-13 20:45:00,,2007
+Sunderland,Stoke City,2-2,https://www.besoccer.com/match/sunderland-afc/stoke-city/200713510,2007,38,championship,62,55,3,0,2,0,2007-03-13 21:00:00,,2007
+Plymouth Argyle,Barnsley,2-4,https://www.besoccer.com/match/plymouth-argyle/barnsley-fc/200713511,2007,38,championship,51,48,2,0,4,0,2007-03-14 20:45:00,,2007
+West Bromwich Albion,Crystal Palace,2-3,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/200713512,2007,38,championship,64,62,1,1,0,1,2007-03-14 20:45:00,,2007
+Southampton,Colchester United,1-2,https://www.besoccer.com/match/southampton-fc/colchester-united/200713513,2007,39,championship,67,49,2,0,1,0,2007-03-16 20:45:00,,2007
+Preston North End,Burnley,2-0,https://www.besoccer.com/match/preston-north-end/burnley-fc/200713520,2007,39,championship,61,55,3,0,5,0,2007-03-17 14:00:00,,2007
+Coventry City,Barnsley,4-1,https://www.besoccer.com/match/coventry-city/barnsley-fc/200713514,2007,39,championship,58,49,0,0,1,0,2007-03-17 16:00:00,,2007
+Derby County,Cardiff City,3-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/200713515,2007,39,championship,59,55,4,0,0,0,2007-03-17 16:00:00,,2007
+Leicester,Queens Park Rangers,1-3,https://www.besoccer.com/match/leicester-city-fc/queens-park-rangers-fc/200713516,2007,39,championship,62,51,2,0,4,0,2007-03-17 16:00:00,,2007
+Luton Town,Ipswich Town,0-2,https://www.besoccer.com/match/luton-town-fc/ipswich-town-fc/200713517,2007,39,championship,51,60,2,0,0,0,2007-03-17 16:00:00,,2007
+Norwich City,Stoke City,1-0,https://www.besoccer.com/match/norwich-city-fc/stoke-city/200713518,2007,39,championship,59,55,0,0,2,0,2007-03-17 16:00:00,,2007
+Plymouth Argyle,Crystal Palace,1-0,https://www.besoccer.com/match/plymouth-argyle/crystal-palace-fc/200713519,2007,39,championship,50,62,0,0,1,0,2007-03-17 16:00:00,,2007
+Sheffield Wednesday,Wolves,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/200713521,2007,39,championship,52,62,2,1,2,1,2007-03-17 16:00:00,,2007
+Southend United,Leeds United,1-1,https://www.besoccer.com/match/southend-united/leeds-united-afc/200713522,2007,39,championship,46,62,1,0,3,0,2007-03-17 16:00:00,,2007
+Sunderland,Hull City,2-0,https://www.besoccer.com/match/sunderland-afc/hull-city/200713523,2007,39,championship,62,46,0,0,1,0,2007-03-17 16:00:00,,2007
+West Bromwich Albion,Birmingham City,1-1,https://www.besoccer.com/match/west-bromwich/birmingham-city-fc/200713524,2007,39,championship,64,68,2,0,1,0,2007-03-18 12:30:00,,2007
+Leeds United,Preston North End,2-1,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/200713525,2007,40,championship,62,62,0,0,0,0,2007-03-30 20:45:00,,2007
+Barnsley,Derby County,1-2,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/200713526,2007,40,championship,48,59,2,0,0,0,2007-03-31 16:00:00,,2007
+Burnley,Luton Town,0-0,https://www.besoccer.com/match/burnley-fc/luton-town-fc/200713527,2007,40,championship,55,51,0,0,0,0,2007-03-31 16:00:00,,2007
+Cardiff City,Sunderland,0-1,https://www.besoccer.com/match/cardiff-city-fc/sunderland-afc/200713528,2007,40,championship,55,62,3,0,1,0,2007-03-31 16:00:00,,2007
+Colchester United,Norwich City,3-0,https://www.besoccer.com/match/colchester-united/norwich-city-fc/200713529,2007,40,championship,49,59,0,0,3,0,2007-03-31 16:00:00,,2007
+Crystal Palace,Sheffield Wednesday,1-2,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/200713530,2007,40,championship,62,52,1,0,1,0,2007-03-31 16:00:00,,2007
+Hull City,Southend United,4-0,https://www.besoccer.com/match/hull-city/southend-united/200713531,2007,40,championship,45,46,0,0,3,0,2007-03-31 16:00:00,,2007
+Ipswich Town,Plymouth Argyle,3-0,https://www.besoccer.com/match/ipswich-town-fc/plymouth-argyle/200713532,2007,40,championship,60,51,1,0,0,0,2007-03-31 16:00:00,,2007
+Queens Park Rangers,West Bromwich Albion,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/200713533,2007,40,championship,52,64,3,0,1,0,2007-03-31 16:00:00,,2007
+Stoke City,Leicester,4-2,https://www.besoccer.com/match/stoke-city/leicester-city-fc/200713534,2007,40,championship,55,61,1,0,4,0,2007-03-31 16:00:00,,2007
+Wolves,Southampton,0-6,https://www.besoccer.com/match/wolverhampton/southampton-fc/200713535,2007,40,championship,62,66,1,0,0,0,2007-03-31 16:00:00,,2007
+Birmingham City,Coventry City,3-0,https://www.besoccer.com/match/birmingham-city-fc/coventry-city/200713536,2007,40,championship,68,58,0,0,2,0,2007-04-01 15:00:00,,2007
+Southend United,Colchester United,0-3,https://www.besoccer.com/match/southend-united/colchester-united/200713537,2007,41,championship,46,49,2,0,0,0,2007-04-06 13:30:00,,2007
+Leicester,Derby County,1-1,https://www.besoccer.com/match/leicester-city-fc/derby-county-fc/200713539,2007,41,championship,61,59,3,0,3,0,2007-04-06 15:45:00,,2007
+Hull City,Norwich City,1-2,https://www.besoccer.com/match/hull-city/norwich-city-fc/200713538,2007,41,championship,46,59,1,0,2,0,2007-04-06 16:00:00,,2007
+Birmingham City,Burnley,0-1,https://www.besoccer.com/match/birmingham-city-fc/burnley-fc/200713540,2007,41,championship,68,55,2,0,1,0,2007-04-07 16:00:00,,2007
+Cardiff City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/200713541,2007,41,championship,55,53,1,1,3,1,2007-04-07 16:00:00,,2007
+Coventry City,Queens Park Rangers,0-1,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/200713542,2007,41,championship,58,52,2,0,3,0,2007-04-07 16:00:00,,2007
+Crystal Palace,Preston North End,3-0,https://www.besoccer.com/match/crystal-palace-fc/preston-north-end/200713543,2007,41,championship,61,61,1,0,2,0,2007-04-07 16:00:00,,2007
+Ipswich Town,Barnsley,5-1,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/200713544,2007,41,championship,60,48,2,0,5,0,2007-04-07 16:00:00,,2007
+Leeds United,Plymouth Argyle,2-1,https://www.besoccer.com/match/leeds-united-afc/plymouth-argyle/200713545,2007,41,championship,62,50,1,0,1,0,2007-04-07 16:00:00,,2007
+Luton Town,Southampton,0-2,https://www.besoccer.com/match/luton-town-fc/southampton-fc/200713546,2007,41,championship,51,67,3,0,1,0,2007-04-07 16:00:00,,2007
+Sunderland,Wolves,2-1,https://www.besoccer.com/match/sunderland-afc/wolverhampton/200713547,2007,41,championship,62,62,3,0,1,0,2007-04-07 16:00:00,,2007
+West Bromwich Albion,Stoke City,1-3,https://www.besoccer.com/match/west-bromwich/stoke-city/200713548,2007,41,championship,64,55,2,0,3,0,2007-04-07 16:00:00,,2007
+Barnsley,Birmingham City,1-0,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/200713549,2007,42,championship,48,68,1,0,0,0,2007-04-09 16:00:00,,2007
+Burnley,Cardiff City,2-0,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/200713550,2007,42,championship,55,55,5,0,0,0,2007-04-09 16:00:00,,2007
+Colchester United,Leeds United,2-1,https://www.besoccer.com/match/colchester-united/leeds-united-afc/200713551,2007,42,championship,50,62,0,0,4,0,2007-04-09 16:00:00,,2007
+Derby County,Coventry City,1-1,https://www.besoccer.com/match/derby-county-fc/coventry-city/200713552,2007,42,championship,59,57,0,0,1,0,2007-04-09 16:00:00,,2007
+Norwich City,West Bromwich Albion,1-2,https://www.besoccer.com/match/norwich-city-fc/west-bromwich/200713553,2007,42,championship,59,64,3,0,1,0,2007-04-09 16:00:00,,2007
+Plymouth Argyle,Leicester,3-0,https://www.besoccer.com/match/plymouth-argyle/leicester-city-fc/200713554,2007,42,championship,50,61,0,0,1,0,2007-04-09 16:00:00,,2007
+Preston North End,Southend United,2-3,https://www.besoccer.com/match/preston-north-end/southend-united/200713555,2007,42,championship,61,45,2,0,3,0,2007-04-09 16:00:00,,2007
+Queens Park Rangers,Luton Town,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/luton-town-fc/200713556,2007,42,championship,52,51,1,0,2,0,2007-04-09 16:00:00,,2007
+Sheffield Wednesday,Ipswich Town,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/200713557,2007,42,championship,53,60,1,0,1,0,2007-04-09 16:00:00,,2007
+Stoke City,Crystal Palace,2-1,https://www.besoccer.com/match/stoke-city/crystal-palace-fc/200713559,2007,42,championship,56,62,1,0,1,0,2007-04-09 16:00:00,,2007
+Wolves,Hull City,3-1,https://www.besoccer.com/match/wolverhampton/hull-city/200713560,2007,42,championship,62,46,2,0,3,0,2007-04-09 16:00:00,,2007
+Southampton,Sunderland,1-2,https://www.besoccer.com/match/southampton-fc/sunderland-afc/200713558,2007,42,championship,67,62,0,0,1,0,2007-04-09 18:15:00,,2007
+West Bromwich Albion,Sheffield Wednesday,0-1,https://www.besoccer.com/match/west-bromwich/sheffield-wednesday-fc/200713561,2007,43,championship,64,53,3,1,2,1,2007-04-13 20:45:00,,2007
+Birmingham City,Southampton,2-1,https://www.besoccer.com/match/birmingham-city-fc/southampton-fc/200713562,2007,43,championship,67,67,2,0,0,0,2007-04-14 16:00:00,,2007
+Cardiff City,Stoke City,1-1,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/200713563,2007,43,championship,55,56,0,0,2,0,2007-04-14 16:00:00,,2007
+Coventry City,Preston North End,0-4,https://www.besoccer.com/match/coventry-city/preston-north-end/200713564,2007,43,championship,57,61,4,0,3,0,2007-04-14 16:00:00,,2007
+Crystal Palace,Wolves,2-2,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/200713565,2007,43,championship,62,62,1,0,2,0,2007-04-14 16:00:00,,2007
+Hull City,Colchester United,1-1,https://www.besoccer.com/match/hull-city/colchester-united/200713566,2007,43,championship,45,50,1,0,2,0,2007-04-14 16:00:00,,2007
+Ipswich Town,Derby County,2-1,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/200713567,2007,43,championship,60,59,4,1,6,1,2007-04-14 16:00:00,,2007
+Leeds United,Burnley,1-0,https://www.besoccer.com/match/leeds-united-afc/burnley-fc/200713568,2007,43,championship,62,55,0,0,3,0,2007-04-14 16:00:00,,2007
+Leicester,Norwich City,1-2,https://www.besoccer.com/match/leicester-city-fc/norwich-city-fc/200713569,2007,43,championship,61,59,1,0,1,0,2007-04-14 16:00:00,,2007
+Luton Town,Plymouth Argyle,1-2,https://www.besoccer.com/match/luton-town-fc/plymouth-argyle/200713570,2007,43,championship,51,51,2,0,2,0,2007-04-14 16:00:00,,2007
+Southend United,Barnsley,1-3,https://www.besoccer.com/match/southend-united/barnsley-fc/200713571,2007,43,championship,46,48,1,0,3,0,2007-04-14 16:00:00,,2007
+Sunderland,Queens Park Rangers,2-1,https://www.besoccer.com/match/sunderland-afc/queens-park-rangers-fc/200713572,2007,43,championship,62,52,1,0,3,0,2007-04-14 16:00:00,,2007
+Derby County,Luton Town,1-0,https://www.besoccer.com/match/derby-county-fc/luton-town-fc/200713573,2007,44,championship,59,51,0,0,1,0,2007-04-20 20:45:00,,2007
+Barnsley,Crystal Palace,2-0,https://www.besoccer.com/match/barnsley-fc/crystal-palace-fc/200713574,2007,44,championship,49,62,2,0,1,0,2007-04-21 16:00:00,,2007
+Colchester United,Sunderland,3-1,https://www.besoccer.com/match/colchester-united/sunderland-afc/200713575,2007,44,championship,50,62,2,0,2,0,2007-04-21 16:00:00,,2007
+Plymouth Argyle,Southend United,2-1,https://www.besoccer.com/match/plymouth-argyle/southend-united/200713576,2007,44,championship,51,45,2,0,3,0,2007-04-21 16:00:00,,2007
+Preston North End,Leicester,0-1,https://www.besoccer.com/match/preston-north-end/leicester-city-fc/200713577,2007,44,championship,61,61,2,0,3,0,2007-04-21 16:00:00,,2007
+Queens Park Rangers,Cardiff City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/200713578,2007,44,championship,52,55,3,0,3,0,2007-04-21 16:00:00,,2007
+Sheffield Wednesday,Coventry City,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/200713579,2007,44,championship,53,57,3,0,3,0,2007-04-21 16:00:00,,2007
+Southampton,Leeds United,1-0,https://www.besoccer.com/match/southampton-fc/leeds-united-afc/200713580,2007,44,championship,66,62,3,0,4,0,2007-04-21 16:00:00,,2007
+Stoke City,Hull City,1-1,https://www.besoccer.com/match/stoke-city/hull-city/200713581,2007,44,championship,56,45,1,0,1,0,2007-04-21 16:00:00,,2007
+Norwich City,Ipswich Town,1-1,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/200713582,2007,44,championship,59,60,1,0,1,0,2007-04-22 13:00:00,,2007
+Wolves,Birmingham City,2-3,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/200713583,2007,44,championship,62,68,4,0,4,0,2007-04-22 13:00:00,,2007
+Burnley,West Bromwich Albion,3-2,https://www.besoccer.com/match/burnley-fc/west-bromwich/200713584,2007,44,championship,56,64,3,0,2,0,2007-04-23 20:45:00,,2007
+Sunderland,Burnley,3-2,https://www.besoccer.com/match/sunderland-afc/burnley-fc/200713585,2007,45,championship,62,56,2,0,4,0,2007-04-27 20:45:00,,2007
+Barnsley,Leicester,0-1,https://www.besoccer.com/match/barnsley-fc/leicester-city-fc/200713586,2007,45,championship,49,61,1,0,0,0,2007-04-28 16:00:00,,2007
+Birmingham City,Sheffield Wednesday,2-0,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/200713587,2007,45,championship,68,53,3,0,2,0,2007-04-28 16:00:00,,2007
+Cardiff City,Hull City,0-1,https://www.besoccer.com/match/cardiff-city-fc/hull-city/200713588,2007,45,championship,54,46,0,0,2,0,2007-04-28 16:00:00,,2007
+Coventry City,West Bromwich Albion,0-1,https://www.besoccer.com/match/coventry-city/west-bromwich/200713589,2007,45,championship,57,64,1,1,1,1,2007-04-28 16:00:00,,2007
+Leeds United,Ipswich Town,1-1,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/200713590,2007,45,championship,62,60,3,0,3,0,2007-04-28 16:00:00,,2007
+Norwich City,Southampton,0-1,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/200713591,2007,45,championship,59,66,0,0,1,0,2007-04-28 16:00:00,,2007
+Plymouth Argyle,Preston North End,2-0,https://www.besoccer.com/match/plymouth-argyle/preston-north-end/200713592,2007,45,championship,51,61,1,0,2,0,2007-04-28 16:00:00,,2007
+Southend United,Luton Town,1-3,https://www.besoccer.com/match/southend-united/luton-town-fc/200713593,2007,45,championship,45,51,4,0,4,0,2007-04-28 16:00:00,,2007
+Stoke City,Colchester United,3-1,https://www.besoccer.com/match/stoke-city/colchester-united/200713594,2007,45,championship,56,50,5,0,3,0,2007-04-28 16:00:00,,2007
+Wolves,Queens Park Rangers,2-0,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/200713595,2007,45,championship,62,52,1,0,2,0,2007-04-28 16:00:00,,2007
+Crystal Palace,Derby County,2-0,https://www.besoccer.com/match/crystal-palace-fc/derby-county-fc/200713596,2007,45,championship,61,59,0,0,1,0,2007-04-29 14:30:00,,2007
+Burnley,Coventry City,1-2,https://www.besoccer.com/match/burnley-fc/coventry-city/200713597,2007,46,championship,56,57,2,0,3,0,2007-05-06 14:00:00,,2007
+Colchester United,Crystal Palace,0-2,https://www.besoccer.com/match/colchester-united/crystal-palace-fc/200713598,2007,46,championship,50,61,0,0,1,0,2007-05-06 14:00:00,,2007
+Derby County,Leeds United,2-0,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/200713599,2007,46,championship,59,62,2,0,3,0,2007-05-06 14:00:00,,2007
+Hull City,Plymouth Argyle,1-2,https://www.besoccer.com/match/hull-city/plymouth-argyle/200713600,2007,46,championship,46,51,2,0,1,0,2007-05-06 14:00:00,,2007
+Ipswich Town,Cardiff City,3-1,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/200713601,2007,46,championship,60,54,0,0,0,0,2007-05-06 14:00:00,,2007
+Leicester,Wolves,1-4,https://www.besoccer.com/match/leicester-city-fc/wolverhampton/200713602,2007,46,championship,61,62,6,0,3,0,2007-05-06 14:00:00,,2007
+Luton Town,Sunderland,0-5,https://www.besoccer.com/match/luton-town-fc/sunderland-afc/200713603,2007,46,championship,51,62,4,0,3,0,2007-05-06 14:00:00,,2007
+Preston North End,Birmingham City,1-0,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/200713604,2007,46,championship,61,68,2,0,2,0,2007-05-06 14:00:00,,2007
+Queens Park Rangers,Stoke City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/stoke-city/200713605,2007,46,championship,52,56,8,0,2,0,2007-05-06 14:00:00,,2007
+Sheffield Wednesday,Norwich City,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/200713606,2007,46,championship,53,59,1,0,3,0,2007-05-06 14:00:00,,2007
+Southampton,Southend United,4-1,https://www.besoccer.com/match/southampton-fc/southend-united/200713607,2007,46,championship,67,45,0,0,2,0,2007-05-06 14:00:00,,2007
+West Bromwich Albion,Barnsley,7-0,https://www.besoccer.com/match/west-bromwich/barnsley-fc/200713608,2007,46,championship,64,49,1,0,3,0,2007-05-06 14:00:00,,2007

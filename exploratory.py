@@ -12,10 +12,12 @@ import requests
 Eerste divisie and segunda_liga discarded for lack of data
 '''
 leagues = [{'Name': 'eredivisie', 'Teams': 20},
+           {'Name': 'eerste_divisie', 'Teams': 20},
            {'Name': 'ligue_2', 'Teams': 20},
            {'Name': 'serie_a', 'Teams': 20},
            {'Name': 'championship', 'Teams': 24},
            {'Name': 'premier_league', 'Teams': 20},
+           {'Name': 'segunda_liga', 'Teams': 20},
            {'Name': 'bundesliga', 'Teams': 18},
            {'Name': 'ligue_1', 'Teams': 20},
            {'Name': '2_liga', 'Teams': 18},
@@ -204,10 +206,13 @@ class DataCleaner:
 
     def add_elo(self, league, years):
         df = self.clean_data(league, years)
-        elo = pd.read_pickle('elo_dict.pkl')
-        elo = pd.DataFrame.from_dict(elo, orient='index')
-        elo.index.name = 'Link'
-        new_df = pd.merge(df, elo, on='Link')
+        if 'Elo_home' not in df:
+            elo = pd.read_pickle('elo_dict.pkl')
+            elo = pd.DataFrame.from_dict(elo, orient='index')
+            elo.index.name = 'Link'
+            new_df = pd.merge(df, elo, on='Link')
+        else:
+            new_df = df
         Link = [modify_link(new_df['Link'][x]) for x in range(len(new_df))]
         new_df['Link'] = Link
         return new_df
@@ -359,7 +364,8 @@ class DataCleaner:
     def add_cards(self, league, years):
         match_info = self.clean_match_info('Match_Info.csv')
         df = self.add_points(league, years)
-        df = pd.merge(df, match_info, on='Link')
+        if 'Home_Red' not in df:
+            df = pd.merge(df, match_info, on='Link')
         teams = df['Home_Team'].drop_duplicates().to_list()
         for team in teams:
             yellows = [0]
@@ -439,13 +445,13 @@ class WebScraper:
         self.leagues = leagues
         self.league_names = [x['Name'] for x in leagues]
 
-    def scrape_league_links(self, league, year, url_format='round'):
+    def scrape_league_links(self, league, year, url_ext=''):
         match_links = []
         teams = teams_in_league(league)
         games = (teams - 1) * 2
         for i in range(1, games + 1):
             url = f'http://besoccer.com/competition/scores'\
-                f'/{league}/{year}/{url_format}{i}'
+                f'/{league}/{year}{url_ext}/round{i}'
             html = requests.get(url).text
             page = BeautifulSoup(html, 'html.parser')
             box = page.find(
@@ -457,6 +463,12 @@ class WebScraper:
                 continue
         return match_links
 
+    def scrape_all_leagues(self, leagues_and_exts, year):
+        links = []
+        for league in leagues_and_exts:
+            self.scrape_league_links(league[0], year, url_ext=league[1])
+        return links
+
     def scrape_page_info(self, url, league, year, round):
         html = requests.get(url).text
         page = BeautifulSoup(html, 'html.parser')
@@ -464,6 +476,9 @@ class WebScraper:
             attrs={'itemprop': 'homeTeam'}).text.replace('\n', '')
         away_team = page.find(
             attrs={'itemprop': 'awayTeam'}).text.replace('\n', '')
+        date = page.find(attrs={'class': 'date header-match-date'}).text
+        date = clean_date(date)
+        referee = None
         try:
             home_goals = page.find(
                 attrs={'class': 'r1'}).text
@@ -475,22 +490,56 @@ class WebScraper:
             home_goals = return_number(goals[2])[0]
             away_goals = return_number(goals[2])[-1]
         result = f'{home_goals}-{away_goals}'
-        # round = page.find(
-        #     attrs={'itemprop': 'description'}).text
+        home_yellow = 0
+        away_yellow = 0
+        home_red = 0
+        away_red = 0
+        try:
+            table = page.find(attrs={'class': 'panel-body pn compare-data'})
+            table = table.find('tbody')
+            table = table.find_all('tr')
+            for tr in table:
+                if 'Yellow cards' in tr.text or 'Yellow card' in tr.text:
+                    home_yellow = return_number(tr.text)[0]
+                    away_yellow = return_number(tr.text)[1]
+            for tr in table:
+                if 'Red cards' in tr.text or 'Red card' in tr.text:
+                    home_red = return_number(tr.text)[0]
+                    away_red = return_number(tr.text)[0]
+        except AttributeError:
+            pass
+
+        html = requests.get(f'{url}/analysis').text
+        page = BeautifulSoup(html, 'html.parser')
+        try:
+            home_elo = page.find(
+                attrs={'class': 'team1-c'}).find(attrs={
+                    'class': 'rating'}).text
+            away_elo = page.find(
+                attrs={'class': 'team2-c'}).find(attrs={
+                    'class': 'rating'}).text
+        except AttributeError:
+            home_elo = 50
+            away_elo = 50
+
         data = {'Home_Team': [home_team], 'Away_Team': [away_team],
                 'Result': [result], 'Link': [url], 'Season': [int(year)],
-                'Round': [round], 'League': [league]}
+                'Round': [round], 'League': [league], 'Elo_home': [home_elo],
+                'Elo_away': [away_elo], 'Home_Yellow': [home_yellow],
+                'Home_Red': [home_red], 'Away_Yellow': [away_yellow],
+                'Away_Red': [away_red], 'Date_New': [date],
+                'Referee': [referee], 'Year': [year]}
         return pd.DataFrame.from_dict(data)
 
-    def scrape_league_data(self, league, year, url_format='round'):
-        links = self.scrape_league_links(league, year, url_format=url_format)
+    def scrape_league_data(self, league, year, url_ext=''):
+        links = self.scrape_league_links(league, year, url_ext=url_ext)
         dfs = []
         for link in links:
             dfs.append(self.scrape_page_info(link[0], league, year, link[1]))
         return pd.concat(dfs).reset_index(drop=True)
 
-    def export_table(self, league, year):
-        df = self.scrape_league_data(league, year)
+    def export_table(self, league, year, url_ext=''):
+        df = self.scrape_league_data(league, year, url_ext=url_ext)
         path = f'data/{league}/Results_{year}_{league}.csv'
         df.to_csv(path, index=None)
 
@@ -506,6 +555,17 @@ def return_number(string):
 
 def clean_ref(string):
     return string.split('/')[0].strip('\r\n').strip('Referee: ')
+
+
+def clean_date(string):
+    try:
+        date = datetime.strptime(string.replace(' ', ''), '%d%b%Y%H:%M')
+    except ValueError:
+        try:
+            date = datetime.strptime(string.replace(' ', ''), '%a,%d%b%H:%M')
+        except ValueError:
+            date = datetime.strptime(string.replace(' ', ''), '%a,%d%b')
+    return date
 
 
 def update_link(string):
@@ -536,8 +596,11 @@ if __name__ == '__main__':
     for league in leagues:
         wp_graph(league['Name'], years)
     '''
-    allgames = DataCleaner(leagues, years)
+    cleaner = DataCleaner(leagues, years)
     scraper = WebScraper(leagues)
     league_names = [x['Name'] for x in leagues]
-    x = allgames.normalise_data(league_names, years)
+    x = cleaner.normalise_data(league_names, years)
     x.to_csv('cleaned_dataset.csv', index=False)
+
+    # scraper.export_table('championship', '2006', url_ext='/group1')
+    # broken

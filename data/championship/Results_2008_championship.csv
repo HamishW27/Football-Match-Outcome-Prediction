@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Barnsley,Coventry City,1-4,https://www.besoccer.com/match/barnsley-fc/coventry-city/200815294,2008,1,championship,49,57,0,0,2,0,2007-08-11 16:00:00,,2008
+Bristol City,Queens Park Rangers,2-2,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/200815295,2008,1,championship,53,52,0,0,3,0,2007-08-11 16:00:00,,2008
+Burnley,West Bromwich Albion,2-1,https://www.besoccer.com/match/burnley-fc/west-bromwich/200815296,2008,1,championship,56,64,1,0,2,0,2007-08-11 16:00:00,,2008
+Cardiff City,Stoke City,0-1,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/200815297,2008,1,championship,54,56,3,0,3,0,2007-08-11 16:00:00,,2008
+Charlton Athletic,Scunthorpe United,1-1,https://www.besoccer.com/match/charlton-athletic-fc/scunthorpe-united/200815298,2008,1,championship,66,45,1,0,1,0,2007-08-11 16:00:00,,2008
+Hull City,Plymouth Argyle,2-3,https://www.besoccer.com/match/hull-city/plymouth-argyle/200815299,2008,1,championship,46,52,3,0,1,0,2007-08-11 16:00:00,,2008
+Ipswich Town,Sheffield Wednesday,4-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/200815300,2008,1,championship,61,54,0,0,2,0,2007-08-11 16:00:00,,2008
+Leicester,Blackpool,0-1,https://www.besoccer.com/match/leicester-city-fc/blackpool-fc/200815301,2008,1,championship,61,48,0,0,0,0,2007-08-11 16:00:00,,2008
+Preston North End,Norwich City,0-0,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/200815302,2008,1,championship,61,59,2,0,2,0,2007-08-11 16:00:00,,2008
+Sheffield United,Colchester United,2-2,https://www.besoccer.com/match/sheffield-united/colchester-united/200815303,2008,1,championship,62,50,1,0,0,0,2007-08-11 16:00:00,,2008
+Southampton,Crystal Palace,1-4,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/200815304,2008,1,championship,67,62,2,0,0,0,2007-08-11 16:00:00,,2008
+Wolves,Watford,1-2,https://www.besoccer.com/match/wolverhampton/watford-fc/200815305,2008,1,championship,63,60,0,0,1,0,2007-08-11 18:20:00,,2008
+Blackpool,Bristol City,1-1,https://www.besoccer.com/match/blackpool-fc/bristol-city-fc/200815306,2008,2,championship,48,53,1,0,0,0,2007-08-18 16:00:00,,2008
+Colchester United,Barnsley,2-2,https://www.besoccer.com/match/colchester-united/barnsley-fc/200815307,2008,2,championship,50,49,2,1,2,1,2007-08-18 16:00:00,,2008
+Coventry City,Hull City,1-1,https://www.besoccer.com/match/coventry-city/hull-city/200815308,2008,2,championship,58,47,0,0,1,0,2007-08-18 16:00:00,,2008
+Crystal Palace,Leicester,2-2,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/200815309,2008,2,championship,62,61,0,0,2,0,2007-08-18 16:00:00,,2008
+Norwich City,Southampton,2-1,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/200815310,2008,2,championship,59,66,3,0,1,0,2007-08-18 16:00:00,,2008
+Plymouth Argyle,Ipswich Town,1-1,https://www.besoccer.com/match/plymouth-argyle/ipswich-town-fc/200815311,2008,2,championship,52,61,0,0,4,0,2007-08-18 16:00:00,,2008
+Queens Park Rangers,Cardiff City,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/200815312,2008,2,championship,52,54,2,0,2,0,2007-08-18 16:00:00,,2008
+Scunthorpe United,Burnley,2-0,https://www.besoccer.com/match/scunthorpe-united/burnley-fc/200815313,2008,2,championship,45,56,1,0,2,0,2007-08-18 16:00:00,,2008
+Watford,Sheffield United,1-0,https://www.besoccer.com/match/watford-fc/sheffield-united/200815314,2008,2,championship,61,62,1,0,0,0,2007-08-18 16:00:00,,2008
+West Bromwich Albion,Preston North End,2-0,https://www.besoccer.com/match/west-bromwich/preston-north-end/200815315,2008,2,championship,64,61,0,0,2,0,2007-08-18 16:00:00,,2008
+Stoke City,Charlton Athletic,2-1,https://www.besoccer.com/match/stoke-city/charlton-athletic-fc/200815316,2008,2,championship,56,67,2,0,1,0,2007-08-18 18:20:00,,2008
+Sheffield Wednesday,Wolves,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/200815317,2008,2,championship,54,62,1,0,3,0,2007-08-19 14:30:00,,2008
+Barnsley,Plymouth Argyle,3-2,https://www.besoccer.com/match/barnsley-fc/plymouth-argyle/200815318,2008,3,championship,49,52,2,0,2,0,2007-08-25 16:00:00,,2008
+Bristol City,Scunthorpe United,2-1,https://www.besoccer.com/match/bristol-city-fc/scunthorpe-united/200815319,2008,3,championship,53,45,3,0,2,0,2007-08-25 16:00:00,,2008
+Cardiff City,Coventry City,0-1,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/200815320,2008,3,championship,55,58,0,0,0,0,2007-08-25 16:00:00,,2008
+Charlton Athletic,Sheffield Wednesday,3-2,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-wednesday-fc/200815321,2008,3,championship,66,54,1,0,3,0,2007-08-25 16:00:00,,2008
+Hull City,Norwich City,2-1,https://www.besoccer.com/match/hull-city/norwich-city-fc/200815322,2008,3,championship,47,59,2,0,0,0,2007-08-25 16:00:00,,2008
+Leicester,Watford,4-1,https://www.besoccer.com/match/leicester-city-fc/watford-fc/200815323,2008,3,championship,61,61,6,0,5,0,2007-08-25 16:00:00,,2008
+Preston North End,Colchester United,0-3,https://www.besoccer.com/match/preston-north-end/colchester-united/200815324,2008,3,championship,61,50,3,0,1,0,2007-08-25 16:00:00,,2008
+Southampton,Stoke City,3-2,https://www.besoccer.com/match/southampton-fc/stoke-city/200815325,2008,3,championship,66,56,2,0,4,0,2007-08-25 16:00:00,,2008
+Wolves,Blackpool,2-1,https://www.besoccer.com/match/wolverhampton/blackpool-fc/200815326,2008,3,championship,63,48,2,0,2,0,2007-08-25 16:00:00,,2008
+Sheffield United,West Bromwich Albion,1-0,https://www.besoccer.com/match/sheffield-united/west-bromwich/200815327,2008,3,championship,62,64,2,0,0,0,2007-08-25 18:20:00,,2008
+Ipswich Town,Crystal Palace,1-0,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/200815328,2008,3,championship,61,62,0,0,2,0,2007-08-26 14:15:00,,2008
+Burnley,Queens Park Rangers,0-2,https://www.besoccer.com/match/burnley-fc/queens-park-rangers-fc/200815543,2008,3,championship,57,51,0,0,1,0,2007-12-11 20:45:00,,2008
+Sheffield Wednesday,Bristol City,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/200815335,2008,4,championship,54,53,1,0,0,0,2007-09-01 13:45:00,,2008
+Colchester United,Burnley,2-3,https://www.besoccer.com/match/colchester-united/burnley-fc/200815329,2008,4,championship,50,56,0,0,4,0,2007-09-01 16:00:00,,2008
+Crystal Palace,Charlton Athletic,0-1,https://www.besoccer.com/match/crystal-palace-fc/charlton-athletic-fc/200815330,2008,4,championship,62,66,1,0,1,0,2007-09-01 16:00:00,,2008
+Norwich City,Cardiff City,1-2,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/200815331,2008,4,championship,59,55,0,0,1,0,2007-09-01 16:00:00,,2008
+Plymouth Argyle,Leicester,0-0,https://www.besoccer.com/match/plymouth-argyle/leicester-city-fc/200815332,2008,4,championship,52,61,0,0,2,0,2007-09-01 16:00:00,,2008
+Queens Park Rangers,Southampton,0-3,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/200815333,2008,4,championship,52,66,2,0,0,0,2007-09-01 16:00:00,,2008
+Scunthorpe United,Sheffield United,3-2,https://www.besoccer.com/match/scunthorpe-united/sheffield-united/200815334,2008,4,championship,45,62,0,0,2,0,2007-09-01 16:00:00,,2008
+Stoke City,Wolves,0-0,https://www.besoccer.com/match/stoke-city/wolverhampton/200815336,2008,4,championship,56,62,1,0,1,0,2007-09-01 16:00:00,,2008
+Watford,Ipswich Town,2-0,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/200815337,2008,4,championship,60,61,1,0,1,0,2007-09-01 16:00:00,,2008
+West Bromwich Albion,Barnsley,2-0,https://www.besoccer.com/match/west-bromwich/barnsley-fc/200815338,2008,4,championship,64,49,1,0,3,0,2007-09-01 16:00:00,,2008
+Coventry City,Preston North End,2-1,https://www.besoccer.com/match/coventry-city/preston-north-end/200815339,2008,4,championship,58,60,1,0,1,0,2007-09-01 18:20:00,,2008
+Blackpool,Hull City,2-1,https://www.besoccer.com/match/blackpool-fc/hull-city/200815340,2008,4,championship,49,48,3,0,1,0,2007-09-03 20:45:00,,2008
+Barnsley,Scunthorpe United,2-0,https://www.besoccer.com/match/barnsley-fc/scunthorpe-united/200815341,2008,5,championship,49,46,1,0,1,0,2007-09-15 16:00:00,,2008
+Burnley,Blackpool,2-2,https://www.besoccer.com/match/burnley-fc/blackpool-fc/200815342,2008,5,championship,56,49,0,0,0,0,2007-09-15 16:00:00,,2008
+Colchester United,Charlton Athletic,2-2,https://www.besoccer.com/match/colchester-united/charlton-athletic-fc/200815343,2008,5,championship,50,67,3,1,1,1,2007-09-15 16:00:00,,2008
+Coventry City,Bristol City,0-3,https://www.besoccer.com/match/coventry-city/bristol-city-fc/200815344,2008,5,championship,58,54,5,0,1,0,2007-09-15 16:00:00,,2008
+Hull City,Stoke City,1-1,https://www.besoccer.com/match/hull-city/stoke-city/200815345,2008,5,championship,47,56,1,0,0,0,2007-09-15 16:00:00,,2008
+Leicester,Queens Park Rangers,1-1,https://www.besoccer.com/match/leicester-city-fc/queens-park-rangers-fc/200815346,2008,5,championship,61,51,1,0,1,0,2007-09-15 16:00:00,,2008
+Norwich City,Crystal Palace,1-0,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/200815347,2008,5,championship,59,62,1,0,3,0,2007-09-15 16:00:00,,2008
+Preston North End,Sheffield Wednesday,1-0,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/200815348,2008,5,championship,60,54,2,0,2,0,2007-09-15 16:00:00,,2008
+Sheffield United,Wolves,3-1,https://www.besoccer.com/match/sheffield-united/wolverhampton/200815349,2008,5,championship,62,62,2,0,0,0,2007-09-15 16:00:00,,2008
+West Bromwich Albion,Ipswich Town,4-0,https://www.besoccer.com/match/west-bromwich/ipswich-town-fc/200815350,2008,5,championship,64,61,1,0,2,0,2007-09-15 16:00:00,,2008
+Plymouth Argyle,Cardiff City,2-2,https://www.besoccer.com/match/plymouth-argyle/cardiff-city-fc/200815351,2008,5,championship,52,55,2,0,0,0,2007-09-15 18:20:00,,2008
+Watford,Southampton,3-2,https://www.besoccer.com/match/watford-fc/southampton-fc/200815352,2008,5,championship,60,67,3,0,0,0,2007-09-16 14:15:00,,2008
+Scunthorpe United,Preston North End,2-1,https://www.besoccer.com/match/scunthorpe-united/preston-north-end/200815358,2008,6,championship,45,60,1,0,0,0,2007-09-18 20:30:00,,2008
+Blackpool,Sheffield United,2-2,https://www.besoccer.com/match/blackpool-fc/sheffield-united/200815353,2008,6,championship,49,62,0,0,0,0,2007-09-18 20:45:00,,2008
+Bristol City,West Bromwich Albion,1-1,https://www.besoccer.com/match/bristol-city-fc/west-bromwich/200815354,2008,6,championship,54,65,3,0,1,0,2007-09-18 20:45:00,,2008
+Sheffield Wednesday,Burnley,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/burnley-fc/200815359,2008,6,championship,54,56,2,0,4,0,2007-09-18 20:45:00,,2008
+Stoke City,Barnsley,0-0,https://www.besoccer.com/match/stoke-city/barnsley-fc/200815360,2008,6,championship,56,49,2,0,2,0,2007-09-18 20:45:00,,2008
+Wolves,Hull City,0-1,https://www.besoccer.com/match/wolverhampton/hull-city/200815361,2008,6,championship,62,47,1,0,1,0,2007-09-18 20:45:00,,2008
+Charlton Athletic,Norwich City,2-0,https://www.besoccer.com/match/charlton-athletic-fc/norwich-city-fc/200815355,2008,6,championship,67,59,2,0,2,0,2007-09-18 21:00:00,,2008
+Crystal Palace,Coventry City,1-1,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/200815356,2008,6,championship,62,58,1,0,5,0,2007-09-18 21:00:00,,2008
+Queens Park Rangers,Plymouth Argyle,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/plymouth-argyle/200815357,2008,6,championship,51,52,0,0,2,0,2007-09-18 21:00:00,,2008
+Cardiff City,Watford,1-2,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/200815362,2008,6,championship,55,60,1,0,0,0,2007-09-19 20:45:00,,2008
+Southampton,Colchester United,1-1,https://www.besoccer.com/match/southampton-fc/colchester-united/200815363,2008,6,championship,66,50,2,0,2,0,2007-09-19 20:45:00,,2008
+Ipswich Town,Leicester,3-1,https://www.besoccer.com/match/ipswich-town-fc/leicester-city-fc/200815544,2008,6,championship,61,62,0,0,1,0,2007-12-11 20:45:00,,2008
+Cardiff City,Preston North End,2-2,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/200815366,2008,7,championship,55,60,0,0,3,0,2007-09-22 13:45:00,,2008
+Blackpool,Colchester United,2-2,https://www.besoccer.com/match/blackpool-fc/colchester-united/200815364,2008,7,championship,49,50,0,0,1,0,2007-09-22 16:00:00,,2008
+Bristol City,Burnley,2-2,https://www.besoccer.com/match/bristol-city-fc/burnley-fc/200815365,2008,7,championship,54,56,1,0,1,0,2007-09-22 16:00:00,,2008
+Charlton Athletic,Leicester,2-0,https://www.besoccer.com/match/charlton-athletic-fc/leicester-city-fc/200815367,2008,7,championship,67,61,2,0,0,0,2007-09-22 16:00:00,,2008
+Crystal Palace,Sheffield United,3-2,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/200815368,2008,7,championship,62,62,0,0,0,0,2007-09-22 16:00:00,,2008
+Queens Park Rangers,Watford,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/watford-fc/200815369,2008,7,championship,51,61,2,0,2,0,2007-09-22 16:00:00,,2008
+Scunthorpe United,West Bromwich Albion,2-3,https://www.besoccer.com/match/scunthorpe-united/west-bromwich/200815370,2008,7,championship,46,65,3,0,1,0,2007-09-22 16:00:00,,2008
+Sheffield Wednesday,Hull City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/200815371,2008,7,championship,53,48,4,0,2,0,2007-09-22 16:00:00,,2008
+Southampton,Barnsley,2-3,https://www.besoccer.com/match/southampton-fc/barnsley-fc/200815372,2008,7,championship,66,49,1,0,4,0,2007-09-22 16:00:00,,2008
+Stoke City,Plymouth Argyle,3-2,https://www.besoccer.com/match/stoke-city/plymouth-argyle/200815373,2008,7,championship,56,52,0,0,3,0,2007-09-22 16:00:00,,2008
+Wolves,Norwich City,2-0,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/200815374,2008,7,championship,62,59,2,0,1,0,2007-09-22 16:00:00,,2008
+Ipswich Town,Coventry City,4-1,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/200815375,2008,7,championship,61,58,1,0,2,0,2007-09-22 18:20:00,,2008
+Hull City,Ipswich Town,3-1,https://www.besoccer.com/match/hull-city/ipswich-town-fc/200815380,2008,8,championship,48,61,0,0,0,0,2007-09-29 13:30:00,,2008
+Barnsley,Cardiff City,1-1,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/200815376,2008,8,championship,50,55,3,0,1,0,2007-09-29 16:00:00,,2008
+Burnley,Crystal Palace,1-1,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/200815377,2008,8,championship,56,62,1,0,1,0,2007-09-29 16:00:00,,2008
+Colchester United,Scunthorpe United,0-1,https://www.besoccer.com/match/colchester-united/scunthorpe-united/200815378,2008,8,championship,50,46,2,0,3,0,2007-09-29 16:00:00,,2008
+Coventry City,Charlton Athletic,1-1,https://www.besoccer.com/match/coventry-city/charlton-athletic-fc/200815379,2008,8,championship,59,66,2,0,2,0,2007-09-29 16:00:00,,2008
+Leicester,Stoke City,1-1,https://www.besoccer.com/match/leicester-city-fc/stoke-city/200815381,2008,8,championship,62,56,2,0,3,0,2007-09-29 16:00:00,,2008
+Plymouth Argyle,Wolves,1-1,https://www.besoccer.com/match/plymouth-argyle/wolverhampton/200815382,2008,8,championship,52,62,2,0,2,0,2007-09-29 16:00:00,,2008
+Preston North End,Bristol City,0-0,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/200815383,2008,8,championship,60,54,0,0,2,0,2007-09-29 16:00:00,,2008
+Sheffield United,Southampton,1-2,https://www.besoccer.com/match/sheffield-united/southampton-fc/200815384,2008,8,championship,62,66,1,0,4,0,2007-09-29 16:00:00,,2008
+Watford,Blackpool,1-1,https://www.besoccer.com/match/watford-fc/blackpool-fc/200815385,2008,8,championship,61,49,1,0,0,0,2007-09-29 16:00:00,,2008
+Norwich City,Sheffield Wednesday,0-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/200815386,2008,8,championship,59,53,2,0,2,0,2007-09-29 18:20:00,,2008
+West Bromwich Albion,Queens Park Rangers,5-1,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/200815387,2008,8,championship,64,51,0,0,2,0,2007-09-30 14:15:00,,2008
+Barnsley,Bristol City,3-0,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/200815388,2008,9,championship,50,54,2,0,2,0,2007-10-02 20:45:00,,2008
+Burnley,Ipswich Town,2-2,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/200815389,2008,9,championship,56,61,2,0,1,0,2007-10-02 20:45:00,,2008
+Coventry City,Blackpool,3-1,https://www.besoccer.com/match/coventry-city/blackpool-fc/200815390,2008,9,championship,59,49,4,0,1,0,2007-10-02 20:45:00,,2008
+Hull City,Charlton Athletic,1-2,https://www.besoccer.com/match/hull-city/charlton-athletic-fc/200815391,2008,9,championship,48,66,2,1,1,1,2007-10-02 20:45:00,,2008
+Leicester,Wolves,0-0,https://www.besoccer.com/match/leicester-city-fc/wolverhampton/200815392,2008,9,championship,62,62,0,0,0,0,2007-10-02 20:45:00,,2008
+Norwich City,Scunthorpe United,0-0,https://www.besoccer.com/match/norwich-city-fc/scunthorpe-united/200815393,2008,9,championship,59,46,1,0,1,0,2007-10-02 20:45:00,,2008
+Plymouth Argyle,Crystal Palace,1-0,https://www.besoccer.com/match/plymouth-argyle/crystal-palace-fc/200815394,2008,9,championship,52,62,1,0,1,0,2007-10-02 20:45:00,,2008
+Preston North End,Southampton,5-1,https://www.besoccer.com/match/preston-north-end/southampton-fc/200815395,2008,9,championship,60,66,3,0,1,0,2007-10-02 20:45:00,,2008
+Sheffield United,Cardiff City,3-3,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/200815396,2008,9,championship,62,55,1,0,1,0,2007-10-02 20:45:00,,2008
+Watford,Sheffield Wednesday,2-1,https://www.besoccer.com/match/watford-fc/sheffield-wednesday-fc/200815397,2008,9,championship,60,54,1,0,3,0,2007-10-02 20:45:00,,2008
+Colchester United,Queens Park Rangers,4-2,https://www.besoccer.com/match/colchester-united/queens-park-rangers-fc/200815398,2008,9,championship,50,51,3,0,3,0,2007-10-03 20:45:00,,2008
+West Bromwich Albion,Stoke City,1-1,https://www.besoccer.com/match/west-bromwich/stoke-city/200815399,2008,9,championship,64,56,1,0,4,0,2007-10-03 20:45:00,,2008
+Blackpool,Plymouth Argyle,0-0,https://www.besoccer.com/match/blackpool-fc/plymouth-argyle/200815400,2008,10,championship,49,53,2,0,1,0,2007-10-06 16:00:00,,2008
+Cardiff City,Burnley,2-1,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/200815401,2008,10,championship,55,56,0,0,2,0,2007-10-06 16:00:00,,2008
+Charlton Athletic,Barnsley,1-1,https://www.besoccer.com/match/charlton-athletic-fc/barnsley-fc/200815402,2008,10,championship,66,50,0,0,2,0,2007-10-06 16:00:00,,2008
+Crystal Palace,Hull City,1-1,https://www.besoccer.com/match/crystal-palace-fc/hull-city/200815403,2008,10,championship,62,48,1,0,1,0,2007-10-06 16:00:00,,2008
+Ipswich Town,Preston North End,2-1,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/200815404,2008,10,championship,61,60,1,0,2,0,2007-10-06 16:00:00,,2008
+Scunthorpe United,Watford,1-3,https://www.besoccer.com/match/scunthorpe-united/watford-fc/200815405,2008,10,championship,46,61,3,0,3,0,2007-10-06 16:00:00,,2008
+Sheffield Wednesday,Leicester,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/leicester-city-fc/200815406,2008,10,championship,53,62,0,0,1,0,2007-10-06 16:00:00,,2008
+Southampton,West Bromwich Albion,3-2,https://www.besoccer.com/match/southampton-fc/west-bromwich/200815407,2008,10,championship,66,64,1,0,2,0,2007-10-06 16:00:00,,2008
+Stoke City,Colchester United,2-1,https://www.besoccer.com/match/stoke-city/colchester-united/200815408,2008,10,championship,56,50,1,0,2,0,2007-10-06 16:00:00,,2008
+Wolves,Coventry City,1-0,https://www.besoccer.com/match/wolverhampton/coventry-city/200815409,2008,10,championship,62,59,3,0,4,0,2007-10-06 16:00:00,,2008
+Bristol City,Sheffield United,2-0,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/200815410,2008,10,championship,54,62,1,0,3,0,2007-10-06 18:20:00,,2008
+Queens Park Rangers,Norwich City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/200815411,2008,10,championship,51,59,1,0,3,0,2007-10-08 20:45:00,,2008
+Barnsley,Burnley,1-1,https://www.besoccer.com/match/barnsley-fc/burnley-fc/200815412,2008,11,championship,50,56,0,0,1,0,2007-10-20 16:00:00,,2008
+Blackpool,Crystal Palace,1-1,https://www.besoccer.com/match/blackpool-fc/crystal-palace-fc/200815413,2008,11,championship,49,62,1,0,1,0,2007-10-20 16:00:00,,2008
+Colchester United,West Bromwich Albion,3-2,https://www.besoccer.com/match/colchester-united/west-bromwich/200815414,2008,11,championship,50,64,1,0,1,0,2007-10-20 16:00:00,,2008
+Norwich City,Bristol City,1-3,https://www.besoccer.com/match/norwich-city-fc/bristol-city-fc/200815415,2008,11,championship,59,54,0,0,1,0,2007-10-20 16:00:00,,2008
+Plymouth Argyle,Coventry City,1-0,https://www.besoccer.com/match/plymouth-argyle/coventry-city/200815416,2008,11,championship,53,59,4,0,1,0,2007-10-20 16:00:00,,2008
+Queens Park Rangers,Ipswich Town,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/200815417,2008,11,championship,51,61,1,0,0,0,2007-10-20 16:00:00,,2008
+Sheffield United,Preston North End,1-1,https://www.besoccer.com/match/sheffield-united/preston-north-end/200815418,2008,11,championship,62,60,2,0,4,0,2007-10-20 16:00:00,,2008
+Stoke City,Sheffield Wednesday,2-4,https://www.besoccer.com/match/stoke-city/sheffield-wednesday-fc/200815419,2008,11,championship,57,53,3,0,1,0,2007-10-20 16:00:00,,2008
+Watford,Hull City,1-0,https://www.besoccer.com/match/watford-fc/hull-city/200815420,2008,11,championship,61,48,0,0,3,0,2007-10-20 16:00:00,,2008
+Wolves,Charlton Athletic,2-0,https://www.besoccer.com/match/wolverhampton/charlton-athletic-fc/200815421,2008,11,championship,62,66,1,0,1,0,2007-10-20 16:00:00,,2008
+Scunthorpe United,Leicester,0-0,https://www.besoccer.com/match/scunthorpe-united/leicester-city-fc/200815422,2008,11,championship,46,62,1,0,0,0,2007-10-20 18:20:00,,2008
+Southampton,Cardiff City,1-0,https://www.besoccer.com/match/southampton-fc/cardiff-city-fc/200815423,2008,11,championship,66,56,1,0,2,0,2007-10-21 14:15:00,,2008
+Hull City,Barnsley,3-0,https://www.besoccer.com/match/hull-city/barnsley-fc/200815424,2008,12,championship,48,50,0,0,2,0,2007-10-22 20:45:00,,2008
+Burnley,Norwich City,2-1,https://www.besoccer.com/match/burnley-fc/norwich-city-fc/200815425,2008,12,championship,56,58,2,0,1,0,2007-10-23 20:45:00,,2008
+Coventry City,Watford,0-3,https://www.besoccer.com/match/coventry-city/watford-fc/200815427,2008,12,championship,59,61,2,0,2,0,2007-10-23 20:45:00,,2008
+Ipswich Town,Colchester United,3-1,https://www.besoccer.com/match/ipswich-town-fc/colchester-united/200815429,2008,12,championship,61,50,2,0,1,0,2007-10-23 20:45:00,,2008
+Leicester,Sheffield United,0-1,https://www.besoccer.com/match/leicester-city-fc/sheffield-united/200815430,2008,12,championship,62,62,2,0,0,0,2007-10-23 20:45:00,,2008
+Preston North End,Queens Park Rangers,0-0,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/200815431,2008,12,championship,60,51,2,0,5,0,2007-10-23 20:45:00,,2008
+Sheffield Wednesday,Scunthorpe United,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/scunthorpe-united/200815432,2008,12,championship,54,46,0,0,3,0,2007-10-23 20:45:00,,2008
+West Bromwich Albion,Blackpool,2-1,https://www.besoccer.com/match/west-bromwich/blackpool-fc/200815433,2008,12,championship,64,49,1,0,1,0,2007-10-23 20:45:00,,2008
+Charlton Athletic,Plymouth Argyle,1-2,https://www.besoccer.com/match/charlton-athletic-fc/plymouth-argyle/200815426,2008,12,championship,66,53,6,0,4,0,2007-10-23 21:00:00,,2008
+Crystal Palace,Stoke City,1-3,https://www.besoccer.com/match/crystal-palace-fc/stoke-city/200815428,2008,12,championship,62,56,2,0,2,0,2007-10-23 21:00:00,,2008
+Bristol City,Southampton,2-1,https://www.besoccer.com/match/bristol-city-fc/southampton-fc/200815434,2008,12,championship,54,66,2,0,0,0,2007-10-24 20:45:00,,2008
+Cardiff City,Wolves,2-3,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/200815435,2008,12,championship,55,62,0,0,0,0,2007-10-24 20:45:00,,2008
+Charlton Athletic,Queens Park Rangers,0-1,https://www.besoccer.com/match/charlton-athletic-fc/queens-park-rangers-fc/200815436,2008,13,championship,66,51,2,0,0,0,2007-10-27 13:45:00,,2008
+Bristol City,Stoke City,1-0,https://www.besoccer.com/match/bristol-city-fc/stoke-city/200815437,2008,13,championship,55,57,0,0,2,0,2007-10-27 16:00:00,,2008
+Cardiff City,Scunthorpe United,1-1,https://www.besoccer.com/match/cardiff-city-fc/scunthorpe-united/200815438,2008,13,championship,55,46,0,0,2,0,2007-10-27 16:00:00,,2008
+Coventry City,Colchester United,1-0,https://www.besoccer.com/match/coventry-city/colchester-united/200815439,2008,13,championship,58,50,2,0,1,0,2007-10-27 16:00:00,,2008
+Hull City,Sheffield United,1-1,https://www.besoccer.com/match/hull-city/sheffield-united/200815440,2008,13,championship,48,62,1,0,3,0,2007-10-27 16:00:00,,2008
+Ipswich Town,Wolves,3-0,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/200815441,2008,13,championship,61,62,1,0,0,0,2007-10-27 16:00:00,,2008
+Leicester,Barnsley,2-0,https://www.besoccer.com/match/leicester-city-fc/barnsley-fc/200815442,2008,13,championship,62,50,2,0,2,0,2007-10-27 16:00:00,,2008
+Preston North End,Plymouth Argyle,2-0,https://www.besoccer.com/match/preston-north-end/plymouth-argyle/200815443,2008,13,championship,60,53,1,0,0,0,2007-10-27 16:00:00,,2008
+Sheffield Wednesday,Blackpool,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/blackpool-fc/200815444,2008,13,championship,53,49,1,0,2,0,2007-10-27 16:00:00,,2008
+West Bromwich Albion,Norwich City,2-0,https://www.besoccer.com/match/west-bromwich/norwich-city-fc/200815445,2008,13,championship,64,58,0,0,2,0,2007-10-27 16:00:00,,2008
+Burnley,Southampton,2-3,https://www.besoccer.com/match/burnley-fc/southampton-fc/200815446,2008,13,championship,56,66,1,0,0,0,2007-10-27 18:20:00,,2008
+Crystal Palace,Watford,0-2,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/200815447,2008,13,championship,61,61,1,0,1,0,2007-10-29 21:00:00,,2008
+Barnsley,Preston North End,1-0,https://www.besoccer.com/match/barnsley-fc/preston-north-end/200815448,2008,14,championship,50,60,1,0,2,0,2007-11-03 16:00:00,,2008
+Plymouth Argyle,Sheffield Wednesday,1-2,https://www.besoccer.com/match/plymouth-argyle/sheffield-wednesday-fc/200815449,2008,14,championship,53,54,1,0,2,0,2007-11-03 16:00:00,,2008
+Queens Park Rangers,Hull City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/200815450,2008,14,championship,51,48,4,0,2,0,2007-11-03 16:00:00,,2008
+Scunthorpe United,Crystal Palace,0-0,https://www.besoccer.com/match/scunthorpe-united/crystal-palace-fc/200815451,2008,14,championship,46,61,2,0,3,0,2007-11-03 16:00:00,,2008
+Sheffield United,Burnley,0-0,https://www.besoccer.com/match/sheffield-united/burnley-fc/200815452,2008,14,championship,62,56,0,0,0,0,2007-11-03 16:00:00,,2008
+Southampton,Charlton Athletic,0-1,https://www.besoccer.com/match/southampton-fc/charlton-athletic-fc/200815453,2008,14,championship,66,66,2,0,5,0,2007-11-03 16:00:00,,2008
+Stoke City,Coventry City,1-3,https://www.besoccer.com/match/stoke-city/coventry-city/200815454,2008,14,championship,56,58,5,0,2,0,2007-11-03 16:00:00,,2008
+Watford,West Bromwich Albion,0-3,https://www.besoccer.com/match/watford-fc/west-bromwich/200815455,2008,14,championship,61,64,2,0,2,0,2007-11-03 16:00:00,,2008
+Wolves,Bristol City,1-1,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/200815456,2008,14,championship,62,55,2,0,4,0,2007-11-03 16:00:00,,2008
+Colchester United,Leicester,1-1,https://www.besoccer.com/match/colchester-united/leicester-city-fc/200815457,2008,14,championship,50,62,1,0,1,0,2007-11-03 18:20:00,,2008
+Norwich City,Ipswich Town,2-2,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/200815458,2008,14,championship,58,61,2,1,3,1,2007-11-04 13:45:00,,2008
+Blackpool,Cardiff City,0-1,https://www.besoccer.com/match/blackpool-fc/cardiff-city-fc/200815542,2008,14,championship,49,56,0,0,1,0,2007-12-11 20:45:00,,2008
+Barnsley,Blackpool,2-1,https://www.besoccer.com/match/barnsley-fc/blackpool-fc/200815459,2008,15,championship,50,49,0,0,0,0,2007-11-05 20:45:00,,2008
+Scunthorpe United,Stoke City,2-3,https://www.besoccer.com/match/scunthorpe-united/stoke-city/200815467,2008,15,championship,46,56,1,0,2,0,2007-11-06 20:30:00,,2008
+Bristol City,Charlton Athletic,0-1,https://www.besoccer.com/match/bristol-city-fc/charlton-athletic-fc/200815460,2008,15,championship,55,66,3,0,1,0,2007-11-06 20:45:00,,2008
+Burnley,Hull City,0-1,https://www.besoccer.com/match/burnley-fc/hull-city/200815461,2008,15,championship,56,48,0,1,1,1,2007-11-06 20:45:00,,2008
+Cardiff City,Crystal Palace,1-1,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/200815462,2008,15,championship,55,61,1,0,3,0,2007-11-06 20:45:00,,2008
+Colchester United,Plymouth Argyle,1-1,https://www.besoccer.com/match/colchester-united/plymouth-argyle/200815463,2008,15,championship,50,53,1,0,0,0,2007-11-06 20:45:00,,2008
+Norwich City,Watford,1-3,https://www.besoccer.com/match/norwich-city-fc/watford-fc/200815464,2008,15,championship,58,61,3,0,1,0,2007-11-06 20:45:00,,2008
+Preston North End,Leicester,1-1,https://www.besoccer.com/match/preston-north-end/leicester-city-fc/200815465,2008,15,championship,60,62,1,0,1,0,2007-11-06 20:45:00,,2008
+Sheffield United,Ipswich Town,3-1,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/200815468,2008,15,championship,62,61,1,0,3,0,2007-11-06 20:45:00,,2008
+Southampton,Wolves,0-0,https://www.besoccer.com/match/southampton-fc/wolverhampton/200815469,2008,15,championship,66,62,0,0,1,0,2007-11-06 20:45:00,,2008
+West Bromwich Albion,Sheffield Wednesday,1-1,https://www.besoccer.com/match/west-bromwich/sheffield-wednesday-fc/200815470,2008,15,championship,64,54,1,0,0,0,2007-11-06 20:45:00,,2008
+Queens Park Rangers,Coventry City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/200815466,2008,15,championship,52,59,0,0,0,0,2007-11-06 21:00:00,,2008
+Blackpool,Scunthorpe United,1-0,https://www.besoccer.com/match/blackpool-fc/scunthorpe-united/200815471,2008,16,championship,49,46,2,0,0,0,2007-11-10 16:00:00,,2008
+Charlton Athletic,Cardiff City,3-0,https://www.besoccer.com/match/charlton-athletic-fc/cardiff-city-fc/200815472,2008,16,championship,66,55,1,0,3,0,2007-11-10 16:00:00,,2008
+Crystal Palace,Queens Park Rangers,1-1,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/200815473,2008,16,championship,61,51,0,0,1,0,2007-11-10 16:00:00,,2008
+Hull City,Preston North End,3-0,https://www.besoccer.com/match/hull-city/preston-north-end/200815474,2008,16,championship,48,60,1,0,1,0,2007-11-10 16:00:00,,2008
+Ipswich Town,Bristol City,6-0,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/200815475,2008,16,championship,61,55,0,0,1,0,2007-11-10 16:00:00,,2008
+Leicester,Burnley,0-1,https://www.besoccer.com/match/leicester-city-fc/burnley-fc/200815476,2008,16,championship,62,56,1,0,5,0,2007-11-10 16:00:00,,2008
+Plymouth Argyle,Norwich City,3-0,https://www.besoccer.com/match/plymouth-argyle/norwich-city-fc/200815477,2008,16,championship,53,58,1,0,3,0,2007-11-10 16:00:00,,2008
+Sheffield Wednesday,Southampton,5-0,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/200815478,2008,16,championship,54,66,0,0,1,0,2007-11-10 16:00:00,,2008
+Watford,Colchester United,2-2,https://www.besoccer.com/match/watford-fc/colchester-united/200815479,2008,16,championship,61,50,0,0,1,0,2007-11-10 16:00:00,,2008
+Wolves,Barnsley,1-0,https://www.besoccer.com/match/wolverhampton/barnsley-fc/200815480,2008,16,championship,62,50,1,0,0,0,2007-11-10 16:00:00,,2008
+Stoke City,Sheffield United,0-1,https://www.besoccer.com/match/stoke-city/sheffield-united/200815481,2008,16,championship,56,62,0,0,2,0,2007-11-10 18:20:00,,2008
+Coventry City,West Bromwich Albion,0-4,https://www.besoccer.com/match/coventry-city/west-bromwich/200815482,2008,16,championship,59,64,0,1,3,1,2007-11-12 20:45:00,,2008
+Cardiff City,Ipswich Town,1-0,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/200815486,2008,17,championship,55,61,2,0,4,0,2007-11-24 13:00:00,,2008
+Scunthorpe United,Hull City,1-2,https://www.besoccer.com/match/scunthorpe-united/hull-city/200815490,2008,17,championship,46,48,1,0,3,0,2007-11-24 13:00:00,,2008
+Barnsley,Watford,3-2,https://www.besoccer.com/match/barnsley-fc/watford-fc/200815483,2008,17,championship,50,61,2,0,2,0,2007-11-24 16:00:00,,2008
+Bristol City,Leicester,0-2,https://www.besoccer.com/match/bristol-city-fc/leicester-city-fc/200815484,2008,17,championship,54,62,3,0,1,0,2007-11-24 16:00:00,,2008
+Burnley,Stoke City,0-0,https://www.besoccer.com/match/burnley-fc/stoke-city/200815485,2008,17,championship,56,56,2,0,2,0,2007-11-24 16:00:00,,2008
+Colchester United,Crystal Palace,1-2,https://www.besoccer.com/match/colchester-united/crystal-palace-fc/200815487,2008,17,championship,50,61,1,1,3,1,2007-11-24 16:00:00,,2008
+Norwich City,Coventry City,2-0,https://www.besoccer.com/match/norwich-city-fc/coventry-city/200815488,2008,17,championship,58,58,1,0,0,0,2007-11-24 16:00:00,,2008
+Queens Park Rangers,Sheffield Wednesday,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/200815489,2008,17,championship,52,54,1,0,1,0,2007-11-24 16:00:00,,2008
+Sheffield United,Plymouth Argyle,0-1,https://www.besoccer.com/match/sheffield-united/plymouth-argyle/200815491,2008,17,championship,62,53,1,0,0,0,2007-11-24 16:00:00,,2008
+Southampton,Blackpool,1-0,https://www.besoccer.com/match/southampton-fc/blackpool-fc/200815492,2008,17,championship,66,49,0,0,0,0,2007-11-24 16:00:00,,2008
+Preston North End,Charlton Athletic,0-2,https://www.besoccer.com/match/preston-north-end/charlton-athletic-fc/200815493,2008,17,championship,60,66,1,0,1,0,2007-11-24 18:20:00,,2008
+West Bromwich Albion,Wolves,0-0,https://www.besoccer.com/match/west-bromwich/wolverhampton/200815494,2008,17,championship,64,62,1,0,1,0,2007-11-25 13:00:00,,2008
+Leicester,Cardiff City,0-0,https://www.besoccer.com/match/leicester-city-fc/cardiff-city-fc/200815495,2008,18,championship,62,55,3,0,0,0,2007-11-26 21:00:00,,2008
+Blackpool,Norwich City,1-3,https://www.besoccer.com/match/blackpool-fc/norwich-city-fc/200815496,2008,18,championship,49,58,0,0,3,0,2007-11-27 20:45:00,,2008
+Coventry City,Scunthorpe United,1-1,https://www.besoccer.com/match/coventry-city/scunthorpe-united/200815498,2008,18,championship,58,46,1,0,1,0,2007-11-27 20:45:00,,2008
+Hull City,Bristol City,0-0,https://www.besoccer.com/match/hull-city/bristol-city-fc/200815500,2008,18,championship,49,54,0,0,0,0,2007-11-27 20:45:00,,2008
+Ipswich Town,Southampton,2-0,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/200815501,2008,18,championship,61,66,1,0,1,0,2007-11-27 20:45:00,,2008
+Sheffield Wednesday,Barnsley,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/200815502,2008,18,championship,54,50,1,0,1,0,2007-11-27 20:45:00,,2008
+Stoke City,Queens Park Rangers,3-1,https://www.besoccer.com/match/stoke-city/queens-park-rangers-fc/200815503,2008,18,championship,56,52,1,0,0,0,2007-11-27 20:45:00,,2008
+Watford,Burnley,1-2,https://www.besoccer.com/match/watford-fc/burnley-fc/200815504,2008,18,championship,61,56,0,0,1,0,2007-11-27 20:45:00,,2008
+Charlton Athletic,Sheffield United,0-3,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-united/200815497,2008,18,championship,66,62,1,0,0,0,2007-11-27 21:00:00,,2008
+Crystal Palace,Preston North End,2-1,https://www.besoccer.com/match/crystal-palace-fc/preston-north-end/200815499,2008,18,championship,61,60,1,0,3,0,2007-11-27 21:00:00,,2008
+Plymouth Argyle,West Bromwich Albion,1-2,https://www.besoccer.com/match/plymouth-argyle/west-bromwich/200815505,2008,18,championship,53,64,2,0,1,0,2007-11-28 20:45:00,,2008
+Wolves,Colchester United,1-0,https://www.besoccer.com/match/wolverhampton/colchester-united/200815506,2008,18,championship,62,50,0,0,0,0,2007-11-28 20:45:00,,2008
+Coventry City,Sheffield United,0-1,https://www.besoccer.com/match/coventry-city/sheffield-united/200815507,2008,19,championship,58,62,2,0,1,0,2007-12-01 16:00:00,,2008
+Hull City,Cardiff City,2-2,https://www.besoccer.com/match/hull-city/cardiff-city-fc/200815508,2008,19,championship,49,56,3,0,1,0,2007-12-01 16:00:00,,2008
+Ipswich Town,Barnsley,0-0,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/200815509,2008,19,championship,61,50,0,0,3,0,2007-12-01 16:00:00,,2008
+Blackpool,Queens Park Rangers,1-0,https://www.besoccer.com/match/blackpool-fc/queens-park-rangers-fc/200815510,2008,19,championship,49,51,0,0,2,0,2007-12-01 16:00:00,,2008
+Charlton Athletic,Burnley,1-3,https://www.besoccer.com/match/charlton-athletic-fc/burnley-fc/200815511,2008,19,championship,66,56,3,0,2,0,2007-12-01 16:00:00,,2008
+Crystal Palace,West Bromwich Albion,1-1,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/200815512,2008,19,championship,61,64,1,0,1,0,2007-12-01 16:00:00,,2008
+Leicester,Southampton,1-2,https://www.besoccer.com/match/leicester-city-fc/southampton-fc/200815513,2008,19,championship,62,65,0,0,0,0,2007-12-01 16:00:00,,2008
+Plymouth Argyle,Scunthorpe United,3-0,https://www.besoccer.com/match/plymouth-argyle/scunthorpe-united/200815514,2008,19,championship,53,46,2,0,1,0,2007-12-01 16:00:00,,2008
+Sheffield Wednesday,Colchester United,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/colchester-united/200815515,2008,19,championship,54,50,1,0,1,0,2007-12-01 16:00:00,,2008
+Stoke City,Norwich City,2-1,https://www.besoccer.com/match/stoke-city/norwich-city-fc/200815516,2008,19,championship,56,58,4,0,3,0,2007-12-01 16:00:00,,2008
+Wolves,Preston North End,1-0,https://www.besoccer.com/match/wolverhampton/preston-north-end/200815518,2008,19,championship,62,60,1,0,1,0,2007-12-01 16:00:00,,2008
+Watford,Bristol City,1-2,https://www.besoccer.com/match/watford-fc/bristol-city-fc/200815517,2008,19,championship,61,54,2,0,1,0,2007-12-01 18:20:00,,2008
+Scunthorpe United,Blackpool,1-1,https://www.besoccer.com/match/scunthorpe-united/blackpool-fc/200815519,2008,20,championship,45,49,1,1,0,1,2007-12-03 21:00:00,,2008
+Barnsley,Wolves,1-0,https://www.besoccer.com/match/barnsley-fc/wolverhampton/200815520,2008,20,championship,50,62,0,0,3,0,2007-12-04 20:45:00,,2008
+Bristol City,Ipswich Town,2-0,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/200815521,2008,20,championship,54,61,1,0,2,0,2007-12-04 20:45:00,,2008
+Burnley,Leicester,1-1,https://www.besoccer.com/match/burnley-fc/leicester-city-fc/200815522,2008,20,championship,57,62,0,0,0,0,2007-12-04 20:45:00,,2008
+Cardiff City,Charlton Athletic,0-2,https://www.besoccer.com/match/cardiff-city-fc/charlton-athletic-fc/200815523,2008,20,championship,55,66,1,0,1,0,2007-12-04 20:45:00,,2008
+Colchester United,Watford,2-3,https://www.besoccer.com/match/colchester-united/watford-fc/200815524,2008,20,championship,50,61,3,0,4,0,2007-12-04 20:45:00,,2008
+Norwich City,Plymouth Argyle,2-1,https://www.besoccer.com/match/norwich-city-fc/plymouth-argyle/200815525,2008,20,championship,58,53,1,0,4,0,2007-12-04 20:45:00,,2008
+Preston North End,Hull City,3-0,https://www.besoccer.com/match/preston-north-end/hull-city/200815526,2008,20,championship,60,49,0,0,1,0,2007-12-04 20:45:00,,2008
+Sheffield United,Stoke City,0-3,https://www.besoccer.com/match/sheffield-united/stoke-city/200815528,2008,20,championship,62,57,1,0,1,0,2007-12-04 20:45:00,,2008
+Southampton,Sheffield Wednesday,0-0,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/200815529,2008,20,championship,66,54,0,0,1,0,2007-12-04 20:45:00,,2008
+West Bromwich Albion,Coventry City,2-4,https://www.besoccer.com/match/west-bromwich/coventry-city/200815530,2008,20,championship,64,58,2,0,1,0,2007-12-04 20:45:00,,2008
+Queens Park Rangers,Crystal Palace,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/200815527,2008,20,championship,51,61,3,0,1,0,2007-12-04 21:00:00,,2008
+Preston North End,Blackpool,0-1,https://www.besoccer.com/match/preston-north-end/blackpool-fc/200815537,2008,21,championship,60,49,4,0,2,0,2007-12-08 13:30:00,,2008
+Plymouth Argyle,Bristol City,1-1,https://www.besoccer.com/match/plymouth-argyle/bristol-city-fc/200815536,2008,21,championship,53,55,2,0,0,0,2007-12-08 13:30:00,,2008
+Leicester,West Bromwich Albion,1-2,https://www.besoccer.com/match/leicester-city-fc/west-bromwich/200815534,2008,21,championship,62,64,0,0,1,0,2007-12-08 15:15:00,,2008
+Barnsley,Crystal Palace,0-0,https://www.besoccer.com/match/barnsley-fc/crystal-palace-fc/200815531,2008,21,championship,50,61,2,0,1,0,2007-12-08 16:00:00,,2008
+Cardiff City,Colchester United,4-1,https://www.besoccer.com/match/cardiff-city-fc/colchester-united/200815532,2008,21,championship,55,50,0,0,2,0,2007-12-08 16:00:00,,2008
+Charlton Athletic,Ipswich Town,3-1,https://www.besoccer.com/match/charlton-athletic-fc/ipswich-town-fc/200815533,2008,21,championship,66,61,1,0,3,0,2007-12-08 16:00:00,,2008
+Norwich City,Sheffield United,1-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/200815535,2008,21,championship,58,62,2,0,3,0,2007-12-08 16:00:00,,2008
+Scunthorpe United,Queens Park Rangers,2-2,https://www.besoccer.com/match/scunthorpe-united/queens-park-rangers-fc/200815538,2008,21,championship,45,51,1,0,3,0,2007-12-08 16:00:00,,2008
+Southampton,Hull City,4-0,https://www.besoccer.com/match/southampton-fc/hull-city/200815539,2008,21,championship,65,48,1,0,2,0,2007-12-08 16:00:00,,2008
+Wolves,Burnley,2-3,https://www.besoccer.com/match/wolverhampton/burnley-fc/200815540,2008,21,championship,62,57,1,0,1,0,2007-12-08 18:20:00,,2008
+Stoke City,Watford,0-0,https://www.besoccer.com/match/stoke-city/watford-fc/200815541,2008,21,championship,57,61,2,0,2,0,2007-12-09 14:15:00,,2008
+Sheffield Wednesday,Coventry City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/200815781,2008,21,championship,54,58,1,0,1,0,2008-04-01 20:45:00,,2008
+West Bromwich Albion,Charlton Athletic,4-2,https://www.besoccer.com/match/west-bromwich/charlton-athletic-fc/200815556,2008,22,championship,64,66,0,0,3,0,2007-12-15 13:45:00,,2008
+Blackpool,Stoke City,2-3,https://www.besoccer.com/match/blackpool-fc/stoke-city/200815545,2008,22,championship,49,57,1,0,2,0,2007-12-15 16:00:00,,2008
+Bristol City,Cardiff City,1-0,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/200815546,2008,22,championship,55,56,2,0,4,0,2007-12-15 16:00:00,,2008
+Burnley,Preston North End,2-3,https://www.besoccer.com/match/burnley-fc/preston-north-end/200815547,2008,22,championship,57,59,1,2,1,2,2007-12-15 16:00:00,,2008
+Coventry City,Southampton,1-1,https://www.besoccer.com/match/coventry-city/southampton-fc/200815549,2008,22,championship,58,66,2,0,0,0,2007-12-15 16:00:00,,2008
+Crystal Palace,Sheffield Wednesday,2-1,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/200815550,2008,22,championship,61,54,0,0,0,0,2007-12-15 16:00:00,,2008
+Hull City,Leicester,2-0,https://www.besoccer.com/match/hull-city/leicester-city-fc/200815551,2008,22,championship,48,61,1,0,2,0,2007-12-15 16:00:00,,2008
+Ipswich Town,Scunthorpe United,3-2,https://www.besoccer.com/match/ipswich-town-fc/scunthorpe-united/200815552,2008,22,championship,61,45,0,0,1,0,2007-12-15 16:00:00,,2008
+Queens Park Rangers,Wolves,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/200815553,2008,22,championship,51,62,0,0,0,0,2007-12-15 16:00:00,,2008
+Sheffield United,Barnsley,1-0,https://www.besoccer.com/match/sheffield-united/barnsley-fc/200815554,2008,22,championship,62,50,2,0,2,0,2007-12-15 16:00:00,,2008
+Watford,Plymouth Argyle,0-1,https://www.besoccer.com/match/watford-fc/plymouth-argyle/200815555,2008,22,championship,61,53,1,0,2,0,2007-12-15 16:00:00,,2008
+Colchester United,Norwich City,1-1,https://www.besoccer.com/match/colchester-united/norwich-city-fc/200815548,2008,22,championship,50,58,1,0,0,0,2007-12-15 18:20:00,,2008
+Blackpool,Coventry City,4-0,https://www.besoccer.com/match/blackpool-fc/coventry-city/200815557,2008,23,championship,49,58,1,0,4,0,2007-12-22 16:00:00,,2008
+Bristol City,Barnsley,3-2,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/200815558,2008,23,championship,55,50,3,0,3,0,2007-12-22 16:00:00,,2008
+Cardiff City,Sheffield United,1-0,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/200815559,2008,23,championship,56,62,1,0,1,0,2007-12-22 16:00:00,,2008
+Charlton Athletic,Hull City,1-1,https://www.besoccer.com/match/charlton-athletic-fc/hull-city/200815560,2008,23,championship,66,49,0,1,4,1,2007-12-22 16:00:00,,2008
+Crystal Palace,Plymouth Argyle,2-1,https://www.besoccer.com/match/crystal-palace-fc/plymouth-argyle/200815561,2008,23,championship,61,53,2,0,2,0,2007-12-22 16:00:00,,2008
+Ipswich Town,Burnley,0-0,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/200815562,2008,23,championship,61,56,0,0,3,0,2007-12-22 16:00:00,,2008
+Queens Park Rangers,Colchester United,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/colchester-united/200815563,2008,23,championship,51,50,1,0,4,0,2007-12-22 16:00:00,,2008
+Scunthorpe United,Norwich City,0-1,https://www.besoccer.com/match/scunthorpe-united/norwich-city-fc/200815564,2008,23,championship,45,58,1,0,0,0,2007-12-22 16:00:00,,2008
+Sheffield Wednesday,Watford,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/watford-fc/200815565,2008,23,championship,54,61,3,0,0,0,2007-12-22 16:00:00,,2008
+Southampton,Preston North End,0-1,https://www.besoccer.com/match/southampton-fc/preston-north-end/200815566,2008,23,championship,66,60,0,0,0,0,2007-12-22 16:00:00,,2008
+Stoke City,West Bromwich Albion,3-1,https://www.besoccer.com/match/stoke-city/west-bromwich/200815567,2008,23,championship,57,65,0,0,2,0,2007-12-22 16:00:00,,2008
+Wolves,Leicester,1-1,https://www.besoccer.com/match/wolverhampton/leicester-city-fc/200815568,2008,23,championship,62,61,0,0,1,0,2007-12-22 18:20:00,,2008
+Watford,Cardiff City,2-2,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/200815579,2008,24,championship,61,56,1,0,1,0,2007-12-26 13:00:00,,2008
+Barnsley,Stoke City,3-3,https://www.besoccer.com/match/barnsley-fc/stoke-city/200815569,2008,24,championship,50,57,3,0,3,0,2007-12-26 16:00:00,,2008
+Burnley,Sheffield Wednesday,1-1,https://www.besoccer.com/match/burnley-fc/sheffield-wednesday-fc/200815570,2008,24,championship,56,54,2,0,2,0,2007-12-26 16:00:00,,2008
+Colchester United,Southampton,1-1,https://www.besoccer.com/match/colchester-united/southampton-fc/200815571,2008,24,championship,50,65,1,0,2,0,2007-12-26 16:00:00,,2008
+Coventry City,Crystal Palace,0-2,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/200815572,2008,24,championship,58,61,1,0,2,0,2007-12-26 16:00:00,,2008
+Hull City,Wolves,2-0,https://www.besoccer.com/match/hull-city/wolverhampton/200815573,2008,24,championship,49,62,0,0,1,0,2007-12-26 16:00:00,,2008
+Leicester,Ipswich Town,2-0,https://www.besoccer.com/match/leicester-city-fc/ipswich-town-fc/200815574,2008,24,championship,61,61,2,0,2,0,2007-12-26 16:00:00,,2008
+Norwich City,Charlton Athletic,1-1,https://www.besoccer.com/match/norwich-city-fc/charlton-athletic-fc/200815575,2008,24,championship,58,66,2,0,1,0,2007-12-26 16:00:00,,2008
+Plymouth Argyle,Queens Park Rangers,2-1,https://www.besoccer.com/match/plymouth-argyle/queens-park-rangers-fc/200815576,2008,24,championship,53,52,3,0,6,0,2007-12-26 16:00:00,,2008
+Preston North End,Scunthorpe United,0-1,https://www.besoccer.com/match/preston-north-end/scunthorpe-united/200815577,2008,24,championship,60,45,2,0,1,0,2007-12-26 16:00:00,,2008
+Sheffield United,Blackpool,1-1,https://www.besoccer.com/match/sheffield-united/blackpool-fc/200815578,2008,24,championship,62,49,3,0,0,0,2007-12-26 16:00:00,,2008
+West Bromwich Albion,Bristol City,4-1,https://www.besoccer.com/match/west-bromwich/bristol-city-fc/200815580,2008,24,championship,64,55,0,0,2,0,2007-12-26 16:00:00,,2008
+Sheffield United,Crystal Palace,0-1,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/200815589,2008,25,championship,62,62,1,0,3,0,2007-12-29 13:45:00,,2008
+Barnsley,Southampton,2-2,https://www.besoccer.com/match/barnsley-fc/southampton-fc/200815581,2008,25,championship,50,65,1,0,0,0,2007-12-29 16:00:00,,2008
+Burnley,Bristol City,0-1,https://www.besoccer.com/match/burnley-fc/bristol-city-fc/200815582,2008,25,championship,56,55,1,0,1,0,2007-12-29 16:00:00,,2008
+Colchester United,Blackpool,0-2,https://www.besoccer.com/match/colchester-united/blackpool-fc/200815583,2008,25,championship,50,49,1,0,2,0,2007-12-29 16:00:00,,2008
+Leicester,Charlton Athletic,1-1,https://www.besoccer.com/match/leicester-city-fc/charlton-athletic-fc/200815585,2008,25,championship,61,66,1,0,1,0,2007-12-29 16:00:00,,2008
+Norwich City,Wolves,1-1,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/200815586,2008,25,championship,58,62,3,0,4,0,2007-12-29 16:00:00,,2008
+Plymouth Argyle,Stoke City,2-2,https://www.besoccer.com/match/plymouth-argyle/stoke-city/200815587,2008,25,championship,53,57,1,0,1,0,2007-12-29 16:00:00,,2008
+Preston North End,Cardiff City,1-2,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/200815588,2008,25,championship,60,56,2,0,2,0,2007-12-29 16:00:00,,2008
+Watford,Queens Park Rangers,2-4,https://www.besoccer.com/match/watford-fc/queens-park-rangers-fc/200815590,2008,25,championship,61,51,2,0,3,0,2007-12-29 16:00:00,,2008
+West Bromwich Albion,Scunthorpe United,5-0,https://www.besoccer.com/match/west-bromwich/scunthorpe-united/200815591,2008,25,championship,64,46,0,0,1,0,2007-12-29 16:00:00,,2008
+Coventry City,Ipswich Town,2-1,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/200815584,2008,25,championship,58,61,2,0,1,0,2007-12-29 18:20:00,,2008
+Hull City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/200815592,2008,25,championship,49,54,2,0,1,0,2007-12-30 14:00:00,,2008
+Cardiff City,Plymouth Argyle,1-0,https://www.besoccer.com/match/cardiff-city-fc/plymouth-argyle/200815595,2008,26,championship,56,53,1,0,3,0,2008-01-01 14:00:00,,2008
+Blackpool,Burnley,3-0,https://www.besoccer.com/match/blackpool-fc/burnley-fc/200815593,2008,26,championship,50,56,1,0,2,0,2008-01-01 16:00:00,,2008
+Bristol City,Coventry City,2-1,https://www.besoccer.com/match/bristol-city-fc/coventry-city/200815594,2008,26,championship,55,58,1,0,1,0,2008-01-01 16:00:00,,2008
+Charlton Athletic,Colchester United,1-2,https://www.besoccer.com/match/charlton-athletic-fc/colchester-united/200815596,2008,26,championship,66,50,1,0,1,0,2008-01-01 16:00:00,,2008
+Crystal Palace,Norwich City,1-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/200815597,2008,26,championship,62,58,1,0,2,0,2008-01-01 16:00:00,,2008
+Ipswich Town,West Bromwich Albion,2-0,https://www.besoccer.com/match/ipswich-town-fc/west-bromwich/200815598,2008,26,championship,61,65,2,0,2,0,2008-01-01 16:00:00,,2008
+Queens Park Rangers,Leicester,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/leicester-city-fc/200815599,2008,26,championship,52,61,1,0,2,0,2008-01-01 16:00:00,,2008
+Scunthorpe United,Barnsley,2-2,https://www.besoccer.com/match/scunthorpe-united/barnsley-fc/200815600,2008,26,championship,45,50,3,0,1,0,2008-01-01 16:00:00,,2008
+Sheffield Wednesday,Preston North End,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/200815601,2008,26,championship,54,59,1,0,2,0,2008-01-01 16:00:00,,2008
+Southampton,Watford,0-3,https://www.besoccer.com/match/southampton-fc/watford-fc/200815602,2008,26,championship,65,60,0,0,0,0,2008-01-01 16:00:00,,2008
+Stoke City,Hull City,1-1,https://www.besoccer.com/match/stoke-city/hull-city/200815603,2008,26,championship,57,49,0,0,1,0,2008-01-01 16:00:00,,2008
+Wolves,Sheffield United,0-0,https://www.besoccer.com/match/wolverhampton/sheffield-united/200815604,2008,26,championship,62,61,0,0,2,0,2008-01-01 16:00:00,,2008
+Barnsley,Norwich City,1-3,https://www.besoccer.com/match/barnsley-fc/norwich-city-fc/200815605,2008,27,championship,50,58,1,0,2,0,2008-01-12 16:00:00,,2008
+Bristol City,Colchester United,1-1,https://www.besoccer.com/match/bristol-city-fc/colchester-united/200815606,2008,27,championship,55,49,1,0,1,0,2008-01-12 16:00:00,,2008
+Burnley,Plymouth Argyle,1-0,https://www.besoccer.com/match/burnley-fc/plymouth-argyle/200815607,2008,27,championship,56,53,1,0,1,0,2008-01-12 16:00:00,,2008
+Cardiff City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/200815608,2008,27,championship,56,54,1,0,1,0,2008-01-12 16:00:00,,2008
+Charlton Athletic,Blackpool,4-1,https://www.besoccer.com/match/charlton-athletic-fc/blackpool-fc/200815609,2008,27,championship,65,50,0,0,1,0,2008-01-12 16:00:00,,2008
+Ipswich Town,Stoke City,1-1,https://www.besoccer.com/match/ipswich-town-fc/stoke-city/200815611,2008,27,championship,61,57,3,0,2,0,2008-01-12 16:00:00,,2008
+Leicester,Coventry City,2-0,https://www.besoccer.com/match/leicester-city-fc/coventry-city/200815612,2008,27,championship,61,59,1,0,0,0,2008-01-12 16:00:00,,2008
+Preston North End,Watford,1-0,https://www.besoccer.com/match/preston-north-end/watford-fc/200815613,2008,27,championship,59,61,2,0,1,0,2008-01-12 16:00:00,,2008
+Sheffield United,Queens Park Rangers,2-1,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/200815614,2008,27,championship,62,52,1,0,1,0,2008-01-12 16:00:00,,2008
+Southampton,Scunthorpe United,1-0,https://www.besoccer.com/match/southampton-fc/scunthorpe-united/200815615,2008,27,championship,65,45,1,0,2,0,2008-01-12 16:00:00,,2008
+Wolves,Crystal Palace,0-3,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/200815616,2008,27,championship,62,61,0,0,0,0,2008-01-12 16:00:00,,2008
+Hull City,West Bromwich Albion,1-3,https://www.besoccer.com/match/hull-city/west-bromwich/200815610,2008,27,championship,49,64,2,0,0,0,2008-01-12 18:20:00,,2008
+Sheffield Wednesday,Sheffield United,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/200815624,2008,28,championship,54,62,0,0,0,0,2008-01-19 13:45:00,,2008
+Blackpool,Ipswich Town,1-1,https://www.besoccer.com/match/blackpool-fc/ipswich-town-fc/200815617,2008,28,championship,50,61,0,0,0,0,2008-01-19 16:00:00,,2008
+Coventry City,Burnley,1-2,https://www.besoccer.com/match/coventry-city/burnley-fc/200815618,2008,28,championship,59,56,2,0,4,0,2008-01-19 16:00:00,,2008
+Crystal Palace,Bristol City,2-0,https://www.besoccer.com/match/crystal-palace-fc/bristol-city-fc/200815619,2008,28,championship,62,55,2,0,2,0,2008-01-19 16:00:00,,2008
+Norwich City,Leicester,0-0,https://www.besoccer.com/match/norwich-city-fc/leicester-city-fc/200815620,2008,28,championship,58,61,2,0,3,0,2008-01-19 16:00:00,,2008
+Plymouth Argyle,Southampton,1-1,https://www.besoccer.com/match/plymouth-argyle/southampton-fc/200815621,2008,28,championship,53,65,0,0,4,0,2008-01-19 16:00:00,,2008
+Queens Park Rangers,Barnsley,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/200815622,2008,28,championship,52,50,0,0,0,0,2008-01-19 16:00:00,,2008
+Scunthorpe United,Wolves,0-2,https://www.besoccer.com/match/scunthorpe-united/wolverhampton/200815623,2008,28,championship,45,61,2,0,2,0,2008-01-19 16:00:00,,2008
+Stoke City,Preston North End,3-1,https://www.besoccer.com/match/stoke-city/preston-north-end/200815625,2008,28,championship,57,60,0,0,0,0,2008-01-19 16:00:00,,2008
+West Bromwich Albion,Cardiff City,3-3,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/200815627,2008,28,championship,65,57,1,0,0,0,2008-01-19 16:00:00,,2008
+Watford,Charlton Athletic,1-1,https://www.besoccer.com/match/watford-fc/charlton-athletic-fc/200815626,2008,28,championship,61,66,2,0,2,0,2008-01-19 18:20:00,,2008
+Colchester United,Hull City,1-3,https://www.besoccer.com/match/colchester-united/hull-city/200815754,2008,28,championship,49,50,4,1,2,1,2008-03-18 20:45:00,,2008
+Bristol City,Blackpool,1-0,https://www.besoccer.com/match/bristol-city-fc/blackpool-fc/200815628,2008,29,championship,55,50,1,0,0,0,2008-01-26 16:00:00,,2008
+Burnley,Scunthorpe United,2-0,https://www.besoccer.com/match/burnley-fc/scunthorpe-united/200815629,2008,29,championship,56,45,1,0,2,0,2008-01-26 16:00:00,,2008
+Leicester,Crystal Palace,1-0,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/200815630,2008,29,championship,61,62,1,0,0,0,2008-01-28 20:45:00,,2008
+Barnsley,Colchester United,1-0,https://www.besoccer.com/match/barnsley-fc/colchester-united/200815631,2008,29,championship,50,49,1,0,0,0,2008-01-29 20:45:00,,2008
+Cardiff City,Queens Park Rangers,3-1,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/200815632,2008,29,championship,57,52,0,0,2,0,2008-01-29 20:45:00,,2008
+Charlton Athletic,Stoke City,1-0,https://www.besoccer.com/match/charlton-athletic-fc/stoke-city/200815633,2008,29,championship,66,58,0,0,1,0,2008-01-29 20:45:00,,2008
+Hull City,Coventry City,1-0,https://www.besoccer.com/match/hull-city/coventry-city/200815634,2008,29,championship,49,59,1,0,2,0,2008-01-29 20:45:00,,2008
+Ipswich Town,Plymouth Argyle,0-0,https://www.besoccer.com/match/ipswich-town-fc/plymouth-argyle/200815635,2008,29,championship,61,53,0,0,1,0,2008-01-29 20:45:00,,2008
+Preston North End,West Bromwich Albion,2-1,https://www.besoccer.com/match/preston-north-end/west-bromwich/200815636,2008,29,championship,60,65,0,0,1,0,2008-01-29 20:45:00,,2008
+Sheffield United,Watford,1-1,https://www.besoccer.com/match/sheffield-united/watford-fc/200815637,2008,29,championship,62,60,2,0,3,0,2008-01-29 20:45:00,,2008
+Southampton,Norwich City,0-1,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/200815638,2008,29,championship,65,58,3,0,2,0,2008-01-29 20:45:00,,2008
+Wolves,Sheffield Wednesday,2-1,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/200815639,2008,29,championship,62,54,1,0,0,0,2008-01-29 20:45:00,,2008
+Stoke City,Cardiff City,2-1,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/200815649,2008,30,championship,57,57,0,0,1,0,2008-02-02 13:30:00,,2008
+Blackpool,Leicester,2-1,https://www.besoccer.com/match/blackpool-fc/leicester-city-fc/200815640,2008,30,championship,50,61,0,0,2,0,2008-02-02 16:00:00,,2008
+Colchester United,Sheffield United,2-2,https://www.besoccer.com/match/colchester-united/sheffield-united/200815641,2008,30,championship,49,62,2,0,2,0,2008-02-02 16:00:00,,2008
+Coventry City,Barnsley,4-0,https://www.besoccer.com/match/coventry-city/barnsley-fc/200815642,2008,30,championship,58,50,1,0,3,0,2008-02-02 16:00:00,,2008
+Crystal Palace,Southampton,1-1,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/200815643,2008,30,championship,62,65,1,0,0,0,2008-02-02 16:00:00,,2008
+Norwich City,Preston North End,1-0,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/200815644,2008,30,championship,58,60,0,0,0,0,2008-02-02 16:00:00,,2008
+Plymouth Argyle,Hull City,0-1,https://www.besoccer.com/match/plymouth-argyle/hull-city/200815645,2008,30,championship,53,49,1,0,1,0,2008-02-02 16:00:00,,2008
+Queens Park Rangers,Bristol City,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/200815646,2008,30,championship,52,55,2,0,2,0,2008-02-02 16:00:00,,2008
+Scunthorpe United,Charlton Athletic,1-0,https://www.besoccer.com/match/scunthorpe-united/charlton-athletic-fc/200815647,2008,30,championship,45,66,1,0,3,0,2008-02-02 16:00:00,,2008
+Sheffield Wednesday,Ipswich Town,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/200815648,2008,30,championship,54,61,1,0,0,0,2008-02-02 16:00:00,,2008
+West Bromwich Albion,Burnley,2-1,https://www.besoccer.com/match/west-bromwich/burnley-fc/200815651,2008,30,championship,65,56,0,0,3,0,2008-02-02 16:00:00,,2008
+Watford,Wolves,3-0,https://www.besoccer.com/match/watford-fc/wolverhampton/200815650,2008,30,championship,60,62,0,0,0,0,2008-02-02 18:20:00,,2008
+Charlton Athletic,Crystal Palace,2-0,https://www.besoccer.com/match/charlton-athletic-fc/crystal-palace-fc/200815652,2008,31,championship,66,62,0,0,0,0,2008-02-08 20:45:00,,2008
+Cardiff City,Norwich City,1-2,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/200815656,2008,31,championship,57,58,0,0,2,0,2008-02-09 13:00:00,,2008
+Barnsley,West Bromwich Albion,2-1,https://www.besoccer.com/match/barnsley-fc/west-bromwich/200815653,2008,31,championship,50,65,0,0,2,0,2008-02-09 16:00:00,,2008
+Bristol City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/200815654,2008,31,championship,55,54,0,0,1,0,2008-02-09 16:00:00,,2008
+Burnley,Colchester United,1-1,https://www.besoccer.com/match/burnley-fc/colchester-united/200815655,2008,31,championship,56,49,0,0,0,0,2008-02-09 16:00:00,,2008
+Hull City,Blackpool,2-2,https://www.besoccer.com/match/hull-city/blackpool-fc/200815657,2008,31,championship,49,50,1,0,3,0,2008-02-09 16:00:00,,2008
+Ipswich Town,Watford,1-2,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/200815658,2008,31,championship,61,61,0,0,4,0,2008-02-09 16:00:00,,2008
+Preston North End,Coventry City,1-0,https://www.besoccer.com/match/preston-north-end/coventry-city/200815660,2008,31,championship,60,59,0,0,1,0,2008-02-09 16:00:00,,2008
+Sheffield United,Scunthorpe United,0-0,https://www.besoccer.com/match/sheffield-united/scunthorpe-united/200815661,2008,31,championship,62,45,0,0,0,0,2008-02-09 16:00:00,,2008
+Southampton,Queens Park Rangers,2-3,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/200815662,2008,31,championship,65,52,2,1,2,1,2008-02-09 16:00:00,,2008
+Wolves,Stoke City,2-4,https://www.besoccer.com/match/wolverhampton/stoke-city/200815663,2008,31,championship,62,58,3,0,1,0,2008-02-09 16:00:00,,2008
+Leicester,Plymouth Argyle,0-1,https://www.besoccer.com/match/leicester-city-fc/plymouth-argyle/200815659,2008,31,championship,61,53,3,0,1,0,2008-02-09 18:20:00,,2008
+Scunthorpe United,Bristol City,0-1,https://www.besoccer.com/match/scunthorpe-united/bristol-city-fc/200815671,2008,32,championship,45,55,2,0,2,0,2008-02-12 20:30:00,,2008
+Blackpool,Wolves,0-0,https://www.besoccer.com/match/blackpool-fc/wolverhampton/200815664,2008,32,championship,50,62,2,0,2,0,2008-02-12 20:45:00,,2008
+Colchester United,Preston North End,2-1,https://www.besoccer.com/match/colchester-united/preston-north-end/200815665,2008,32,championship,49,60,0,0,2,0,2008-02-12 20:45:00,,2008
+Coventry City,Cardiff City,0-0,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/200815666,2008,32,championship,59,57,3,0,2,0,2008-02-12 20:45:00,,2008
+Norwich City,Hull City,1-1,https://www.besoccer.com/match/norwich-city-fc/hull-city/200815668,2008,32,championship,58,49,0,0,1,0,2008-02-12 20:45:00,,2008
+Plymouth Argyle,Barnsley,3-0,https://www.besoccer.com/match/plymouth-argyle/barnsley-fc/200815669,2008,32,championship,53,51,1,0,1,0,2008-02-12 20:45:00,,2008
+Sheffield Wednesday,Charlton Athletic,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/charlton-athletic-fc/200815672,2008,32,championship,54,66,2,0,1,0,2008-02-12 20:45:00,,2008
+Stoke City,Southampton,3-2,https://www.besoccer.com/match/stoke-city/southampton-fc/200815673,2008,32,championship,58,65,2,0,4,0,2008-02-12 20:45:00,,2008
+Watford,Leicester,1-0,https://www.besoccer.com/match/watford-fc/leicester-city-fc/200815674,2008,32,championship,61,61,2,1,1,1,2008-02-12 20:45:00,,2008
+West Bromwich Albion,Sheffield United,0-0,https://www.besoccer.com/match/west-bromwich/sheffield-united/200815675,2008,32,championship,65,62,1,0,0,0,2008-02-12 20:45:00,,2008
+Crystal Palace,Ipswich Town,0-1,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/200815667,2008,32,championship,62,60,2,0,2,0,2008-02-12 21:00:00,,2008
+Queens Park Rangers,Burnley,2-4,https://www.besoccer.com/match/queens-park-rangers-fc/burnley-fc/200815670,2008,32,championship,53,56,1,0,1,0,2008-02-12 21:00:00,,2008
+Charlton Athletic,Watford,2-2,https://www.besoccer.com/match/charlton-athletic-fc/watford-fc/200815677,2008,33,championship,66,61,0,0,1,0,2008-02-16 16:00:00,,2008
+Hull City,Colchester United,1-1,https://www.besoccer.com/match/hull-city/colchester-united/200815678,2008,33,championship,50,49,2,0,1,0,2008-02-16 16:00:00,,2008
+Ipswich Town,Blackpool,2-1,https://www.besoccer.com/match/ipswich-town-fc/blackpool-fc/200815679,2008,33,championship,61,50,0,0,0,0,2008-02-16 16:00:00,,2008
+Leicester,Norwich City,4-0,https://www.besoccer.com/match/leicester-city-fc/norwich-city-fc/200815680,2008,33,championship,61,58,2,0,2,0,2008-02-16 16:00:00,,2008
+Bristol City,Crystal Palace,1-1,https://www.besoccer.com/match/bristol-city-fc/crystal-palace-fc/200815681,2008,33,championship,55,61,1,0,5,0,2008-02-18 20:45:00,,2008
+Southampton,Plymouth Argyle,0-2,https://www.besoccer.com/match/southampton-fc/plymouth-argyle/200815682,2008,33,championship,65,54,0,0,1,0,2008-02-19 20:45:00,,2008
+Barnsley,Queens Park Rangers,0-0,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/200815695,2008,33,championship,51,52,0,0,2,0,2008-02-26 20:45:00,,2008
+Burnley,Coventry City,2-0,https://www.besoccer.com/match/burnley-fc/coventry-city/200815696,2008,33,championship,56,58,1,0,0,0,2008-02-26 20:45:00,,2008
+Preston North End,Stoke City,2-0,https://www.besoccer.com/match/preston-north-end/stoke-city/200815697,2008,33,championship,60,58,1,0,4,0,2008-02-26 20:45:00,,2008
+Wolves,Scunthorpe United,2-1,https://www.besoccer.com/match/wolverhampton/scunthorpe-united/200815755,2008,33,championship,62,45,1,0,2,0,2008-03-18 20:45:00,,2008
+Cardiff City,West Bromwich Albion,0-0,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/200815780,2008,33,championship,58,65,0,0,1,0,2008-04-01 20:45:00,,2008
+Sheffield United,Sheffield Wednesday,2-2,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/200815792,2008,33,championship,62,54,1,0,3,0,2008-04-08 20:45:00,,2008
+Blackpool,Charlton Athletic,5-3,https://www.besoccer.com/match/blackpool-fc/charlton-athletic-fc/200815683,2008,34,championship,50,66,0,0,1,0,2008-02-23 16:00:00,,2008
+Colchester United,Bristol City,1-2,https://www.besoccer.com/match/colchester-united/bristol-city-fc/200815684,2008,34,championship,49,55,1,0,0,0,2008-02-23 16:00:00,,2008
+Coventry City,Leicester,2-0,https://www.besoccer.com/match/coventry-city/leicester-city-fc/200815685,2008,34,championship,58,61,2,0,2,0,2008-02-23 16:00:00,,2008
+Crystal Palace,Wolves,0-2,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/200815686,2008,34,championship,61,61,2,0,1,0,2008-02-23 16:00:00,,2008
+Norwich City,Barnsley,1-0,https://www.besoccer.com/match/norwich-city-fc/barnsley-fc/200815687,2008,34,championship,58,51,0,0,1,0,2008-02-23 16:00:00,,2008
+Plymouth Argyle,Burnley,3-1,https://www.besoccer.com/match/plymouth-argyle/burnley-fc/200815688,2008,34,championship,54,56,3,0,2,0,2008-02-23 16:00:00,,2008
+Queens Park Rangers,Sheffield United,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/200815689,2008,34,championship,52,62,0,0,2,0,2008-02-23 16:00:00,,2008
+Scunthorpe United,Southampton,1-1,https://www.besoccer.com/match/scunthorpe-united/southampton-fc/200815690,2008,34,championship,45,64,2,1,2,1,2008-02-23 16:00:00,,2008
+Sheffield Wednesday,Cardiff City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/200815691,2008,34,championship,54,57,1,0,1,0,2008-02-23 16:00:00,,2008
+Stoke City,Ipswich Town,1-0,https://www.besoccer.com/match/stoke-city/ipswich-town-fc/200815692,2008,34,championship,58,61,2,0,0,0,2008-02-23 16:00:00,,2008
+Watford,Preston North End,0-0,https://www.besoccer.com/match/watford-fc/preston-north-end/200815693,2008,34,championship,61,60,0,0,2,0,2008-02-23 16:00:00,,2008
+West Bromwich Albion,Hull City,1-2,https://www.besoccer.com/match/west-bromwich/hull-city/200815694,2008,34,championship,65,50,2,0,5,0,2008-02-23 16:00:00,,2008
+Barnsley,Sheffield Wednesday,0-0,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/200815698,2008,35,championship,51,54,1,0,2,0,2008-03-01 16:00:00,,2008
+Bristol City,Hull City,2-1,https://www.besoccer.com/match/bristol-city-fc/hull-city/200815699,2008,35,championship,55,50,1,0,2,0,2008-03-01 16:00:00,,2008
+Burnley,Watford,2-2,https://www.besoccer.com/match/burnley-fc/watford-fc/200815700,2008,35,championship,56,61,3,0,1,0,2008-03-01 16:00:00,,2008
+Cardiff City,Leicester,0-1,https://www.besoccer.com/match/cardiff-city-fc/leicester-city-fc/200815701,2008,35,championship,57,61,0,0,0,0,2008-03-01 16:00:00,,2008
+Colchester United,Wolves,0-1,https://www.besoccer.com/match/colchester-united/wolverhampton/200815702,2008,35,championship,49,62,1,0,1,0,2008-03-01 16:00:00,,2008
+Norwich City,Blackpool,1-2,https://www.besoccer.com/match/norwich-city-fc/blackpool-fc/200815703,2008,35,championship,58,50,0,0,1,0,2008-03-01 16:00:00,,2008
+Preston North End,Crystal Palace,0-1,https://www.besoccer.com/match/preston-north-end/crystal-palace-fc/200815704,2008,35,championship,60,61,3,0,3,0,2008-03-01 16:00:00,,2008
+Scunthorpe United,Coventry City,2-1,https://www.besoccer.com/match/scunthorpe-united/coventry-city/200815705,2008,35,championship,45,58,2,0,4,0,2008-03-01 16:00:00,,2008
+Sheffield United,Charlton Athletic,0-2,https://www.besoccer.com/match/sheffield-united/charlton-athletic-fc/200815706,2008,35,championship,62,65,2,1,2,1,2008-03-01 16:00:00,,2008
+Southampton,Ipswich Town,1-1,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/200815707,2008,35,championship,64,61,0,0,1,0,2008-03-01 16:00:00,,2008
+West Bromwich Albion,Plymouth Argyle,3-0,https://www.besoccer.com/match/west-bromwich/plymouth-argyle/200815708,2008,35,championship,65,54,1,0,0,0,2008-03-01 16:00:00,,2008
+Queens Park Rangers,Stoke City,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/stoke-city/200815709,2008,35,championship,52,58,1,0,1,0,2008-03-02 14:15:00,,2008
+Stoke City,Scunthorpe United,3-2,https://www.besoccer.com/match/stoke-city/scunthorpe-united/200815676,2008,36,championship,58,45,0,0,2,0,2008-02-15 20:45:00,,2008
+Blackpool,Barnsley,1-1,https://www.besoccer.com/match/blackpool-fc/barnsley-fc/200815710,2008,36,championship,50,51,0,0,1,0,2008-03-04 20:45:00,,2008
+Charlton Athletic,Bristol City,1-1,https://www.besoccer.com/match/charlton-athletic-fc/bristol-city-fc/200815711,2008,36,championship,66,55,0,0,2,0,2008-03-04 20:45:00,,2008
+Hull City,Burnley,2-0,https://www.besoccer.com/match/hull-city/burnley-fc/200815713,2008,36,championship,50,56,2,2,1,2,2008-03-04 20:45:00,,2008
+Ipswich Town,Sheffield United,1-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/200815714,2008,36,championship,61,62,0,0,2,0,2008-03-04 20:45:00,,2008
+Leicester,Preston North End,0-1,https://www.besoccer.com/match/leicester-city-fc/preston-north-end/200815715,2008,36,championship,61,60,0,0,2,0,2008-03-04 20:45:00,,2008
+Plymouth Argyle,Colchester United,4-1,https://www.besoccer.com/match/plymouth-argyle/colchester-united/200815716,2008,36,championship,54,49,1,0,2,0,2008-03-04 20:45:00,,2008
+Sheffield Wednesday,West Bromwich Albion,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/west-bromwich/200815717,2008,36,championship,54,65,2,1,1,1,2008-03-04 20:45:00,,2008
+Watford,Norwich City,1-1,https://www.besoccer.com/match/watford-fc/norwich-city-fc/200815718,2008,36,championship,61,58,1,0,2,0,2008-03-04 20:45:00,,2008
+Wolves,Southampton,2-2,https://www.besoccer.com/match/wolverhampton/southampton-fc/200815719,2008,36,championship,62,64,1,0,1,0,2008-03-04 20:45:00,,2008
+Crystal Palace,Cardiff City,0-0,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/200815712,2008,36,championship,61,57,0,0,0,0,2008-03-04 21:00:00,,2008
+Coventry City,Queens Park Rangers,0-0,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/200815720,2008,36,championship,58,53,1,0,2,0,2008-03-05 20:45:00,,2008
+Blackpool,Southampton,2-2,https://www.besoccer.com/match/blackpool-fc/southampton-fc/200815721,2008,37,championship,50,64,1,0,0,0,2008-03-08 16:00:00,,2008
+Charlton Athletic,Preston North End,1-2,https://www.besoccer.com/match/charlton-athletic-fc/preston-north-end/200815722,2008,37,championship,65,60,0,0,0,0,2008-03-08 16:00:00,,2008
+Coventry City,Norwich City,1-0,https://www.besoccer.com/match/coventry-city/norwich-city-fc/200815723,2008,37,championship,58,58,2,0,2,0,2008-03-08 16:00:00,,2008
+Crystal Palace,Colchester United,2-1,https://www.besoccer.com/match/crystal-palace-fc/colchester-united/200815724,2008,37,championship,61,49,2,0,3,0,2008-03-08 16:00:00,,2008
+Hull City,Scunthorpe United,2-0,https://www.besoccer.com/match/hull-city/scunthorpe-united/200815725,2008,37,championship,50,45,0,0,0,0,2008-03-08 16:00:00,,2008
+Leicester,Bristol City,0-0,https://www.besoccer.com/match/leicester-city-fc/bristol-city-fc/200815726,2008,37,championship,61,55,2,0,0,0,2008-03-08 16:00:00,,2008
+Plymouth Argyle,Sheffield United,0-1,https://www.besoccer.com/match/plymouth-argyle/sheffield-united/200815727,2008,37,championship,54,62,2,0,3,0,2008-03-08 16:00:00,,2008
+Sheffield Wednesday,Queens Park Rangers,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/200815728,2008,37,championship,54,53,1,0,2,0,2008-03-08 16:00:00,,2008
+Stoke City,Burnley,1-1,https://www.besoccer.com/match/stoke-city/burnley-fc/200815729,2008,37,championship,58,56,3,0,2,0,2008-03-08 16:00:00,,2008
+Ipswich Town,Cardiff City,1-1,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/200815793,2008,37,championship,60,59,2,0,1,0,2008-04-09 20:45:00,,2008
+Watford,Barnsley,0-3,https://www.besoccer.com/match/watford-fc/barnsley-fc/200815794,2008,37,championship,61,51,0,0,1,0,2008-04-09 20:45:00,,2008
+Wolves,West Bromwich Albion,0-1,https://www.besoccer.com/match/wolverhampton/west-bromwich/200815808,2008,37,championship,62,65,1,0,1,0,2008-04-15 20:45:00,,2008
+Scunthorpe United,Plymouth Argyle,1-0,https://www.besoccer.com/match/scunthorpe-united/plymouth-argyle/200815737,2008,38,championship,45,54,0,0,1,0,2008-03-11 20:30:00,,2008
+Barnsley,Ipswich Town,4-1,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/200815730,2008,38,championship,52,61,1,0,0,0,2008-03-11 20:45:00,,2008
+Bristol City,Watford,0-0,https://www.besoccer.com/match/bristol-city-fc/watford-fc/200815731,2008,38,championship,55,61,1,0,2,0,2008-03-11 20:45:00,,2008
+Burnley,Charlton Athletic,1-0,https://www.besoccer.com/match/burnley-fc/charlton-athletic-fc/200815732,2008,38,championship,56,65,1,0,1,0,2008-03-11 20:45:00,,2008
+Colchester United,Sheffield Wednesday,1-2,https://www.besoccer.com/match/colchester-united/sheffield-wednesday-fc/200815733,2008,38,championship,49,54,0,0,2,0,2008-03-11 20:45:00,,2008
+Norwich City,Stoke City,0-1,https://www.besoccer.com/match/norwich-city-fc/stoke-city/200815734,2008,38,championship,58,58,0,0,1,0,2008-03-11 20:45:00,,2008
+Preston North End,Wolves,2-1,https://www.besoccer.com/match/preston-north-end/wolverhampton/200815735,2008,38,championship,60,62,2,0,0,0,2008-03-11 20:45:00,,2008
+Sheffield United,Coventry City,2-1,https://www.besoccer.com/match/sheffield-united/coventry-city/200815738,2008,38,championship,62,58,3,0,5,0,2008-03-11 20:45:00,,2008
+Southampton,Leicester,1-0,https://www.besoccer.com/match/southampton-fc/leicester-city-fc/200815739,2008,38,championship,64,61,2,0,3,0,2008-03-11 20:45:00,,2008
+Queens Park Rangers,Blackpool,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/blackpool-fc/200815736,2008,38,championship,53,50,0,0,2,0,2008-03-11 21:00:00,,2008
+Cardiff City,Hull City,1-0,https://www.besoccer.com/match/cardiff-city-fc/hull-city/200815740,2008,38,championship,58,50,3,0,1,0,2008-03-12 20:45:00,,2008
+West Bromwich Albion,Crystal Palace,1-1,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/200815741,2008,38,championship,65,61,0,0,0,0,2008-03-12 20:45:00,,2008
+Blackpool,Preston North End,0-0,https://www.besoccer.com/match/blackpool-fc/preston-north-end/200815742,2008,39,championship,50,60,1,0,3,0,2008-03-15 13:30:00,,2008
+Bristol City,Plymouth Argyle,1-2,https://www.besoccer.com/match/bristol-city-fc/plymouth-argyle/200815743,2008,39,championship,55,54,0,0,0,0,2008-03-15 16:00:00,,2008
+Burnley,Wolves,1-3,https://www.besoccer.com/match/burnley-fc/wolverhampton/200815744,2008,39,championship,56,62,2,0,1,0,2008-03-15 16:00:00,,2008
+Colchester United,Cardiff City,1-1,https://www.besoccer.com/match/colchester-united/cardiff-city-fc/200815745,2008,39,championship,49,58,0,0,1,0,2008-03-15 16:00:00,,2008
+Coventry City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/200815746,2008,39,championship,58,54,1,0,3,0,2008-03-15 16:00:00,,2008
+Crystal Palace,Barnsley,2-0,https://www.besoccer.com/match/crystal-palace-fc/barnsley-fc/200815747,2008,39,championship,61,52,1,0,2,0,2008-03-15 16:00:00,,2008
+Hull City,Southampton,5-0,https://www.besoccer.com/match/hull-city/southampton-fc/200815748,2008,39,championship,50,64,0,0,1,0,2008-03-15 16:00:00,,2008
+Ipswich Town,Charlton Athletic,2-0,https://www.besoccer.com/match/ipswich-town-fc/charlton-athletic-fc/200815749,2008,39,championship,60,65,1,0,2,0,2008-03-15 16:00:00,,2008
+Queens Park Rangers,Scunthorpe United,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/scunthorpe-united/200815750,2008,39,championship,53,45,3,0,1,0,2008-03-15 16:00:00,,2008
+Sheffield United,Norwich City,2-0,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/200815751,2008,39,championship,62,58,0,0,3,0,2008-03-15 16:00:00,,2008
+Watford,Stoke City,0-0,https://www.besoccer.com/match/watford-fc/stoke-city/200815752,2008,39,championship,61,58,0,0,3,0,2008-03-15 16:00:00,,2008
+West Bromwich Albion,Leicester,1-4,https://www.besoccer.com/match/west-bromwich/leicester-city-fc/200815753,2008,39,championship,65,61,2,1,4,1,2008-03-15 16:00:00,,2008
+Charlton Athletic,West Bromwich Albion,1-1,https://www.besoccer.com/match/charlton-athletic-fc/west-bromwich/200815756,2008,40,championship,65,65,1,0,3,0,2008-03-21 17:45:00,,2008
+Preston North End,Burnley,2-1,https://www.besoccer.com/match/preston-north-end/burnley-fc/200815762,2008,40,championship,60,56,1,0,3,0,2008-03-22 14:00:00,,2008
+Barnsley,Sheffield United,0-1,https://www.besoccer.com/match/barnsley-fc/sheffield-united/200815757,2008,40,championship,52,62,0,0,1,0,2008-03-22 16:00:00,,2008
+Cardiff City,Bristol City,2-1,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/200815758,2008,40,championship,58,55,1,0,2,0,2008-03-22 16:00:00,,2008
+Leicester,Hull City,0-2,https://www.besoccer.com/match/leicester-city-fc/hull-city/200815759,2008,40,championship,61,51,4,0,2,0,2008-03-22 16:00:00,,2008
+Norwich City,Colchester United,5-1,https://www.besoccer.com/match/norwich-city-fc/colchester-united/200815760,2008,40,championship,58,48,1,0,0,0,2008-03-22 16:00:00,,2008
+Plymouth Argyle,Watford,1-1,https://www.besoccer.com/match/plymouth-argyle/watford-fc/200815761,2008,40,championship,54,61,1,0,3,0,2008-03-22 16:00:00,,2008
+Scunthorpe United,Ipswich Town,1-2,https://www.besoccer.com/match/scunthorpe-united/ipswich-town-fc/200815763,2008,40,championship,45,61,2,1,1,1,2008-03-22 16:00:00,,2008
+Sheffield Wednesday,Crystal Palace,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/200815764,2008,40,championship,54,62,1,0,1,0,2008-03-22 16:00:00,,2008
+Southampton,Coventry City,0-0,https://www.besoccer.com/match/southampton-fc/coventry-city/200815765,2008,40,championship,64,58,0,0,3,0,2008-03-22 16:00:00,,2008
+Wolves,Queens Park Rangers,3-3,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/200815767,2008,40,championship,62,53,2,0,3,0,2008-03-22 16:00:00,,2008
+Stoke City,Blackpool,1-1,https://www.besoccer.com/match/stoke-city/blackpool-fc/200815766,2008,40,championship,58,50,0,0,1,0,2008-03-22 16:30:00,,2008
+Bristol City,Norwich City,2-1,https://www.besoccer.com/match/bristol-city-fc/norwich-city-fc/200815768,2008,41,championship,55,58,1,0,1,0,2008-03-29 16:00:00,,2008
+Burnley,Barnsley,2-1,https://www.besoccer.com/match/burnley-fc/barnsley-fc/200815769,2008,41,championship,56,52,0,0,2,0,2008-03-29 16:00:00,,2008
+Cardiff City,Southampton,1-0,https://www.besoccer.com/match/cardiff-city-fc/southampton-fc/200815770,2008,41,championship,58,64,0,0,1,0,2008-03-29 16:00:00,,2008
+Coventry City,Plymouth Argyle,3-1,https://www.besoccer.com/match/coventry-city/plymouth-argyle/200815772,2008,41,championship,58,54,1,0,4,0,2008-03-29 16:00:00,,2008
+Crystal Palace,Blackpool,0-0,https://www.besoccer.com/match/crystal-palace-fc/blackpool-fc/200815773,2008,41,championship,62,50,4,0,1,0,2008-03-29 16:00:00,,2008
+Hull City,Watford,3-0,https://www.besoccer.com/match/hull-city/watford-fc/200815774,2008,41,championship,51,61,3,0,1,0,2008-03-29 16:00:00,,2008
+Ipswich Town,Queens Park Rangers,0-0,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/200815775,2008,41,championship,61,53,2,0,2,0,2008-03-29 16:00:00,,2008
+Leicester,Scunthorpe United,1-0,https://www.besoccer.com/match/leicester-city-fc/scunthorpe-united/200815776,2008,41,championship,61,45,0,0,0,0,2008-03-29 16:00:00,,2008
+Preston North End,Sheffield United,3-1,https://www.besoccer.com/match/preston-north-end/sheffield-united/200815777,2008,41,championship,60,62,1,0,1,0,2008-03-29 16:00:00,,2008
+Sheffield Wednesday,Stoke City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/stoke-city/200815778,2008,41,championship,54,58,0,0,2,0,2008-03-29 16:00:00,,2008
+West Bromwich Albion,Colchester United,4-3,https://www.besoccer.com/match/west-bromwich/colchester-united/200815779,2008,41,championship,65,48,1,0,2,0,2008-03-29 16:00:00,,2008
+Charlton Athletic,Wolves,2-3,https://www.besoccer.com/match/charlton-athletic-fc/wolverhampton/200815771,2008,41,championship,65,62,3,0,3,0,2008-03-29 18:20:00,,2008
+Scunthorpe United,Sheffield Wednesday,1-1,https://www.besoccer.com/match/scunthorpe-united/sheffield-wednesday-fc/200815786,2008,42,championship,45,54,1,0,4,0,2008-04-05 13:00:00,,2008
+Colchester United,Ipswich Town,2-0,https://www.besoccer.com/match/colchester-united/ipswich-town-fc/200815782,2008,42,championship,48,61,0,0,1,0,2008-04-05 16:00:00,,2008
+Norwich City,Burnley,2-0,https://www.besoccer.com/match/norwich-city-fc/burnley-fc/200815783,2008,42,championship,58,56,0,0,4,0,2008-04-05 16:00:00,,2008
+Plymouth Argyle,Charlton Athletic,1-2,https://www.besoccer.com/match/plymouth-argyle/charlton-athletic-fc/200815784,2008,42,championship,54,65,2,0,4,0,2008-04-05 16:00:00,,2008
+Queens Park Rangers,Preston North End,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/200815785,2008,42,championship,53,61,2,0,2,0,2008-04-05 16:00:00,,2008
+Sheffield United,Leicester,3-0,https://www.besoccer.com/match/sheffield-united/leicester-city-fc/200815787,2008,42,championship,62,61,1,0,1,0,2008-04-05 16:00:00,,2008
+Southampton,Bristol City,2-0,https://www.besoccer.com/match/southampton-fc/bristol-city-fc/200815788,2008,42,championship,64,55,2,0,2,0,2008-04-05 16:00:00,,2008
+Watford,Coventry City,2-1,https://www.besoccer.com/match/watford-fc/coventry-city/200815789,2008,42,championship,61,58,1,0,0,0,2008-04-05 16:00:00,,2008
+Stoke City,Crystal Palace,1-2,https://www.besoccer.com/match/stoke-city/crystal-palace-fc/200815790,2008,42,championship,58,61,0,0,2,0,2008-04-07 21:00:00,,2008
+Blackpool,West Bromwich Albion,1-3,https://www.besoccer.com/match/blackpool-fc/west-bromwich/200815791,2008,42,championship,50,65,1,0,2,0,2008-04-08 20:45:00,,2008
+Barnsley,Hull City,1-3,https://www.besoccer.com/match/barnsley-fc/hull-city/200815807,2008,42,championship,52,51,0,0,0,0,2008-04-15 20:45:00,,2008
+Wolves,Cardiff City,3-0,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/200815821,2008,42,championship,62,59,0,0,0,0,2008-04-22 20:45:00,,2008
+Bristol City,Wolves,0-0,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/200815795,2008,43,championship,55,62,1,0,1,0,2008-04-12 16:00:00,,2008
+Burnley,Sheffield United,1-2,https://www.besoccer.com/match/burnley-fc/sheffield-united/200815796,2008,43,championship,56,62,1,0,1,0,2008-04-12 16:00:00,,2008
+Cardiff City,Blackpool,3-1,https://www.besoccer.com/match/cardiff-city-fc/blackpool-fc/200815797,2008,43,championship,59,50,0,0,0,0,2008-04-12 16:00:00,,2008
+Charlton Athletic,Southampton,1-1,https://www.besoccer.com/match/charlton-athletic-fc/southampton-fc/200815798,2008,43,championship,65,64,2,0,3,0,2008-04-12 16:00:00,,2008
+Coventry City,Stoke City,1-2,https://www.besoccer.com/match/coventry-city/stoke-city/200815799,2008,43,championship,58,58,2,0,2,0,2008-04-12 16:00:00,,2008
+Crystal Palace,Scunthorpe United,2-0,https://www.besoccer.com/match/crystal-palace-fc/scunthorpe-united/200815800,2008,43,championship,62,45,1,0,0,0,2008-04-12 16:00:00,,2008
+Hull City,Queens Park Rangers,1-1,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/200815801,2008,43,championship,51,53,1,0,3,0,2008-04-12 16:00:00,,2008
+Leicester,Colchester United,1-1,https://www.besoccer.com/match/leicester-city-fc/colchester-united/200815802,2008,43,championship,61,48,1,0,1,0,2008-04-12 16:00:00,,2008
+Preston North End,Barnsley,1-2,https://www.besoccer.com/match/preston-north-end/barnsley-fc/200815803,2008,43,championship,61,52,2,0,3,0,2008-04-12 16:00:00,,2008
+West Bromwich Albion,Watford,1-1,https://www.besoccer.com/match/west-bromwich/watford-fc/200815804,2008,43,championship,65,60,3,0,1,0,2008-04-12 18:20:00,,2008
+Ipswich Town,Norwich City,2-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/200815805,2008,43,championship,60,58,2,0,2,0,2008-04-13 13:00:00,,2008
+Sheffield Wednesday,Plymouth Argyle,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/plymouth-argyle/200815806,2008,43,championship,54,54,2,0,2,0,2008-04-14 21:00:00,,2008
+Barnsley,Leicester,0-1,https://www.besoccer.com/match/barnsley-fc/leicester-city-fc/200815809,2008,44,championship,52,61,1,0,1,0,2008-04-19 16:00:00,,2008
+Blackpool,Sheffield Wednesday,2-1,https://www.besoccer.com/match/blackpool-fc/sheffield-wednesday-fc/200815810,2008,44,championship,50,54,2,0,0,0,2008-04-19 16:00:00,,2008
+Colchester United,Coventry City,1-5,https://www.besoccer.com/match/colchester-united/coventry-city/200815811,2008,44,championship,49,58,1,0,2,0,2008-04-19 16:00:00,,2008
+Norwich City,West Bromwich Albion,1-2,https://www.besoccer.com/match/norwich-city-fc/west-bromwich/200815812,2008,44,championship,58,65,4,0,1,0,2008-04-19 16:00:00,,2008
+Plymouth Argyle,Preston North End,2-2,https://www.besoccer.com/match/plymouth-argyle/preston-north-end/200815813,2008,44,championship,54,60,1,0,3,0,2008-04-19 16:00:00,,2008
+Queens Park Rangers,Charlton Athletic,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/charlton-athletic-fc/200815814,2008,44,championship,53,65,3,0,4,0,2008-04-19 16:00:00,,2008
+Scunthorpe United,Cardiff City,3-2,https://www.besoccer.com/match/scunthorpe-united/cardiff-city-fc/200815815,2008,44,championship,45,59,2,0,2,0,2008-04-19 16:00:00,,2008
+Sheffield United,Hull City,2-0,https://www.besoccer.com/match/sheffield-united/hull-city/200815816,2008,44,championship,63,52,1,0,3,0,2008-04-19 16:00:00,,2008
+Southampton,Burnley,0-1,https://www.besoccer.com/match/southampton-fc/burnley-fc/200815817,2008,44,championship,64,56,0,0,3,0,2008-04-19 16:00:00,,2008
+Watford,Crystal Palace,0-2,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/200815819,2008,44,championship,60,62,4,0,4,0,2008-04-19 16:00:00,,2008
+Wolves,Ipswich Town,1-1,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/200815820,2008,44,championship,62,60,3,0,1,0,2008-04-19 16:00:00,,2008
+Stoke City,Bristol City,2-1,https://www.besoccer.com/match/stoke-city/bristol-city-fc/200815818,2008,44,championship,58,55,2,0,1,0,2008-04-19 18:20:00,,2008
+Barnsley,Charlton Athletic,3-0,https://www.besoccer.com/match/barnsley-fc/charlton-athletic-fc/200815822,2008,45,championship,52,65,1,0,2,0,2008-04-26 16:00:00,,2008
+Burnley,Cardiff City,3-3,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/200815823,2008,45,championship,56,59,0,0,0,0,2008-04-26 16:00:00,,2008
+Colchester United,Stoke City,0-1,https://www.besoccer.com/match/colchester-united/stoke-city/200815824,2008,45,championship,48,58,0,0,1,0,2008-04-26 16:00:00,,2008
+Coventry City,Wolves,1-1,https://www.besoccer.com/match/coventry-city/wolverhampton/200815825,2008,45,championship,58,62,3,0,3,0,2008-04-26 16:00:00,,2008
+Hull City,Crystal Palace,2-1,https://www.besoccer.com/match/hull-city/crystal-palace-fc/200815826,2008,45,championship,52,62,0,0,1,0,2008-04-26 16:00:00,,2008
+Leicester,Sheffield Wednesday,1-3,https://www.besoccer.com/match/leicester-city-fc/sheffield-wednesday-fc/200815827,2008,45,championship,61,54,1,0,5,0,2008-04-26 16:00:00,,2008
+Norwich City,Queens Park Rangers,3-0,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/200815828,2008,45,championship,58,53,1,0,2,0,2008-04-26 16:00:00,,2008
+Plymouth Argyle,Blackpool,3-0,https://www.besoccer.com/match/plymouth-argyle/blackpool-fc/200815829,2008,45,championship,54,50,1,0,2,0,2008-04-26 16:00:00,,2008
+Preston North End,Ipswich Town,2-2,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/200815830,2008,45,championship,60,60,0,0,0,0,2008-04-26 16:00:00,,2008
+Sheffield United,Bristol City,2-1,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/200815831,2008,45,championship,63,55,1,0,1,0,2008-04-26 16:00:00,,2008
+Watford,Scunthorpe United,0-1,https://www.besoccer.com/match/watford-fc/scunthorpe-united/200815832,2008,45,championship,60,45,2,0,1,0,2008-04-26 16:00:00,,2008
+West Bromwich Albion,Southampton,1-1,https://www.besoccer.com/match/west-bromwich/southampton-fc/200815833,2008,45,championship,65,64,2,0,3,0,2008-04-28 20:45:00,,2008
+Blackpool,Watford,1-1,https://www.besoccer.com/match/blackpool-fc/watford-fc/200815834,2008,46,championship,50,60,0,0,0,0,2008-05-04 15:00:00,,2008
+Bristol City,Preston North End,3-0,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/200815835,2008,46,championship,55,60,0,0,3,0,2008-05-04 15:00:00,,2008
+Cardiff City,Barnsley,3-0,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/200815836,2008,46,championship,59,52,1,0,4,0,2008-05-04 15:00:00,,2008
+Charlton Athletic,Coventry City,4-1,https://www.besoccer.com/match/charlton-athletic-fc/coventry-city/200815837,2008,46,championship,64,58,0,0,2,0,2008-05-04 15:00:00,,2008
+Crystal Palace,Burnley,5-0,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/200815838,2008,46,championship,62,56,0,0,1,0,2008-05-04 15:00:00,,2008
+Ipswich Town,Hull City,1-0,https://www.besoccer.com/match/ipswich-town-fc/hull-city/200815839,2008,46,championship,60,52,2,0,4,0,2008-05-04 15:00:00,,2008
+Queens Park Rangers,West Bromwich Albion,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/200815840,2008,46,championship,53,65,0,1,2,1,2008-05-04 15:00:00,,2008
+Scunthorpe United,Colchester United,3-3,https://www.besoccer.com/match/scunthorpe-united/colchester-united/200815841,2008,46,championship,45,48,1,0,1,0,2008-05-04 15:00:00,,2008
+Sheffield Wednesday,Norwich City,4-1,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/200815842,2008,46,championship,55,58,2,0,0,0,2008-05-04 15:00:00,,2008
+Southampton,Sheffield United,3-2,https://www.besoccer.com/match/southampton-fc/sheffield-united/200815843,2008,46,championship,64,63,0,0,2,0,2008-05-04 15:00:00,,2008
+Stoke City,Leicester,0-0,https://www.besoccer.com/match/stoke-city/leicester-city-fc/200815844,2008,46,championship,58,60,1,0,2,0,2008-05-04 15:00:00,,2008
+Wolves,Plymouth Argyle,1-0,https://www.besoccer.com/match/wolverhampton/plymouth-argyle/200815845,2008,46,championship,62,54,1,0,4,0,2008-05-04 15:00:00,,2008

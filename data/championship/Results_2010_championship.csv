@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Middlesbrough,Sheffield United,0-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-united/201021047,2010,1,championship,67,63,1,0,0,0,2009-08-07 21:00:00,,2010
+Cardiff City,Scunthorpe United,4-0,https://www.besoccer.com/match/cardiff-city-fc/scunthorpe-united/201021048,2010,1,championship,60,46,0,0,1,0,2009-08-08 16:00:00,,2010
+Crystal Palace,Plymouth Argyle,1-1,https://www.besoccer.com/match/crystal-palace-fc/plymouth-argyle/201021049,2010,1,championship,60,52,1,0,2,0,2009-08-08 16:00:00,,2010
+Derby County,Peterborough United,2-1,https://www.besoccer.com/match/derby-county-fc/peterborough-u/201021050,2010,1,championship,57,47,1,0,3,0,2009-08-08 16:00:00,,2010
+Leicester,Swansea City,2-1,https://www.besoccer.com/match/leicester-city-fc/swansea-city-afc/201021051,2010,1,championship,56,52,2,0,1,0,2009-08-08 16:00:00,,2010
+Preston North End,Bristol City,2-2,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/201021052,2010,1,championship,60,55,2,0,2,0,2009-08-08 16:00:00,,2010
+Queens Park Rangers,Blackpool,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/blackpool-fc/201021053,2010,1,championship,54,50,4,0,1,0,2009-08-08 16:00:00,,2010
+Reading,Nottingham Forest,0-0,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/201021054,2010,1,championship,64,54,1,0,1,0,2009-08-08 16:00:00,,2010
+Sheffield Wednesday,Barnsley,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/201021055,2010,1,championship,55,51,0,0,2,0,2009-08-08 16:00:00,,2010
+Watford,Doncaster Rovers,1-1,https://www.besoccer.com/match/watford-fc/doncaster-rovers/201021056,2010,1,championship,59,48,0,0,0,0,2009-08-08 16:00:00,,2010
+West Bromwich Albion,Newcastle,1-1,https://www.besoccer.com/match/west-bromwich/newcastle-united-fc/201021057,2010,1,championship,63,69,0,0,2,0,2009-08-08 18:30:00,,2010
+Coventry City,Ipswich Town,2-1,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/201021058,2010,1,championship,57,60,0,0,0,0,2009-08-09 13:45:00,,2010
+Barnsley,Coventry City,0-2,https://www.besoccer.com/match/barnsley-fc/coventry-city/201021059,2010,2,championship,51,57,1,0,1,0,2009-08-15 16:00:00,,2010
+Blackpool,Cardiff City,1-1,https://www.besoccer.com/match/blackpool-fc/cardiff-city-fc/201021060,2010,2,championship,50,60,0,0,2,0,2009-08-15 16:00:00,,2010
+Bristol City,Crystal Palace,1-0,https://www.besoccer.com/match/bristol-city-fc/crystal-palace-fc/201021061,2010,2,championship,56,60,1,0,1,0,2009-08-15 16:00:00,,2010
+Doncaster Rovers,Preston North End,1-1,https://www.besoccer.com/match/doncaster-rovers/preston-north-end/201021062,2010,2,championship,48,60,0,0,1,0,2009-08-15 16:00:00,,2010
+Ipswich Town,Leicester,0-0,https://www.besoccer.com/match/ipswich-town-fc/leicester-city-fc/201021063,2010,2,championship,60,57,1,0,4,0,2009-08-15 16:00:00,,2010
+Nottingham Forest,West Bromwich Albion,0-1,https://www.besoccer.com/match/nottingham-forest-fc/west-bromwich/201021064,2010,2,championship,55,63,2,0,5,0,2009-08-15 16:00:00,,2010
+Peterborough United,Sheffield Wednesday,1-1,https://www.besoccer.com/match/peterborough-u/sheffield-wednesday-fc/201021065,2010,2,championship,47,55,0,0,1,0,2009-08-15 16:00:00,,2010
+Plymouth Argyle,Queens Park Rangers,1-1,https://www.besoccer.com/match/plymouth-argyle/queens-park-rangers-fc/201021066,2010,2,championship,52,55,1,0,0,0,2009-08-15 16:00:00,,2010
+Scunthorpe United,Derby County,3-2,https://www.besoccer.com/match/scunthorpe-united/derby-county-fc/201021067,2010,2,championship,46,56,0,0,0,0,2009-08-15 16:00:00,,2010
+Sheffield United,Watford,2-0,https://www.besoccer.com/match/sheffield-united/watford-fc/201021068,2010,2,championship,63,60,2,0,2,0,2009-08-15 16:00:00,,2010
+Swansea City,Middlesbrough,0-3,https://www.besoccer.com/match/swansea-city-afc/middlesbrough-fc/201021069,2010,2,championship,52,67,2,0,4,0,2009-08-15 16:00:00,,2010
+Newcastle,Reading,3-0,https://www.besoccer.com/match/newcastle-united-fc/reading-fc/201021070,2010,2,championship,69,64,3,0,0,0,2009-08-15 18:20:00,,2010
+Barnsley,Preston North End,0-3,https://www.besoccer.com/match/barnsley-fc/preston-north-end/201021071,2010,3,championship,51,60,4,0,2,0,2009-08-18 20:45:00,,2010
+Blackpool,Derby County,0-0,https://www.besoccer.com/match/blackpool-fc/derby-county-fc/201021072,2010,3,championship,50,56,0,0,0,0,2009-08-18 20:45:00,,2010
+Bristol City,Queens Park Rangers,1-0,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/201021073,2010,3,championship,56,55,3,0,3,0,2009-08-18 20:45:00,,2010
+Doncaster Rovers,Coventry City,0-0,https://www.besoccer.com/match/doncaster-rovers/coventry-city/201021074,2010,3,championship,48,57,1,0,1,0,2009-08-18 20:45:00,,2010
+Ipswich Town,Crystal Palace,1-3,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/201021075,2010,3,championship,60,59,0,0,1,0,2009-08-18 20:45:00,,2010
+Nottingham Forest,Watford,2-4,https://www.besoccer.com/match/nottingham-forest-fc/watford-fc/201021076,2010,3,championship,54,60,1,0,1,0,2009-08-18 20:45:00,,2010
+Peterborough United,West Bromwich Albion,2-3,https://www.besoccer.com/match/peterborough-u/west-bromwich/201021077,2010,3,championship,47,63,2,0,1,0,2009-08-18 20:45:00,,2010
+Plymouth Argyle,Cardiff City,1-3,https://www.besoccer.com/match/plymouth-argyle/cardiff-city-fc/201021078,2010,3,championship,52,60,1,0,2,0,2009-08-18 20:45:00,,2010
+Scunthorpe United,Middlesbrough,0-2,https://www.besoccer.com/match/scunthorpe-united/middlesbrough-fc/201021079,2010,3,championship,46,68,4,0,2,0,2009-08-18 20:45:00,,2010
+Sheffield United,Leicester,1-1,https://www.besoccer.com/match/sheffield-united/leicester-city-fc/201021080,2010,3,championship,63,57,3,0,3,0,2009-08-18 20:45:00,,2010
+Swansea City,Reading,0-0,https://www.besoccer.com/match/swansea-city-afc/reading-fc/201021081,2010,3,championship,52,64,3,0,4,0,2009-08-18 20:45:00,,2010
+Newcastle,Sheffield Wednesday,1-0,https://www.besoccer.com/match/newcastle-united-fc/sheffield-wednesday-fc/201021082,2010,3,championship,69,55,3,0,2,0,2009-08-19 20:45:00,,2010
+Coventry City,Swansea City,0-1,https://www.besoccer.com/match/coventry-city/swansea-city-afc/201021083,2010,4,championship,57,52,3,0,3,0,2009-08-22 16:00:00,,2010
+Crystal Palace,Newcastle,0-2,https://www.besoccer.com/match/crystal-palace-fc/newcastle-united-fc/201021084,2010,4,championship,60,69,3,0,0,0,2009-08-22 16:00:00,,2010
+Derby County,Plymouth Argyle,2-1,https://www.besoccer.com/match/derby-county-fc/plymouth-argyle/201021085,2010,4,championship,56,52,1,0,2,0,2009-08-22 16:00:00,,2010
+Leicester,Barnsley,1-0,https://www.besoccer.com/match/leicester-city-fc/barnsley-fc/201021086,2010,4,championship,57,51,0,0,0,0,2009-08-22 16:00:00,,2010
+Middlesbrough,Doncaster Rovers,2-0,https://www.besoccer.com/match/middlesbrough-fc/doncaster-rovers/201021087,2010,4,championship,68,48,2,0,1,0,2009-08-22 16:00:00,,2010
+Preston North End,Peterborough United,2-0,https://www.besoccer.com/match/preston-north-end/peterborough-u/201021088,2010,4,championship,60,47,3,0,1,0,2009-08-22 16:00:00,,2010
+Queens Park Rangers,Nottingham Forest,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/201021089,2010,4,championship,54,54,0,0,0,0,2009-08-22 16:00:00,,2010
+Reading,Sheffield United,1-3,https://www.besoccer.com/match/reading-fc/sheffield-united/201021090,2010,4,championship,64,63,0,0,2,0,2009-08-22 16:00:00,,2010
+Sheffield Wednesday,Scunthorpe United,4-0,https://www.besoccer.com/match/sheffield-wednesday-fc/scunthorpe-united/201021091,2010,4,championship,55,46,0,0,1,0,2009-08-22 16:00:00,,2010
+Watford,Blackpool,2-2,https://www.besoccer.com/match/watford-fc/blackpool-fc/201021092,2010,4,championship,60,50,0,0,3,0,2009-08-22 16:00:00,,2010
+West Bromwich Albion,Ipswich Town,2-0,https://www.besoccer.com/match/west-bromwich/ipswich-town-fc/201021093,2010,4,championship,63,60,0,0,0,0,2009-08-22 18:20:00,,2010
+Cardiff City,Bristol City,3-0,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/201021094,2010,4,championship,61,56,0,0,3,0,2009-08-23 14:15:00,,2010
+Nottingham Forest,Derby County,3-2,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/201021095,2010,5,championship,55,56,3,0,5,0,2009-08-29 14:00:00,,2010
+Barnsley,Reading,1-3,https://www.besoccer.com/match/barnsley-fc/reading-fc/201021096,2010,5,championship,51,63,0,0,2,0,2009-08-29 16:00:00,,2010
+Blackpool,Coventry City,3-0,https://www.besoccer.com/match/blackpool-fc/coventry-city/201021097,2010,5,championship,51,57,1,0,0,0,2009-08-29 16:00:00,,2010
+Bristol City,Middlesbrough,2-1,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/201021098,2010,5,championship,55,67,1,0,2,0,2009-08-29 16:00:00,,2010
+Doncaster Rovers,Cardiff City,2-0,https://www.besoccer.com/match/doncaster-rovers/cardiff-city-fc/201021099,2010,5,championship,48,61,0,0,1,0,2009-08-29 16:00:00,,2010
+Ipswich Town,Preston North End,1-1,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/201021100,2010,5,championship,59,60,2,0,1,0,2009-08-29 16:00:00,,2010
+Plymouth Argyle,Sheffield Wednesday,1-3,https://www.besoccer.com/match/plymouth-argyle/sheffield-wednesday-fc/201021101,2010,5,championship,52,54,3,0,3,0,2009-08-29 16:00:00,,2010
+Scunthorpe United,Queens Park Rangers,0-1,https://www.besoccer.com/match/scunthorpe-united/queens-park-rangers-fc/201021102,2010,5,championship,47,55,1,0,1,0,2009-08-29 16:00:00,,2010
+Sheffield United,West Bromwich Albion,2-2,https://www.besoccer.com/match/sheffield-united/west-bromwich/201021103,2010,5,championship,63,63,1,0,5,0,2009-08-29 16:00:00,,2010
+Swansea City,Watford,1-1,https://www.besoccer.com/match/swansea-city-afc/watford-fc/201021104,2010,5,championship,52,59,3,0,1,0,2009-08-29 16:00:00,,2010
+Peterborough United,Crystal Palace,1-1,https://www.besoccer.com/match/peterborough-u/crystal-palace-fc/201021105,2010,5,championship,48,59,2,0,0,0,2009-08-31 18:15:00,,2010
+Newcastle,Leicester,1-0,https://www.besoccer.com/match/newcastle-united-fc/leicester-city-fc/201021106,2010,5,championship,70,57,1,0,1,0,2009-08-31 20:45:00,,2010
+Derby County,Sheffield United,0-1,https://www.besoccer.com/match/derby-county-fc/sheffield-united/201021107,2010,6,championship,56,63,2,0,4,0,2009-09-12 14:00:00,,2010
+Coventry City,Bristol City,1-1,https://www.besoccer.com/match/coventry-city/bristol-city-fc/201021108,2010,6,championship,57,55,3,0,3,0,2009-09-12 16:00:00,,2010
+Crystal Palace,Scunthorpe United,0-4,https://www.besoccer.com/match/crystal-palace-fc/scunthorpe-united/201021109,2010,6,championship,59,46,0,0,0,0,2009-09-12 16:00:00,,2010
+Leicester,Blackpool,2-1,https://www.besoccer.com/match/leicester-city-fc/blackpool-fc/201021110,2010,6,championship,57,51,1,0,3,0,2009-09-12 16:00:00,,2010
+Middlesbrough,Ipswich Town,3-1,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/201021111,2010,6,championship,67,59,3,0,5,0,2009-09-12 16:00:00,,2010
+Preston North End,Swansea City,2-0,https://www.besoccer.com/match/preston-north-end/swansea-city-afc/201021112,2010,6,championship,60,52,2,0,3,0,2009-09-12 16:00:00,,2010
+Queens Park Rangers,Peterborough United,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/peterborough-u/201021113,2010,6,championship,55,48,2,0,2,0,2009-09-12 16:00:00,,2010
+Reading,Doncaster Rovers,0-0,https://www.besoccer.com/match/reading-fc/doncaster-rovers/201021114,2010,6,championship,63,49,0,0,3,0,2009-09-12 16:00:00,,2010
+Sheffield Wednesday,Nottingham Forest,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/201021115,2010,6,championship,55,55,1,0,2,0,2009-09-12 16:00:00,,2010
+Watford,Barnsley,1-0,https://www.besoccer.com/match/watford-fc/barnsley-fc/201021116,2010,6,championship,59,51,1,0,2,0,2009-09-12 16:00:00,,2010
+West Bromwich Albion,Plymouth Argyle,3-1,https://www.besoccer.com/match/west-bromwich/plymouth-argyle/201021117,2010,6,championship,63,52,1,0,0,0,2009-09-12 16:00:00,,2010
+Cardiff City,Newcastle,0-1,https://www.besoccer.com/match/cardiff-city-fc/newcastle-united-fc/201021118,2010,6,championship,61,70,0,0,2,0,2009-09-13 15:05:00,,2010
+Coventry City,Sheffield United,3-2,https://www.besoccer.com/match/coventry-city/sheffield-united/201021119,2010,7,championship,57,63,1,0,0,0,2009-09-15 20:45:00,,2010
+Derby County,Barnsley,2-3,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/201021120,2010,7,championship,56,51,1,0,1,0,2009-09-15 20:45:00,,2010
+Ipswich Town,Nottingham Forest,1-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/201021121,2010,7,championship,59,55,3,1,4,1,2009-09-15 20:45:00,,2010
+Leicester,Peterborough United,1-1,https://www.besoccer.com/match/leicester-city-fc/peterborough-u/201021122,2010,7,championship,57,48,1,0,4,0,2009-09-15 20:45:00,,2010
+Plymouth Argyle,Watford,0-1,https://www.besoccer.com/match/plymouth-argyle/watford-fc/201021123,2010,7,championship,52,59,3,0,0,0,2009-09-15 20:45:00,,2010
+Scunthorpe United,Preston North End,3-1,https://www.besoccer.com/match/scunthorpe-united/preston-north-end/201021125,2010,7,championship,47,60,0,0,3,0,2009-09-15 20:45:00,,2010
+Sheffield Wednesday,Middlesbrough,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/201021126,2010,7,championship,55,67,0,0,2,0,2009-09-15 20:45:00,,2010
+Swansea City,Bristol City,0-0,https://www.besoccer.com/match/swansea-city-afc/bristol-city-fc/201021127,2010,7,championship,52,55,1,0,4,0,2009-09-15 20:45:00,,2010
+West Bromwich Albion,Doncaster Rovers,3-1,https://www.besoccer.com/match/west-bromwich/doncaster-rovers/201021128,2010,7,championship,63,49,2,0,0,0,2009-09-15 20:45:00,,2010
+Blackpool,Newcastle,2-1,https://www.besoccer.com/match/blackpool-fc/newcastle-united-fc/201021129,2010,7,championship,51,70,0,0,1,0,2009-09-16 20:45:00,,2010
+Reading,Cardiff City,0-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/201021130,2010,7,championship,63,60,0,0,1,0,2009-09-16 21:00:00,,2010
+Queens Park Rangers,Crystal Palace,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/201021124,2010,7,championship,56,59,1,0,1,0,2009-11-03 21:00:00,,2010
+Sheffield United,Sheffield Wednesday,3-2,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/201021131,2010,8,championship,63,54,6,0,1,0,2009-09-18 20:45:00,,2010
+Barnsley,Swansea City,0-0,https://www.besoccer.com/match/barnsley-fc/swansea-city-afc/201021132,2010,8,championship,51,52,2,0,0,0,2009-09-19 16:00:00,,2010
+Bristol City,Scunthorpe United,1-1,https://www.besoccer.com/match/bristol-city-fc/scunthorpe-united/201021133,2010,8,championship,55,47,1,0,1,0,2009-09-19 16:00:00,,2010
+Cardiff City,Queens Park Rangers,0-2,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/201021134,2010,8,championship,61,55,2,0,2,0,2009-09-19 16:00:00,,2010
+Crystal Palace,Derby County,1-0,https://www.besoccer.com/match/crystal-palace-fc/derby-county-fc/201021135,2010,8,championship,59,56,2,0,2,0,2009-09-19 16:00:00,,2010
+Doncaster Rovers,Ipswich Town,3-3,https://www.besoccer.com/match/doncaster-rovers/ipswich-town-fc/201021136,2010,8,championship,48,59,0,0,0,0,2009-09-19 16:00:00,,2010
+Middlesbrough,West Bromwich Albion,0-5,https://www.besoccer.com/match/middlesbrough-fc/west-bromwich/201021137,2010,8,championship,68,63,2,0,5,0,2009-09-19 16:00:00,,2010
+Newcastle,Plymouth Argyle,3-1,https://www.besoccer.com/match/newcastle-united-fc/plymouth-argyle/201021138,2010,8,championship,70,51,1,0,3,0,2009-09-19 16:00:00,,2010
+Nottingham Forest,Blackpool,0-1,https://www.besoccer.com/match/nottingham-forest-fc/blackpool-fc/201021139,2010,8,championship,55,51,0,0,0,0,2009-09-19 16:00:00,,2010
+Peterborough United,Reading,3-2,https://www.besoccer.com/match/peterborough-u/reading-fc/201021140,2010,8,championship,48,63,0,0,2,0,2009-09-19 16:00:00,,2010
+Preston North End,Coventry City,3-2,https://www.besoccer.com/match/preston-north-end/coventry-city/201021141,2010,8,championship,60,57,1,0,1,0,2009-09-19 16:00:00,,2010
+Watford,Leicester,3-3,https://www.besoccer.com/match/watford-fc/leicester-city-fc/201021142,2010,8,championship,60,57,0,0,2,0,2009-09-19 16:00:00,,2010
+Scunthorpe United,Doncaster Rovers,2-2,https://www.besoccer.com/match/scunthorpe-united/doncaster-rovers/201021143,2010,9,championship,48,49,3,0,2,0,2009-09-26 13:00:00,,2010
+Blackpool,Peterborough United,2-0,https://www.besoccer.com/match/blackpool-fc/peterborough-u/201021144,2010,9,championship,52,49,0,0,0,0,2009-09-26 16:00:00,,2010
+Coventry City,Middlesbrough,2-2,https://www.besoccer.com/match/coventry-city/middlesbrough-fc/201021145,2010,9,championship,57,67,2,0,3,0,2009-09-26 16:00:00,,2010
+Derby County,Bristol City,1-0,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/201021146,2010,9,championship,56,55,2,0,2,0,2009-09-26 16:00:00,,2010
+Leicester,Preston North End,1-2,https://www.besoccer.com/match/leicester-city-fc/preston-north-end/201021147,2010,9,championship,57,60,3,0,0,0,2009-09-26 16:00:00,,2010
+Queens Park Rangers,Barnsley,5-2,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/201021149,2010,9,championship,55,52,1,0,3,0,2009-09-26 16:00:00,,2010
+Reading,Watford,1-1,https://www.besoccer.com/match/reading-fc/watford-fc/201021150,2010,9,championship,63,60,0,0,1,0,2009-09-26 16:00:00,,2010
+Sheffield Wednesday,Cardiff City,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/201021151,2010,9,championship,54,60,1,0,3,0,2009-09-26 16:00:00,,2010
+Swansea City,Sheffield United,2-1,https://www.besoccer.com/match/swansea-city-afc/sheffield-united/201021152,2010,9,championship,52,63,1,0,1,0,2009-09-26 16:00:00,,2010
+West Bromwich Albion,Crystal Palace,0-1,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/201021153,2010,9,championship,64,59,3,0,2,0,2009-09-26 16:00:00,,2010
+Ipswich Town,Newcastle,0-4,https://www.besoccer.com/match/ipswich-town-fc/newcastle-united-fc/201021154,2010,9,championship,59,69,2,0,1,0,2009-09-26 18:30:00,,2010
+Plymouth Argyle,Nottingham Forest,0-1,https://www.besoccer.com/match/plymouth-argyle/nottingham-forest-fc/201021148,2010,9,championship,51,55,0,0,0,0,2009-09-27 14:15:00,,2010
+Barnsley,West Bromwich Albion,3-1,https://www.besoccer.com/match/barnsley-fc/west-bromwich/201021155,2010,10,championship,52,64,1,0,1,0,2009-09-29 20:45:00,,2010
+Bristol City,Blackpool,2-0,https://www.besoccer.com/match/bristol-city-fc/blackpool-fc/201021156,2010,10,championship,55,52,0,0,1,0,2009-09-29 20:45:00,,2010
+Cardiff City,Derby County,6-1,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/201021157,2010,10,championship,60,56,0,0,1,0,2009-09-29 20:45:00,,2010
+Doncaster Rovers,Swansea City,0-0,https://www.besoccer.com/match/doncaster-rovers/swansea-city-afc/201021159,2010,10,championship,49,52,0,0,1,0,2009-09-29 20:45:00,,2010
+Peterborough United,Plymouth Argyle,1-2,https://www.besoccer.com/match/peterborough-u/plymouth-argyle/201021162,2010,10,championship,48,51,1,0,2,0,2009-09-29 20:45:00,,2010
+Preston North End,Reading,1-2,https://www.besoccer.com/match/preston-north-end/reading-fc/201021163,2010,10,championship,60,63,0,0,3,0,2009-09-29 20:45:00,,2010
+Sheffield United,Ipswich Town,3-3,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/201021164,2010,10,championship,63,59,3,0,1,0,2009-09-29 20:45:00,,2010
+Watford,Coventry City,2-3,https://www.besoccer.com/match/watford-fc/coventry-city/201021165,2010,10,championship,60,57,0,0,0,0,2009-09-29 20:45:00,,2010
+Crystal Palace,Sheffield Wednesday,0-0,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/201021158,2010,10,championship,59,55,2,0,2,0,2009-09-29 21:00:00,,2010
+Middlesbrough,Leicester,0-1,https://www.besoccer.com/match/middlesbrough-fc/leicester-city-fc/201021160,2010,10,championship,67,57,0,0,1,0,2009-09-29 21:00:00,,2010
+Nottingham Forest,Scunthorpe United,2-0,https://www.besoccer.com/match/nottingham-forest-fc/scunthorpe-united/201021161,2010,10,championship,55,48,2,0,3,0,2009-09-30 20:45:00,,2010
+Newcastle,Queens Park Rangers,1-1,https://www.besoccer.com/match/newcastle-united-fc/queens-park-rangers-fc/201021166,2010,10,championship,69,55,1,0,3,0,2009-09-30 20:45:00,,2010
+Coventry City,Leicester,1-1,https://www.besoccer.com/match/coventry-city/leicester-city-fc/201021167,2010,11,championship,57,57,2,0,2,0,2009-10-03 13:30:00,,2010
+Preston North End,West Bromwich Albion,0-0,https://www.besoccer.com/match/preston-north-end/west-bromwich/201021174,2010,11,championship,60,63,0,0,0,0,2009-10-03 13:45:00,,2010
+Barnsley,Ipswich Town,2-1,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/201021168,2010,11,championship,52,59,1,0,3,0,2009-10-03 16:00:00,,2010
+Crystal Palace,Blackpool,4-1,https://www.besoccer.com/match/crystal-palace-fc/blackpool-fc/201021169,2010,11,championship,59,52,1,0,1,0,2009-10-03 16:00:00,,2010
+Derby County,Sheffield Wednesday,3-0,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/201021170,2010,11,championship,56,55,1,0,1,0,2009-10-03 16:00:00,,2010
+Newcastle,Bristol City,0-0,https://www.besoccer.com/match/newcastle-united-fc/bristol-city-fc/201021171,2010,11,championship,69,55,1,0,2,0,2009-10-03 16:00:00,,2010
+Peterborough United,Nottingham Forest,1-2,https://www.besoccer.com/match/peterborough-u/nottingham-forest-fc/201021172,2010,11,championship,48,55,1,0,4,0,2009-10-03 16:00:00,,2010
+Plymouth Argyle,Scunthorpe United,2-1,https://www.besoccer.com/match/plymouth-argyle/scunthorpe-united/201021173,2010,11,championship,51,47,1,0,2,0,2009-10-03 16:00:00,,2010
+Reading,Middlesbrough,0-2,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/201021175,2010,11,championship,63,67,1,0,0,0,2009-10-03 16:00:00,,2010
+Sheffield United,Doncaster Rovers,1-1,https://www.besoccer.com/match/sheffield-united/doncaster-rovers/201021176,2010,11,championship,63,49,0,0,1,0,2009-10-03 16:00:00,,2010
+Swansea City,Queens Park Rangers,2-0,https://www.besoccer.com/match/swansea-city-afc/queens-park-rangers-fc/201021177,2010,11,championship,52,55,1,0,1,0,2009-10-03 16:00:00,,2010
+Watford,Cardiff City,0-4,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/201021178,2010,11,championship,59,60,1,0,2,0,2009-10-03 16:00:00,,2010
+Scunthorpe United,Sheffield United,3-1,https://www.besoccer.com/match/scunthorpe-united/sheffield-united/201021179,2010,12,championship,47,63,2,0,1,0,2009-10-17 13:00:00,,2010
+Blackpool,Plymouth Argyle,2-0,https://www.besoccer.com/match/blackpool-fc/plymouth-argyle/201021180,2010,12,championship,51,51,1,0,4,0,2009-10-17 16:00:00,,2010
+Bristol City,Peterborough United,1-1,https://www.besoccer.com/match/bristol-city-fc/peterborough-u/201021181,2010,12,championship,55,48,2,0,2,0,2009-10-17 16:00:00,,2010
+Cardiff City,Crystal Palace,1-1,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/201021182,2010,12,championship,61,59,0,0,3,0,2009-10-17 16:00:00,,2010
+Doncaster Rovers,Barnsley,0-1,https://www.besoccer.com/match/doncaster-rovers/barnsley-fc/201021183,2010,12,championship,49,52,0,0,2,0,2009-10-17 16:00:00,,2010
+Ipswich Town,Swansea City,1-1,https://www.besoccer.com/match/ipswich-town-fc/swansea-city-afc/201021184,2010,12,championship,59,53,0,0,1,0,2009-10-17 16:00:00,,2010
+Leicester,Derby County,0-0,https://www.besoccer.com/match/leicester-city-fc/derby-county-fc/201021185,2010,12,championship,57,56,2,0,0,0,2009-10-17 16:00:00,,2010
+Middlesbrough,Watford,0-1,https://www.besoccer.com/match/middlesbrough-fc/watford-fc/201021186,2010,12,championship,67,59,1,0,1,0,2009-10-17 16:00:00,,2010
+Queens Park Rangers,Preston North End,4-0,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/201021188,2010,12,championship,55,60,0,0,0,0,2009-10-17 16:00:00,,2010
+Sheffield Wednesday,Coventry City,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/201021189,2010,12,championship,54,57,2,0,1,0,2009-10-17 16:00:00,,2010
+West Bromwich Albion,Reading,3-1,https://www.besoccer.com/match/west-bromwich/reading-fc/201021190,2010,12,championship,63,63,1,0,1,0,2009-10-17 16:00:00,,2010
+Nottingham Forest,Newcastle,1-0,https://www.besoccer.com/match/nottingham-forest-fc/newcastle-united-fc/201021187,2010,12,championship,55,69,1,0,3,0,2009-10-17 18:20:00,,2010
+Blackpool,Sheffield United,3-0,https://www.besoccer.com/match/blackpool-fc/sheffield-united/201021191,2010,13,championship,52,63,1,0,1,0,2009-10-20 20:45:00,,2010
+Bristol City,Plymouth Argyle,3-1,https://www.besoccer.com/match/bristol-city-fc/plymouth-argyle/201021192,2010,13,championship,55,51,0,0,0,0,2009-10-20 20:45:00,,2010
+Cardiff City,Coventry City,2-0,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/201021193,2010,13,championship,61,57,1,0,4,0,2009-10-20 20:45:00,,2010
+Doncaster Rovers,Peterborough United,3-1,https://www.besoccer.com/match/doncaster-rovers/peterborough-u/201021194,2010,13,championship,48,48,0,0,0,0,2009-10-20 20:45:00,,2010
+Ipswich Town,Watford,1-1,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/201021195,2010,13,championship,59,59,2,0,2,0,2009-10-20 20:45:00,,2010
+Leicester,Crystal Palace,2-0,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/201021196,2010,13,championship,57,59,0,0,0,0,2009-10-20 20:45:00,,2010
+Nottingham Forest,Barnsley,1-0,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/201021198,2010,13,championship,55,52,1,0,2,0,2009-10-20 20:45:00,,2010
+Scunthorpe United,Newcastle,2-1,https://www.besoccer.com/match/scunthorpe-united/newcastle-united-fc/201021200,2010,13,championship,48,69,1,0,1,0,2009-10-20 20:45:00,,2010
+Sheffield Wednesday,Preston North End,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/201021201,2010,13,championship,55,60,1,0,2,0,2009-10-20 20:45:00,,2010
+Middlesbrough,Derby County,2-0,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/201021197,2010,13,championship,67,56,3,0,2,0,2009-10-20 21:00:00,,2010
+Queens Park Rangers,Reading,4-1,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/201021199,2010,13,championship,55,63,2,0,0,0,2009-10-20 21:00:00,,2010
+West Bromwich Albion,Swansea City,0-1,https://www.besoccer.com/match/west-bromwich/swansea-city-afc/201021202,2010,13,championship,64,53,1,0,2,0,2009-10-20 21:00:00,,2010
+Watford,Sheffield Wednesday,4-1,https://www.besoccer.com/match/watford-fc/sheffield-wednesday-fc/201021213,2010,14,championship,59,54,0,0,0,0,2009-10-23 20:45:00,,2010
+Barnsley,Bristol City,2-3,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/201021203,2010,14,championship,52,55,1,1,1,1,2009-10-24 16:00:00,,2010
+Coventry City,West Bromwich Albion,0-0,https://www.besoccer.com/match/coventry-city/west-bromwich/201021204,2010,14,championship,57,63,3,0,3,0,2009-10-24 16:00:00,,2010
+Crystal Palace,Nottingham Forest,1-1,https://www.besoccer.com/match/crystal-palace-fc/nottingham-forest-fc/201021205,2010,14,championship,59,55,2,0,1,0,2009-10-24 16:00:00,,2010
+Newcastle,Doncaster Rovers,2-1,https://www.besoccer.com/match/newcastle-united-fc/doncaster-rovers/201021206,2010,14,championship,69,49,3,1,4,1,2009-10-24 16:00:00,,2010
+Peterborough United,Scunthorpe United,3-0,https://www.besoccer.com/match/peterborough-u/scunthorpe-united/201021207,2010,14,championship,48,48,1,0,3,0,2009-10-24 16:00:00,,2010
+Plymouth Argyle,Ipswich Town,1-1,https://www.besoccer.com/match/plymouth-argyle/ipswich-town-fc/201021208,2010,14,championship,51,59,1,1,1,1,2009-10-24 16:00:00,,2010
+Preston North End,Middlesbrough,2-2,https://www.besoccer.com/match/preston-north-end/middlesbrough-fc/201021209,2010,14,championship,60,67,1,0,3,0,2009-10-24 16:00:00,,2010
+Sheffield United,Cardiff City,3-4,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/201021211,2010,14,championship,63,61,2,0,2,0,2009-10-24 16:00:00,,2010
+Swansea City,Blackpool,0-0,https://www.besoccer.com/match/swansea-city-afc/blackpool-fc/201021212,2010,14,championship,53,52,0,0,3,0,2009-10-24 16:00:00,,2010
+Derby County,Queens Park Rangers,2-4,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/201021214,2010,14,championship,56,56,2,0,0,0,2009-10-24 18:30:00,,2010
+Reading,Leicester,0-1,https://www.besoccer.com/match/reading-fc/leicester-city-fc/201021210,2010,14,championship,62,57,3,0,0,0,2009-10-26 21:00:00,,2010
+Queens Park Rangers,Leicester,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/leicester-city-fc/201021222,2010,15,championship,56,57,0,0,3,0,2009-10-30 20:45:00,,2010
+Bristol City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/201021215,2010,15,championship,56,54,1,0,1,0,2009-10-31 16:00:00,,2010
+Coventry City,Reading,1-3,https://www.besoccer.com/match/coventry-city/reading-fc/201021216,2010,15,championship,57,62,1,0,0,0,2009-10-31 16:00:00,,2010
+Doncaster Rovers,Blackpool,3-3,https://www.besoccer.com/match/doncaster-rovers/blackpool-fc/201021217,2010,15,championship,49,52,2,0,0,0,2009-10-31 16:00:00,,2010
+Ipswich Town,Derby County,1-0,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/201021218,2010,15,championship,59,56,1,0,2,0,2009-10-31 16:00:00,,2010
+Middlesbrough,Plymouth Argyle,0-1,https://www.besoccer.com/match/middlesbrough-fc/plymouth-argyle/201021219,2010,15,championship,67,51,0,0,1,0,2009-10-31 16:00:00,,2010
+Peterborough United,Barnsley,1-2,https://www.besoccer.com/match/peterborough-u/barnsley-fc/201021220,2010,15,championship,48,52,0,0,4,0,2009-10-31 16:00:00,,2010
+Preston North End,Crystal Palace,1-1,https://www.besoccer.com/match/preston-north-end/crystal-palace-fc/201021221,2010,15,championship,60,59,1,0,2,0,2009-10-31 16:00:00,,2010
+Scunthorpe United,Swansea City,0-2,https://www.besoccer.com/match/scunthorpe-united/swansea-city-afc/201021223,2010,15,championship,48,53,2,0,1,0,2009-10-31 16:00:00,,2010
+West Bromwich Albion,Watford,5-0,https://www.besoccer.com/match/west-bromwich/watford-fc/201021225,2010,15,championship,63,60,1,0,1,0,2009-10-31 16:00:00,,2010
+Cardiff City,Nottingham Forest,1-1,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/201021226,2010,15,championship,61,55,2,0,1,0,2009-11-01 18:00:00,,2010
+Sheffield United,Newcastle,0-1,https://www.besoccer.com/match/sheffield-united/newcastle-united-fc/201021224,2010,15,championship,62,69,1,0,2,0,2009-11-02 20:45:00,,2010
+Derby County,Coventry City,2-1,https://www.besoccer.com/match/derby-county-fc/coventry-city/201021230,2010,16,championship,55,56,1,0,3,0,2009-11-06 20:45:00,,2010
+Swansea City,Cardiff City,3-2,https://www.besoccer.com/match/swansea-city-afc/cardiff-city-fc/201021238,2010,16,championship,53,61,2,0,1,0,2009-11-07 13:45:00,,2010
+Blackpool,Scunthorpe United,4-1,https://www.besoccer.com/match/blackpool-fc/scunthorpe-united/201021228,2010,16,championship,52,48,0,0,2,0,2009-11-07 16:00:00,,2010
+Crystal Palace,Middlesbrough,1-0,https://www.besoccer.com/match/crystal-palace-fc/middlesbrough-fc/201021229,2010,16,championship,59,67,1,0,1,0,2009-11-07 16:00:00,,2010
+Leicester,West Bromwich Albion,1-2,https://www.besoccer.com/match/leicester-city-fc/west-bromwich/201021231,2010,16,championship,57,64,2,0,0,0,2009-11-07 16:00:00,,2010
+Newcastle,Peterborough United,3-1,https://www.besoccer.com/match/newcastle-united-fc/peterborough-u/201021232,2010,16,championship,69,48,0,0,1,0,2009-11-07 16:00:00,,2010
+Nottingham Forest,Bristol City,1-1,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/201021233,2010,16,championship,55,56,4,0,3,0,2009-11-07 16:00:00,,2010
+Plymouth Argyle,Doncaster Rovers,2-1,https://www.besoccer.com/match/plymouth-argyle/doncaster-rovers/201021234,2010,16,championship,51,49,2,0,0,0,2009-11-07 16:00:00,,2010
+Reading,Ipswich Town,1-1,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/201021235,2010,16,championship,62,59,0,0,0,0,2009-11-07 16:00:00,,2010
+Sheffield Wednesday,Queens Park Rangers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/201021236,2010,16,championship,54,56,0,0,0,0,2009-11-07 16:00:00,,2010
+Watford,Preston North End,2-0,https://www.besoccer.com/match/watford-fc/preston-north-end/201021237,2010,16,championship,59,60,2,0,2,0,2009-11-07 16:00:00,,2010
+Barnsley,Sheffield United,2-2,https://www.besoccer.com/match/barnsley-fc/sheffield-united/201021227,2010,16,championship,52,62,1,0,2,0,2009-11-09 20:45:00,,2010
+Swansea City,Derby County,1-0,https://www.besoccer.com/match/swansea-city-afc/derby-county-fc/201021239,2010,17,championship,53,56,0,0,4,0,2009-11-20 20:45:00,,2010
+Barnsley,Cardiff City,1-0,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/201021240,2010,17,championship,52,61,1,0,2,0,2009-11-21 16:00:00,,2010
+Coventry City,Crystal Palace,1-1,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/201021241,2010,17,championship,56,59,2,0,3,0,2009-11-21 16:00:00,,2010
+Doncaster Rovers,Queens Park Rangers,2-0,https://www.besoccer.com/match/doncaster-rovers/queens-park-rangers-fc/201021242,2010,17,championship,48,56,0,0,1,0,2009-11-21 16:00:00,,2010
+Leicester,Plymouth Argyle,1-0,https://www.besoccer.com/match/leicester-city-fc/plymouth-argyle/201021244,2010,17,championship,57,51,1,0,2,0,2009-11-21 16:00:00,,2010
+Middlesbrough,Nottingham Forest,1-1,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/201021245,2010,17,championship,67,55,2,0,2,0,2009-11-21 16:00:00,,2010
+Reading,Blackpool,2-1,https://www.besoccer.com/match/reading-fc/blackpool-fc/201021247,2010,17,championship,62,52,1,0,3,0,2009-11-21 16:00:00,,2010
+Sheffield United,Peterborough United,1-0,https://www.besoccer.com/match/sheffield-united/peterborough-u/201021248,2010,17,championship,62,48,0,0,0,0,2009-11-21 16:00:00,,2010
+Watford,Scunthorpe United,3-0,https://www.besoccer.com/match/watford-fc/scunthorpe-united/201021249,2010,17,championship,60,47,1,0,2,0,2009-11-21 16:00:00,,2010
+West Bromwich Albion,Bristol City,4-1,https://www.besoccer.com/match/west-bromwich/bristol-city-fc/201021250,2010,17,championship,64,56,1,0,0,0,2009-11-21 16:00:00,,2010
+Ipswich Town,Sheffield Wednesday,0-0,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/201021243,2010,17,championship,59,54,0,0,3,0,2009-11-21 18:20:00,,2010
+Preston North End,Newcastle,0-1,https://www.besoccer.com/match/preston-north-end/newcastle-united-fc/201021246,2010,17,championship,60,69,0,0,1,0,2009-11-23 20:45:00,,2010
+Bristol City,Sheffield United,2-3,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/201021252,2010,18,championship,55,62,4,0,5,0,2009-11-28 16:00:00,,2010
+Crystal Palace,Watford,3-0,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/201021253,2010,18,championship,59,60,2,0,1,0,2009-11-28 16:00:00,,2010
+Derby County,Reading,2-1,https://www.besoccer.com/match/derby-county-fc/reading-fc/201021254,2010,18,championship,55,62,2,0,3,0,2009-11-28 16:00:00,,2010
+Newcastle,Swansea City,3-0,https://www.besoccer.com/match/newcastle-united-fc/swansea-city-afc/201021255,2010,18,championship,69,53,0,0,1,0,2009-11-28 16:00:00,,2010
+Nottingham Forest,Doncaster Rovers,4-1,https://www.besoccer.com/match/nottingham-forest-fc/doncaster-rovers/201021256,2010,18,championship,55,49,0,0,0,0,2009-11-28 16:00:00,,2010
+Peterborough United,Middlesbrough,2-2,https://www.besoccer.com/match/peterborough-u/middlesbrough-fc/201021257,2010,18,championship,48,67,2,0,1,0,2009-11-28 16:00:00,,2010
+Queens Park Rangers,Coventry City,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/201021259,2010,18,championship,56,56,0,0,4,0,2009-11-28 16:00:00,,2010
+Scunthorpe United,Leicester,1-1,https://www.besoccer.com/match/scunthorpe-united/leicester-city-fc/201021260,2010,18,championship,47,57,1,0,1,0,2009-11-28 16:00:00,,2010
+Sheffield Wednesday,West Bromwich Albion,0-4,https://www.besoccer.com/match/sheffield-wednesday-fc/west-bromwich/201021261,2010,18,championship,54,64,2,0,1,0,2009-11-28 16:00:00,,2010
+Cardiff City,Ipswich Town,1-2,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/201021251,2010,18,championship,61,59,0,0,3,0,2009-11-29 16:00:00,,2010
+Blackpool,Preston North End,1-1,https://www.besoccer.com/match/blackpool-fc/preston-north-end/201021262,2010,18,championship,52,60,2,0,2,0,2009-11-30 21:00:00,,2010
+Plymouth Argyle,Barnsley,0-0,https://www.besoccer.com/match/plymouth-argyle/barnsley-fc/201021258,2010,18,championship,51,52,1,0,3,0,2010-03-30 20:45:00,,2010
+Nottingham Forest,Leicester,5-1,https://www.besoccer.com/match/nottingham-forest-fc/leicester-city-fc/201021269,2010,19,championship,56,57,1,0,1,0,2009-12-05 14:00:00,,2010
+Blackpool,Barnsley,1-2,https://www.besoccer.com/match/blackpool-fc/barnsley-fc/201021263,2010,19,championship,52,52,1,0,2,0,2009-12-05 16:00:00,,2010
+Bristol City,Ipswich Town,0-0,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/201021264,2010,19,championship,55,59,2,0,1,0,2009-12-05 16:00:00,,2010
+Cardiff City,Preston North End,1-0,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/201021265,2010,19,championship,60,60,1,0,1,0,2009-12-05 16:00:00,,2010
+Crystal Palace,Doncaster Rovers,0-3,https://www.besoccer.com/match/crystal-palace-fc/doncaster-rovers/201021266,2010,19,championship,60,49,0,0,0,0,2009-12-05 16:00:00,,2010
+Derby County,West Bromwich Albion,2-2,https://www.besoccer.com/match/derby-county-fc/west-bromwich/201021267,2010,19,championship,56,64,2,0,1,0,2009-12-05 16:00:00,,2010
+Newcastle,Watford,2-0,https://www.besoccer.com/match/newcastle-united-fc/watford-fc/201021268,2010,19,championship,69,59,0,0,2,0,2009-12-05 16:00:00,,2010
+Peterborough United,Swansea City,2-2,https://www.besoccer.com/match/peterborough-u/swansea-city-afc/201021270,2010,19,championship,48,53,1,0,0,0,2009-12-05 16:00:00,,2010
+Plymouth Argyle,Sheffield United,0-1,https://www.besoccer.com/match/plymouth-argyle/sheffield-united/201021271,2010,19,championship,51,63,2,0,3,0,2009-12-05 16:00:00,,2010
+Queens Park Rangers,Middlesbrough,1-5,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/201021272,2010,19,championship,56,67,1,0,2,0,2009-12-05 16:00:00,,2010
+Sheffield Wednesday,Reading,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/201021274,2010,19,championship,54,62,1,0,0,0,2009-12-05 16:00:00,,2010
+Scunthorpe United,Coventry City,1-0,https://www.besoccer.com/match/scunthorpe-united/coventry-city/201021273,2010,19,championship,47,56,1,0,0,0,2009-12-06 14:15:00,,2010
+Watford,Queens Park Rangers,3-1,https://www.besoccer.com/match/watford-fc/queens-park-rangers-fc/201021285,2010,20,championship,59,55,0,0,3,0,2009-12-07 20:45:00,,2010
+Doncaster Rovers,Sheffield Wednesday,1-0,https://www.besoccer.com/match/doncaster-rovers/sheffield-wednesday-fc/201021277,2010,20,championship,49,54,3,0,3,0,2009-12-08 20:45:00,,2010
+Ipswich Town,Peterborough United,0-0,https://www.besoccer.com/match/ipswich-town-fc/peterborough-u/201021278,2010,20,championship,59,48,0,0,1,0,2009-12-08 20:45:00,,2010
+Leicester,Bristol City,1-3,https://www.besoccer.com/match/leicester-city-fc/bristol-city-fc/201021279,2010,20,championship,57,55,1,1,2,1,2009-12-08 20:45:00,,2010
+Preston North End,Derby County,0-0,https://www.besoccer.com/match/preston-north-end/derby-county-fc/201021281,2010,20,championship,60,56,3,0,3,0,2009-12-08 20:45:00,,2010
+Sheffield United,Nottingham Forest,0-0,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/201021283,2010,20,championship,63,56,2,0,1,0,2009-12-08 20:45:00,,2010
+Swansea City,Plymouth Argyle,1-0,https://www.besoccer.com/match/swansea-city-afc/plymouth-argyle/201021284,2010,20,championship,53,51,2,0,3,0,2009-12-08 20:45:00,,2010
+West Bromwich Albion,Cardiff City,0-2,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/201021286,2010,20,championship,64,61,2,1,2,1,2009-12-08 20:45:00,,2010
+Middlesbrough,Blackpool,0-3,https://www.besoccer.com/match/middlesbrough-fc/blackpool-fc/201021280,2010,20,championship,67,52,1,0,1,0,2009-12-08 21:00:00,,2010
+Reading,Crystal Palace,2-4,https://www.besoccer.com/match/reading-fc/crystal-palace-fc/201021282,2010,20,championship,62,59,0,0,3,0,2009-12-08 21:00:00,,2010
+Barnsley,Scunthorpe United,1-1,https://www.besoccer.com/match/barnsley-fc/scunthorpe-united/201021275,2010,20,championship,52,47,2,0,2,0,2009-12-09 20:45:00,,2010
+Coventry City,Newcastle,0-2,https://www.besoccer.com/match/coventry-city/newcastle-united-fc/201021276,2010,20,championship,56,69,1,0,0,0,2009-12-09 20:45:00,,2010
+Barnsley,Newcastle,2-2,https://www.besoccer.com/match/barnsley-fc/newcastle-united-fc/201021287,2010,21,championship,52,69,2,0,1,0,2009-12-12 16:00:00,,2010
+Coventry City,Peterborough United,3-2,https://www.besoccer.com/match/coventry-city/peterborough-u/201021288,2010,21,championship,56,48,2,0,1,0,2009-12-12 16:00:00,,2010
+Doncaster Rovers,Bristol City,1-0,https://www.besoccer.com/match/doncaster-rovers/bristol-city-fc/201021289,2010,21,championship,49,56,1,0,1,0,2009-12-12 16:00:00,,2010
+Ipswich Town,Blackpool,3-1,https://www.besoccer.com/match/ipswich-town-fc/blackpool-fc/201021290,2010,21,championship,59,52,2,0,3,0,2009-12-12 16:00:00,,2010
+Leicester,Sheffield Wednesday,3-0,https://www.besoccer.com/match/leicester-city-fc/sheffield-wednesday-fc/201021291,2010,21,championship,57,54,0,0,2,0,2009-12-12 16:00:00,,2010
+Preston North End,Plymouth Argyle,2-0,https://www.besoccer.com/match/preston-north-end/plymouth-argyle/201021293,2010,21,championship,60,51,1,0,1,0,2009-12-12 16:00:00,,2010
+Reading,Scunthorpe United,1-1,https://www.besoccer.com/match/reading-fc/scunthorpe-united/201021294,2010,21,championship,62,47,2,0,3,0,2009-12-12 16:00:00,,2010
+Sheffield United,Crystal Palace,2-0,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/201021295,2010,21,championship,63,59,1,0,4,0,2009-12-12 16:00:00,,2010
+Swansea City,Nottingham Forest,0-1,https://www.besoccer.com/match/swansea-city-afc/nottingham-forest-fc/201021296,2010,21,championship,53,56,1,0,4,0,2009-12-12 16:00:00,,2010
+Watford,Derby County,0-1,https://www.besoccer.com/match/watford-fc/derby-county-fc/201021297,2010,21,championship,59,56,5,0,3,0,2009-12-12 16:00:00,,2010
+Middlesbrough,Cardiff City,0-1,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/201021292,2010,21,championship,66,61,0,0,2,0,2009-12-13 14:15:00,,2010
+West Bromwich Albion,Queens Park Rangers,2-2,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/201021298,2010,21,championship,64,55,2,0,0,0,2009-12-14 20:45:00,,2010
+Bristol City,Reading,1-1,https://www.besoccer.com/match/bristol-city-fc/reading-fc/201021300,2010,22,championship,55,62,0,0,1,0,2009-12-19 16:00:00,,2010
+Crystal Palace,Barnsley,1-1,https://www.besoccer.com/match/crystal-palace-fc/barnsley-fc/201021302,2010,22,championship,59,52,1,0,4,0,2009-12-19 16:00:00,,2010
+Derby County,Doncaster Rovers,0-2,https://www.besoccer.com/match/derby-county-fc/doncaster-rovers/201021303,2010,22,championship,56,49,1,0,1,0,2009-12-19 16:00:00,,2010
+Peterborough United,Watford,2-1,https://www.besoccer.com/match/peterborough-u/watford-fc/201021306,2010,22,championship,48,59,0,0,2,0,2009-12-19 16:00:00,,2010
+Plymouth Argyle,Coventry City,0-1,https://www.besoccer.com/match/plymouth-argyle/coventry-city/201021307,2010,22,championship,51,56,0,0,1,0,2009-12-19 16:00:00,,2010
+Queens Park Rangers,Sheffield United,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/201021308,2010,22,championship,55,63,1,0,3,0,2009-12-19 16:00:00,,2010
+Sheffield Wednesday,Swansea City,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/swansea-city-afc/201021310,2010,22,championship,53,53,2,0,1,0,2009-12-19 16:00:00,,2010
+Nottingham Forest,Preston North End,3-0,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/201021305,2010,22,championship,56,60,0,0,1,0,2009-12-19 18:20:00,,2010
+Newcastle,Middlesbrough,2-0,https://www.besoccer.com/match/newcastle-united-fc/middlesbrough-fc/201021304,2010,22,championship,69,66,1,0,2,0,2009-12-20 14:00:00,,2010
+Blackpool,West Bromwich Albion,2-3,https://www.besoccer.com/match/blackpool-fc/west-bromwich/201021299,2010,22,championship,52,64,1,0,0,0,2010-02-03 20:45:00,,2010
+Scunthorpe United,Ipswich Town,1-1,https://www.besoccer.com/match/scunthorpe-united/ipswich-town-fc/201021309,2010,22,championship,48,59,2,0,3,0,2010-02-23 20:45:00,,2010
+Cardiff City,Leicester,2-1,https://www.besoccer.com/match/cardiff-city-fc/leicester-city-fc/201021301,2010,22,championship,61,57,2,1,1,1,2010-03-30 20:45:00,,2010
+Watford,Nottingham Forest,0-0,https://www.besoccer.com/match/watford-fc/nottingham-forest-fc/201021311,2010,23,championship,59,56,1,0,2,0,2009-12-26 13:00:00,,2010
+Sheffield Wednesday,Newcastle,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/newcastle-united-fc/201021321,2010,23,championship,53,70,2,0,0,0,2009-12-26 13:45:00,,2010
+Cardiff City,Plymouth Argyle,0-1,https://www.besoccer.com/match/cardiff-city-fc/plymouth-argyle/201021312,2010,23,championship,61,51,1,0,4,0,2009-12-26 14:00:00,,2010
+Crystal Palace,Ipswich Town,3-1,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/201021314,2010,23,championship,59,59,4,0,1,0,2009-12-26 14:00:00,,2010
+Queens Park Rangers,Bristol City,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/201021319,2010,23,championship,55,55,0,0,3,0,2009-12-26 14:00:00,,2010
+Coventry City,Doncaster Rovers,1-0,https://www.besoccer.com/match/coventry-city/doncaster-rovers/201021313,2010,23,championship,56,50,0,0,0,0,2009-12-26 16:00:00,,2010
+Derby County,Blackpool,0-2,https://www.besoccer.com/match/derby-county-fc/blackpool-fc/201021315,2010,23,championship,56,52,0,0,0,0,2009-12-26 16:00:00,,2010
+Middlesbrough,Scunthorpe United,3-0,https://www.besoccer.com/match/middlesbrough-fc/scunthorpe-united/201021317,2010,23,championship,66,47,0,1,1,1,2009-12-26 16:00:00,,2010
+Reading,Swansea City,1-1,https://www.besoccer.com/match/reading-fc/swansea-city-afc/201021320,2010,23,championship,62,53,1,0,3,0,2009-12-26 16:00:00,,2010
+West Bromwich Albion,Peterborough United,2-0,https://www.besoccer.com/match/west-bromwich/peterborough-u/201021322,2010,23,championship,64,48,2,0,3,0,2009-12-26 16:00:00,,2010
+Leicester,Sheffield United,2-1,https://www.besoccer.com/match/leicester-city-fc/sheffield-united/201021316,2010,23,championship,57,63,0,0,0,0,2009-12-26 19:00:00,,2010
+Preston North End,Barnsley,1-4,https://www.besoccer.com/match/preston-north-end/barnsley-fc/201021318,2010,23,championship,60,52,1,0,2,0,2010-02-02 20:45:00,,2010
+Barnsley,Middlesbrough,2-1,https://www.besoccer.com/match/barnsley-fc/middlesbrough-fc/201021323,2010,24,championship,52,66,4,0,2,0,2009-12-28 16:00:00,,2010
+Bristol City,Watford,2-2,https://www.besoccer.com/match/bristol-city-fc/watford-fc/201021325,2010,24,championship,55,59,1,0,2,0,2009-12-28 16:00:00,,2010
+Ipswich Town,Queens Park Rangers,3-0,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/201021327,2010,24,championship,59,55,0,0,0,0,2009-12-28 16:00:00,,2010
+Nottingham Forest,Coventry City,2-0,https://www.besoccer.com/match/nottingham-forest-fc/coventry-city/201021329,2010,24,championship,56,56,1,0,0,0,2009-12-28 16:00:00,,2010
+Peterborough United,Cardiff City,4-4,https://www.besoccer.com/match/peterborough-u/cardiff-city-fc/201021330,2010,24,championship,48,61,1,0,1,0,2009-12-28 16:00:00,,2010
+Plymouth Argyle,Reading,4-1,https://www.besoccer.com/match/plymouth-argyle/reading-fc/201021331,2010,24,championship,51,62,2,0,1,0,2009-12-28 16:00:00,,2010
+Scunthorpe United,West Bromwich Albion,1-3,https://www.besoccer.com/match/scunthorpe-united/west-bromwich/201021332,2010,24,championship,47,64,1,1,2,1,2009-12-28 16:00:00,,2010
+Sheffield United,Preston North End,1-0,https://www.besoccer.com/match/sheffield-united/preston-north-end/201021333,2010,24,championship,63,59,1,0,2,0,2009-12-28 16:00:00,,2010
+Swansea City,Crystal Palace,0-0,https://www.besoccer.com/match/swansea-city-afc/crystal-palace-fc/201021334,2010,24,championship,53,59,3,1,1,1,2009-12-28 16:00:00,,2010
+Newcastle,Derby County,0-0,https://www.besoccer.com/match/newcastle-united-fc/derby-county-fc/201021328,2010,24,championship,70,55,1,0,2,0,2009-12-28 18:20:00,,2010
+Blackpool,Sheffield Wednesday,1-2,https://www.besoccer.com/match/blackpool-fc/sheffield-wednesday-fc/201021324,2010,24,championship,52,53,2,0,5,0,2010-01-19 20:45:00,,2010
+Doncaster Rovers,Leicester,0-1,https://www.besoccer.com/match/doncaster-rovers/leicester-city-fc/201021326,2010,24,championship,50,57,0,0,1,0,2010-02-23 20:45:00,,2010
+West Bromwich Albion,Nottingham Forest,1-3,https://www.besoccer.com/match/west-bromwich/nottingham-forest-fc/201021346,2010,25,championship,64,57,2,0,2,0,2010-01-08 20:45:00,,2010
+Cardiff City,Blackpool,1-1,https://www.besoccer.com/match/cardiff-city-fc/blackpool-fc/201021335,2010,25,championship,61,52,3,0,1,0,2010-01-09 16:00:00,,2010
+Coventry City,Barnsley,3-1,https://www.besoccer.com/match/coventry-city/barnsley-fc/201021336,2010,25,championship,56,52,0,0,3,0,2010-01-09 16:00:00,,2010
+Derby County,Scunthorpe United,1-4,https://www.besoccer.com/match/derby-county-fc/scunthorpe-united/201021338,2010,25,championship,55,48,0,0,1,0,2010-01-09 16:00:00,,2010
+Leicester,Ipswich Town,1-1,https://www.besoccer.com/match/leicester-city-fc/ipswich-town-fc/201021339,2010,25,championship,57,59,0,0,1,0,2010-01-10 16:00:00,,2010
+Middlesbrough,Swansea City,1-1,https://www.besoccer.com/match/middlesbrough-fc/swansea-city-afc/201021340,2010,25,championship,66,53,1,0,0,0,2010-01-23 16:00:00,,2010
+Sheffield Wednesday,Peterborough United,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/peterborough-u/201021344,2010,25,championship,53,48,1,0,1,0,2010-01-23 16:00:00,,2010
+Watford,Sheffield United,3-0,https://www.besoccer.com/match/watford-fc/sheffield-united/201021345,2010,25,championship,59,63,0,0,4,0,2010-02-02 20:45:00,,2010
+Preston North End,Doncaster Rovers,1-1,https://www.besoccer.com/match/preston-north-end/doncaster-rovers/201021341,2010,25,championship,59,50,0,0,2,0,2010-03-09 20:45:00,,2010
+Crystal Palace,Bristol City,0-1,https://www.besoccer.com/match/crystal-palace-fc/bristol-city-fc/201021337,2010,25,championship,60,55,1,0,2,0,2010-03-09 21:00:00,,2010
+Queens Park Rangers,Plymouth Argyle,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/plymouth-argyle/201021342,2010,25,championship,55,51,2,0,3,0,2010-03-09 21:00:00,,2010
+Reading,Newcastle,1-2,https://www.besoccer.com/match/reading-fc/newcastle-united-fc/201021343,2010,25,championship,64,70,2,0,3,0,2010-04-13 21:00:00,,2010
+Barnsley,Sheffield Wednesday,1-2,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/201021347,2010,26,championship,52,53,1,0,2,0,2010-01-16 16:00:00,,2010
+Blackpool,Queens Park Rangers,2-2,https://www.besoccer.com/match/blackpool-fc/queens-park-rangers-fc/201021348,2010,26,championship,52,55,1,0,1,0,2010-01-16 16:00:00,,2010
+Bristol City,Preston North End,4-2,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/201021349,2010,26,championship,55,60,2,0,2,0,2010-01-16 16:00:00,,2010
+Doncaster Rovers,Watford,2-1,https://www.besoccer.com/match/doncaster-rovers/watford-fc/201021350,2010,26,championship,50,59,1,0,2,0,2010-01-16 16:00:00,,2010
+Ipswich Town,Coventry City,3-2,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/201021351,2010,26,championship,59,57,2,0,3,0,2010-01-16 16:00:00,,2010
+Nottingham Forest,Reading,2-1,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/201021353,2010,26,championship,57,63,1,1,1,1,2010-01-16 16:00:00,,2010
+Peterborough United,Derby County,0-3,https://www.besoccer.com/match/peterborough-u/derby-county-fc/201021354,2010,26,championship,48,55,1,2,1,2,2010-01-16 16:00:00,,2010
+Plymouth Argyle,Crystal Palace,0-1,https://www.besoccer.com/match/plymouth-argyle/crystal-palace-fc/201021355,2010,26,championship,51,60,1,0,5,0,2010-01-16 16:00:00,,2010
+Scunthorpe United,Cardiff City,1-1,https://www.besoccer.com/match/scunthorpe-united/cardiff-city-fc/201021356,2010,26,championship,48,61,1,0,2,0,2010-01-16 16:00:00,,2010
+Sheffield United,Middlesbrough,1-0,https://www.besoccer.com/match/sheffield-united/middlesbrough-fc/201021357,2010,26,championship,63,66,3,0,2,0,2010-01-16 16:00:00,,2010
+Swansea City,Leicester,1-0,https://www.besoccer.com/match/swansea-city-afc/leicester-city-fc/201021358,2010,26,championship,53,57,1,0,3,0,2010-01-16 16:00:00,,2010
+Newcastle,West Bromwich Albion,2-2,https://www.besoccer.com/match/newcastle-united-fc/west-bromwich/201021352,2010,26,championship,70,64,2,0,5,0,2010-01-18 20:45:00,,2010
+Blackpool,Watford,3-2,https://www.besoccer.com/match/blackpool-fc/watford-fc/201021360,2010,27,championship,52,59,1,0,0,0,2010-01-23 16:00:00,,2010
+Barnsley,Leicester,1-0,https://www.besoccer.com/match/barnsley-fc/leicester-city-fc/201021359,2010,27,championship,52,57,0,0,1,0,2010-01-26 20:45:00,,2010
+Bristol City,Cardiff City,0-6,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/201021361,2010,27,championship,55,61,1,0,0,0,2010-01-26 20:45:00,,2010
+Doncaster Rovers,Middlesbrough,1-4,https://www.besoccer.com/match/doncaster-rovers/middlesbrough-fc/201021362,2010,27,championship,50,66,1,0,0,0,2010-01-26 20:45:00,,2010
+Ipswich Town,West Bromwich Albion,1-1,https://www.besoccer.com/match/ipswich-town-fc/west-bromwich/201021363,2010,27,championship,59,64,2,0,3,0,2010-01-26 20:45:00,,2010
+Nottingham Forest,Queens Park Rangers,5-0,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/201021364,2010,27,championship,57,55,1,0,3,0,2010-01-26 20:45:00,,2010
+Peterborough United,Preston North End,0-1,https://www.besoccer.com/match/peterborough-u/preston-north-end/201021365,2010,27,championship,48,59,0,0,2,0,2010-01-26 20:45:00,,2010
+Plymouth Argyle,Derby County,1-0,https://www.besoccer.com/match/plymouth-argyle/derby-county-fc/201021366,2010,27,championship,51,55,2,0,6,0,2010-01-26 20:45:00,,2010
+Sheffield United,Reading,3-0,https://www.besoccer.com/match/sheffield-united/reading-fc/201021368,2010,27,championship,63,63,4,0,2,0,2010-01-26 20:45:00,,2010
+Swansea City,Coventry City,0-0,https://www.besoccer.com/match/swansea-city-afc/coventry-city/201021369,2010,27,championship,54,56,0,0,2,0,2010-01-26 20:45:00,,2010
+Scunthorpe United,Sheffield Wednesday,2-0,https://www.besoccer.com/match/scunthorpe-united/sheffield-wednesday-fc/201021367,2010,27,championship,48,53,0,0,0,0,2010-01-27 20:45:00,,2010
+Newcastle,Crystal Palace,2-0,https://www.besoccer.com/match/newcastle-united-fc/crystal-palace-fc/201021370,2010,27,championship,69,60,2,0,1,0,2010-01-27 20:45:00,,2010
+Derby County,Nottingham Forest,1-0,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/201021371,2010,28,championship,55,57,5,0,3,0,2010-01-30 14:00:00,,2010
+Cardiff City,Doncaster Rovers,2-1,https://www.besoccer.com/match/cardiff-city-fc/doncaster-rovers/201021372,2010,28,championship,61,50,1,0,3,0,2010-01-30 16:00:00,,2010
+Coventry City,Blackpool,1-1,https://www.besoccer.com/match/coventry-city/blackpool-fc/201021373,2010,28,championship,56,52,0,0,1,0,2010-01-30 16:00:00,,2010
+Crystal Palace,Peterborough United,2-0,https://www.besoccer.com/match/crystal-palace-fc/peterborough-u/201021374,2010,28,championship,60,48,0,0,0,0,2010-01-30 16:00:00,,2010
+Middlesbrough,Bristol City,0-0,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/201021376,2010,28,championship,66,55,0,0,3,0,2010-01-30 16:00:00,,2010
+Preston North End,Ipswich Town,2-0,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/201021377,2010,28,championship,60,59,1,0,5,0,2010-01-30 16:00:00,,2010
+Queens Park Rangers,Scunthorpe United,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/scunthorpe-united/201021378,2010,28,championship,55,48,0,0,1,0,2010-01-30 16:00:00,,2010
+Reading,Barnsley,1-0,https://www.besoccer.com/match/reading-fc/barnsley-fc/201021379,2010,28,championship,62,52,1,0,1,0,2010-01-30 16:00:00,,2010
+Sheffield Wednesday,Plymouth Argyle,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/plymouth-argyle/201021380,2010,28,championship,53,51,1,0,2,0,2010-01-30 16:00:00,,2010
+West Bromwich Albion,Sheffield United,3-1,https://www.besoccer.com/match/west-bromwich/sheffield-united/201021382,2010,28,championship,64,63,3,0,1,0,2010-01-30 16:00:00,,2010
+Leicester,Newcastle,0-0,https://www.besoccer.com/match/leicester-city-fc/newcastle-united-fc/201021375,2010,28,championship,57,69,2,0,1,0,2010-01-30 18:20:00,,2010
+Watford,Swansea City,0-1,https://www.besoccer.com/match/watford-fc/swansea-city-afc/201021381,2010,28,championship,59,54,2,0,1,0,2010-03-09 20:45:00,,2010
+Newcastle,Cardiff City,5-1,https://www.besoccer.com/match/newcastle-united-fc/cardiff-city-fc/201021389,2010,29,championship,69,61,1,0,1,0,2010-02-05 20:45:00,,2010
+Swansea City,Preston North End,2-0,https://www.besoccer.com/match/swansea-city-afc/preston-north-end/201021383,2010,29,championship,54,59,2,0,4,0,2010-02-06 14:00:00,,2010
+Barnsley,Watford,1-0,https://www.besoccer.com/match/barnsley-fc/watford-fc/201021384,2010,29,championship,53,59,1,1,1,1,2010-02-06 16:00:00,,2010
+Blackpool,Leicester,1-2,https://www.besoccer.com/match/blackpool-fc/leicester-city-fc/201021385,2010,29,championship,52,57,1,0,0,0,2010-02-06 16:00:00,,2010
+Bristol City,Coventry City,1-1,https://www.besoccer.com/match/bristol-city-fc/coventry-city/201021386,2010,29,championship,55,56,1,0,0,0,2010-02-06 16:00:00,,2010
+Ipswich Town,Middlesbrough,1-1,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/201021388,2010,29,championship,59,66,1,0,1,0,2010-02-06 16:00:00,,2010
+Nottingham Forest,Sheffield Wednesday,2-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/201021390,2010,29,championship,57,53,2,0,2,0,2010-02-06 16:00:00,,2010
+Peterborough United,Queens Park Rangers,1-0,https://www.besoccer.com/match/peterborough-u/queens-park-rangers-fc/201021391,2010,29,championship,48,55,3,0,0,0,2010-02-06 16:00:00,,2010
+Plymouth Argyle,West Bromwich Albion,0-1,https://www.besoccer.com/match/plymouth-argyle/west-bromwich/201021392,2010,29,championship,51,65,3,0,3,0,2010-02-06 16:00:00,,2010
+Scunthorpe United,Crystal Palace,1-2,https://www.besoccer.com/match/scunthorpe-united/crystal-palace-fc/201021393,2010,29,championship,48,60,3,1,5,1,2010-02-06 16:00:00,,2010
+Sheffield United,Derby County,1-1,https://www.besoccer.com/match/sheffield-united/derby-county-fc/201021394,2010,29,championship,63,55,2,0,0,0,2010-02-06 16:00:00,,2010
+Doncaster Rovers,Reading,1-2,https://www.besoccer.com/match/doncaster-rovers/reading-fc/201021387,2010,29,championship,50,63,1,0,2,0,2010-02-06 18:20:00,,2010
+Cardiff City,Peterborough United,2-0,https://www.besoccer.com/match/cardiff-city-fc/peterborough-u/201021395,2010,30,championship,61,48,0,0,0,0,2010-02-09 20:45:00,,2010
+Coventry City,Nottingham Forest,1-0,https://www.besoccer.com/match/coventry-city/nottingham-forest-fc/201021396,2010,30,championship,56,57,4,0,0,0,2010-02-09 20:45:00,,2010
+Derby County,Newcastle,3-0,https://www.besoccer.com/match/derby-county-fc/newcastle-united-fc/201021398,2010,30,championship,56,69,4,0,1,0,2010-02-09 20:45:00,,2010
+Leicester,Doncaster Rovers,0-0,https://www.besoccer.com/match/leicester-city-fc/doncaster-rovers/201021399,2010,30,championship,57,50,1,0,1,0,2010-02-09 20:45:00,,2010
+Preston North End,Sheffield United,2-1,https://www.besoccer.com/match/preston-north-end/sheffield-united/201021401,2010,30,championship,59,63,1,0,1,0,2010-02-09 20:45:00,,2010
+Sheffield Wednesday,Blackpool,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/blackpool-fc/201021404,2010,30,championship,53,52,0,0,0,0,2010-02-09 20:45:00,,2010
+Watford,Bristol City,2-0,https://www.besoccer.com/match/watford-fc/bristol-city-fc/201021405,2010,30,championship,59,55,0,0,5,0,2010-02-09 20:45:00,,2010
+West Bromwich Albion,Scunthorpe United,2-0,https://www.besoccer.com/match/west-bromwich/scunthorpe-united/201021406,2010,30,championship,65,48,1,0,1,0,2010-02-09 20:45:00,,2010
+Crystal Palace,Swansea City,0-1,https://www.besoccer.com/match/crystal-palace-fc/swansea-city-afc/201021397,2010,30,championship,61,54,0,0,1,0,2010-02-09 21:00:00,,2010
+Middlesbrough,Barnsley,2-1,https://www.besoccer.com/match/middlesbrough-fc/barnsley-fc/201021400,2010,30,championship,66,53,1,0,0,0,2010-02-09 21:00:00,,2010
+Queens Park Rangers,Ipswich Town,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/201021402,2010,30,championship,55,59,1,0,2,0,2010-02-09 21:00:00,,2010
+Reading,Plymouth Argyle,2-1,https://www.besoccer.com/match/reading-fc/plymouth-argyle/201021403,2010,30,championship,63,51,0,0,3,0,2010-02-09 21:00:00,,2010
+Swansea City,Newcastle,1-1,https://www.besoccer.com/match/swansea-city-afc/newcastle-united-fc/201021416,2010,31,championship,54,69,1,0,2,0,2010-02-13 13:45:00,,2010
+Preston North End,Blackpool,0-0,https://www.besoccer.com/match/preston-north-end/blackpool-fc/201021413,2010,31,championship,59,52,1,0,1,0,2010-02-13 14:00:00,,2010
+Barnsley,Plymouth Argyle,1-3,https://www.besoccer.com/match/barnsley-fc/plymouth-argyle/201021407,2010,31,championship,53,51,2,0,4,0,2010-02-13 16:00:00,,2010
+Coventry City,Queens Park Rangers,1-0,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/201021408,2010,31,championship,57,55,2,0,3,0,2010-02-13 16:00:00,,2010
+Doncaster Rovers,Nottingham Forest,1-0,https://www.besoccer.com/match/doncaster-rovers/nottingham-forest-fc/201021409,2010,31,championship,50,57,1,0,2,0,2010-02-13 16:00:00,,2010
+Leicester,Scunthorpe United,5-1,https://www.besoccer.com/match/leicester-city-fc/scunthorpe-united/201021411,2010,31,championship,57,48,0,0,0,0,2010-02-13 16:00:00,,2010
+Middlesbrough,Peterborough United,1-0,https://www.besoccer.com/match/middlesbrough-fc/peterborough-u/201021412,2010,31,championship,66,48,1,0,1,0,2010-02-13 16:00:00,,2010
+Sheffield United,Bristol City,2-0,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/201021415,2010,31,championship,63,55,1,0,2,0,2010-02-13 16:00:00,,2010
+Ipswich Town,Cardiff City,2-0,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/201021410,2010,31,championship,59,61,2,0,1,0,2010-03-09 20:45:00,,2010
+West Bromwich Albion,Sheffield Wednesday,1-0,https://www.besoccer.com/match/west-bromwich/sheffield-wednesday-fc/201021418,2010,31,championship,64,53,0,0,1,0,2010-03-09 20:45:00,,2010
+Reading,Derby County,4-1,https://www.besoccer.com/match/reading-fc/derby-county-fc/201021414,2010,31,championship,63,56,1,0,0,0,2010-03-10 21:00:00,,2010
+Watford,Crystal Palace,1-3,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/201021417,2010,31,championship,58,60,1,0,2,0,2010-03-30 20:45:00,,2010
+Blackpool,Middlesbrough,2-0,https://www.besoccer.com/match/blackpool-fc/middlesbrough-fc/201021419,2010,32,championship,52,66,2,1,2,1,2010-02-16 20:45:00,,2010
+Bristol City,Leicester,1-1,https://www.besoccer.com/match/bristol-city-fc/leicester-city-fc/201021420,2010,32,championship,55,57,1,0,3,0,2010-02-16 20:45:00,,2010
+Cardiff City,West Bromwich Albion,1-1,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/201021421,2010,32,championship,62,65,0,0,4,0,2010-02-16 20:45:00,,2010
+Derby County,Preston North End,5-3,https://www.besoccer.com/match/derby-county-fc/preston-north-end/201021423,2010,32,championship,56,59,1,0,1,0,2010-02-16 20:45:00,,2010
+Nottingham Forest,Sheffield United,1-0,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/201021424,2010,32,championship,57,63,2,0,4,0,2010-02-16 20:45:00,,2010
+Peterborough United,Ipswich Town,3-1,https://www.besoccer.com/match/peterborough-u/ipswich-town-fc/201021425,2010,32,championship,48,59,1,0,2,0,2010-02-16 20:45:00,,2010
+Plymouth Argyle,Swansea City,1-1,https://www.besoccer.com/match/plymouth-argyle/swansea-city-afc/201021426,2010,32,championship,51,54,0,0,3,0,2010-02-16 20:45:00,,2010
+Scunthorpe United,Barnsley,2-1,https://www.besoccer.com/match/scunthorpe-united/barnsley-fc/201021428,2010,32,championship,48,52,1,0,0,0,2010-02-16 20:45:00,,2010
+Sheffield Wednesday,Doncaster Rovers,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/doncaster-rovers/201021429,2010,32,championship,53,50,1,0,0,0,2010-02-16 20:45:00,,2010
+Newcastle,Coventry City,4-1,https://www.besoccer.com/match/newcastle-united-fc/coventry-city/201021430,2010,32,championship,69,57,0,0,3,0,2010-02-17 20:45:00,,2010
+Crystal Palace,Reading,1-3,https://www.besoccer.com/match/crystal-palace-fc/reading-fc/201021422,2010,32,championship,61,63,2,0,1,0,2010-02-17 21:00:00,,2010
+Queens Park Rangers,Watford,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/watford-fc/201021427,2010,32,championship,55,58,3,0,2,0,2010-04-20 20:45:00,,2010
+Blackpool,Reading,2-0,https://www.besoccer.com/match/blackpool-fc/reading-fc/201021431,2010,33,championship,52,63,1,0,1,0,2010-02-20 16:00:00,,2010
+Cardiff City,Barnsley,0-2,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/201021433,2010,33,championship,62,52,1,0,2,0,2010-02-20 16:00:00,,2010
+Crystal Palace,Coventry City,0-1,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/201021434,2010,33,championship,60,57,0,0,0,0,2010-02-20 16:00:00,,2010
+Derby County,Swansea City,0-1,https://www.besoccer.com/match/derby-county-fc/swansea-city-afc/201021435,2010,33,championship,56,54,1,0,3,0,2010-02-20 16:00:00,,2010
+Newcastle,Preston North End,3-0,https://www.besoccer.com/match/newcastle-united-fc/preston-north-end/201021436,2010,33,championship,69,59,1,0,0,0,2010-02-20 16:00:00,,2010
+Nottingham Forest,Middlesbrough,1-0,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/201021437,2010,33,championship,57,66,3,0,1,0,2010-02-20 16:00:00,,2010
+Plymouth Argyle,Leicester,1-1,https://www.besoccer.com/match/plymouth-argyle/leicester-city-fc/201021439,2010,33,championship,51,57,1,0,2,0,2010-02-20 16:00:00,,2010
+Queens Park Rangers,Doncaster Rovers,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/doncaster-rovers/201021440,2010,33,championship,54,50,0,0,0,0,2010-02-20 16:00:00,,2010
+Scunthorpe United,Watford,2-2,https://www.besoccer.com/match/scunthorpe-united/watford-fc/201021441,2010,33,championship,48,59,4,0,3,0,2010-02-20 16:00:00,,2010
+Sheffield Wednesday,Ipswich Town,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/201021442,2010,33,championship,53,59,0,0,0,0,2010-02-20 16:00:00,,2010
+Bristol City,West Bromwich Albion,2-1,https://www.besoccer.com/match/bristol-city-fc/west-bromwich/201021432,2010,33,championship,55,65,0,0,4,0,2010-02-21 15:00:00,,2010
+Peterborough United,Sheffield United,1-0,https://www.besoccer.com/match/peterborough-u/sheffield-united/201021438,2010,33,championship,48,63,3,0,4,0,2010-03-09 20:30:00,,2010
+Barnsley,Blackpool,1-0,https://www.besoccer.com/match/barnsley-fc/blackpool-fc/201021443,2010,34,championship,53,53,0,0,3,0,2010-02-27 16:00:00,,2010
+Coventry City,Scunthorpe United,2-1,https://www.besoccer.com/match/coventry-city/scunthorpe-united/201021444,2010,34,championship,57,48,2,0,2,0,2010-02-27 16:00:00,,2010
+Doncaster Rovers,Crystal Palace,1-1,https://www.besoccer.com/match/doncaster-rovers/crystal-palace-fc/201021445,2010,34,championship,50,60,1,0,3,0,2010-02-27 16:00:00,,2010
+Ipswich Town,Bristol City,0-0,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/201021446,2010,34,championship,59,55,1,0,1,0,2010-02-27 16:00:00,,2010
+Leicester,Nottingham Forest,3-0,https://www.besoccer.com/match/leicester-city-fc/nottingham-forest-fc/201021447,2010,34,championship,57,57,5,0,5,0,2010-02-27 16:00:00,,2010
+Middlesbrough,Queens Park Rangers,2-0,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/201021448,2010,34,championship,66,54,1,0,1,0,2010-02-27 16:00:00,,2010
+Preston North End,Cardiff City,3-0,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/201021449,2010,34,championship,59,61,1,0,4,0,2010-02-27 16:00:00,,2010
+Reading,Sheffield Wednesday,5-0,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/201021450,2010,34,championship,63,53,0,0,0,0,2010-02-27 16:00:00,,2010
+Sheffield United,Plymouth Argyle,4-3,https://www.besoccer.com/match/sheffield-united/plymouth-argyle/201021451,2010,34,championship,63,51,2,0,2,0,2010-02-27 16:00:00,,2010
+Swansea City,Peterborough United,1-0,https://www.besoccer.com/match/swansea-city-afc/peterborough-u/201021452,2010,34,championship,54,48,0,0,0,0,2010-02-27 16:00:00,,2010
+Watford,Newcastle,1-2,https://www.besoccer.com/match/watford-fc/newcastle-united-fc/201021453,2010,34,championship,59,69,2,0,5,0,2010-02-27 16:00:00,,2010
+West Bromwich Albion,Derby County,3-1,https://www.besoccer.com/match/west-bromwich/derby-county-fc/201021454,2010,34,championship,64,56,2,0,2,0,2010-02-27 16:00:00,,2010
+Blackpool,Ipswich Town,1-0,https://www.besoccer.com/match/blackpool-fc/ipswich-town-fc/201021455,2010,35,championship,52,59,2,0,2,0,2010-03-06 16:00:00,,2010
+Bristol City,Doncaster Rovers,2-5,https://www.besoccer.com/match/bristol-city-fc/doncaster-rovers/201021456,2010,35,championship,55,50,1,0,0,0,2010-03-06 16:00:00,,2010
+Cardiff City,Middlesbrough,1-0,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/201021457,2010,35,championship,61,66,2,0,3,0,2010-03-06 16:00:00,,2010
+Crystal Palace,Sheffield United,1-0,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/201021458,2010,35,championship,60,63,3,0,2,0,2010-03-06 16:00:00,,2010
+Derby County,Watford,2-0,https://www.besoccer.com/match/derby-county-fc/watford-fc/201021459,2010,35,championship,56,59,2,0,1,0,2010-03-06 16:00:00,,2010
+Newcastle,Barnsley,6-1,https://www.besoccer.com/match/newcastle-united-fc/barnsley-fc/201021460,2010,35,championship,69,53,0,0,0,0,2010-03-06 16:00:00,,2010
+Nottingham Forest,Swansea City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/swansea-city-afc/201021461,2010,35,championship,57,54,1,0,1,0,2010-03-06 16:00:00,,2010
+Peterborough United,Coventry City,0-1,https://www.besoccer.com/match/peterborough-u/coventry-city/201021462,2010,35,championship,48,57,0,0,1,0,2010-03-06 16:00:00,,2010
+Plymouth Argyle,Preston North End,1-1,https://www.besoccer.com/match/plymouth-argyle/preston-north-end/201021463,2010,35,championship,51,59,0,0,2,0,2010-03-06 16:00:00,,2010
+Queens Park Rangers,West Bromwich Albion,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/201021464,2010,35,championship,54,64,2,0,2,0,2010-03-06 16:00:00,,2010
+Sheffield Wednesday,Leicester,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/leicester-city-fc/201021466,2010,35,championship,53,57,3,0,1,0,2010-03-06 16:00:00,,2010
+Scunthorpe United,Reading,2-2,https://www.besoccer.com/match/scunthorpe-united/reading-fc/201021465,2010,35,championship,48,64,5,0,3,0,2010-04-20 20:45:00,,2010
+Barnsley,Crystal Palace,0-0,https://www.besoccer.com/match/barnsley-fc/crystal-palace-fc/201021467,2010,36,championship,53,60,1,0,3,0,2010-03-13 16:00:00,,2010
+Coventry City,Plymouth Argyle,1-1,https://www.besoccer.com/match/coventry-city/plymouth-argyle/201021468,2010,36,championship,57,51,0,0,2,0,2010-03-13 16:00:00,,2010
+Doncaster Rovers,Derby County,2-1,https://www.besoccer.com/match/doncaster-rovers/derby-county-fc/201021469,2010,36,championship,50,56,1,0,1,0,2010-03-13 16:00:00,,2010
+Ipswich Town,Scunthorpe United,1-0,https://www.besoccer.com/match/ipswich-town-fc/scunthorpe-united/201021470,2010,36,championship,59,48,1,1,2,1,2010-03-13 16:00:00,,2010
+Leicester,Cardiff City,1-0,https://www.besoccer.com/match/leicester-city-fc/cardiff-city-fc/201021471,2010,36,championship,57,61,1,0,1,0,2010-03-13 16:00:00,,2010
+Middlesbrough,Newcastle,2-2,https://www.besoccer.com/match/middlesbrough-fc/newcastle-united-fc/201021472,2010,36,championship,65,70,1,0,4,0,2010-03-13 16:00:00,,2010
+Preston North End,Nottingham Forest,3-2,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/201021473,2010,36,championship,59,57,4,0,3,0,2010-03-13 16:00:00,,2010
+Reading,Bristol City,2-0,https://www.besoccer.com/match/reading-fc/bristol-city-fc/201021474,2010,36,championship,63,55,2,0,3,0,2010-03-13 16:00:00,,2010
+Sheffield United,Queens Park Rangers,1-1,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/201021475,2010,36,championship,62,55,1,0,0,0,2010-03-13 16:00:00,,2010
+Swansea City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/swansea-city-afc/sheffield-wednesday-fc/201021476,2010,36,championship,54,53,0,0,1,0,2010-03-13 16:00:00,,2010
+Watford,Peterborough United,0-1,https://www.besoccer.com/match/watford-fc/peterborough-u/201021477,2010,36,championship,59,48,2,0,0,0,2010-03-13 16:00:00,,2010
+West Bromwich Albion,Blackpool,3-2,https://www.besoccer.com/match/west-bromwich/blackpool-fc/201021478,2010,36,championship,64,53,2,0,4,0,2010-03-13 16:00:00,,2010
+Barnsley,Nottingham Forest,2-1,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/201021479,2010,37,championship,53,57,3,0,3,0,2010-03-16 20:45:00,,2010
+Coventry City,Cardiff City,1-2,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/201021480,2010,37,championship,57,61,3,0,0,0,2010-03-16 20:45:00,,2010
+Derby County,Middlesbrough,2-2,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/201021482,2010,37,championship,56,65,0,0,2,0,2010-03-16 20:45:00,,2010
+Peterborough United,Doncaster Rovers,1-2,https://www.besoccer.com/match/peterborough-u/doncaster-rovers/201021483,2010,37,championship,48,50,0,0,0,0,2010-03-16 20:45:00,,2010
+Plymouth Argyle,Bristol City,3-2,https://www.besoccer.com/match/plymouth-argyle/bristol-city-fc/201021484,2010,37,championship,51,55,1,0,2,0,2010-03-16 20:45:00,,2010
+Preston North End,Sheffield Wednesday,2-2,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/201021485,2010,37,championship,59,53,0,0,0,0,2010-03-16 20:45:00,,2010
+Sheffield United,Blackpool,3-0,https://www.besoccer.com/match/sheffield-united/blackpool-fc/201021487,2010,37,championship,62,53,1,0,1,0,2010-03-16 20:45:00,,2010
+Swansea City,West Bromwich Albion,0-2,https://www.besoccer.com/match/swansea-city-afc/west-bromwich/201021488,2010,37,championship,54,64,2,0,2,0,2010-03-16 20:45:00,,2010
+Watford,Ipswich Town,2-1,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/201021489,2010,37,championship,59,59,1,0,0,0,2010-03-16 20:45:00,,2010
+Crystal Palace,Leicester,0-1,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/201021481,2010,37,championship,60,57,1,1,1,1,2010-03-16 21:00:00,,2010
+Reading,Queens Park Rangers,1-0,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/201021486,2010,37,championship,63,55,1,0,4,0,2010-03-16 21:00:00,,2010
+Newcastle,Scunthorpe United,3-0,https://www.besoccer.com/match/newcastle-united-fc/scunthorpe-united/201021490,2010,37,championship,69,48,0,0,0,0,2010-03-17 20:45:00,,2010
+Blackpool,Crystal Palace,2-2,https://www.besoccer.com/match/blackpool-fc/crystal-palace-fc/201021491,2010,38,championship,52,60,2,0,3,0,2010-03-20 16:00:00,,2010
+Doncaster Rovers,Sheffield United,1-1,https://www.besoccer.com/match/doncaster-rovers/sheffield-united/201021493,2010,38,championship,51,62,1,0,1,0,2010-03-20 16:00:00,,2010
+Ipswich Town,Barnsley,1-0,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/201021494,2010,38,championship,59,53,3,0,2,0,2010-03-20 16:00:00,,2010
+Middlesbrough,Reading,1-1,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/201021496,2010,38,championship,65,63,3,0,0,0,2010-03-20 16:00:00,,2010
+Nottingham Forest,Peterborough United,1-0,https://www.besoccer.com/match/nottingham-forest-fc/peterborough-u/201021497,2010,38,championship,57,48,3,0,0,0,2010-03-20 16:00:00,,2010
+Queens Park Rangers,Swansea City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/swansea-city-afc/201021498,2010,38,championship,55,54,0,0,1,0,2010-03-20 16:00:00,,2010
+Scunthorpe United,Plymouth Argyle,2-1,https://www.besoccer.com/match/scunthorpe-united/plymouth-argyle/201021499,2010,38,championship,48,51,3,0,2,0,2010-03-20 16:00:00,,2010
+Sheffield Wednesday,Derby County,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/201021500,2010,38,championship,53,56,0,0,2,0,2010-03-20 16:00:00,,2010
+West Bromwich Albion,Preston North End,3-2,https://www.besoccer.com/match/west-bromwich/preston-north-end/201021501,2010,38,championship,65,59,1,0,3,0,2010-03-20 16:00:00,,2010
+Bristol City,Newcastle,2-2,https://www.besoccer.com/match/bristol-city-fc/newcastle-united-fc/201021492,2010,38,championship,55,70,1,0,2,0,2010-03-20 18:20:00,,2010
+Leicester,Coventry City,2-2,https://www.besoccer.com/match/leicester-city-fc/coventry-city/201021495,2010,38,championship,58,57,1,0,0,0,2010-03-21 15:00:00,,2010
+Cardiff City,Watford,3-1,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/201021502,2010,38,championship,61,59,1,0,1,0,2010-03-21 16:00:00,,2010
+Blackpool,Swansea City,5-1,https://www.besoccer.com/match/blackpool-fc/swansea-city-afc/201021503,2010,39,championship,52,54,2,0,2,0,2010-03-23 20:45:00,,2010
+Bristol City,Barnsley,5-3,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/201021504,2010,39,championship,55,53,0,0,2,0,2010-03-23 20:45:00,,2010
+Doncaster Rovers,Newcastle,0-1,https://www.besoccer.com/match/doncaster-rovers/newcastle-united-fc/201021505,2010,39,championship,51,70,0,0,3,0,2010-03-23 20:45:00,,2010
+Ipswich Town,Plymouth Argyle,0-2,https://www.besoccer.com/match/ipswich-town-fc/plymouth-argyle/201021506,2010,39,championship,59,51,0,0,0,0,2010-03-23 20:45:00,,2010
+Nottingham Forest,Crystal Palace,2-0,https://www.besoccer.com/match/nottingham-forest-fc/crystal-palace-fc/201021509,2010,39,championship,57,60,2,0,1,0,2010-03-23 20:45:00,,2010
+Scunthorpe United,Peterborough United,4-0,https://www.besoccer.com/match/scunthorpe-united/peterborough-u/201021511,2010,39,championship,48,48,1,0,1,0,2010-03-23 20:45:00,,2010
+Middlesbrough,Preston North End,2-0,https://www.besoccer.com/match/middlesbrough-fc/preston-north-end/201021508,2010,39,championship,65,59,1,0,3,0,2010-03-23 21:00:00,,2010
+Queens Park Rangers,Derby County,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/201021510,2010,39,championship,55,56,1,0,1,0,2010-03-23 21:00:00,,2010
+Leicester,Reading,1-2,https://www.besoccer.com/match/leicester-city-fc/reading-fc/201021507,2010,39,championship,58,63,3,0,2,0,2010-03-24 20:45:00,,2010
+West Bromwich Albion,Coventry City,1-0,https://www.besoccer.com/match/west-bromwich/coventry-city/201021512,2010,39,championship,65,57,2,0,1,0,2010-03-24 20:45:00,,2010
+Cardiff City,Sheffield United,1-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/201021513,2010,39,championship,61,62,2,0,5,0,2010-03-24 20:45:00,,2010
+Sheffield Wednesday,Watford,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/watford-fc/201021514,2010,39,championship,53,58,1,0,0,0,2010-03-24 20:45:00,,2010
+Crystal Palace,Cardiff City,1-2,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/201021517,2010,40,championship,60,61,2,0,1,0,2010-03-27 12:45:00,,2010
+Barnsley,Doncaster Rovers,0-1,https://www.besoccer.com/match/barnsley-fc/doncaster-rovers/201021515,2010,40,championship,52,51,2,0,2,0,2010-03-27 16:00:00,,2010
+Coventry City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/201021516,2010,40,championship,57,53,2,0,2,0,2010-03-27 16:00:00,,2010
+Derby County,Leicester,1-0,https://www.besoccer.com/match/derby-county-fc/leicester-city-fc/201021518,2010,40,championship,56,57,1,0,0,0,2010-03-27 16:00:00,,2010
+Peterborough United,Bristol City,0-1,https://www.besoccer.com/match/peterborough-u/bristol-city-fc/201021520,2010,40,championship,48,55,1,0,1,0,2010-03-27 16:00:00,,2010
+Plymouth Argyle,Blackpool,0-2,https://www.besoccer.com/match/plymouth-argyle/blackpool-fc/201021521,2010,40,championship,52,53,2,0,1,0,2010-03-27 16:00:00,,2010
+Preston North End,Queens Park Rangers,2-2,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/201021522,2010,40,championship,59,55,4,0,2,0,2010-03-27 16:00:00,,2010
+Reading,West Bromwich Albion,1-1,https://www.besoccer.com/match/reading-fc/west-bromwich/201021523,2010,40,championship,64,65,4,0,2,0,2010-03-27 16:00:00,,2010
+Swansea City,Ipswich Town,0-0,https://www.besoccer.com/match/swansea-city-afc/ipswich-town-fc/201021524,2010,40,championship,54,59,1,0,0,0,2010-03-27 16:00:00,,2010
+Watford,Middlesbrough,1-1,https://www.besoccer.com/match/watford-fc/middlesbrough-fc/201021525,2010,40,championship,58,66,2,0,4,0,2010-03-27 16:00:00,,2010
+Sheffield United,Scunthorpe United,0-1,https://www.besoccer.com/match/sheffield-united/scunthorpe-united/201021526,2010,40,championship,62,48,0,0,1,0,2010-03-28 13:15:00,,2010
+Newcastle,Nottingham Forest,2-0,https://www.besoccer.com/match/newcastle-united-fc/nottingham-forest-fc/201021519,2010,40,championship,70,57,1,0,3,0,2010-03-29 20:45:00,,2010
+Scunthorpe United,Blackpool,2-4,https://www.besoccer.com/match/scunthorpe-united/blackpool-fc/201021527,2010,41,championship,49,53,1,0,1,0,2010-04-02 16:00:00,,2010
+West Bromwich Albion,Leicester,3-0,https://www.besoccer.com/match/west-bromwich/leicester-city-fc/201021538,2010,41,championship,65,57,2,0,1,0,2010-04-02 18:15:00,,2010
+Bristol City,Nottingham Forest,1-1,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/201021528,2010,41,championship,55,57,2,0,4,0,2010-04-03 16:00:00,,2010
+Coventry City,Derby County,0-1,https://www.besoccer.com/match/coventry-city/derby-county-fc/201021530,2010,41,championship,57,56,2,0,1,0,2010-04-03 16:00:00,,2010
+Doncaster Rovers,Plymouth Argyle,1-2,https://www.besoccer.com/match/doncaster-rovers/plymouth-argyle/201021531,2010,41,championship,51,51,0,0,1,0,2010-04-03 16:00:00,,2010
+Ipswich Town,Reading,2-1,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/201021532,2010,41,championship,59,64,3,0,3,0,2010-04-03 16:00:00,,2010
+Middlesbrough,Crystal Palace,1-1,https://www.besoccer.com/match/middlesbrough-fc/crystal-palace-fc/201021533,2010,41,championship,66,60,0,0,3,0,2010-04-03 16:00:00,,2010
+Peterborough United,Newcastle,2-3,https://www.besoccer.com/match/peterborough-u/newcastle-united-fc/201021534,2010,41,championship,47,70,1,0,2,0,2010-04-03 16:00:00,,2010
+Preston North End,Watford,1-1,https://www.besoccer.com/match/preston-north-end/watford-fc/201021535,2010,41,championship,59,58,1,0,2,0,2010-04-03 16:00:00,,2010
+Queens Park Rangers,Sheffield Wednesday,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/201021536,2010,41,championship,55,53,1,0,0,0,2010-04-03 16:00:00,,2010
+Sheffield United,Barnsley,0-0,https://www.besoccer.com/match/sheffield-united/barnsley-fc/201021537,2010,41,championship,62,52,2,0,4,0,2010-04-03 16:00:00,,2010
+Cardiff City,Swansea City,2-1,https://www.besoccer.com/match/cardiff-city-fc/swansea-city-afc/201021529,2010,41,championship,61,54,4,0,4,0,2010-04-03 18:20:00,,2010
+Barnsley,Peterborough United,2-2,https://www.besoccer.com/match/barnsley-fc/peterborough-u/201021539,2010,42,championship,52,47,1,0,0,0,2010-04-05 16:00:00,,2010
+Blackpool,Doncaster Rovers,2-0,https://www.besoccer.com/match/blackpool-fc/doncaster-rovers/201021540,2010,42,championship,53,51,2,0,2,0,2010-04-05 16:00:00,,2010
+Crystal Palace,Preston North End,3-1,https://www.besoccer.com/match/crystal-palace-fc/preston-north-end/201021541,2010,42,championship,60,59,4,0,2,0,2010-04-05 16:00:00,,2010
+Derby County,Ipswich Town,1-3,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/201021542,2010,42,championship,56,59,1,1,3,1,2010-04-05 16:00:00,,2010
+Leicester,Queens Park Rangers,4-0,https://www.besoccer.com/match/leicester-city-fc/queens-park-rangers-fc/201021543,2010,42,championship,57,55,0,0,1,0,2010-04-05 16:00:00,,2010
+Plymouth Argyle,Middlesbrough,0-2,https://www.besoccer.com/match/plymouth-argyle/middlesbrough-fc/201021546,2010,42,championship,51,65,1,0,4,0,2010-04-05 16:00:00,,2010
+Reading,Coventry City,3-0,https://www.besoccer.com/match/reading-fc/coventry-city/201021547,2010,42,championship,63,56,2,0,4,0,2010-04-05 16:00:00,,2010
+Sheffield Wednesday,Bristol City,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/201021548,2010,42,championship,53,55,1,0,3,0,2010-04-05 16:00:00,,2010
+Swansea City,Scunthorpe United,3-0,https://www.besoccer.com/match/swansea-city-afc/scunthorpe-united/201021549,2010,42,championship,54,48,0,0,1,0,2010-04-05 16:00:00,,2010
+Watford,West Bromwich Albion,1-1,https://www.besoccer.com/match/watford-fc/west-bromwich/201021550,2010,42,championship,58,65,2,0,5,0,2010-04-05 16:00:00,,2010
+Nottingham Forest,Cardiff City,0-0,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/201021545,2010,42,championship,57,61,2,0,3,0,2010-04-05 18:15:00,,2010
+Newcastle,Sheffield United,2-1,https://www.besoccer.com/match/newcastle-united-fc/sheffield-united/201021544,2010,42,championship,70,62,1,0,1,0,2010-04-05 20:45:00,,2010
+Bristol City,Swansea City,1-0,https://www.besoccer.com/match/bristol-city-fc/swansea-city-afc/201021552,2010,43,championship,55,54,0,0,2,0,2010-04-10 15:00:00,,2010
+Barnsley,Derby County,0-0,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/201021551,2010,43,championship,52,56,1,0,1,0,2010-04-10 16:00:00,,2010
+Cardiff City,Reading,0-0,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/201021553,2010,43,championship,61,64,0,0,1,0,2010-04-10 16:00:00,,2010
+Crystal Palace,Queens Park Rangers,0-2,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/201021554,2010,43,championship,60,55,1,0,1,0,2010-04-10 16:00:00,,2010
+Doncaster Rovers,West Bromwich Albion,2-3,https://www.besoccer.com/match/doncaster-rovers/west-bromwich/201021555,2010,43,championship,50,65,1,0,1,0,2010-04-10 16:00:00,,2010
+Middlesbrough,Sheffield Wednesday,1-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/201021556,2010,43,championship,66,53,1,0,0,0,2010-04-10 16:00:00,,2010
+Newcastle,Blackpool,4-1,https://www.besoccer.com/match/newcastle-united-fc/blackpool-fc/201021557,2010,43,championship,70,53,1,0,1,0,2010-04-10 16:00:00,,2010
+Nottingham Forest,Ipswich Town,3-0,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/201021558,2010,43,championship,57,59,1,0,1,0,2010-04-10 16:00:00,,2010
+Peterborough United,Leicester,1-2,https://www.besoccer.com/match/peterborough-u/leicester-city-fc/201021559,2010,43,championship,47,57,1,0,0,0,2010-04-10 16:00:00,,2010
+Preston North End,Scunthorpe United,3-2,https://www.besoccer.com/match/preston-north-end/scunthorpe-united/201021560,2010,43,championship,59,48,0,0,0,0,2010-04-10 16:00:00,,2010
+Sheffield United,Coventry City,1-0,https://www.besoccer.com/match/sheffield-united/coventry-city/201021561,2010,43,championship,62,56,0,0,0,0,2010-04-10 16:00:00,,2010
+Watford,Plymouth Argyle,1-0,https://www.besoccer.com/match/watford-fc/plymouth-argyle/201021562,2010,43,championship,58,51,1,0,1,0,2010-04-10 16:00:00,,2010
+Blackpool,Nottingham Forest,3-1,https://www.besoccer.com/match/blackpool-fc/nottingham-forest-fc/201021563,2010,44,championship,53,57,1,0,1,0,2010-04-17 16:00:00,,2010
+Coventry City,Preston North End,1-1,https://www.besoccer.com/match/coventry-city/preston-north-end/201021564,2010,44,championship,56,59,2,0,1,0,2010-04-17 16:00:00,,2010
+Derby County,Crystal Palace,1-1,https://www.besoccer.com/match/derby-county-fc/crystal-palace-fc/201021565,2010,44,championship,56,60,1,0,2,0,2010-04-17 16:00:00,,2010
+Ipswich Town,Doncaster Rovers,1-1,https://www.besoccer.com/match/ipswich-town-fc/doncaster-rovers/201021566,2010,44,championship,59,50,1,0,0,0,2010-04-17 16:00:00,,2010
+Leicester,Watford,4-1,https://www.besoccer.com/match/leicester-city-fc/watford-fc/201021567,2010,44,championship,57,58,1,1,0,1,2010-04-17 16:00:00,,2010
+Queens Park Rangers,Cardiff City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/201021569,2010,44,championship,55,61,2,0,0,0,2010-04-17 16:00:00,,2010
+Reading,Peterborough United,6-0,https://www.besoccer.com/match/reading-fc/peterborough-u/201021570,2010,44,championship,63,47,1,0,0,0,2010-04-17 16:00:00,,2010
+Scunthorpe United,Bristol City,3-0,https://www.besoccer.com/match/scunthorpe-united/bristol-city-fc/201021571,2010,44,championship,48,55,0,0,1,0,2010-04-17 16:00:00,,2010
+Swansea City,Barnsley,3-1,https://www.besoccer.com/match/swansea-city-afc/barnsley-fc/201021573,2010,44,championship,54,52,3,0,3,0,2010-04-17 16:00:00,,2010
+West Bromwich Albion,Middlesbrough,2-0,https://www.besoccer.com/match/west-bromwich/middlesbrough-fc/201021574,2010,44,championship,65,66,0,0,2,0,2010-04-17 18:15:00,,2010
+Sheffield Wednesday,Sheffield United,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/201021572,2010,44,championship,53,62,2,0,2,0,2010-04-18 14:00:00,,2010
+Plymouth Argyle,Newcastle,0-2,https://www.besoccer.com/match/plymouth-argyle/newcastle-united-fc/201021568,2010,44,championship,51,70,0,0,1,0,2010-04-19 20:45:00,,2010
+Barnsley,Queens Park Rangers,0-1,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/201021575,2010,45,championship,52,55,2,0,1,0,2010-04-24 16:00:00,,2010
+Bristol City,Derby County,2-1,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/201021576,2010,45,championship,55,56,2,0,1,0,2010-04-24 16:00:00,,2010
+Cardiff City,Sheffield Wednesday,3-2,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/201021577,2010,45,championship,62,53,1,0,3,0,2010-04-24 16:00:00,,2010
+Doncaster Rovers,Scunthorpe United,4-3,https://www.besoccer.com/match/doncaster-rovers/scunthorpe-united/201021579,2010,45,championship,50,48,1,0,1,0,2010-04-24 16:00:00,,2010
+Middlesbrough,Coventry City,1-1,https://www.besoccer.com/match/middlesbrough-fc/coventry-city/201021580,2010,45,championship,65,56,0,0,1,0,2010-04-24 16:00:00,,2010
+Newcastle,Ipswich Town,2-2,https://www.besoccer.com/match/newcastle-united-fc/ipswich-town-fc/201021581,2010,45,championship,70,59,0,0,2,0,2010-04-24 16:00:00,,2010
+Nottingham Forest,Plymouth Argyle,3-0,https://www.besoccer.com/match/nottingham-forest-fc/plymouth-argyle/201021582,2010,45,championship,57,51,0,0,3,0,2010-04-24 16:00:00,,2010
+Peterborough United,Blackpool,0-1,https://www.besoccer.com/match/peterborough-u/blackpool-fc/201021583,2010,45,championship,47,53,1,0,0,0,2010-04-24 16:00:00,,2010
+Preston North End,Leicester,0-1,https://www.besoccer.com/match/preston-north-end/leicester-city-fc/201021584,2010,45,championship,59,58,2,0,0,0,2010-04-24 16:00:00,,2010
+Sheffield United,Swansea City,2-0,https://www.besoccer.com/match/sheffield-united/swansea-city-afc/201021585,2010,45,championship,62,54,2,0,1,0,2010-04-24 16:00:00,,2010
+Watford,Reading,3-0,https://www.besoccer.com/match/watford-fc/reading-fc/201021586,2010,45,championship,58,64,3,0,2,0,2010-04-24 16:00:00,,2010
+Crystal Palace,West Bromwich Albion,1-1,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/201021578,2010,45,championship,60,65,1,1,5,1,2010-04-26 21:00:00,,2010
+Blackpool,Bristol City,1-1,https://www.besoccer.com/match/blackpool-fc/bristol-city-fc/201021587,2010,46,championship,54,55,0,0,4,0,2010-05-02 14:00:00,,2010
+Coventry City,Watford,0-4,https://www.besoccer.com/match/coventry-city/watford-fc/201021588,2010,46,championship,56,58,1,0,0,0,2010-05-02 14:00:00,,2010
+Derby County,Cardiff City,2-0,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/201021589,2010,46,championship,56,62,4,0,3,0,2010-05-02 14:00:00,,2010
+Ipswich Town,Sheffield United,0-3,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/201021590,2010,46,championship,59,62,0,0,0,0,2010-05-02 14:00:00,,2010
+Leicester,Middlesbrough,2-0,https://www.besoccer.com/match/leicester-city-fc/middlesbrough-fc/201021591,2010,46,championship,58,65,0,0,0,0,2010-05-02 14:00:00,,2010
+Plymouth Argyle,Peterborough United,1-2,https://www.besoccer.com/match/plymouth-argyle/peterborough-u/201021592,2010,46,championship,51,47,0,0,3,0,2010-05-02 14:00:00,,2010
+Queens Park Rangers,Newcastle,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/newcastle-united-fc/201021593,2010,46,championship,55,70,0,1,2,1,2010-05-02 14:00:00,,2010
+Reading,Preston North End,4-1,https://www.besoccer.com/match/reading-fc/preston-north-end/201021594,2010,46,championship,63,59,2,0,2,0,2010-05-02 14:00:00,,2010
+Scunthorpe United,Nottingham Forest,2-2,https://www.besoccer.com/match/scunthorpe-united/nottingham-forest-fc/201021595,2010,46,championship,48,57,2,0,0,0,2010-05-02 14:00:00,,2010
+Sheffield Wednesday,Crystal Palace,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/201021596,2010,46,championship,53,60,1,0,2,0,2010-05-02 14:00:00,,2010
+Swansea City,Doncaster Rovers,0-0,https://www.besoccer.com/match/swansea-city-afc/doncaster-rovers/201021597,2010,46,championship,54,50,0,0,2,0,2010-05-02 14:00:00,,2010
+West Bromwich Albion,Barnsley,1-1,https://www.besoccer.com/match/west-bromwich/barnsley-fc/201021598,2010,46,championship,65,52,1,0,0,0,2010-05-02 14:00:00,,2010
