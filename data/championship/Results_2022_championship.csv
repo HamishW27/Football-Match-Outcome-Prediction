@@ -1,5 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
-Luton Town,Huddersfield Town,2-0,https://www.besoccer.com/match/luton-town-fc/huddersfield-town-fc/2022479385,2022,1,championship
-Huddersfield Town,Luton Town,2-0,https://www.besoccer.com/match/huddersfield-town-fc/luton-town-fc/2022479387,2022,1,championship
-Sheffield United,Nottingham Forest,1-1,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/2022479386,2022,1,championship
-Nottingham Forest,Sheffield United,1-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/2022479388,2022,1,championship
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+AFC Bournemouth,West Bromwich Albion,2-2,https://www.besoccer.com/match/afc-bournemouth/west-bromwich/202212861,2022,1,championship,69,61,1,0,3,0,,2022
+Blackburn Rovers,Swansea City,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/swansea-city-afc/202212862,2022,1,championship,58,67,4,0,2,0,,2022
+Bristol City,Blackpool,1-1,https://www.besoccer.com/match/bristol-city-fc/blackpool-fc/202212863,2022,1,championship,56,45,2,0,0,0,,2022
+Cardiff City,Barnsley,1-1,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/202212864,2022,1,championship,60,52,0,0,0,0,,2022
+Derby County,Huddersfield Town,1-1,https://www.besoccer.com/match/derby-county-fc/huddersfield-town-fc/202212866,2022,1,championship,57,55,3,0,2,0,,2022
+Luton Town,Peterborough United,3-0,https://www.besoccer.com/match/luton-town-fc/peterborough-u/202212868,2022,1,championship,54,51,1,0,5,0,,2022
+Preston North End,Hull City,1-4,https://www.besoccer.com/match/preston-north-end/hull-city/202212869,2022,1,championship,59,54,2,0,2,0,,2022
+Queens Park Rangers,Millwall,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/millwall-fc/202212870,2022,1,championship,55,55,0,0,3,0,,2022
+Stoke City,Reading,3-2,https://www.besoccer.com/match/stoke-city/reading-fc/202212872,2022,1,championship,64,55,0,0,2,0,,2022
+Sheffield United,Birmingham City,0-1,https://www.besoccer.com/match/sheffield-united/birmingham-city-fc/202212871,2022,1,championship,58,52,1,0,6,0,,2022
+Fulham,Middlesbrough,1-1,https://www.besoccer.com/match/fulham/middlesbrough-fc/202212867,2022,1,championship,60,59,2,0,3,0,,2022
+Coventry City,Nottingham Forest,2-1,https://www.besoccer.com/match/coventry-city/nottingham-forest-fc/202212865,2022,1,championship,45,59,4,0,1,0,,2022
+Peterborough United,Derby County,2-1,https://www.besoccer.com/match/peterborough-u/derby-county-fc/202212881,2022,2,championship,54,57,4,0,2,0,,2022
+Barnsley,Coventry City,1-0,https://www.besoccer.com/match/barnsley-fc/coventry-city/202212873,2022,2,championship,52,46,8,0,2,0,,2022
+Birmingham City,Stoke City,0-0,https://www.besoccer.com/match/birmingham-city-fc/stoke-city/202212874,2022,2,championship,52,64,1,0,2,0,,2022
+Blackpool,Cardiff City,0-2,https://www.besoccer.com/match/blackpool-fc/cardiff-city-fc/202212875,2022,2,championship,48,60,1,0,1,0,,2022
+Huddersfield Town,Fulham,1-5,https://www.besoccer.com/match/huddersfield-town-fc/fulham/202212876,2022,2,championship,55,60,1,0,1,0,,2022
+Hull City,Queens Park Rangers,0-3,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/202212877,2022,2,championship,54,54,0,1,0,1,,2022
+Middlesbrough,Bristol City,2-1,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/202212878,2022,2,championship,59,56,1,0,1,0,,2022
+Millwall,Blackburn Rovers,1-1,https://www.besoccer.com/match/millwall-fc/blackburn-rovers-fc/202212879,2022,2,championship,56,57,1,0,2,0,,2022
+Nottingham Forest,AFC Bournemouth,1-2,https://www.besoccer.com/match/nottingham-forest-fc/afc-bournemouth/202212880,2022,2,championship,58,68,2,0,2,0,,2022
+Reading,Preston North End,2-1,https://www.besoccer.com/match/reading-fc/preston-north-end/202212882,2022,2,championship,55,59,3,0,0,0,,2022
+West Bromwich Albion,Luton Town,3-2,https://www.besoccer.com/match/west-bromwich/luton-town-fc/202212884,2022,2,championship,59,56,2,0,2,0,,2022
+Swansea City,Sheffield United,0-0,https://www.besoccer.com/match/swansea-city-afc/sheffield-united/202212883,2022,2,championship,66,58,1,0,2,0,,2022
+Barnsley,Luton Town,0-1,https://www.besoccer.com/match/barnsley-fc/luton-town-fc/202212885,2022,3,championship,53,56,1,0,4,0,,2022
+Blackpool,Coventry City,0-1,https://www.besoccer.com/match/blackpool-fc/coventry-city/202212886,2022,3,championship,46,46,2,0,4,0,,2022
+Huddersfield Town,Preston North End,1-0,https://www.besoccer.com/match/huddersfield-town-fc/preston-north-end/202212887,2022,3,championship,54,60,3,0,2,0,,2022
+Millwall,Fulham,1-2,https://www.besoccer.com/match/millwall-fc/fulham/202212888,2022,3,championship,56,60,4,0,2,0,,2022
+Peterborough United,Cardiff City,2-2,https://www.besoccer.com/match/peterborough-u/cardiff-city-fc/202212889,2022,3,championship,54,59,1,0,2,0,,2022
+Swansea City,Stoke City,1-3,https://www.besoccer.com/match/swansea-city-afc/stoke-city/202212890,2022,3,championship,66,64,0,0,2,0,,2022
+Reading,Bristol City,2-3,https://www.besoccer.com/match/reading-fc/bristol-city-fc/202212895,2022,3,championship,55,56,0,0,1,0,,2022
+Birmingham City,AFC Bournemouth,0-2,https://www.besoccer.com/match/birmingham-city-fc/afc-bournemouth/202212891,2022,3,championship,52,68,1,0,0,0,,2022
+Hull City,Derby County,0-1,https://www.besoccer.com/match/hull-city/derby-county-fc/202212892,2022,3,championship,54,57,1,0,3,0,,2022
+Middlesbrough,Queens Park Rangers,2-3,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/202212893,2022,3,championship,59,54,2,0,2,0,,2022
+Nottingham Forest,Blackburn Rovers,1-2,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/202212894,2022,3,championship,59,57,2,1,3,1,,2022
+West Bromwich Albion,Sheffield United,4-0,https://www.besoccer.com/match/west-bromwich/sheffield-united/202212896,2022,3,championship,59,58,0,0,1,0,,2022
+Bristol City,Swansea City,0-1,https://www.besoccer.com/match/bristol-city-fc/swansea-city-afc/202212899,2022,4,championship,56,66,4,0,6,0,,2022
+Queens Park Rangers,Barnsley,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/202212906,2022,4,championship,54,53,2,0,3,0,,2022
+AFC Bournemouth,Blackpool,2-2,https://www.besoccer.com/match/afc-bournemouth/blackpool-fc/202212897,2022,4,championship,68,46,0,0,4,0,,2022
+Blackburn Rovers,West Bromwich Albion,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/west-bromwich/202212898,2022,4,championship,57,60,1,0,2,0,,2022
+Cardiff City,Millwall,3-1,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/202212900,2022,4,championship,59,56,2,0,1,0,,2022
+Coventry City,Reading,2-1,https://www.besoccer.com/match/coventry-city/reading-fc/202212901,2022,4,championship,46,55,5,0,3,0,,2022
+Derby County,Middlesbrough,0-0,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/202212902,2022,4,championship,57,60,2,0,4,0,,2022
+Fulham,Hull City,2-0,https://www.besoccer.com/match/fulham/hull-city/202212903,2022,4,championship,60,54,3,0,2,0,,2022
+Luton Town,Birmingham City,0-5,https://www.besoccer.com/match/luton-town-fc/birmingham-city-fc/202212904,2022,4,championship,56,52,1,0,1,0,,2022
+Preston North End,Peterborough United,1-0,https://www.besoccer.com/match/preston-north-end/peterborough-u/202212905,2022,4,championship,59,54,2,0,0,0,,2022
+Sheffield United,Huddersfield Town,1-2,https://www.besoccer.com/match/sheffield-united/huddersfield-town-fc/202212907,2022,4,championship,58,54,0,0,3,0,,2022
+Stoke City,Nottingham Forest,1-0,https://www.besoccer.com/match/stoke-city/nottingham-forest-fc/202212908,2022,4,championship,64,59,2,0,2,0,,2022
+Cardiff City,Bristol City,1-2,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/202212910,2022,5,championship,58,57,2,0,2,0,,2022
+Derby County,Nottingham Forest,1-1,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/202212911,2022,5,championship,58,59,4,0,1,0,,2022
+Barnsley,Birmingham City,1-1,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/202212909,2022,5,championship,54,51,2,0,4,0,,2022
+Fulham,Stoke City,3-0,https://www.besoccer.com/match/fulham/stoke-city/202212912,2022,5,championship,60,64,0,0,1,0,,2022
+Huddersfield Town,Reading,4-0,https://www.besoccer.com/match/huddersfield-town-fc/reading-fc/202212913,2022,5,championship,53,55,3,0,2,0,,2022
+Hull City,AFC Bournemouth,0-0,https://www.besoccer.com/match/hull-city/afc-bournemouth/202212914,2022,5,championship,54,69,0,0,2,0,,2022
+Luton Town,Sheffield United,0-0,https://www.besoccer.com/match/luton-town-fc/sheffield-united/202212915,2022,5,championship,56,58,1,0,1,0,,2022
+Middlesbrough,Blackburn Rovers,1-1,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/202212916,2022,5,championship,60,56,1,1,3,1,,2022
+Millwall,Blackpool,2-1,https://www.besoccer.com/match/millwall-fc/blackpool-fc/202212917,2022,5,championship,56,47,4,0,3,0,,2022
+Preston North End,Swansea City,3-1,https://www.besoccer.com/match/preston-north-end/swansea-city-afc/202212919,2022,5,championship,59,67,4,0,1,0,,2022
+Queens Park Rangers,Coventry City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/202212920,2022,5,championship,56,43,1,0,1,0,,2022
+Peterborough United,West Bromwich Albion,0-1,https://www.besoccer.com/match/peterborough-u/west-bromwich/202212918,2022,5,championship,54,60,2,0,4,0,,2022
+Birmingham City,Derby County,2-0,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/202212922,2022,6,championship,50,58,2,0,3,0,,2022
+AFC Bournemouth,Barnsley,3-0,https://www.besoccer.com/match/afc-bournemouth/barnsley-fc/202212921,2022,6,championship,69,54,3,0,3,0,,2022
+Blackburn Rovers,Luton Town,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/luton-town-fc/202212923,2022,6,championship,56,56,4,0,5,0,,2022
+Blackpool,Fulham,1-0,https://www.besoccer.com/match/blackpool-fc/fulham/202212924,2022,6,championship,48,60,3,0,3,0,,2022
+Bristol City,Preston North End,0-0,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/202212925,2022,6,championship,57,58,0,0,1,0,,2022
+Coventry City,Middlesbrough,2-0,https://www.besoccer.com/match/coventry-city/middlesbrough-fc/202212926,2022,6,championship,44,59,1,0,3,0,,2022
+Reading,Queens Park Rangers,3-3,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/202212928,2022,6,championship,54,57,2,0,1,0,,2022
+Sheffield United,Peterborough United,6-2,https://www.besoccer.com/match/sheffield-united/peterborough-u/202212929,2022,6,championship,58,51,0,0,2,0,,2022
+Stoke City,Huddersfield Town,2-1,https://www.besoccer.com/match/stoke-city/huddersfield-town-fc/202212930,2022,6,championship,65,53,2,0,3,0,,2022
+Swansea City,Hull City,0-0,https://www.besoccer.com/match/swansea-city-afc/hull-city/202212931,2022,6,championship,66,53,1,0,2,0,,2022
+West Bromwich Albion,Millwall,1-1,https://www.besoccer.com/match/west-bromwich/millwall-fc/202212932,2022,6,championship,60,57,1,0,3,0,,2022
+Nottingham Forest,Cardiff City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/202212927,2022,6,championship,59,59,0,0,3,0,,2022
+AFC Bournemouth,Queens Park Rangers,2-1,https://www.besoccer.com/match/afc-bournemouth/queens-park-rangers-fc/202212933,2022,7,championship,69,57,5,0,3,0,,2022
+Blackburn Rovers,Hull City,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/hull-city/202212934,2022,7,championship,56,53,1,0,2,0,,2022
+Blackpool,Huddersfield Town,0-3,https://www.besoccer.com/match/blackpool-fc/huddersfield-town-fc/202212935,2022,7,championship,47,53,0,0,1,0,,2022
+Sheffield United,Preston North End,2-2,https://www.besoccer.com/match/sheffield-united/preston-north-end/202212936,2022,7,championship,58,58,2,0,1,0,,2022
+Reading,Peterborough United,3-1,https://www.besoccer.com/match/reading-fc/peterborough-u/202212937,2022,7,championship,54,51,0,0,1,0,,2022
+West Bromwich Albion,Derby County,0-0,https://www.besoccer.com/match/west-bromwich/derby-county-fc/202212938,2022,7,championship,60,58,1,0,1,0,,2022
+Birmingham City,Fulham,1-4,https://www.besoccer.com/match/birmingham-city-fc/fulham/202212939,2022,7,championship,50,60,2,0,1,0,,2022
+Bristol City,Luton Town,1-1,https://www.besoccer.com/match/bristol-city-fc/luton-town-fc/202212940,2022,7,championship,57,55,1,0,2,0,,2022
+Coventry City,Cardiff City,1-0,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/202212941,2022,7,championship,44,59,2,1,1,1,,2022
+Nottingham Forest,Middlesbrough,0-2,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/202212942,2022,7,championship,59,59,1,0,5,0,,2022
+Swansea City,Millwall,0-0,https://www.besoccer.com/match/swansea-city-afc/millwall-fc/202212943,2022,7,championship,66,57,2,0,3,0,,2022
+Stoke City,Barnsley,1-1,https://www.besoccer.com/match/stoke-city/barnsley-fc/202212944,2022,7,championship,65,54,1,1,5,1,,2022
+Hull City,Sheffield United,1-3,https://www.besoccer.com/match/hull-city/sheffield-united/202212950,2022,8,championship,53,58,3,0,2,0,,2022
+Barnsley,Blackburn Rovers,0-0,https://www.besoccer.com/match/barnsley-fc/blackburn-rovers-fc/202212945,2022,8,championship,54,56,0,0,1,0,,2022
+Cardiff City,AFC Bournemouth,0-1,https://www.besoccer.com/match/cardiff-city-fc/afc-bournemouth/202212946,2022,8,championship,59,70,3,0,3,0,,2022
+Derby County,Stoke City,2-1,https://www.besoccer.com/match/derby-county-fc/stoke-city/202212947,2022,8,championship,58,65,2,0,3,0,,2022
+Fulham,Reading,1-2,https://www.besoccer.com/match/fulham/reading-fc/202212948,2022,8,championship,60,54,4,0,3,0,,2022
+Huddersfield Town,Nottingham Forest,0-2,https://www.besoccer.com/match/huddersfield-town-fc/nottingham-forest-fc/202212949,2022,8,championship,53,59,2,0,1,0,,2022
+Luton Town,Swansea City,3-3,https://www.besoccer.com/match/luton-town-fc/swansea-city-afc/202212951,2022,8,championship,56,66,2,0,1,0,,2022
+Middlesbrough,Blackpool,1-2,https://www.besoccer.com/match/middlesbrough-fc/blackpool-fc/202212952,2022,8,championship,59,48,2,0,1,0,,2022
+Millwall,Coventry City,1-1,https://www.besoccer.com/match/millwall-fc/coventry-city/202212953,2022,8,championship,57,45,2,0,0,0,,2022
+Peterborough United,Birmingham City,3-0,https://www.besoccer.com/match/peterborough-u/birmingham-city-fc/202212954,2022,8,championship,51,49,2,0,2,0,,2022
+Preston North End,West Bromwich Albion,1-1,https://www.besoccer.com/match/preston-north-end/west-bromwich/202212955,2022,8,championship,58,61,1,0,1,0,,2022
+Queens Park Rangers,Bristol City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/202212956,2022,8,championship,57,57,4,0,1,0,,2022
+Coventry City,Peterborough United,3-0,https://www.besoccer.com/match/coventry-city/peterborough-u/202212962,2022,9,championship,45,51,0,0,1,0,,2022
+West Bromwich Albion,Queens Park Rangers,2-1,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/202212968,2022,9,championship,61,57,1,0,1,0,,2022
+Reading,Middlesbrough,1-0,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/202212964,2022,9,championship,54,59,3,0,3,0,,2022
+AFC Bournemouth,Luton Town,2-1,https://www.besoccer.com/match/afc-bournemouth/luton-town-fc/202212957,2022,9,championship,69,55,2,0,0,0,,2022
+Birmingham City,Preston North End,0-0,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/202212958,2022,9,championship,50,58,1,0,3,0,,2022
+Blackburn Rovers,Cardiff City,5-1,https://www.besoccer.com/match/blackburn-rovers-fc/cardiff-city-fc/202212959,2022,9,championship,56,59,0,0,2,0,,2022
+Blackpool,Barnsley,1-0,https://www.besoccer.com/match/blackpool-fc/barnsley-fc/202212960,2022,9,championship,48,54,1,0,3,0,,2022
+Bristol City,Fulham,1-1,https://www.besoccer.com/match/bristol-city-fc/fulham/202212961,2022,9,championship,57,61,1,0,3,0,,2022
+Nottingham Forest,Millwall,1-1,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/202212963,2022,9,championship,58,57,2,0,3,0,,2022
+Sheffield United,Derby County,1-0,https://www.besoccer.com/match/sheffield-united/derby-county-fc/202212965,2022,9,championship,58,58,1,0,1,0,,2022
+Stoke City,Hull City,2-0,https://www.besoccer.com/match/stoke-city/hull-city/202212966,2022,9,championship,65,53,2,0,0,0,,2022
+Swansea City,Huddersfield Town,1-0,https://www.besoccer.com/match/swansea-city-afc/huddersfield-town-fc/202212967,2022,9,championship,66,53,2,0,2,0,,2022
+Cardiff City,West Bromwich Albion,0-4,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/202212969,2022,10,championship,59,61,1,0,1,0,,2022
+Huddersfield Town,Blackburn Rovers,3-2,https://www.besoccer.com/match/huddersfield-town-fc/blackburn-rovers-fc/202212970,2022,10,championship,53,56,2,0,0,0,,2022
+Hull City,Blackpool,1-1,https://www.besoccer.com/match/hull-city/blackpool-fc/202212971,2022,10,championship,53,48,2,1,2,1,,2022
+Middlesbrough,Sheffield United,2-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-united/202212972,2022,10,championship,59,58,4,0,2,0,,2022
+Preston North End,Stoke City,1-1,https://www.besoccer.com/match/preston-north-end/stoke-city/202212973,2022,10,championship,58,65,2,0,4,0,,2022
+Queens Park Rangers,Birmingham City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/202212974,2022,10,championship,57,50,1,0,1,0,,2022
+Barnsley,Nottingham Forest,1-3,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/202212975,2022,10,championship,54,58,1,0,0,0,,2022
+Derby County,Reading,1-0,https://www.besoccer.com/match/derby-county-fc/reading-fc/202212976,2022,10,championship,58,54,4,0,0,0,,2022
+Fulham,Swansea City,3-1,https://www.besoccer.com/match/fulham/swansea-city-afc/202212977,2022,10,championship,61,66,0,0,1,0,,2022
+Luton Town,Coventry City,5-0,https://www.besoccer.com/match/luton-town-fc/coventry-city/202212978,2022,10,championship,55,45,0,0,2,0,,2022
+Millwall,Bristol City,1-0,https://www.besoccer.com/match/millwall-fc/bristol-city-fc/202212979,2022,10,championship,57,57,1,0,2,0,,2022
+Peterborough United,AFC Bournemouth,0-0,https://www.besoccer.com/match/peterborough-u/afc-bournemouth/202212980,2022,10,championship,51,69,1,0,0,0,,2022
+Stoke City,West Bromwich Albion,1-0,https://www.besoccer.com/match/stoke-city/west-bromwich/202212992,2022,11,championship,65,61,2,0,2,0,,2022
+Coventry City,Fulham,4-1,https://www.besoccer.com/match/coventry-city/fulham/202212986,2022,11,championship,45,61,1,0,3,0,,2022
+AFC Bournemouth,Sheffield United,2-1,https://www.besoccer.com/match/afc-bournemouth/sheffield-united/202212981,2022,11,championship,69,58,3,0,2,0,,2022
+Barnsley,Millwall,0-1,https://www.besoccer.com/match/barnsley-fc/millwall-fc/202212982,2022,11,championship,54,57,2,0,1,0,,2022
+Birmingham City,Nottingham Forest,0-3,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/202212983,2022,11,championship,50,58,1,0,3,0,,2022
+Blackpool,Blackburn Rovers,2-1,https://www.besoccer.com/match/blackpool-fc/blackburn-rovers-fc/202212984,2022,11,championship,48,56,3,0,1,0,,2022
+Cardiff City,Reading,0-1,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/202212985,2022,11,championship,59,54,4,0,0,0,,2022
+Derby County,Swansea City,0-0,https://www.besoccer.com/match/derby-county-fc/swansea-city-afc/202212987,2022,11,championship,58,66,3,0,0,0,,2022
+Hull City,Middlesbrough,2-0,https://www.besoccer.com/match/hull-city/middlesbrough-fc/202212988,2022,11,championship,53,59,1,0,3,0,,2022
+Luton Town,Huddersfield Town,0-0,https://www.besoccer.com/match/luton-town-fc/huddersfield-town-fc/202212989,2022,11,championship,55,53,2,0,3,0,,2022
+Peterborough United,Bristol City,2-3,https://www.besoccer.com/match/peterborough-u/bristol-city-fc/202212990,2022,11,championship,51,57,1,0,1,0,,2022
+Queens Park Rangers,Preston North End,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/202212991,2022,11,championship,57,58,1,0,0,0,,2022
+West Bromwich Albion,Birmingham City,1-0,https://www.besoccer.com/match/west-bromwich/birmingham-city-fc/202213004,2022,12,championship,61,51,3,0,0,0,,2022
+Fulham,Queens Park Rangers,4-1,https://www.besoccer.com/match/fulham/queens-park-rangers-fc/202212995,2022,12,championship,69,59,0,0,4,0,,2022
+Blackburn Rovers,Coventry City,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/coventry-city/202212993,2022,12,championship,58,46,2,0,2,0,,2022
+Bristol City,AFC Bournemouth,0-2,https://www.besoccer.com/match/bristol-city-fc/afc-bournemouth/202212994,2022,12,championship,58,69,0,0,2,0,,2022
+Huddersfield Town,Hull City,2-0,https://www.besoccer.com/match/huddersfield-town-fc/hull-city/202212996,2022,12,championship,55,50,1,0,2,0,,2022
+Middlesbrough,Peterborough United,2-0,https://www.besoccer.com/match/middlesbrough-fc/peterborough-u/202212997,2022,12,championship,61,48,2,0,4,0,,2022
+Millwall,Luton Town,0-2,https://www.besoccer.com/match/millwall-fc/luton-town-fc/202212998,2022,12,championship,58,57,1,0,3,0,,2022
+Nottingham Forest,Blackpool,2-1,https://www.besoccer.com/match/nottingham-forest-fc/blackpool-fc/202212999,2022,12,championship,59,46,2,0,0,0,,2022
+Preston North End,Derby County,0-0,https://www.besoccer.com/match/preston-north-end/derby-county-fc/202213000,2022,12,championship,60,59,2,0,0,0,,2022
+Reading,Barnsley,1-0,https://www.besoccer.com/match/reading-fc/barnsley-fc/202213001,2022,12,championship,55,56,0,0,2,0,,2022
+Sheffield United,Stoke City,2-1,https://www.besoccer.com/match/sheffield-united/stoke-city/202213002,2022,12,championship,66,67,0,0,2,0,,2022
+Swansea City,Cardiff City,3-0,https://www.besoccer.com/match/swansea-city-afc/cardiff-city-fc/202213003,2022,12,championship,68,60,1,0,2,0,,2022
+Bristol City,Nottingham Forest,1-2,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/202213005,2022,13,championship,59,60,1,0,0,0,,2022
+Derby County,Luton Town,2-2,https://www.besoccer.com/match/derby-county-fc/luton-town-fc/202213006,2022,13,championship,59,57,1,0,2,0,,2022
+Queens Park Rangers,Blackburn Rovers,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/202213008,2022,13,championship,59,58,2,0,3,0,,2022
+Sheffield United,Millwall,1-2,https://www.besoccer.com/match/sheffield-united/millwall-fc/202213009,2022,13,championship,66,58,3,1,1,1,,2022
+Stoke City,AFC Bournemouth,0-1,https://www.besoccer.com/match/stoke-city/afc-bournemouth/202213010,2022,13,championship,67,69,0,0,2,0,,2022
+Fulham,Cardiff City,2-0,https://www.besoccer.com/match/fulham/cardiff-city-fc/202213007,2022,13,championship,69,60,0,0,3,0,,2022
+Huddersfield Town,Birmingham City,0-0,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/202213011,2022,13,championship,55,51,3,0,1,0,,2022
+Hull City,Peterborough United,1-2,https://www.besoccer.com/match/hull-city/peterborough-u/202213012,2022,13,championship,50,48,1,0,2,0,,2022
+Middlesbrough,Barnsley,2-0,https://www.besoccer.com/match/middlesbrough-fc/barnsley-fc/202213013,2022,13,championship,61,56,1,0,1,0,,2022
+Preston North End,Coventry City,2-1,https://www.besoccer.com/match/preston-north-end/coventry-city/202213014,2022,13,championship,60,47,2,0,1,0,,2022
+Swansea City,West Bromwich Albion,2-1,https://www.besoccer.com/match/swansea-city-afc/west-bromwich/202213015,2022,13,championship,68,61,2,0,4,0,,2022
+Reading,Blackpool,2-3,https://www.besoccer.com/match/reading-fc/blackpool-fc/202213016,2022,13,championship,56,46,0,0,3,0,,2022
+Cardiff City,Middlesbrough,0-2,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/202213022,2022,14,championship,60,61,3,0,1,0,,2022
+AFC Bournemouth,Huddersfield Town,3-0,https://www.besoccer.com/match/afc-bournemouth/huddersfield-town-fc/202213017,2022,14,championship,69,55,2,0,0,0,,2022
+Birmingham City,Swansea City,2-1,https://www.besoccer.com/match/birmingham-city-fc/swansea-city-afc/202213019,2022,14,championship,51,68,2,0,1,0,,2022
+Blackburn Rovers,Reading,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/reading-fc/202213020,2022,14,championship,58,56,4,0,2,0,,2022
+Blackpool,Preston North End,2-0,https://www.besoccer.com/match/blackpool-fc/preston-north-end/202213021,2022,14,championship,46,60,4,0,5,0,,2022
+Coventry City,Derby County,1-1,https://www.besoccer.com/match/coventry-city/derby-county-fc/202213023,2022,14,championship,47,59,1,0,2,0,,2022
+Luton Town,Hull City,1-0,https://www.besoccer.com/match/luton-town-fc/hull-city/202213024,2022,14,championship,57,50,0,0,1,0,,2022
+Millwall,Stoke City,2-1,https://www.besoccer.com/match/millwall-fc/stoke-city/202213025,2022,14,championship,58,67,2,0,1,0,,2022
+Peterborough United,Queens Park Rangers,2-1,https://www.besoccer.com/match/peterborough-u/queens-park-rangers-fc/202213027,2022,14,championship,48,59,0,0,0,0,,2022
+West Bromwich Albion,Bristol City,3-0,https://www.besoccer.com/match/west-bromwich/bristol-city-fc/202213028,2022,14,championship,61,59,0,0,2,0,,2022
+Barnsley,Sheffield United,2-3,https://www.besoccer.com/match/barnsley-fc/sheffield-united/202213018,2022,14,championship,56,66,0,0,2,0,,2022
+Nottingham Forest,Fulham,0-4,https://www.besoccer.com/match/nottingham-forest-fc/fulham/202213026,2022,14,championship,60,69,5,0,4,0,,2022
+Queens Park Rangers,Nottingham Forest,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/202213036,2022,15,championship,59,60,2,0,1,0,,2022
+Fulham,West Bromwich Albion,3-0,https://www.besoccer.com/match/fulham/west-bromwich/202213031,2022,15,championship,69,61,0,1,3,1,,2022
+Bristol City,Barnsley,2-1,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/202213029,2022,15,championship,59,55,1,0,0,0,,2022
+Derby County,Blackburn Rovers,1-2,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/202213030,2022,15,championship,59,58,2,0,5,0,,2022
+Huddersfield Town,Millwall,1-0,https://www.besoccer.com/match/huddersfield-town-fc/millwall-fc/202213032,2022,15,championship,55,58,3,0,2,0,,2022
+Hull City,Coventry City,0-1,https://www.besoccer.com/match/hull-city/coventry-city/202213033,2022,15,championship,49,47,2,0,0,0,,2022
+Middlesbrough,Birmingham City,0-2,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/202213034,2022,15,championship,61,51,0,0,3,0,,2022
+Preston North End,Luton Town,2-0,https://www.besoccer.com/match/preston-north-end/luton-town-fc/202213035,2022,15,championship,60,57,1,0,2,0,,2022
+Sheffield United,Blackpool,0-1,https://www.besoccer.com/match/sheffield-united/blackpool-fc/202213038,2022,15,championship,66,46,2,0,1,0,,2022
+Stoke City,Cardiff City,3-3,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/202213039,2022,15,championship,67,59,3,0,3,0,,2022
+Swansea City,Peterborough United,3-0,https://www.besoccer.com/match/swansea-city-afc/peterborough-u/202213040,2022,15,championship,68,48,2,0,0,0,,2022
+Reading,AFC Bournemouth,0-2,https://www.besoccer.com/match/reading-fc/afc-bournemouth/202213037,2022,15,championship,56,69,1,0,3,0,,2022
+Birmingham City,Bristol City,3-0,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/202213041,2022,16,championship,51,59,0,0,2,0,,2022
+Coventry City,Swansea City,1-2,https://www.besoccer.com/match/coventry-city/swansea-city-afc/202213042,2022,16,championship,47,68,1,0,2,0,,2022
+Luton Town,Middlesbrough,3-1,https://www.besoccer.com/match/luton-town-fc/middlesbrough-fc/202213043,2022,16,championship,57,61,4,0,3,0,,2022
+Millwall,Reading,1-0,https://www.besoccer.com/match/millwall-fc/reading-fc/202213044,2022,16,championship,58,56,2,0,0,0,,2022
+Nottingham Forest,Sheffield United,1-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/202213045,2022,16,championship,60,66,4,0,2,0,,2022
+Peterborough United,Huddersfield Town,1-1,https://www.besoccer.com/match/peterborough-u/huddersfield-town-fc/202213046,2022,16,championship,48,55,3,0,3,0,,2022
+AFC Bournemouth,Preston North End,1-2,https://www.besoccer.com/match/afc-bournemouth/preston-north-end/202213047,2022,16,championship,69,60,3,0,1,0,,2022
+Barnsley,Derby County,2-1,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/202213048,2022,16,championship,55,59,3,0,2,0,,2022
+Blackburn Rovers,Fulham,0-7,https://www.besoccer.com/match/blackburn-rovers-fc/fulham/202213049,2022,16,championship,58,69,2,1,0,1,,2022
+Blackpool,Stoke City,0-1,https://www.besoccer.com/match/blackpool-fc/stoke-city/202213050,2022,16,championship,46,67,0,0,5,0,,2022
+Cardiff City,Queens Park Rangers,0-1,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/202213051,2022,16,championship,59,59,0,0,2,0,,2022
+West Bromwich Albion,Hull City,1-0,https://www.besoccer.com/match/west-bromwich/hull-city/202213052,2022,16,championship,61,50,2,0,2,0,,2022
+AFC Bournemouth,Swansea City,4-0,https://www.besoccer.com/match/afc-bournemouth/swansea-city-afc/202213053,2022,17,championship,69,68,2,0,3,0,,2022
+Barnsley,Hull City,0-2,https://www.besoccer.com/match/barnsley-fc/hull-city/202213054,2022,17,championship,55,50,2,0,2,0,,2022
+Blackburn Rovers,Sheffield United,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-united/202213056,2022,17,championship,58,66,1,0,3,0,,2022
+Cardiff City,Huddersfield Town,2-1,https://www.besoccer.com/match/cardiff-city-fc/huddersfield-town-fc/202213058,2022,17,championship,59,55,4,0,1,0,,2022
+Coventry City,Bristol City,3-2,https://www.besoccer.com/match/coventry-city/bristol-city-fc/202213059,2022,17,championship,47,59,1,1,3,1,,2022
+Luton Town,Stoke City,0-1,https://www.besoccer.com/match/luton-town-fc/stoke-city/202213060,2022,17,championship,57,67,1,0,5,0,,2022
+Millwall,Derby County,1-1,https://www.besoccer.com/match/millwall-fc/derby-county-fc/202213061,2022,17,championship,58,59,2,0,1,0,,2022
+Nottingham Forest,Preston North End,3-0,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/202213062,2022,17,championship,60,60,2,0,4,0,,2022
+Peterborough United,Fulham,0-1,https://www.besoccer.com/match/peterborough-u/fulham/202213063,2022,17,championship,48,69,1,0,4,0,,2022
+West Bromwich Albion,Middlesbrough,1-1,https://www.besoccer.com/match/west-bromwich/middlesbrough-fc/202213064,2022,17,championship,61,61,3,0,4,0,,2022
+Birmingham City,Reading,1-2,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/202213055,2022,17,championship,51,56,4,0,1,0,,2022
+Blackpool,Queens Park Rangers,1-1,https://www.besoccer.com/match/blackpool-fc/queens-park-rangers-fc/202213057,2022,17,championship,46,59,2,0,5,0,,2022
+Queens Park Rangers,Luton Town,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/luton-town-fc/202213072,2022,18,championship,59,57,3,0,3,0,,2022
+Sheffield United,Coventry City,0-0,https://www.besoccer.com/match/sheffield-united/coventry-city/202213074,2022,18,championship,66,47,3,0,2,0,,2022
+Bristol City,Blackburn Rovers,1-1,https://www.besoccer.com/match/bristol-city-fc/blackburn-rovers-fc/202213065,2022,18,championship,58,57,2,0,2,0,,2022
+Fulham,Barnsley,4-1,https://www.besoccer.com/match/fulham/barnsley-fc/202213067,2022,18,championship,69,55,0,0,0,0,,2022
+Huddersfield Town,West Bromwich Albion,1-0,https://www.besoccer.com/match/huddersfield-town-fc/west-bromwich/202213068,2022,18,championship,55,61,1,0,2,0,,2022
+Hull City,Birmingham City,2-0,https://www.besoccer.com/match/hull-city/birmingham-city-fc/202213069,2022,18,championship,49,51,4,0,1,0,,2022
+Middlesbrough,Millwall,1-1,https://www.besoccer.com/match/middlesbrough-fc/millwall-fc/202213070,2022,18,championship,61,58,1,0,2,0,,2022
+Preston North End,Cardiff City,1-2,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/202213071,2022,18,championship,60,59,2,0,3,0,,2022
+Reading,Nottingham Forest,1-1,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/202213073,2022,18,championship,56,60,4,0,1,0,,2022
+Stoke City,Peterborough United,2-0,https://www.besoccer.com/match/stoke-city/peterborough-u/202213075,2022,18,championship,67,48,5,1,2,1,,2022
+Swansea City,Blackpool,1-1,https://www.besoccer.com/match/swansea-city-afc/blackpool-fc/202213076,2022,18,championship,68,46,1,0,1,0,,2022
+Derby County,AFC Bournemouth,3-2,https://www.besoccer.com/match/derby-county-fc/afc-bournemouth/202213066,2022,18,championship,59,70,0,0,1,0,,2022
+Blackpool,West Bromwich Albion,0-0,https://www.besoccer.com/match/blackpool-fc/west-bromwich/202213077,2022,19,championship,47,61,2,0,2,0,,2022
+Coventry City,Birmingham City,0-0,https://www.besoccer.com/match/coventry-city/birmingham-city-fc/202213078,2022,19,championship,47,51,0,0,3,0,,2022
+Middlesbrough,Preston North End,1-2,https://www.besoccer.com/match/middlesbrough-fc/preston-north-end/202213080,2022,19,championship,61,60,0,0,4,0,,2022
+Nottingham Forest,Luton Town,0-0,https://www.besoccer.com/match/nottingham-forest-fc/luton-town-fc/202213081,2022,19,championship,60,57,3,1,3,1,,2022
+Reading,Sheffield United,0-1,https://www.besoccer.com/match/reading-fc/sheffield-united/202213082,2022,19,championship,56,66,0,0,3,0,,2022
+Fulham,Derby County,0-0,https://www.besoccer.com/match/fulham/derby-county-fc/202213079,2022,19,championship,69,59,1,0,2,0,,2022
+Barnsley,Swansea City,0-2,https://www.besoccer.com/match/barnsley-fc/swansea-city-afc/202213083,2022,19,championship,55,68,2,0,3,0,,2022
+Blackburn Rovers,Peterborough United,4-0,https://www.besoccer.com/match/blackburn-rovers-fc/peterborough-u/202213084,2022,19,championship,58,48,1,0,2,0,,2022
+Bristol City,Stoke City,1-0,https://www.besoccer.com/match/bristol-city-fc/stoke-city/202213085,2022,19,championship,58,67,2,0,2,0,,2022
+Cardiff City,Hull City,0-1,https://www.besoccer.com/match/cardiff-city-fc/hull-city/202213086,2022,19,championship,59,49,2,0,2,0,,2022
+Millwall,AFC Bournemouth,1-1,https://www.besoccer.com/match/millwall-fc/afc-bournemouth/202213087,2022,19,championship,59,70,1,0,2,0,,2022
+Queens Park Rangers,Huddersfield Town,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/huddersfield-town-fc/202213088,2022,19,championship,59,55,2,0,2,0,,2022
+West Bromwich Albion,Nottingham Forest,0-0,https://www.besoccer.com/match/west-bromwich/nottingham-forest-fc/202213100,2022,20,championship,61,60,2,1,2,1,,2022
+Preston North End,Fulham,1-1,https://www.besoccer.com/match/preston-north-end/fulham/202213096,2022,20,championship,60,69,2,0,2,0,,2022
+AFC Bournemouth,Coventry City,2-2,https://www.besoccer.com/match/afc-bournemouth/coventry-city/202213089,2022,20,championship,70,47,2,1,1,1,,2022
+Birmingham City,Blackpool,1-0,https://www.besoccer.com/match/birmingham-city-fc/blackpool-fc/202213090,2022,20,championship,51,47,2,0,3,0,,2022
+Huddersfield Town,Middlesbrough,1-2,https://www.besoccer.com/match/huddersfield-town-fc/middlesbrough-fc/202213092,2022,20,championship,55,61,0,0,3,0,,2022
+Hull City,Millwall,2-1,https://www.besoccer.com/match/hull-city/millwall-fc/202213093,2022,20,championship,49,59,2,0,2,0,,2022
+Luton Town,Cardiff City,1-2,https://www.besoccer.com/match/luton-town-fc/cardiff-city-fc/202213094,2022,20,championship,57,59,1,0,2,0,,2022
+Peterborough United,Barnsley,0-0,https://www.besoccer.com/match/peterborough-u/barnsley-fc/202213095,2022,20,championship,48,55,3,0,2,0,,2022
+Stoke City,Blackburn Rovers,0-1,https://www.besoccer.com/match/stoke-city/blackburn-rovers-fc/202213098,2022,20,championship,67,58,4,0,4,0,,2022
+Swansea City,Reading,2-3,https://www.besoccer.com/match/swansea-city-afc/reading-fc/202213099,2022,20,championship,68,56,1,0,3,0,,2022
+Sheffield United,Bristol City,2-0,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/202213097,2022,20,championship,66,58,3,0,4,0,,2022
+Derby County,Queens Park Rangers,1-2,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/202213091,2022,20,championship,59,59,0,0,1,0,,2022
+Fulham,AFC Bournemouth,1-1,https://www.besoccer.com/match/fulham/afc-bournemouth/202213107,2022,21,championship,70,70,2,0,6,0,,2022
+Coventry City,West Bromwich Albion,1-2,https://www.besoccer.com/match/coventry-city/west-bromwich/202213106,2022,21,championship,47,61,0,0,3,0,,2022
+Barnsley,Huddersfield Town,1-1,https://www.besoccer.com/match/barnsley-fc/huddersfield-town-fc/202213101,2022,21,championship,55,55,2,0,0,0,,2022
+Blackburn Rovers,Preston North End,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/preston-north-end/202213102,2022,21,championship,58,60,3,0,2,0,,2022
+Blackpool,Luton Town,0-3,https://www.besoccer.com/match/blackpool-fc/luton-town-fc/202213103,2022,21,championship,47,57,0,0,0,0,,2022
+Bristol City,Derby County,1-0,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/202213104,2022,21,championship,58,59,3,0,2,0,,2022
+Cardiff City,Sheffield United,2-3,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/202213105,2022,21,championship,59,66,1,1,1,1,,2022
+Middlesbrough,Swansea City,1-0,https://www.besoccer.com/match/middlesbrough-fc/swansea-city-afc/202213108,2022,21,championship,60,68,1,0,1,0,,2022
+Millwall,Birmingham City,3-1,https://www.besoccer.com/match/millwall-fc/birmingham-city-fc/202213109,2022,21,championship,59,52,0,0,2,0,,2022
+Nottingham Forest,Peterborough United,2-0,https://www.besoccer.com/match/nottingham-forest-fc/peterborough-u/202213110,2022,21,championship,60,48,1,0,4,0,,2022
+Reading,Hull City,1-1,https://www.besoccer.com/match/reading-fc/hull-city/202213112,2022,21,championship,55,49,2,0,1,0,,2022
+Queens Park Rangers,Stoke City,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/stoke-city/202213111,2022,21,championship,59,67,0,0,1,0,,2022
+Huddersfield Town,Coventry City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/coventry-city/202213116,2022,22,championship,55,47,2,0,1,0,,2022
+AFC Bournemouth,Blackburn Rovers,0-2,https://www.besoccer.com/match/afc-bournemouth/blackburn-rovers-fc/202213113,2022,22,championship,70,58,3,0,4,0,,2022
+Birmingham City,Cardiff City,2-2,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/202213114,2022,22,championship,51,59,2,0,2,0,,2022
+Derby County,Blackpool,1-0,https://www.besoccer.com/match/derby-county-fc/blackpool-fc/202213115,2022,22,championship,59,47,2,0,2,0,,2022
+Hull City,Bristol City,2-2,https://www.besoccer.com/match/hull-city/bristol-city-fc/202213117,2022,22,championship,49,58,1,0,2,0,,2022
+Luton Town,Fulham,1-1,https://www.besoccer.com/match/luton-town-fc/fulham/202213118,2022,22,championship,57,70,1,0,0,0,,2022
+Peterborough United,Millwall,2-1,https://www.besoccer.com/match/peterborough-u/millwall-fc/202213119,2022,22,championship,48,59,2,0,5,0,,2022
+Preston North End,Barnsley,2-1,https://www.besoccer.com/match/preston-north-end/barnsley-fc/202213120,2022,22,championship,60,55,0,0,2,0,,2022
+Stoke City,Middlesbrough,0-0,https://www.besoccer.com/match/stoke-city/middlesbrough-fc/202213122,2022,22,championship,67,60,2,0,1,0,,2022
+Swansea City,Nottingham Forest,1-4,https://www.besoccer.com/match/swansea-city-afc/nottingham-forest-fc/202213123,2022,22,championship,68,60,3,0,4,0,,2022
+West Bromwich Albion,Reading,1-0,https://www.besoccer.com/match/west-bromwich/reading-fc/202213124,2022,22,championship,61,55,1,0,2,0,,2022
+Sheffield United,Queens Park Rangers,1-0,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/202213121,2022,22,championship,65,59,2,0,3,0,,2022
+Barnsley,West Bromwich Albion,0-0,https://www.besoccer.com/match/barnsley-fc/west-bromwich/202213125,2022,23,championship,55,61,1,0,3,0,,2022
+Middlesbrough,AFC Bournemouth,1-0,https://www.besoccer.com/match/middlesbrough-fc/afc-bournemouth/202213132,2022,23,championship,60,70,4,0,2,0,,2022
+Blackburn Rovers,Birmingham City,4-0,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/202213126,2022,23,championship,58,51,1,0,1,0,,2022
+Blackpool,Peterborough United,3-1,https://www.besoccer.com/match/blackpool-fc/peterborough-u/202213127,2022,23,championship,47,48,0,0,0,0,,2022
+Bristol City,Huddersfield Town,2-3,https://www.besoccer.com/match/bristol-city-fc/huddersfield-town-fc/202213128,2022,23,championship,58,55,0,0,2,0,,2022
+Nottingham Forest,Hull City,2-1,https://www.besoccer.com/match/nottingham-forest-fc/hull-city/202213134,2022,23,championship,60,49,2,0,5,0,,2022
+Fulham,Sheffield United,0-1,https://www.besoccer.com/match/fulham/sheffield-united/202213131,2022,23,championship,70,65,0,0,3,0,,2022
+Reading,Luton Town,0-2,https://www.besoccer.com/match/reading-fc/luton-town-fc/202213136,2022,23,championship,55,57,2,0,0,0,,2022
+Coventry City,Stoke City,1-0,https://www.besoccer.com/match/coventry-city/stoke-city/202213130,2022,23,championship,47,67,2,0,1,0,,2022
+Queens Park Rangers,Swansea City,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/swansea-city-afc/202213135,2022,23,championship,59,68,3,0,4,0,,2022
+Millwall,Preston North End,0-0,https://www.besoccer.com/match/millwall-fc/preston-north-end/202213133,2022,23,championship,59,60,3,0,1,0,,2022
+Cardiff City,Derby County,1-0,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/202213129,2022,23,championship,59,59,2,0,4,0,,2022
+Huddersfield Town,Blackpool,3-2,https://www.besoccer.com/match/huddersfield-town-fc/blackpool-fc/202213141,2022,24,championship,55,47,2,0,1,0,,2022
+Middlesbrough,Nottingham Forest,2-0,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/202213144,2022,24,championship,60,60,1,0,3,0,,2022
+Derby County,West Bromwich Albion,1-0,https://www.besoccer.com/match/derby-county-fc/west-bromwich/202213139,2022,24,championship,59,61,4,0,1,0,,2022
+Queens Park Rangers,AFC Bournemouth,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/afc-bournemouth/202213148,2022,24,championship,59,70,3,1,3,1,,2022
+Fulham,Birmingham City,6-2,https://www.besoccer.com/match/fulham/birmingham-city-fc/202213140,2022,24,championship,70,51,1,0,1,0,,2022
+Preston North End,Sheffield United,2-2,https://www.besoccer.com/match/preston-north-end/sheffield-united/202213147,2022,24,championship,60,66,1,1,2,1,,2022
+Hull City,Blackburn Rovers,2-0,https://www.besoccer.com/match/hull-city/blackburn-rovers-fc/202213142,2022,24,championship,50,58,0,0,3,0,,2022
+Luton Town,Bristol City,2-1,https://www.besoccer.com/match/luton-town-fc/bristol-city-fc/202213143,2022,24,championship,57,58,2,0,2,0,,2022
+Cardiff City,Coventry City,2-0,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/202213138,2022,24,championship,59,48,2,0,1,0,,2022
+Peterborough United,Reading,0-0,https://www.besoccer.com/match/peterborough-u/reading-fc/202213146,2022,24,championship,47,55,3,0,2,0,,2022
+Barnsley,Stoke City,1-1,https://www.besoccer.com/match/barnsley-fc/stoke-city/202213137,2022,24,championship,54,67,2,0,0,0,,2022
+Millwall,Swansea City,0-1,https://www.besoccer.com/match/millwall-fc/swansea-city-afc/202213145,2022,24,championship,59,68,1,0,2,0,,2022
+Blackburn Rovers,Barnsley,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/barnsley-fc/202213151,2022,25,championship,58,54,3,0,1,0,,2022
+Blackpool,Middlesbrough,1-2,https://www.besoccer.com/match/blackpool-fc/middlesbrough-fc/202213152,2022,25,championship,47,60,2,0,4,0,,2022
+Coventry City,Millwall,0-1,https://www.besoccer.com/match/coventry-city/millwall-fc/202213154,2022,25,championship,48,58,1,0,1,0,,2022
+AFC Bournemouth,Cardiff City,3-0,https://www.besoccer.com/match/afc-bournemouth/cardiff-city-fc/202213149,2022,25,championship,70,59,1,0,2,0,,2022
+Bristol City,Queens Park Rangers,1-2,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/202213153,2022,25,championship,58,59,2,1,3,1,,2022
+Nottingham Forest,Huddersfield Town,0-1,https://www.besoccer.com/match/nottingham-forest-fc/huddersfield-town-fc/202213155,2022,25,championship,60,55,1,0,2,0,,2022
+Stoke City,Derby County,1-2,https://www.besoccer.com/match/stoke-city/derby-county-fc/202213159,2022,25,championship,66,59,3,0,1,0,,2022
+Reading,Fulham,0-7,https://www.besoccer.com/match/reading-fc/fulham/202213158,2022,25,championship,56,70,1,0,0,0,,2022
+Birmingham City,Peterborough United,2-2,https://www.besoccer.com/match/birmingham-city-fc/peterborough-u/202213150,2022,25,championship,51,47,0,0,1,0,,2022
+West Bromwich Albion,Preston North End,0-2,https://www.besoccer.com/match/west-bromwich/preston-north-end/202213160,2022,25,championship,61,60,2,0,4,0,,2022
+Swansea City,Luton Town,0-1,https://www.besoccer.com/match/swansea-city-afc/luton-town-fc/202213157,2022,25,championship,67,57,2,0,4,0,,2022
+Sheffield United,Hull City,0-0,https://www.besoccer.com/match/sheffield-united/hull-city/202213156,2022,25,championship,66,50,2,0,2,0,,2022
+Blackpool,Hull City,1-0,https://www.besoccer.com/match/blackpool-fc/hull-city/202213164,2022,26,championship,37,71,0,0,2,0,,2022
+Bristol City,Millwall,3-2,https://www.besoccer.com/match/bristol-city-fc/millwall-fc/202213165,2022,26,championship,54,45,4,0,2,0,,2022
+Birmingham City,Queens Park Rangers,1-2,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/202213162,2022,26,championship,59,58,1,0,3,0,,2022
+Blackburn Rovers,Huddersfield Town,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/huddersfield-town-fc/202213163,2022,26,championship,61,52,3,0,2,0,,2022
+West Bromwich Albion,Cardiff City,1-1,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/202213172,2022,26,championship,74,58,2,2,2,2,,2022
+Reading,Derby County,2-2,https://www.besoccer.com/match/reading-fc/derby-county-fc/202213168,2022,26,championship,60,60,1,0,2,0,,2022
+Stoke City,Preston North End,1-2,https://www.besoccer.com/match/stoke-city/preston-north-end/202213170,2022,26,championship,79,58,3,0,2,0,,2022
+Nottingham Forest,Barnsley,3-0,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/202213167,2022,26,championship,57,49,2,0,3,0,,2022
+AFC Bournemouth,Peterborough United,1-1,https://www.besoccer.com/match/afc-bournemouth/peterborough-u/202213161,2022,26,championship,67,46,2,0,1,0,,2022
+Coventry City,Luton Town,0-1,https://www.besoccer.com/match/coventry-city/luton-town-fc/202213166,2022,26,championship,44,31,3,0,5,0,,2022
+Sheffield United,Middlesbrough,4-1,https://www.besoccer.com/match/sheffield-united/middlesbrough-fc/202213169,2022,26,championship,50,70,3,0,3,0,,2022
+Swansea City,Fulham,1-5,https://www.besoccer.com/match/swansea-city-afc/fulham/202213171,2022,26,championship,75,61,0,1,0,1,,2022
+Luton Town,AFC Bournemouth,3-2,https://www.besoccer.com/match/luton-town-fc/afc-bournemouth/202213179,2022,27,championship,32,66,0,0,2,0,,2022
+Cardiff City,Blackburn Rovers,0-1,https://www.besoccer.com/match/cardiff-city-fc/blackburn-rovers-fc/202213174,2022,27,championship,57,61,4,0,6,0,,2022
+Derby County,Sheffield United,2-0,https://www.besoccer.com/match/derby-county-fc/sheffield-united/202213175,2022,27,championship,60,50,1,0,1,0,,2022
+Huddersfield Town,Swansea City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/swansea-city-afc/202213177,2022,27,championship,52,75,0,0,0,0,,2022
+Middlesbrough,Reading,2-1,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/202213180,2022,27,championship,70,60,1,0,3,0,,2022
+Millwall,Nottingham Forest,0-1,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/202213181,2022,27,championship,46,57,1,0,2,0,,2022
+Peterborough United,Coventry City,1-4,https://www.besoccer.com/match/peterborough-u/coventry-city/202213182,2022,27,championship,46,44,3,0,1,0,,2022
+Preston North End,Birmingham City,1-1,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/202213183,2022,27,championship,58,59,1,0,1,0,,2022
+Queens Park Rangers,West Bromwich Albion,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/202213184,2022,27,championship,58,75,2,0,1,0,,2022
+Fulham,Bristol City,6-2,https://www.besoccer.com/match/fulham/bristol-city-fc/202213176,2022,27,championship,61,54,0,0,2,0,,2022
+Hull City,Stoke City,0-2,https://www.besoccer.com/match/hull-city/stoke-city/202213178,2022,27,championship,70,78,3,0,1,0,,2022
+Barnsley,Blackpool,0-2,https://www.besoccer.com/match/barnsley-fc/blackpool-fc/202213173,2022,27,championship,49,36,1,0,1,0,,2022
+Nottingham Forest,Derby County,2-1,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/202213191,2022,28,championship,58,60,2,0,5,0,,2022
+Bristol City,Cardiff City,3-2,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/202213189,2022,28,championship,54,57,1,0,2,0,,2022
+AFC Bournemouth,Hull City,0-1,https://www.besoccer.com/match/afc-bournemouth/hull-city/202213185,2022,28,championship,66,70,2,0,2,0,,2022
+Birmingham City,Barnsley,2-1,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/202213186,2022,28,championship,59,49,1,0,2,0,,2022
+Blackpool,Millwall,1-0,https://www.besoccer.com/match/blackpool-fc/millwall-fc/202213188,2022,28,championship,36,45,1,0,0,0,,2022
+Coventry City,Queens Park Rangers,1-2,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/202213190,2022,28,championship,44,58,2,0,1,0,,2022
+Reading,Huddersfield Town,3-4,https://www.besoccer.com/match/reading-fc/huddersfield-town-fc/202213192,2022,28,championship,60,52,3,0,1,0,,2022
+Sheffield United,Luton Town,2-0,https://www.besoccer.com/match/sheffield-united/luton-town-fc/202213193,2022,28,championship,50,32,0,0,0,0,,2022
+Stoke City,Fulham,2-3,https://www.besoccer.com/match/stoke-city/fulham/202213194,2022,28,championship,78,60,2,0,0,0,,2022
+Swansea City,Preston North End,1-0,https://www.besoccer.com/match/swansea-city-afc/preston-north-end/202213195,2022,28,championship,76,58,3,0,3,0,,2022
+West Bromwich Albion,Peterborough United,3-0,https://www.besoccer.com/match/west-bromwich/peterborough-u/202213196,2022,28,championship,75,46,1,0,1,0,,2022
+Blackburn Rovers,Middlesbrough,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/202213187,2022,28,championship,62,71,4,0,6,0,,2022
+Huddersfield Town,Stoke City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/stoke-city/202213201,2022,29,championship,52,79,2,0,3,0,,2022
+Barnsley,AFC Bournemouth,0-1,https://www.besoccer.com/match/barnsley-fc/afc-bournemouth/202213197,2022,29,championship,49,67,0,0,3,0,,2022
+Fulham,Blackpool,1-1,https://www.besoccer.com/match/fulham/blackpool-fc/202213200,2022,29,championship,60,37,4,0,2,0,,2022
+Hull City,Swansea City,2-0,https://www.besoccer.com/match/hull-city/swansea-city-afc/202213202,2022,29,championship,70,76,0,0,2,0,,2022
+Luton Town,Blackburn Rovers,0-0,https://www.besoccer.com/match/luton-town-fc/blackburn-rovers-fc/202213203,2022,29,championship,33,62,3,0,2,0,,2022
+Middlesbrough,Coventry City,1-0,https://www.besoccer.com/match/middlesbrough-fc/coventry-city/202213204,2022,29,championship,71,43,2,0,1,0,,2022
+Millwall,West Bromwich Albion,2-0,https://www.besoccer.com/match/millwall-fc/west-bromwich/202213205,2022,29,championship,46,75,1,0,1,0,,2022
+Preston North End,Bristol City,2-2,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/202213207,2022,29,championship,58,54,0,0,0,0,,2022
+Queens Park Rangers,Reading,4-0,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/202213208,2022,29,championship,58,60,4,0,2,0,,2022
+Peterborough United,Sheffield United,0-2,https://www.besoccer.com/match/peterborough-u/sheffield-united/202213206,2022,29,championship,46,50,0,0,1,0,,2022
+Derby County,Birmingham City,2-2,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/202213199,2022,29,championship,61,59,0,0,4,0,,2022
+Cardiff City,Nottingham Forest,2-1,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/202213198,2022,29,championship,57,57,2,0,1,0,,2022
+Barnsley,Cardiff City,0-1,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/202213209,2022,30,championship,49,57,2,0,4,0,,2022
+Huddersfield Town,Derby County,2-0,https://www.besoccer.com/match/huddersfield-town-fc/derby-county-fc/202213212,2022,30,championship,53,61,1,0,3,0,,2022
+Birmingham City,Sheffield United,1-2,https://www.besoccer.com/match/birmingham-city-fc/sheffield-united/202213210,2022,30,championship,58,50,4,0,1,0,,2022
+Blackpool,Bristol City,3-1,https://www.besoccer.com/match/blackpool-fc/bristol-city-fc/202213211,2022,30,championship,38,54,4,0,4,0,,2022
+Hull City,Preston North End,0-1,https://www.besoccer.com/match/hull-city/preston-north-end/202213213,2022,30,championship,69,58,0,0,2,0,,2022
+Swansea City,Blackburn Rovers,1-0,https://www.besoccer.com/match/swansea-city-afc/blackburn-rovers-fc/202213219,2022,30,championship,76,61,3,1,2,1,,2022
+Millwall,Queens Park Rangers,2-0,https://www.besoccer.com/match/millwall-fc/queens-park-rangers-fc/202213215,2022,30,championship,45,58,2,0,1,0,,2022
+Peterborough United,Luton Town,1-1,https://www.besoccer.com/match/peterborough-u/luton-town-fc/202213217,2022,30,championship,47,33,4,0,2,0,,2022
+Reading,Stoke City,2-1,https://www.besoccer.com/match/reading-fc/stoke-city/202213218,2022,30,championship,60,78,1,0,3,0,,2022
+Middlesbrough,Fulham,0-1,https://www.besoccer.com/match/middlesbrough-fc/fulham/202213214,2022,30,championship,71,60,3,0,2,0,,2022
+Nottingham Forest,Coventry City,2-0,https://www.besoccer.com/match/nottingham-forest-fc/coventry-city/202213216,2022,30,championship,57,42,3,0,3,0,,2022
+West Bromwich Albion,AFC Bournemouth,2-0,https://www.besoccer.com/match/west-bromwich/afc-bournemouth/202213220,2022,30,championship,75,67,3,0,3,0,,2022
+Coventry City,Blackpool,1-1,https://www.besoccer.com/match/coventry-city/blackpool-fc/202213222,2022,31,championship,43,37,4,0,1,0,,2022
+Derby County,Hull City,3-1,https://www.besoccer.com/match/derby-county-fc/hull-city/202213223,2022,31,championship,61,69,2,0,3,0,,2022
+Fulham,Millwall,3-0,https://www.besoccer.com/match/fulham/millwall-fc/202213224,2022,31,championship,61,45,1,0,3,0,,2022
+Luton Town,Barnsley,2-1,https://www.besoccer.com/match/luton-town-fc/barnsley-fc/202213225,2022,31,championship,34,49,1,0,2,0,,2022
+Stoke City,Swansea City,3-0,https://www.besoccer.com/match/stoke-city/swansea-city-afc/202213226,2022,31,championship,78,76,2,0,4,0,,2022
+Cardiff City,Peterborough United,4-0,https://www.besoccer.com/match/cardiff-city-fc/peterborough-u/202213221,2022,31,championship,58,47,3,0,1,0,,2022
+AFC Bournemouth,Birmingham City,3-1,https://www.besoccer.com/match/afc-bournemouth/birmingham-city-fc/202213227,2022,31,championship,68,58,0,1,5,1,,2022
+Blackburn Rovers,Nottingham Forest,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/202213228,2022,31,championship,61,57,4,1,3,1,,2022
+Bristol City,Reading,2-1,https://www.besoccer.com/match/bristol-city-fc/reading-fc/202213229,2022,31,championship,53,59,4,0,1,0,,2022
+Preston North End,Huddersfield Town,0-0,https://www.besoccer.com/match/preston-north-end/huddersfield-town-fc/202213230,2022,31,championship,58,53,1,0,2,0,,2022
+Queens Park Rangers,Middlesbrough,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/202213231,2022,31,championship,57,71,0,0,1,0,,2022
+Sheffield United,West Bromwich Albion,2-0,https://www.besoccer.com/match/sheffield-united/west-bromwich/202213232,2022,31,championship,49,75,1,0,1,0,,2022
+Huddersfield Town,Sheffield United,0-0,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-united/202213236,2022,32,championship,53,49,1,0,4,0,,2022
+Barnsley,Queens Park Rangers,1-0,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/202213233,2022,32,championship,50,57,1,0,1,0,,2022
+Birmingham City,Luton Town,3-0,https://www.besoccer.com/match/birmingham-city-fc/luton-town-fc/202213234,2022,32,championship,58,34,0,0,1,0,,2022
+Blackpool,AFC Bournemouth,1-2,https://www.besoccer.com/match/blackpool-fc/afc-bournemouth/202213235,2022,32,championship,37,67,2,0,1,0,,2022
+Hull City,Fulham,0-1,https://www.besoccer.com/match/hull-city/fulham/202213237,2022,32,championship,69,61,2,0,1,0,,2022
+Middlesbrough,Derby County,4-1,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/202213238,2022,32,championship,71,61,3,0,2,0,,2022
+Millwall,Cardiff City,2-1,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/202213239,2022,32,championship,45,57,1,0,0,0,,2022
+Nottingham Forest,Stoke City,2-2,https://www.besoccer.com/match/nottingham-forest-fc/stoke-city/202213240,2022,32,championship,57,78,3,1,3,1,,2022
+Peterborough United,Preston North End,0-1,https://www.besoccer.com/match/peterborough-u/preston-north-end/202213241,2022,32,championship,47,58,0,0,2,0,,2022
+Reading,Coventry City,2-3,https://www.besoccer.com/match/reading-fc/coventry-city/202213242,2022,32,championship,59,43,2,1,5,1,,2022
+Swansea City,Bristol City,3-1,https://www.besoccer.com/match/swansea-city-afc/bristol-city-fc/202213243,2022,32,championship,76,53,2,0,5,0,,2022
+West Bromwich Albion,Blackburn Rovers,0-0,https://www.besoccer.com/match/west-bromwich/blackburn-rovers-fc/202213244,2022,32,championship,74,61,0,0,1,0,,2022
+Fulham,Huddersfield Town,1-2,https://www.besoccer.com/match/fulham/huddersfield-town-fc/202213251,2022,33,championship,62,54,2,0,1,0,,2022
+Bristol City,Middlesbrough,2-1,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/202213247,2022,33,championship,53,71,2,0,1,0,,2022
+Cardiff City,Blackpool,1-1,https://www.besoccer.com/match/cardiff-city-fc/blackpool-fc/202213248,2022,33,championship,57,37,3,0,1,0,,2022
+Coventry City,Barnsley,1-0,https://www.besoccer.com/match/coventry-city/barnsley-fc/202213249,2022,33,championship,43,50,0,0,1,0,,2022
+Derby County,Peterborough United,1-0,https://www.besoccer.com/match/derby-county-fc/peterborough-u/202213250,2022,33,championship,61,47,5,1,5,1,,2022
+Luton Town,West Bromwich Albion,2-0,https://www.besoccer.com/match/luton-town-fc/west-bromwich/202213252,2022,33,championship,35,74,2,0,1,0,,2022
+Preston North End,Reading,2-3,https://www.besoccer.com/match/preston-north-end/reading-fc/202213253,2022,33,championship,58,59,1,0,0,0,,2022
+Queens Park Rangers,Hull City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/202213254,2022,33,championship,57,69,2,0,1,0,,2022
+Sheffield United,Swansea City,4-0,https://www.besoccer.com/match/sheffield-united/swansea-city-afc/202213255,2022,33,championship,49,75,2,0,0,0,,2022
+Stoke City,Birmingham City,2-2,https://www.besoccer.com/match/stoke-city/birmingham-city-fc/202213256,2022,33,championship,78,58,0,0,0,0,,2022
+Blackburn Rovers,Millwall,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/millwall-fc/202213246,2022,33,championship,60,45,1,0,3,0,,2022
+AFC Bournemouth,Nottingham Forest,1-0,https://www.besoccer.com/match/afc-bournemouth/nottingham-forest-fc/202213245,2022,33,championship,67,57,2,0,2,0,,2022
+Bristol City,Coventry City,1-2,https://www.besoccer.com/match/bristol-city-fc/coventry-city/202213257,2022,34,championship,53,43,1,0,3,0,,2022
+Hull City,Barnsley,0-2,https://www.besoccer.com/match/hull-city/barnsley-fc/202213258,2022,34,championship,69,50,1,0,0,0,,2022
+Middlesbrough,West Bromwich Albion,2-1,https://www.besoccer.com/match/middlesbrough-fc/west-bromwich/202213259,2022,34,championship,71,74,2,0,3,0,,2022
+Preston North End,Nottingham Forest,0-0,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/202213260,2022,34,championship,58,57,3,0,2,0,,2022
+Reading,Birmingham City,2-1,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/202213262,2022,34,championship,59,58,0,0,3,0,,2022
+Derby County,Millwall,1-2,https://www.besoccer.com/match/derby-county-fc/millwall-fc/202213263,2022,34,championship,61,45,1,0,1,0,,2022
+Fulham,Peterborough United,2-1,https://www.besoccer.com/match/fulham/peterborough-u/202213264,2022,34,championship,62,47,0,0,1,0,,2022
+Huddersfield Town,Cardiff City,2-1,https://www.besoccer.com/match/huddersfield-town-fc/cardiff-city-fc/202213265,2022,34,championship,54,57,2,0,7,0,,2022
+Queens Park Rangers,Blackpool,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/blackpool-fc/202213266,2022,34,championship,57,37,3,1,2,1,,2022
+Sheffield United,Blackburn Rovers,1-0,https://www.besoccer.com/match/sheffield-united/blackburn-rovers-fc/202213267,2022,34,championship,49,60,3,1,2,1,,2022
+Stoke City,Luton Town,1-2,https://www.besoccer.com/match/stoke-city/luton-town-fc/202213268,2022,34,championship,78,35,1,0,6,0,,2022
+Swansea City,AFC Bournemouth,3-3,https://www.besoccer.com/match/swansea-city-afc/afc-bournemouth/202213261,2022,34,championship,75,67,2,0,6,0,,2022
+Blackburn Rovers,Queens Park Rangers,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/202213272,2022,35,championship,60,58,3,0,2,0,,2022
+AFC Bournemouth,Stoke City,2-1,https://www.besoccer.com/match/afc-bournemouth/stoke-city/202213269,2022,35,championship,68,78,4,0,3,0,,2022
+Barnsley,Middlesbrough,3-2,https://www.besoccer.com/match/barnsley-fc/middlesbrough-fc/202213270,2022,35,championship,49,71,3,0,0,0,,2022
+Birmingham City,Huddersfield Town,0-2,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/202213271,2022,35,championship,58,54,0,0,0,0,,2022
+Blackpool,Reading,4-1,https://www.besoccer.com/match/blackpool-fc/reading-fc/202213273,2022,35,championship,37,59,1,0,0,0,,2022
+Cardiff City,Fulham,0-1,https://www.besoccer.com/match/cardiff-city-fc/fulham/202213274,2022,35,championship,57,62,2,0,2,0,,2022
+Coventry City,Preston North End,1-1,https://www.besoccer.com/match/coventry-city/preston-north-end/202213275,2022,35,championship,43,58,2,1,4,1,,2022
+Luton Town,Derby County,1-0,https://www.besoccer.com/match/luton-town-fc/derby-county-fc/202213276,2022,35,championship,35,61,2,0,2,0,,2022
+Millwall,Sheffield United,1-0,https://www.besoccer.com/match/millwall-fc/sheffield-united/202213277,2022,35,championship,45,49,0,0,4,0,,2022
+Nottingham Forest,Bristol City,2-0,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/202213278,2022,35,championship,57,53,1,0,4,0,,2022
+Peterborough United,Hull City,0-3,https://www.besoccer.com/match/peterborough-u/hull-city/202213279,2022,35,championship,47,69,3,0,0,0,,2022
+West Bromwich Albion,Swansea City,0-2,https://www.besoccer.com/match/west-bromwich/swansea-city-afc/202213280,2022,35,championship,74,74,0,0,2,0,,2022
+Huddersfield Town,Peterborough United,3-0,https://www.besoccer.com/match/huddersfield-town-fc/peterborough-u/202213284,2022,36,championship,54,47,0,0,1,0,,2022
+Sheffield United,Nottingham Forest,1-1,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/202213290,2022,36,championship,50,57,4,0,1,0,,2022
+Fulham,Blackburn Rovers,2-0,https://www.besoccer.com/match/fulham/blackburn-rovers-fc/202213283,2022,36,championship,62,61,2,0,2,0,,2022
+Bristol City,Birmingham City,1-2,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/202213281,2022,36,championship,52,58,2,0,1,0,,2022
+Derby County,Barnsley,2-0,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/202213282,2022,36,championship,61,50,0,0,2,0,,2022
+Hull City,West Bromwich Albion,0-2,https://www.besoccer.com/match/hull-city/west-bromwich/202213285,2022,36,championship,70,74,2,0,2,0,,2022
+Middlesbrough,Luton Town,2-1,https://www.besoccer.com/match/middlesbrough-fc/luton-town-fc/202213286,2022,36,championship,71,36,2,0,3,0,,2022
+Preston North End,AFC Bournemouth,2-1,https://www.besoccer.com/match/preston-north-end/afc-bournemouth/202213287,2022,36,championship,58,67,4,0,1,0,,2022
+Queens Park Rangers,Cardiff City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/202213288,2022,36,championship,57,57,1,0,0,0,,2022
+Reading,Millwall,0-1,https://www.besoccer.com/match/reading-fc/millwall-fc/202213289,2022,36,championship,59,47,2,0,2,0,,2022
+Stoke City,Blackpool,0-1,https://www.besoccer.com/match/stoke-city/blackpool-fc/202213291,2022,36,championship,78,37,3,0,3,0,,2022
+Swansea City,Coventry City,3-1,https://www.besoccer.com/match/swansea-city-afc/coventry-city/202213292,2022,36,championship,74,43,2,0,2,0,,2022
+West Bromwich Albion,Huddersfield Town,2-2,https://www.besoccer.com/match/west-bromwich/huddersfield-town-fc/202213304,2022,37,championship,74,54,3,0,2,0,,2022
+Barnsley,Fulham,1-1,https://www.besoccer.com/match/barnsley-fc/fulham/202213294,2022,37,championship,49,62,4,0,3,0,,2022
+AFC Bournemouth,Derby County,2-0,https://www.besoccer.com/match/afc-bournemouth/derby-county-fc/202213293,2022,37,championship,67,61,3,0,2,0,,2022
+Birmingham City,Hull City,0-0,https://www.besoccer.com/match/birmingham-city-fc/hull-city/202213295,2022,37,championship,58,70,0,0,1,0,,2022
+Blackburn Rovers,Bristol City,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/bristol-city-fc/202213296,2022,37,championship,60,52,1,0,3,0,,2022
+Blackpool,Swansea City,1-0,https://www.besoccer.com/match/blackpool-fc/swansea-city-afc/202213297,2022,37,championship,38,74,0,0,2,0,,2022
+Cardiff City,Preston North End,0-0,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/202213298,2022,37,championship,57,59,2,0,2,0,,2022
+Coventry City,Sheffield United,4-1,https://www.besoccer.com/match/coventry-city/sheffield-united/202213299,2022,37,championship,43,51,0,0,0,0,,2022
+Millwall,Middlesbrough,0-0,https://www.besoccer.com/match/millwall-fc/middlesbrough-fc/202213301,2022,37,championship,47,71,4,0,1,0,,2022
+Nottingham Forest,Reading,4-0,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/202213302,2022,37,championship,57,59,2,0,4,0,,2022
+Peterborough United,Stoke City,2-2,https://www.besoccer.com/match/peterborough-u/stoke-city/202213303,2022,37,championship,47,78,1,0,2,0,,2022
+Luton Town,Queens Park Rangers,1-2,https://www.besoccer.com/match/luton-town-fc/queens-park-rangers-fc/202213300,2022,37,championship,36,57,0,0,3,0,,2022
+AFC Bournemouth,Reading,1-1,https://www.besoccer.com/match/afc-bournemouth/reading-fc/202213305,2022,38,championship,67,59,2,0,1,0,,2022
+Barnsley,Bristol City,2-0,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/202213306,2022,38,championship,49,53,0,0,0,0,,2022
+Birmingham City,Middlesbrough,0-2,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/202213307,2022,38,championship,58,71,2,1,1,1,,2022
+Blackburn Rovers,Derby County,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/202213308,2022,38,championship,60,61,1,0,1,0,,2022
+West Bromwich Albion,Fulham,1-0,https://www.besoccer.com/match/west-bromwich/fulham/202213310,2022,38,championship,75,62,1,0,1,0,,2022
+Nottingham Forest,Queens Park Rangers,3-1,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/202213309,2022,38,championship,57,57,2,0,5,0,,2022
+Blackpool,Sheffield United,0-0,https://www.besoccer.com/match/blackpool-fc/sheffield-united/202213311,2022,38,championship,39,51,1,0,2,0,,2022
+Cardiff City,Stoke City,2-1,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/202213312,2022,38,championship,57,78,1,0,0,0,,2022
+Coventry City,Hull City,0-2,https://www.besoccer.com/match/coventry-city/hull-city/202213313,2022,38,championship,43,70,2,0,0,0,,2022
+Luton Town,Preston North End,4-0,https://www.besoccer.com/match/luton-town-fc/preston-north-end/202213314,2022,38,championship,35,59,1,0,2,0,,2022
+Millwall,Huddersfield Town,2-0,https://www.besoccer.com/match/millwall-fc/huddersfield-town-fc/202213315,2022,38,championship,47,54,2,0,0,0,,2022
+Peterborough United,Swansea City,2-3,https://www.besoccer.com/match/peterborough-u/swansea-city-afc/202213316,2022,38,championship,47,74,1,0,5,0,,2022
+Derby County,Coventry City,1-1,https://www.besoccer.com/match/derby-county-fc/coventry-city/202213318,2022,39,championship,61,42,1,0,3,0,,2022
+Sheffield United,Barnsley,2-0,https://www.besoccer.com/match/sheffield-united/barnsley-fc/202213326,2022,39,championship,51,49,1,0,1,0,,2022
+Bristol City,West Bromwich Albion,2-2,https://www.besoccer.com/match/bristol-city-fc/west-bromwich/202213317,2022,39,championship,53,75,1,0,1,0,,2022
+Huddersfield Town,AFC Bournemouth,0-3,https://www.besoccer.com/match/huddersfield-town-fc/afc-bournemouth/202213320,2022,39,championship,54,67,0,0,3,0,,2022
+Hull City,Luton Town,1-3,https://www.besoccer.com/match/hull-city/luton-town-fc/202213321,2022,39,championship,70,35,2,0,2,0,,2022
+Reading,Blackburn Rovers,1-0,https://www.besoccer.com/match/reading-fc/blackburn-rovers-fc/202213325,2022,39,championship,59,60,1,0,2,0,,2022
+Stoke City,Millwall,2-0,https://www.besoccer.com/match/stoke-city/millwall-fc/202213327,2022,39,championship,78,47,3,0,1,0,,2022
+Swansea City,Birmingham City,0-0,https://www.besoccer.com/match/swansea-city-afc/birmingham-city-fc/202213328,2022,39,championship,74,58,0,0,0,0,,2022
+Queens Park Rangers,Peterborough United,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/peterborough-u/202213324,2022,39,championship,57,47,1,0,3,0,,2022
+Preston North End,Blackpool,1-0,https://www.besoccer.com/match/preston-north-end/blackpool-fc/202213323,2022,39,championship,58,39,4,0,0,0,,2022
+Fulham,Nottingham Forest,0-1,https://www.besoccer.com/match/fulham/nottingham-forest-fc/202213319,2022,39,championship,62,57,2,0,1,0,,2022
+Middlesbrough,Cardiff City,2-0,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/202213322,2022,39,championship,71,58,2,0,4,0,,2022
+Hull City,Huddersfield Town,0-1,https://www.besoccer.com/match/hull-city/huddersfield-town-fc/202213336,2022,40,championship,70,55,3,1,1,1,,2022
+Blackpool,Nottingham Forest,1-4,https://www.besoccer.com/match/blackpool-fc/nottingham-forest-fc/202213332,2022,40,championship,39,57,1,0,1,0,,2022
+AFC Bournemouth,Bristol City,3-2,https://www.besoccer.com/match/afc-bournemouth/bristol-city-fc/202213329,2022,40,championship,67,53,0,0,1,0,,2022
+Barnsley,Reading,1-1,https://www.besoccer.com/match/barnsley-fc/reading-fc/202213330,2022,40,championship,50,60,2,0,2,0,,2022
+Cardiff City,Swansea City,0-4,https://www.besoccer.com/match/cardiff-city-fc/swansea-city-afc/202213333,2022,40,championship,57,75,2,0,4,0,,2022
+Coventry City,Blackburn Rovers,2-2,https://www.besoccer.com/match/coventry-city/blackburn-rovers-fc/202213334,2022,40,championship,43,60,2,0,5,0,,2022
+Derby County,Preston North End,1-0,https://www.besoccer.com/match/derby-county-fc/preston-north-end/202213335,2022,40,championship,61,58,2,1,2,1,,2022
+Luton Town,Millwall,2-2,https://www.besoccer.com/match/luton-town-fc/millwall-fc/202213337,2022,40,championship,36,48,0,0,0,0,,2022
+Peterborough United,Middlesbrough,0-4,https://www.besoccer.com/match/peterborough-u/middlesbrough-fc/202213338,2022,40,championship,47,71,3,0,1,0,,2022
+Queens Park Rangers,Fulham,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/fulham/202213339,2022,40,championship,56,62,3,0,0,0,,2022
+Stoke City,Sheffield United,1-0,https://www.besoccer.com/match/stoke-city/sheffield-united/202213340,2022,40,championship,78,51,0,0,0,0,,2022
+Birmingham City,West Bromwich Albion,1-0,https://www.besoccer.com/match/birmingham-city-fc/west-bromwich/202213331,2022,40,championship,58,75,2,0,1,0,,2022
+Sheffield United,AFC Bournemouth,0-0,https://www.besoccer.com/match/sheffield-united/afc-bournemouth/202213350,2022,41,championship,51,67,3,0,2,0,,2022
+Blackburn Rovers,Blackpool,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/blackpool-fc/202213341,2022,41,championship,60,39,2,0,3,0,,2022
+Bristol City,Peterborough United,1-1,https://www.besoccer.com/match/bristol-city-fc/peterborough-u/202213342,2022,41,championship,53,46,0,0,1,0,,2022
+Middlesbrough,Hull City,0-1,https://www.besoccer.com/match/middlesbrough-fc/hull-city/202213345,2022,41,championship,71,70,3,0,5,0,,2022
+Millwall,Barnsley,4-1,https://www.besoccer.com/match/millwall-fc/barnsley-fc/202213346,2022,41,championship,49,50,1,0,1,0,,2022
+Nottingham Forest,Birmingham City,2-0,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/202213347,2022,41,championship,57,58,1,0,3,0,,2022
+Preston North End,Queens Park Rangers,2-1,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/202213348,2022,41,championship,58,56,0,0,1,0,,2022
+Reading,Cardiff City,1-2,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/202213349,2022,41,championship,60,57,0,0,1,0,,2022
+Swansea City,Derby County,2-1,https://www.besoccer.com/match/swansea-city-afc/derby-county-fc/202213351,2022,41,championship,75,61,2,0,1,0,,2022
+West Bromwich Albion,Stoke City,1-3,https://www.besoccer.com/match/west-bromwich/stoke-city/202213352,2022,41,championship,75,78,0,0,0,0,,2022
+Fulham,Coventry City,1-3,https://www.besoccer.com/match/fulham/coventry-city/202213343,2022,41,championship,62,42,1,0,4,0,,2022
+Huddersfield Town,Luton Town,2-0,https://www.besoccer.com/match/huddersfield-town-fc/luton-town-fc/202213344,2022,41,championship,55,35,3,0,2,0,,2022
+Luton Town,Nottingham Forest,1-0,https://www.besoccer.com/match/luton-town-fc/nottingham-forest-fc/202213358,2022,42,championship,36,57,7,1,4,1,,2022
+AFC Bournemouth,Middlesbrough,0-0,https://www.besoccer.com/match/afc-bournemouth/middlesbrough-fc/202213353,2022,42,championship,66,71,1,0,2,0,,2022
+Birmingham City,Coventry City,2-4,https://www.besoccer.com/match/birmingham-city-fc/coventry-city/202213354,2022,42,championship,57,42,4,0,0,0,,2022
+Hull City,Cardiff City,2-1,https://www.besoccer.com/match/hull-city/cardiff-city-fc/202213357,2022,42,championship,70,58,0,0,3,0,,2022
+Peterborough United,Blackburn Rovers,2-1,https://www.besoccer.com/match/peterborough-u/blackburn-rovers-fc/202213359,2022,42,championship,47,60,1,0,2,0,,2022
+Preston North End,Millwall,1-1,https://www.besoccer.com/match/preston-north-end/millwall-fc/202213360,2022,42,championship,58,49,0,0,1,0,,2022
+Sheffield United,Reading,1-2,https://www.besoccer.com/match/sheffield-united/reading-fc/202213361,2022,42,championship,50,60,4,0,4,0,,2022
+Stoke City,Bristol City,0-1,https://www.besoccer.com/match/stoke-city/bristol-city-fc/202213362,2022,42,championship,77,52,2,0,4,0,,2022
+Swansea City,Barnsley,1-1,https://www.besoccer.com/match/swansea-city-afc/barnsley-fc/202213363,2022,42,championship,75,51,1,0,3,0,,2022
+West Bromwich Albion,Blackpool,2-1,https://www.besoccer.com/match/west-bromwich/blackpool-fc/202213364,2022,42,championship,75,39,0,0,1,0,,2022
+Huddersfield Town,Queens Park Rangers,2-2,https://www.besoccer.com/match/huddersfield-town-fc/queens-park-rangers-fc/202213356,2022,42,championship,55,56,3,0,2,0,,2022
+Derby County,Fulham,2-1,https://www.besoccer.com/match/derby-county-fc/fulham/202213355,2022,42,championship,61,62,4,0,1,0,,2022
+Middlesbrough,Huddersfield Town,0-2,https://www.besoccer.com/match/middlesbrough-fc/huddersfield-town-fc/202213372,2022,43,championship,71,55,3,0,3,0,,2022
+Barnsley,Peterborough United,0-2,https://www.besoccer.com/match/barnsley-fc/peterborough-u/202213365,2022,43,championship,50,46,1,0,2,0,,2022
+Blackburn Rovers,Stoke City,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/stoke-city/202213366,2022,43,championship,60,77,2,0,2,0,,2022
+Blackpool,Birmingham City,6-1,https://www.besoccer.com/match/blackpool-fc/birmingham-city-fc/202213367,2022,43,championship,39,58,0,0,1,0,,2022
+Cardiff City,Luton Town,0-1,https://www.besoccer.com/match/cardiff-city-fc/luton-town-fc/202213369,2022,43,championship,58,37,1,0,1,0,,2022
+Coventry City,AFC Bournemouth,0-3,https://www.besoccer.com/match/coventry-city/afc-bournemouth/202213370,2022,43,championship,43,67,0,0,0,0,,2022
+Millwall,Hull City,2-1,https://www.besoccer.com/match/millwall-fc/hull-city/202213373,2022,43,championship,49,70,2,0,0,0,,2022
+Queens Park Rangers,Derby County,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/202213375,2022,43,championship,57,61,2,0,1,0,,2022
+Reading,Swansea City,4-4,https://www.besoccer.com/match/reading-fc/swansea-city-afc/202213376,2022,43,championship,60,75,2,0,4,0,,2022
+Bristol City,Sheffield United,1-1,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/202213368,2022,43,championship,52,50,2,0,4,0,,2022
+Nottingham Forest,West Bromwich Albion,4-0,https://www.besoccer.com/match/nottingham-forest-fc/west-bromwich/202213374,2022,43,championship,57,75,2,0,3,0,,2022
+Fulham,Preston North End,3-0,https://www.besoccer.com/match/fulham/preston-north-end/202213371,2022,43,championship,62,58,1,0,1,0,,2022
+Huddersfield Town,Barnsley,2-1,https://www.besoccer.com/match/huddersfield-town-fc/barnsley-fc/202213380,2022,44,championship,55,50,0,0,3,0,,2022
+Luton Town,Blackpool,1-1,https://www.besoccer.com/match/luton-town-fc/blackpool-fc/202213382,2022,44,championship,36,39,0,0,4,0,,2022
+AFC Bournemouth,Fulham,1-1,https://www.besoccer.com/match/afc-bournemouth/fulham/202213377,2022,44,championship,67,62,3,0,7,0,,2022
+Birmingham City,Millwall,2-2,https://www.besoccer.com/match/birmingham-city-fc/millwall-fc/202213378,2022,44,championship,58,49,4,0,3,0,,2022
+Derby County,Bristol City,1-3,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/202213379,2022,44,championship,61,53,1,0,3,0,,2022
+Hull City,Reading,3-0,https://www.besoccer.com/match/hull-city/reading-fc/202213381,2022,44,championship,71,59,2,0,1,0,,2022
+Peterborough United,Nottingham Forest,0-1,https://www.besoccer.com/match/peterborough-u/nottingham-forest-fc/202213383,2022,44,championship,47,57,3,0,3,0,,2022
+Sheffield United,Cardiff City,1-0,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/202213385,2022,44,championship,50,58,1,0,3,0,,2022
+Stoke City,Queens Park Rangers,1-0,https://www.besoccer.com/match/stoke-city/queens-park-rangers-fc/202213386,2022,44,championship,77,56,0,0,1,0,,2022
+Swansea City,Middlesbrough,1-1,https://www.besoccer.com/match/swansea-city-afc/middlesbrough-fc/202213387,2022,44,championship,75,71,2,0,1,0,,2022
+West Bromwich Albion,Coventry City,0-0,https://www.besoccer.com/match/west-bromwich/coventry-city/202213388,2022,44,championship,76,42,1,0,1,0,,2022
+Preston North End,Blackburn Rovers,1-4,https://www.besoccer.com/match/preston-north-end/blackburn-rovers-fc/202213384,2022,44,championship,58,60,2,0,3,0,,2022
+Queens Park Rangers,Sheffield United,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/202213399,2022,45,championship,57,50,2,0,2,0,,2022
+Barnsley,Preston North End,1-3,https://www.besoccer.com/match/barnsley-fc/preston-north-end/202213389,2022,45,championship,50,58,0,0,1,0,,2022
+Blackburn Rovers,AFC Bournemouth,0-3,https://www.besoccer.com/match/blackburn-rovers-fc/afc-bournemouth/202213390,2022,45,championship,60,67,4,0,1,0,,2022
+Blackpool,Derby County,0-2,https://www.besoccer.com/match/blackpool-fc/derby-county-fc/202213391,2022,45,championship,39,61,1,0,2,0,,2022
+Bristol City,Hull City,5-0,https://www.besoccer.com/match/bristol-city-fc/hull-city/202213392,2022,45,championship,53,70,1,0,2,0,,2022
+Cardiff City,Birmingham City,1-1,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/202213393,2022,45,championship,58,58,4,0,2,0,,2022
+Coventry City,Huddersfield Town,1-2,https://www.besoccer.com/match/coventry-city/huddersfield-town-fc/202213394,2022,45,championship,42,55,1,0,0,0,,2022
+Middlesbrough,Stoke City,3-1,https://www.besoccer.com/match/middlesbrough-fc/stoke-city/202213396,2022,45,championship,70,78,0,0,0,0,,2022
+Millwall,Peterborough United,3-0,https://www.besoccer.com/match/millwall-fc/peterborough-u/202213397,2022,45,championship,49,47,0,0,0,0,,2022
+Nottingham Forest,Swansea City,5-1,https://www.besoccer.com/match/nottingham-forest-fc/swansea-city-afc/202213398,2022,45,championship,57,75,0,0,2,0,,2022
+Reading,West Bromwich Albion,0-1,https://www.besoccer.com/match/reading-fc/west-bromwich/202213400,2022,45,championship,60,76,1,0,3,0,,2022
+Fulham,Luton Town,7-0,https://www.besoccer.com/match/fulham/luton-town-fc/202213395,2022,45,championship,62,35,2,0,6,0,,2022
+AFC Bournemouth,Millwall,1-0,https://www.besoccer.com/match/afc-bournemouth/millwall-fc/202213401,2022,46,championship,67,49,0,0,2,0,,2022
+Birmingham City,Blackburn Rovers,1-2,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/202213402,2022,46,championship,58,60,0,0,1,0,,2022
+Derby County,Cardiff City,0-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/202213403,2022,46,championship,61,58,1,0,2,0,,2022
+Huddersfield Town,Bristol City,2-0,https://www.besoccer.com/match/huddersfield-town-fc/bristol-city-fc/202213404,2022,46,championship,55,52,2,0,1,0,,2022
+Hull City,Nottingham Forest,1-1,https://www.besoccer.com/match/hull-city/nottingham-forest-fc/202213405,2022,46,championship,70,57,0,0,2,0,,2022
+Luton Town,Reading,1-0,https://www.besoccer.com/match/luton-town-fc/reading-fc/202213406,2022,46,championship,35,60,0,0,1,0,,2022
+Peterborough United,Blackpool,5-0,https://www.besoccer.com/match/peterborough-u/blackpool-fc/202213407,2022,46,championship,47,39,1,0,0,0,,2022
+Preston North End,Middlesbrough,4-1,https://www.besoccer.com/match/preston-north-end/middlesbrough-fc/202213408,2022,46,championship,58,71,3,0,6,0,,2022
+Sheffield United,Fulham,4-0,https://www.besoccer.com/match/sheffield-united/fulham/202213409,2022,46,championship,50,63,2,0,1,0,,2022
+Stoke City,Coventry City,1-1,https://www.besoccer.com/match/stoke-city/coventry-city/202213410,2022,46,championship,78,42,0,0,1,0,,2022
+Swansea City,Queens Park Rangers,0-1,https://www.besoccer.com/match/swansea-city-afc/queens-park-rangers-fc/202213411,2022,46,championship,75,56,0,0,0,0,,2022
+West Bromwich Albion,Barnsley,4-0,https://www.besoccer.com/match/west-bromwich/barnsley-fc/202213412,2022,46,championship,75,50,0,0,1,0,,2022
