@@ -1,553 +1,457 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,1,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,1,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,1,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,1,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,1,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,1,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,1,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,1,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,1,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,1,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,1,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,1,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,2,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,2,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,2,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,2,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,2,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,2,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,2,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,2,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,2,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,2,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,2,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,2,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,3,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,3,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,3,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,3,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,3,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,3,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,3,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,3,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,3,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,3,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,3,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,3,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,4,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,4,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,4,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,4,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,4,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,4,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,4,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,4,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,4,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,4,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,4,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,4,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,5,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,5,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,5,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,5,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,5,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,5,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,5,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,5,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,5,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,5,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,5,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,5,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,6,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,6,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,6,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,6,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,6,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,6,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,6,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,6,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,6,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,6,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,6,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,6,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,7,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,7,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,7,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,7,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,7,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,7,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,7,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,7,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,7,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,7,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,7,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,7,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,8,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,8,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,8,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,8,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,8,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,8,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,8,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,8,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,8,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,8,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,8,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,8,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,9,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,9,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,9,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,9,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,9,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,9,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,9,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,9,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,9,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,9,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,9,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,9,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,10,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,10,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,10,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,10,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,10,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,10,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,10,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,10,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,10,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,10,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,10,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,10,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,11,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,11,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,11,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,11,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,11,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,11,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,11,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,11,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,11,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,11,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,11,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,11,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,12,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,12,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,12,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,12,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,12,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,12,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,12,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,12,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,12,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,12,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,12,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,12,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,13,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,13,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,13,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,13,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,13,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,13,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,13,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,13,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,13,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,13,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,13,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,13,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,14,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,14,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,14,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,14,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,14,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,14,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,14,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,14,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,14,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,14,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,14,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,14,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,15,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,15,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,15,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,15,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,15,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,15,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,15,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,15,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,15,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,15,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,15,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,15,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,16,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,16,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,16,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,16,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,16,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,16,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,16,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,16,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,16,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,16,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,16,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,16,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,17,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,17,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,17,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,17,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,17,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,17,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,17,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,17,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,17,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,17,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,17,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,17,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,18,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,18,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,18,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,18,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,18,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,18,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,18,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,18,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,18,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,18,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,18,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,18,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,19,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,19,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,19,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,19,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,19,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,19,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,19,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,19,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,19,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,19,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,19,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,19,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,20,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,20,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,20,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,20,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,20,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,20,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,20,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,20,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,20,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,20,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,20,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,20,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,21,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,21,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,21,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,21,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,21,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,21,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,21,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,21,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,21,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,21,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,21,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,21,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,22,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,22,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,22,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,22,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,22,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,22,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,22,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,22,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,22,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,22,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,22,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,22,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,23,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,23,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,23,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,23,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,23,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,23,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,23,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,23,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,23,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,23,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,23,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,23,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,24,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,24,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,24,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,24,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,24,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,24,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,24,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,24,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,24,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,24,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,24,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,24,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,25,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,25,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,25,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,25,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,25,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,25,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,25,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,25,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,25,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,25,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,25,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,25,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,26,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,26,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,26,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,26,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,26,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,26,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,26,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,26,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,26,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,26,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,26,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,26,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,27,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,27,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,27,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,27,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,27,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,27,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,27,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,27,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,27,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,27,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,27,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,27,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,28,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,28,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,28,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,28,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,28,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,28,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,28,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,28,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,28,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,28,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,28,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,28,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,29,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,29,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,29,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,29,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,29,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,29,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,29,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,29,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,29,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,29,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,29,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,29,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,30,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,30,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,30,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,30,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,30,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,30,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,30,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,30,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,30,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,30,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,30,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,30,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,31,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,31,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,31,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,31,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,31,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,31,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,31,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,31,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,31,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,31,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,31,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,31,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,32,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,32,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,32,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,32,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,32,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,32,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,32,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,32,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,32,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,32,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,32,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,32,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,33,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,33,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,33,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,33,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,33,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,33,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,33,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,33,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,33,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,33,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,33,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,33,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,34,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,34,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,34,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,34,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,34,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,34,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,34,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,34,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,34,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,34,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,34,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,34,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,35,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,35,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,35,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,35,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,35,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,35,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,35,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,35,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,35,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,35,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,35,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,35,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,36,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,36,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,36,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,36,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,36,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,36,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,36,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,36,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,36,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,36,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,36,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,36,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,37,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,37,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,37,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,37,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,37,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,37,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,37,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,37,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,37,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,37,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,37,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,37,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,38,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,38,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,38,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,38,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,38,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,38,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,38,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,38,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,38,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,38,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,38,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,38,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,39,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,39,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,39,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,39,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,39,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,39,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,39,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,39,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,39,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,39,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,39,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,39,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,40,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,40,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,40,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,40,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,40,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,40,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,40,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,40,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,40,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,40,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,40,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,40,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,41,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,41,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,41,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,41,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,41,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,41,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,41,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,41,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,41,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,41,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,41,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,41,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,42,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,42,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,42,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,42,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,42,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,42,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,42,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,42,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,42,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,42,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,42,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,42,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,43,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,43,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,43,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,43,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,43,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,43,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,43,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,43,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,43,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,43,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,43,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,43,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,44,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,44,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,44,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,44,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,44,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,44,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,44,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,44,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,44,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,44,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,44,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,44,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,45,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,45,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,45,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,45,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,45,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,45,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,45,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,45,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,45,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,45,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,45,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,45,segunda_liga
-Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,46,segunda_liga
-Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,46,segunda_liga
-Desportivo Aves,SP. Covilhã,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,46,segunda_liga
-Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,46,segunda_liga
-UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,46,segunda_liga
-Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,46,segunda_liga
-Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,46,segunda_liga
-Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,46,segunda_liga
-Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,46,segunda_liga
-Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,46,segunda_liga
-Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,46,segunda_liga
-Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,46,segunda_liga
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Olhanense,Benfica II,1-1,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201623946,2016,1,segunda_liga,54,56,3,0,2,0,,2016
+Gil Vicente,Mafra,1-1,https://www.besoccer.com/match/gil-vicente/mafra/201623942,2016,1,segunda_liga,57,50,0,1,3,1,,2016
+Desportivo Aves,SC Covilha ,0-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201623940,2016,1,segunda_liga,57,52,3,0,1,0,,2016
+Vitória Guimarães B,CD Santa Clara,0-1,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201623943,2016,1,segunda_liga,51,52,4,0,2,0,,2016
+UD Oliveirense,Oriental Lisboa,0-3,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201623944,2016,1,segunda_liga,51,47,1,0,2,0,,2016
+Chaves,Sporting Braga II,2-2,https://www.besoccer.com/match/chaves/sporting-braga-ii/201623947,2016,1,segunda_liga,55,50,1,0,0,0,,2016
+Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201623949,2016,1,segunda_liga,44,44,2,0,0,0,,2016
+Sporting CP II,Feirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/feirense/201623950,2016,1,segunda_liga,56,54,3,1,3,1,,2016
+Penafiel,Leixões,0-0,https://www.besoccer.com/match/penafiel/leixoes/201623951,2016,1,segunda_liga,56,55,2,0,2,0,,2016
+Atlético CP,SC Freamunde,1-0,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201623939,2016,1,segunda_liga,51,52,2,0,5,0,,2016
+Varzim,Famalicão,1-2,https://www.besoccer.com/match/varzim/famalicao/201623948,2016,1,segunda_liga,54,51,2,0,4,0,,2016
+Porto II,Portimonense,1-2,https://www.besoccer.com/match/porto-ii/portimonense/201623945,2016,1,segunda_liga,54,54,1,0,1,0,,2016
+Mafra,Sporting CP II,2-0,https://www.besoccer.com/match/mafra/sporting-cp-ii/201623958,2016,2,segunda_liga,50,56,3,0,2,0,,2016
+Benfica II,Penafiel,1-0,https://www.besoccer.com/match/benfica-ii/penafiel/201623953,2016,2,segunda_liga,56,56,2,0,3,0,,2016
+Sporting Braga II,Gil Vicente,1-0,https://www.besoccer.com/match/sporting-braga-ii/gil-vicente/201623954,2016,2,segunda_liga,50,57,5,0,3,0,,2016
+Famalicão,Olhanense,1-0,https://www.besoccer.com/match/famalicao/sc-olhanense/201623955,2016,2,segunda_liga,51,54,4,0,4,0,,2016
+Farense,UD Oliveirense,2-0,https://www.besoccer.com/match/farense/ud-oliveirense/201623956,2016,2,segunda_liga,44,50,1,0,3,0,,2016
+SC Freamunde,Varzim,1-1,https://www.besoccer.com/match/sc-freamunde/varzim/201623957,2016,2,segunda_liga,51,54,3,0,4,0,,2016
+Portimonense,Academico Viseu,1-2,https://www.besoccer.com/match/portimonense/academico-viseu/201623959,2016,2,segunda_liga,54,44,3,0,5,0,,2016
+Leixões,Atlético CP,0-1,https://www.besoccer.com/match/leixoes/atletico-cp/201623960,2016,2,segunda_liga,55,51,1,0,2,0,,2016
+Feirense,Desportivo Aves,2-2,https://www.besoccer.com/match/feirense/desportivo-aves/201623961,2016,2,segunda_liga,54,56,5,0,4,0,,2016
+Oriental Lisboa,Vitória Guimarães B,4-4,https://www.besoccer.com/match/oriental-lisboa/vitoria-guimar/201623963,2016,2,segunda_liga,48,51,2,1,1,1,,2016
+CD Santa Clara,Porto II,1-2,https://www.besoccer.com/match/santa-clara/porto-ii/201623952,2016,2,segunda_liga,52,54,6,0,4,0,,2016
+SC Covilha ,Chaves,0-1,https://www.besoccer.com/match/sporting-covilha/chaves/201623962,2016,2,segunda_liga,53,55,3,0,2,0,,2016
+Atlético CP,Benfica II,3-2,https://www.besoccer.com/match/atletico-cp/benfica-ii/201624330,2016,3,segunda_liga,51,56,4,0,2,0,,2016
+Desportivo Aves,Portimonense,1-1,https://www.besoccer.com/match/desportivo-aves/portimonense/201624331,2016,3,segunda_liga,56,54,3,1,2,1,,2016
+Chaves,Famalicão,0-0,https://www.besoccer.com/match/chaves/famalicao/201624332,2016,3,segunda_liga,55,52,4,0,3,0,,2016
+Feirense,Mafra,0-2,https://www.besoccer.com/match/feirense/mafra/201624333,2016,3,segunda_liga,54,50,0,0,3,0,,2016
+Olhanense,Penafiel,2-1,https://www.besoccer.com/match/sc-olhanense/penafiel/201624334,2016,3,segunda_liga,54,56,2,0,4,0,,2016
+UD Oliveirense,CD Santa Clara,1-2,https://www.besoccer.com/match/ud-oliveirense/santa-clara/201624335,2016,3,segunda_liga,50,52,3,0,2,0,,2016
+Academico Viseu,Sporting Braga II,1-1,https://www.besoccer.com/match/academico-viseu/sporting-braga-ii/201624336,2016,3,segunda_liga,44,50,3,0,3,0,,2016
+Sporting CP II,Farense,1-0,https://www.besoccer.com/match/sporting-cp-ii/farense/201624338,2016,3,segunda_liga,55,44,0,0,2,0,,2016
+Vitória Guimarães B,SC Freamunde,0-0,https://www.besoccer.com/match/vitoria-guimar/sc-freamunde/201624339,2016,3,segunda_liga,51,51,4,0,1,0,,2016
+Varzim,Leixões,1-0,https://www.besoccer.com/match/varzim/leixoes/201624340,2016,3,segunda_liga,54,55,4,0,1,0,,2016
+Porto II,Oriental Lisboa,2-1,https://www.besoccer.com/match/porto-ii/oriental-lisboa/201624341,2016,3,segunda_liga,54,48,2,0,3,0,,2016
+Gil Vicente,SC Covilha ,4-0,https://www.besoccer.com/match/gil-vicente/sporting-covilha/201624337,2016,3,segunda_liga,57,53,3,0,5,0,,2016
+SC Covilha ,Sporting CP II,0-1,https://www.besoccer.com/match/sporting-covilha/sporting-cp-ii/201624344,2016,4,segunda_liga,52,56,1,0,2,0,,2016
+Benfica II,UD Oliveirense,1-0,https://www.besoccer.com/match/benfica-ii/ud-oliveirense/201624343,2016,4,segunda_liga,56,50,2,0,4,0,,2016
+Famalicão,Vitória Guimarães B,3-3,https://www.besoccer.com/match/famalicao/vitoria-guimar/201624345,2016,4,segunda_liga,52,51,5,0,5,0,,2016
+Farense,Feirense,1-1,https://www.besoccer.com/match/farense/feirense/201624346,2016,4,segunda_liga,44,54,6,0,1,0,,2016
+Leixões,Porto II,2-0,https://www.besoccer.com/match/leixoes/porto-ii/201624348,2016,4,segunda_liga,55,54,3,0,1,0,,2016
+Penafiel,Varzim,1-0,https://www.besoccer.com/match/penafiel/varzim/201624349,2016,4,segunda_liga,56,54,3,0,4,0,,2016
+Olhanense,Atlético CP,1-0,https://www.besoccer.com/match/sc-olhanense/atletico-cp/201624350,2016,4,segunda_liga,54,51,2,0,5,0,,2016
+Sporting Braga II,Desportivo Aves,1-0,https://www.besoccer.com/match/sporting-braga-ii/desportivo-aves/201624351,2016,4,segunda_liga,50,56,2,0,6,0,,2016
+SC Freamunde,Gil Vicente,3-0,https://www.besoccer.com/match/sc-freamunde/gil-vicente/201624347,2016,4,segunda_liga,51,57,2,0,4,0,,2016
+Oriental Lisboa,Chaves,1-2,https://www.besoccer.com/match/oriental-lisboa/chaves/201624352,2016,4,segunda_liga,48,55,2,0,2,0,,2016
+Portimonense,Mafra,2-0,https://www.besoccer.com/match/portimonense/mafra/201624353,2016,4,segunda_liga,54,50,2,0,3,0,,2016
+CD Santa Clara,Academico Viseu,0-1,https://www.besoccer.com/match/santa-clara/academico-viseu/201624342,2016,4,segunda_liga,52,44,4,2,4,2,,2016
+UD Oliveirense,Sporting Braga II,0-1,https://www.besoccer.com/match/ud-oliveirense/sporting-braga-ii/201624359,2016,5,segunda_liga,50,50,4,0,3,0,,2016
+Varzim,Benfica II,2-1,https://www.besoccer.com/match/varzim/benfica-ii/201624358,2016,5,segunda_liga,54,56,3,0,1,0,,2016
+Feirense,SC Covilha ,1-1,https://www.besoccer.com/match/feirense/sporting-covilha/201624360,2016,5,segunda_liga,54,52,3,0,4,0,,2016
+Mafra,Farense,1-2,https://www.besoccer.com/match/mafra/farense/201624362,2016,5,segunda_liga,50,44,2,0,2,0,,2016
+Sporting CP II,Portimonense,1-1,https://www.besoccer.com/match/sporting-cp-ii/portimonense/201624365,2016,5,segunda_liga,56,54,1,0,5,0,,2016
+Atlético CP,Penafiel,1-2,https://www.besoccer.com/match/atletico-cp/penafiel/201624354,2016,5,segunda_liga,51,56,2,0,4,0,,2016
+Chaves,Leixões,3-0,https://www.besoccer.com/match/chaves/leixoes/201624356,2016,5,segunda_liga,55,55,2,0,3,0,,2016
+Vitória Guimarães B,Olhanense,1-0,https://www.besoccer.com/match/vitoria-guimar/sc-olhanense/201624357,2016,5,segunda_liga,51,54,2,0,0,0,,2016
+Gil Vicente,Famalicão,1-1,https://www.besoccer.com/match/gil-vicente/famalicao/201624361,2016,5,segunda_liga,57,52,1,0,4,0,,2016
+Porto II,SC Freamunde,2-1,https://www.besoccer.com/match/porto-ii/sc-freamunde/201624363,2016,5,segunda_liga,54,51,1,0,2,0,,2016
+Academico Viseu,Oriental Lisboa,0-2,https://www.besoccer.com/match/academico-viseu/oriental-lisboa/201624364,2016,5,segunda_liga,45,48,4,0,3,0,,2016
+Desportivo Aves,CD Santa Clara,1-3,https://www.besoccer.com/match/desportivo-aves/santa-clara/201624355,2016,5,segunda_liga,56,52,2,0,2,0,,2016
+Oriental Lisboa,Sporting CP II,0-4,https://www.besoccer.com/match/oriental-lisboa/sporting-cp-ii/201624372,2016,6,segunda_liga,48,56,3,0,1,0,,2016
+Atlético CP,Varzim,3-1,https://www.besoccer.com/match/atletico-cp/varzim/201624367,2016,6,segunda_liga,51,54,1,0,2,0,,2016
+Sporting Braga II,Mafra,1-0,https://www.besoccer.com/match/sporting-braga-ii/mafra/201624369,2016,6,segunda_liga,51,50,3,0,2,0,,2016
+SC Covilha ,Farense,1-1,https://www.besoccer.com/match/sporting-covilha/farense/201624370,2016,6,segunda_liga,52,44,3,0,2,0,,2016
+Olhanense,Desportivo Aves,0-0,https://www.besoccer.com/match/sc-olhanense/desportivo-aves/201624373,2016,6,segunda_liga,54,56,3,0,4,0,,2016
+Leixões,Vitória Guimarães B,1-1,https://www.besoccer.com/match/leixoes/vitoria-guimar/201624376,2016,6,segunda_liga,55,51,4,0,2,0,,2016
+CD Santa Clara,Gil Vicente,0-2,https://www.besoccer.com/match/santa-clara/gil-vicente/201624366,2016,6,segunda_liga,52,57,1,0,1,0,,2016
+Benfica II,Academico Viseu,2-0,https://www.besoccer.com/match/benfica-ii/academico-viseu/201624368,2016,6,segunda_liga,56,44,3,0,2,0,,2016
+SC Freamunde,Chaves,2-1,https://www.besoccer.com/match/sc-freamunde/chaves/201624374,2016,6,segunda_liga,52,56,3,0,3,0,,2016
+Portimonense,Feirense,2-2,https://www.besoccer.com/match/portimonense/feirense/201624375,2016,6,segunda_liga,54,54,3,0,7,0,,2016
+Penafiel,UD Oliveirense,2-2,https://www.besoccer.com/match/penafiel/ud-oliveirense/201624377,2016,6,segunda_liga,56,50,1,0,4,0,,2016
+Famalicão,Porto II,2-4,https://www.besoccer.com/match/famalicao/porto-ii/201624371,2016,6,segunda_liga,52,54,5,0,4,0,,2016
+UD Oliveirense,Famalicão,2-2,https://www.besoccer.com/match/ud-oliveirense/famalicao/201624385,2016,7,segunda_liga,50,51,1,0,1,0,,2016
+Desportivo Aves,Benfica II,3-2,https://www.besoccer.com/match/desportivo-aves/benfica-ii/201624378,2016,7,segunda_liga,56,56,0,0,5,0,,2016
+Chaves,CD Santa Clara,1-0,https://www.besoccer.com/match/chaves/santa-clara/201624379,2016,7,segunda_liga,55,52,1,0,2,0,,2016
+Feirense,Oriental Lisboa,2-2,https://www.besoccer.com/match/feirense/oriental-lisboa/201624380,2016,7,segunda_liga,54,48,2,1,3,1,,2016
+Gil Vicente,Portimonense,2-2,https://www.besoccer.com/match/gil-vicente/portimonense/201624381,2016,7,segunda_liga,57,54,3,0,2,0,,2016
+Vitória Guimarães B,Atlético CP,0-0,https://www.besoccer.com/match/vitoria-guimar/atletico-cp/201624382,2016,7,segunda_liga,51,51,1,0,2,0,,2016
+Farense,Sporting Braga II,3-2,https://www.besoccer.com/match/farense/sporting-braga-ii/201624383,2016,7,segunda_liga,44,51,3,0,1,0,,2016
+Sporting CP II,Leixões,3-1,https://www.besoccer.com/match/sporting-cp-ii/leixoes/201624387,2016,7,segunda_liga,56,55,1,1,3,1,,2016
+Varzim,Olhanense,3-1,https://www.besoccer.com/match/varzim/sc-olhanense/201624388,2016,7,segunda_liga,54,54,2,0,4,0,,2016
+Porto II,Penafiel,3-1,https://www.besoccer.com/match/porto-ii/penafiel/201624389,2016,7,segunda_liga,54,56,1,0,4,0,,2016
+Academico Viseu,SC Freamunde,1-0,https://www.besoccer.com/match/academico-viseu/sc-freamunde/201624386,2016,7,segunda_liga,44,52,4,0,6,0,,2016
+Mafra,SC Covilha ,1-2,https://www.besoccer.com/match/mafra/sporting-covilha/201624384,2016,7,segunda_liga,50,52,2,0,2,0,,2016
+Atlético CP,Porto II,2-3,https://www.besoccer.com/match/atletico-cp/porto-ii/201624391,2016,8,segunda_liga,51,54,5,0,5,0,,2016
+Olhanense,UD Oliveirense,2-0,https://www.besoccer.com/match/sc-olhanense/ud-oliveirense/201624397,2016,8,segunda_liga,54,50,3,0,6,0,,2016
+Benfica II,Gil Vicente,1-0,https://www.besoccer.com/match/benfica-ii/gil-vicente/201624392,2016,8,segunda_liga,56,57,2,0,5,0,,2016
+Sporting Braga II,Feirense,1-1,https://www.besoccer.com/match/sporting-braga-ii/feirense/201624393,2016,8,segunda_liga,51,54,1,0,2,0,,2016
+Leixões,Mafra,1-1,https://www.besoccer.com/match/leixoes/mafra/201624396,2016,8,segunda_liga,55,50,2,0,1,0,,2016
+Oriental Lisboa,Desportivo Aves,0-2,https://www.besoccer.com/match/oriental-lisboa/desportivo-aves/201624398,2016,8,segunda_liga,48,56,2,0,1,0,,2016
+Portimonense,SC Covilha ,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/201624400,2016,8,segunda_liga,54,52,4,0,2,0,,2016
+CD Santa Clara,Farense,2-0,https://www.besoccer.com/match/santa-clara/farense/201624390,2016,8,segunda_liga,52,44,1,0,3,0,,2016
+Famalicão,Academico Viseu,0-0,https://www.besoccer.com/match/famalicao/academico-viseu/201624394,2016,8,segunda_liga,51,45,3,0,3,0,,2016
+SC Freamunde,Sporting CP II,1-2,https://www.besoccer.com/match/sc-freamunde/sporting-cp-ii/201624395,2016,8,segunda_liga,52,56,4,0,2,0,,2016
+Penafiel,Chaves,1-0,https://www.besoccer.com/match/penafiel/chaves/201624399,2016,8,segunda_liga,56,56,4,0,5,0,,2016
+Varzim,Vitória Guimarães B,1-0,https://www.besoccer.com/match/varzim/vitoria-guimar/201624401,2016,8,segunda_liga,54,51,3,0,3,0,,2016
+Porto II,Varzim,4-0,https://www.besoccer.com/match/porto-ii/varzim/201624407,2016,9,segunda_liga,54,54,3,0,5,0,,2016
+Gil Vicente,Oriental Lisboa,1-0,https://www.besoccer.com/match/gil-vicente/oriental-lisboa/201624404,2016,9,segunda_liga,57,48,0,0,2,0,,2016
+Farense,Portimonense,1-2,https://www.besoccer.com/match/farense/portimonense/201624403,2016,9,segunda_liga,44,55,2,0,2,0,,2016
+Mafra,CD Santa Clara,0-0,https://www.besoccer.com/match/mafra/santa-clara/201624406,2016,9,segunda_liga,49,52,2,0,1,0,,2016
+Chaves,Benfica II,1-1,https://www.besoccer.com/match/chaves/benfica-ii/201624409,2016,9,segunda_liga,55,56,1,0,3,0,,2016
+SC Covilha ,Sporting Braga II,1-0,https://www.besoccer.com/match/sporting-covilha/sporting-braga-ii/201624410,2016,9,segunda_liga,52,51,2,1,3,1,,2016
+Sporting CP II,Olhanense,1-3,https://www.besoccer.com/match/sporting-cp-ii/sc-olhanense/201624413,2016,9,segunda_liga,56,54,3,0,3,0,,2016
+Vitória Guimarães B,Penafiel,2-3,https://www.besoccer.com/match/vitoria-guimar/penafiel/201624405,2016,9,segunda_liga,51,56,1,0,4,0,,2016
+Academico Viseu,Atlético CP,0-1,https://www.besoccer.com/match/academico-viseu/atletico-cp/201624408,2016,9,segunda_liga,46,51,1,0,5,0,,2016
+Feirense,Famalicão,2-1,https://www.besoccer.com/match/feirense/famalicao/201624411,2016,9,segunda_liga,54,52,3,0,4,0,,2016
+UD Oliveirense,SC Freamunde,0-0,https://www.besoccer.com/match/ud-oliveirense/sc-freamunde/201624412,2016,9,segunda_liga,49,51,2,0,4,0,,2016
+Desportivo Aves,Leixões,1-0,https://www.besoccer.com/match/desportivo-aves/leixoes/201624402,2016,9,segunda_liga,57,55,5,1,2,1,,2016
+Leixões,Gil Vicente,2-1,https://www.besoccer.com/match/leixoes/gil-vicente/201624424,2016,10,segunda_liga,55,57,1,0,2,0,,2016
+CD Santa Clara,SC Covilha ,2-2,https://www.besoccer.com/match/santa-clara/sporting-covilha/201624414,2016,10,segunda_liga,52,52,3,0,4,0,,2016
+Atlético CP,Feirense,1-1,https://www.besoccer.com/match/atletico-cp/feirense/201624415,2016,10,segunda_liga,51,54,3,0,2,0,,2016
+Benfica II,Mafra,1-2,https://www.besoccer.com/match/benfica-ii/mafra/201624416,2016,10,segunda_liga,56,49,4,1,6,1,,2016
+Penafiel,Academico Viseu,0-0,https://www.besoccer.com/match/penafiel/academico-viseu/201624420,2016,10,segunda_liga,56,45,6,0,3,0,,2016
+SC Freamunde,Desportivo Aves,1-2,https://www.besoccer.com/match/sc-freamunde/desportivo-aves/201624421,2016,10,segunda_liga,51,56,1,0,4,0,,2016
+Vitória Guimarães B,Chaves,0-3,https://www.besoccer.com/match/vitoria-guimar/chaves/201624422,2016,10,segunda_liga,51,55,3,0,1,0,,2016
+Varzim,UD Oliveirense,0-1,https://www.besoccer.com/match/varzim/ud-oliveirense/201624425,2016,10,segunda_liga,54,49,3,0,6,0,,2016
+Olhanense,Porto II,0-2,https://www.besoccer.com/match/sc-olhanense/porto-ii/201624419,2016,10,segunda_liga,55,55,2,1,5,1,,2016
+Sporting Braga II,Portimonense,2-3,https://www.besoccer.com/match/sporting-braga-ii/portimonense/201624417,2016,10,segunda_liga,50,55,5,0,3,0,,2016
+Famalicão,Sporting CP II,1-1,https://www.besoccer.com/match/famalicao/sporting-cp-ii/201624418,2016,10,segunda_liga,52,56,2,0,5,0,,2016
+Oriental Lisboa,Farense,1-3,https://www.besoccer.com/match/oriental-lisboa/farense/201624423,2016,10,segunda_liga,48,44,1,0,2,0,,2016
+Gil Vicente,Penafiel,1-0,https://www.besoccer.com/match/gil-vicente/penafiel/201624431,2016,11,segunda_liga,57,56,2,0,4,0,,2016
+UD Oliveirense,Vitória Guimarães B,0-1,https://www.besoccer.com/match/ud-oliveirense/vitoria-guimar/201624436,2016,11,segunda_liga,49,50,2,0,2,0,,2016
+Sporting CP II,Atlético CP,0-1,https://www.besoccer.com/match/sporting-cp-ii/atletico-cp/201624433,2016,11,segunda_liga,56,51,4,0,3,0,,2016
+SC Covilha ,Benfica II,0-2,https://www.besoccer.com/match/sporting-covilha/benfica-ii/201624434,2016,11,segunda_liga,52,56,4,0,6,0,,2016
+Desportivo Aves,Porto II,0-0,https://www.besoccer.com/match/desportivo-aves/porto-ii/201624426,2016,11,segunda_liga,57,55,4,0,2,0,,2016
+Sporting Braga II,Oriental Lisboa,0-0,https://www.besoccer.com/match/sporting-braga-ii/oriental-lisboa/201624427,2016,11,segunda_liga,50,47,0,0,2,0,,2016
+Chaves,Olhanense,0-0,https://www.besoccer.com/match/chaves/sc-olhanense/201624428,2016,11,segunda_liga,56,54,2,1,2,1,,2016
+Farense,SC Freamunde,0-1,https://www.besoccer.com/match/farense/sc-freamunde/201624429,2016,11,segunda_liga,45,51,2,0,2,0,,2016
+Portimonense,CD Santa Clara,1-0,https://www.besoccer.com/match/portimonense/santa-clara/201624432,2016,11,segunda_liga,56,51,0,0,2,0,,2016
+Mafra,Famalicão,0-0,https://www.besoccer.com/match/mafra/famalicao/201624435,2016,11,segunda_liga,49,52,5,0,2,0,,2016
+Academico Viseu,Varzim,4-2,https://www.besoccer.com/match/academico-viseu/varzim/201624437,2016,11,segunda_liga,45,54,0,0,2,0,,2016
+Feirense,Leixões,2-1,https://www.besoccer.com/match/feirense/leixoes/201624430,2016,11,segunda_liga,54,55,3,0,5,0,,2016
+Leixões,Sporting Braga II,2-3,https://www.besoccer.com/match/leixoes/sporting-braga-ii/201624445,2016,12,segunda_liga,55,50,2,0,1,0,,2016
+Atlético CP,Desportivo Aves,0-1,https://www.besoccer.com/match/atletico-cp/desportivo-aves/201624439,2016,12,segunda_liga,51,57,3,0,4,0,,2016
+Olhanense,Academico Viseu,2-2,https://www.besoccer.com/match/sc-olhanense/academico-viseu/201624443,2016,12,segunda_liga,54,46,3,0,4,0,,2016
+Oriental Lisboa,Portimonense,1-2,https://www.besoccer.com/match/oriental-lisboa/portimonense/201624444,2016,12,segunda_liga,47,56,4,0,2,0,,2016
+Porto II,UD Oliveirense,2-2,https://www.besoccer.com/match/porto-ii/ud-oliveirense/201624449,2016,12,segunda_liga,55,49,2,1,4,1,,2016
+CD Santa Clara,Sporting CP II,2-3,https://www.besoccer.com/match/santa-clara/sporting-cp-ii/201624438,2016,12,segunda_liga,51,56,5,0,2,0,,2016
+Famalicão,Farense,2-1,https://www.besoccer.com/match/famalicao/farense/201624441,2016,12,segunda_liga,52,45,3,0,4,0,,2016
+SC Freamunde,Mafra,1-0,https://www.besoccer.com/match/sc-freamunde/mafra/201624442,2016,12,segunda_liga,51,49,2,0,6,0,,2016
+Varzim,Chaves,3-0,https://www.besoccer.com/match/varzim/chaves/201624446,2016,12,segunda_liga,54,56,3,0,6,0,,2016
+Penafiel,SC Covilha ,2-2,https://www.besoccer.com/match/penafiel/sporting-covilha/201624447,2016,12,segunda_liga,57,52,3,1,4,1,,2016
+Vitória Guimarães B,Gil Vicente,1-0,https://www.besoccer.com/match/vitoria-guimar/gil-vicente/201624448,2016,12,segunda_liga,50,58,5,0,4,0,,2016
+Benfica II,Feirense,1-2,https://www.besoccer.com/match/benfica-ii/feirense/201624440,2016,12,segunda_liga,56,54,4,0,4,0,,2016
+Sporting Braga II,Penafiel,0-1,https://www.besoccer.com/match/sporting-braga-ii/penafiel/201624451,2016,13,segunda_liga,50,57,3,0,1,0,,2016
+Chaves,Porto II,2-2,https://www.besoccer.com/match/chaves/porto-ii/201624452,2016,13,segunda_liga,56,55,3,0,2,0,,2016
+Desportivo Aves,Vitória Guimarães B,0-1,https://www.besoccer.com/match/desportivo-aves/vitoria-guimar/201624450,2016,13,segunda_liga,57,51,3,0,5,0,,2016
+SC Covilha ,SC Freamunde,0-2,https://www.besoccer.com/match/sporting-covilha/sc-freamunde/201624453,2016,13,segunda_liga,52,51,1,0,5,0,,2016
+Feirense,CD Santa Clara,1-0,https://www.besoccer.com/match/feirense/santa-clara/201624454,2016,13,segunda_liga,55,51,3,0,3,0,,2016
+Gil Vicente,Olhanense,3-0,https://www.besoccer.com/match/gil-vicente/sc-olhanense/201624455,2016,13,segunda_liga,57,54,2,0,3,0,,2016
+Mafra,Oriental Lisboa,1-0,https://www.besoccer.com/match/mafra/oriental-lisboa/201624456,2016,13,segunda_liga,49,47,2,0,3,0,,2016
+Sporting CP II,Varzim,0-0,https://www.besoccer.com/match/sporting-cp-ii/varzim/201624457,2016,13,segunda_liga,56,54,2,0,2,0,,2016
+UD Oliveirense,Atlético CP,1-1,https://www.besoccer.com/match/ud-oliveirense/atletico-cp/201624458,2016,13,segunda_liga,49,51,3,0,1,0,,2016
+Academico Viseu,Leixões,1-1,https://www.besoccer.com/match/academico-viseu/leixoes/201624461,2016,13,segunda_liga,46,54,2,0,3,0,,2016
+Farense,Benfica II,1-0,https://www.besoccer.com/match/farense/benfica-ii/201624459,2016,13,segunda_liga,45,56,3,0,3,0,,2016
+Portimonense,Famalicão,0-3,https://www.besoccer.com/match/portimonense/famalicao/201624460,2016,13,segunda_liga,56,52,1,0,1,0,,2016
+Atlético CP,Chaves,0-1,https://www.besoccer.com/match/atletico-cp/chaves/201624462,2016,14,segunda_liga,51,56,2,0,0,0,,2016
+Vitória Guimarães B,Academico Viseu,2-0,https://www.besoccer.com/match/vitoria-guimar/academico-viseu/201624464,2016,14,segunda_liga,51,46,3,0,3,0,,2016
+UD Oliveirense,Sporting CP II,1-2,https://www.besoccer.com/match/ud-oliveirense/sporting-cp-ii/201624465,2016,14,segunda_liga,49,56,2,0,2,0,,2016
+Oriental Lisboa,CD Santa Clara,2-0,https://www.besoccer.com/match/oriental-lisboa/santa-clara/201624466,2016,14,segunda_liga,47,51,1,0,2,0,,2016
+Penafiel,Desportivo Aves,0-2,https://www.besoccer.com/match/penafiel/desportivo-aves/201624467,2016,14,segunda_liga,57,57,2,0,2,0,,2016
+SC Freamunde,Feirense,1-1,https://www.besoccer.com/match/sc-freamunde/feirense/201624471,2016,14,segunda_liga,52,55,1,1,3,1,,2016
+Porto II,Gil Vicente,4-2,https://www.besoccer.com/match/porto-ii/gil-vicente/201624472,2016,14,segunda_liga,55,58,2,0,3,0,,2016
+Benfica II,Portimonense,3-2,https://www.besoccer.com/match/benfica-ii/portimonense/201624463,2016,14,segunda_liga,56,56,4,0,2,0,,2016
+Varzim,Sporting Braga II,1-1,https://www.besoccer.com/match/varzim/sporting-braga-ii/201624468,2016,14,segunda_liga,54,50,4,0,3,0,,2016
+Leixões,Farense,1-1,https://www.besoccer.com/match/leixoes/farense/201624470,2016,14,segunda_liga,54,45,3,0,2,0,,2016
+Olhanense,Mafra,2-1,https://www.besoccer.com/match/sc-olhanense/mafra/201624473,2016,14,segunda_liga,54,49,5,0,4,0,,2016
+Famalicão,SC Covilha ,1-1,https://www.besoccer.com/match/famalicao/sporting-covilha/201624469,2016,14,segunda_liga,53,52,4,0,5,0,,2016
+Gil Vicente,Varzim,1-1,https://www.besoccer.com/match/gil-vicente/varzim/201624481,2016,15,segunda_liga,57,54,2,0,5,0,,2016
+Academico Viseu,Porto II,1-3,https://www.besoccer.com/match/academico-viseu/porto-ii/201624485,2016,15,segunda_liga,46,55,3,0,2,0,,2016
+CD Santa Clara,Benfica II,2-0,https://www.besoccer.com/match/santa-clara/benfica-ii/201624474,2016,15,segunda_liga,51,56,3,0,4,0,,2016
+Desportivo Aves,Famalicão,2-0,https://www.besoccer.com/match/desportivo-aves/famalicao/201624475,2016,15,segunda_liga,57,53,3,0,2,0,,2016
+Sporting Braga II,SC Freamunde,0-1,https://www.besoccer.com/match/sporting-braga-ii/sc-freamunde/201624476,2016,15,segunda_liga,50,52,5,0,4,0,,2016
+Chaves,UD Oliveirense,1-1,https://www.besoccer.com/match/chaves/ud-oliveirense/201624477,2016,15,segunda_liga,56,49,2,0,4,0,,2016
+SC Covilha ,Oriental Lisboa,1-0,https://www.besoccer.com/match/sporting-covilha/oriental-lisboa/201624478,2016,15,segunda_liga,52,47,1,0,3,0,,2016
+Farense,Vitória Guimarães B,2-0,https://www.besoccer.com/match/farense/vitoria-guimar/201624479,2016,15,segunda_liga,45,51,2,0,1,0,,2016
+Feirense,Olhanense,1-0,https://www.besoccer.com/match/feirense/sc-olhanense/201624480,2016,15,segunda_liga,55,54,2,0,5,0,,2016
+Mafra,Atlético CP,0-0,https://www.besoccer.com/match/mafra/atletico-cp/201624482,2016,15,segunda_liga,49,51,2,0,2,0,,2016
+Portimonense,Leixões,1-1,https://www.besoccer.com/match/portimonense/leixoes/201624483,2016,15,segunda_liga,56,54,2,0,4,0,,2016
+Sporting CP II,Penafiel,4-2,https://www.besoccer.com/match/sporting-cp-ii/penafiel/201624484,2016,15,segunda_liga,56,57,4,0,3,0,,2016
+Varzim,Desportivo Aves,1-0,https://www.besoccer.com/match/varzim/desportivo-aves/201624492,2016,16,segunda_liga,54,57,4,0,7,0,,2016
+SC Freamunde,Portimonense,1-1,https://www.besoccer.com/match/sc-freamunde/portimonense/201624490,2016,16,segunda_liga,52,56,3,0,4,0,,2016
+UD Oliveirense,Academico Viseu,0-2,https://www.besoccer.com/match/ud-oliveirense/academico-viseu/201624491,2016,16,segunda_liga,49,45,2,0,1,0,,2016
+Olhanense,Sporting Braga II,2-0,https://www.besoccer.com/match/sc-olhanense/sporting-braga-ii/201624493,2016,16,segunda_liga,54,50,1,0,3,0,,2016
+Leixões,SC Covilha ,2-2,https://www.besoccer.com/match/leixoes/sporting-covilha/201624494,2016,16,segunda_liga,54,52,3,0,1,0,,2016
+Benfica II,Oriental Lisboa,2-1,https://www.besoccer.com/match/benfica-ii/oriental-lisboa/201624487,2016,16,segunda_liga,55,47,3,0,2,0,,2016
+Atlético CP,Gil Vicente,0-1,https://www.besoccer.com/match/atletico-cp/gil-vicente/201624486,2016,16,segunda_liga,51,58,3,0,4,0,,2016
+Chaves,Sporting CP II,1-0,https://www.besoccer.com/match/chaves/sporting-cp-ii/201624488,2016,16,segunda_liga,56,56,2,0,3,0,,2016
+Vitória Guimarães B,Feirense,0-1,https://www.besoccer.com/match/vitoria-guimar/feirense/201624496,2016,16,segunda_liga,51,55,2,0,3,0,,2016
+Porto II,Mafra,2-0,https://www.besoccer.com/match/porto-ii/mafra/201624497,2016,16,segunda_liga,55,49,3,0,1,0,,2016
+Famalicão,CD Santa Clara,2-0,https://www.besoccer.com/match/famalicao/santa-clara/201624489,2016,16,segunda_liga,52,51,2,0,4,0,,2016
+Penafiel,Farense,0-0,https://www.besoccer.com/match/penafiel/farense/201624495,2016,16,segunda_liga,57,45,2,0,3,0,,2016
+Mafra,Vitória Guimarães B,1-1,https://www.besoccer.com/match/mafra/vitoria-guimar/201624508,2016,17,segunda_liga,49,51,1,0,1,0,,2016
+Desportivo Aves,UD Oliveirense,1-1,https://www.besoccer.com/match/desportivo-aves/ud-oliveirense/201624499,2016,17,segunda_liga,57,49,2,0,3,0,,2016
+Gil Vicente,Sporting CP II,1-1,https://www.besoccer.com/match/gil-vicente/sporting-cp-ii/201624504,2016,17,segunda_liga,58,56,4,1,4,1,,2016
+Portimonense,Olhanense,1-0,https://www.besoccer.com/match/portimonense/sc-olhanense/201624509,2016,17,segunda_liga,56,54,2,0,2,0,,2016
+SC Covilha ,Porto II,0-0,https://www.besoccer.com/match/sporting-covilha/porto-ii/201624501,2016,17,segunda_liga,52,55,1,0,2,0,,2016
+CD Santa Clara,Leixões,2-0,https://www.besoccer.com/match/santa-clara/leixoes/201624498,2016,17,segunda_liga,51,54,2,0,3,0,,2016
+Sporting Braga II,Atlético CP,0-0,https://www.besoccer.com/match/sporting-braga-ii/atletico-cp/201624505,2016,17,segunda_liga,50,50,4,0,2,0,,2016
+Academico Viseu,Chaves,1-1,https://www.besoccer.com/match/academico-viseu/chaves/201624506,2016,17,segunda_liga,46,56,3,0,4,0,,2016
+Oriental Lisboa,SC Freamunde,2-1,https://www.besoccer.com/match/oriental-lisboa/sc-freamunde/201624507,2016,17,segunda_liga,47,52,0,0,0,0,,2016
+Benfica II,Famalicão,1-3,https://www.besoccer.com/match/benfica-ii/famalicao/201624500,2016,17,segunda_liga,56,53,2,0,1,0,,2016
+Farense,Varzim,0-0,https://www.besoccer.com/match/farense/varzim/201624502,2016,17,segunda_liga,45,54,2,0,3,0,,2016
+Feirense,Penafiel,1-0,https://www.besoccer.com/match/feirense/penafiel/201624503,2016,17,segunda_liga,55,56,3,0,5,0,,2016
+SC Freamunde,CD Santa Clara,2-1,https://www.besoccer.com/match/sc-freamunde/santa-clara/201624511,2016,18,segunda_liga,52,51,0,0,2,0,,2016
+Atlético CP,SC Covilha ,1-1,https://www.besoccer.com/match/atletico-cp/sporting-covilha/201624510,2016,18,segunda_liga,51,52,3,0,2,0,,2016
+Vitória Guimarães B,Portimonense,0-1,https://www.besoccer.com/match/vitoria-guimar/portimonense/201624512,2016,18,segunda_liga,51,56,2,0,2,0,,2016
+Olhanense,Oriental Lisboa,1-0,https://www.besoccer.com/match/sc-olhanense/oriental-lisboa/201624513,2016,18,segunda_liga,54,47,1,0,3,0,,2016
+Sporting CP II,Academico Viseu,4-2,https://www.besoccer.com/match/sporting-cp-ii/academico-viseu/201624514,2016,18,segunda_liga,56,46,1,0,3,0,,2016
+Chaves,Desportivo Aves,2-1,https://www.besoccer.com/match/chaves/desportivo-aves/201624515,2016,18,segunda_liga,56,57,3,1,5,1,,2016
+Leixões,Benfica II,2-0,https://www.besoccer.com/match/leixoes/benfica-ii/201624516,2016,18,segunda_liga,54,55,2,0,4,0,,2016
+Porto II,Farense,4-3,https://www.besoccer.com/match/porto-ii/farense/201624518,2016,18,segunda_liga,55,45,1,0,3,0,,2016
+UD Oliveirense,Gil Vicente,1-2,https://www.besoccer.com/match/ud-oliveirense/gil-vicente/201624520,2016,18,segunda_liga,49,58,4,0,4,0,,2016
+Famalicão,Sporting Braga II,1-2,https://www.besoccer.com/match/famalicao/sporting-braga-ii/201624517,2016,18,segunda_liga,53,50,1,1,2,1,,2016
+Penafiel,Mafra,1-1,https://www.besoccer.com/match/penafiel/mafra/201624521,2016,18,segunda_liga,56,49,4,1,2,1,,2016
+Varzim,Feirense,0-1,https://www.besoccer.com/match/varzim/feirense/201624519,2016,18,segunda_liga,54,55,1,0,2,0,,2016
+Feirense,Porto II,1-0,https://www.besoccer.com/match/feirense/porto-ii/201624528,2016,19,segunda_liga,55,55,2,0,3,0,,2016
+CD Santa Clara,Penafiel,3-2,https://www.besoccer.com/match/santa-clara/penafiel/201624522,2016,19,segunda_liga,51,56,4,0,4,0,,2016
+Sporting Braga II,Vitória Guimarães B,2-1,https://www.besoccer.com/match/sporting-braga-ii/vitoria-guimar/201624524,2016,19,segunda_liga,50,50,2,0,2,0,,2016
+Desportivo Aves,Academico Viseu,1-2,https://www.besoccer.com/match/desportivo-aves/academico-viseu/201624525,2016,19,segunda_liga,57,46,3,0,5,0,,2016
+SC Covilha ,Varzim,2-1,https://www.besoccer.com/match/sporting-covilha/varzim/201624526,2016,19,segunda_liga,52,54,3,0,4,0,,2016
+SC Freamunde,Leixões,0-0,https://www.besoccer.com/match/sc-freamunde/leixoes/201624529,2016,19,segunda_liga,52,54,2,0,3,0,,2016
+Mafra,UD Oliveirense,2-0,https://www.besoccer.com/match/mafra/ud-oliveirense/201624530,2016,19,segunda_liga,49,49,3,0,0,0,,2016
+Gil Vicente,Chaves,1-1,https://www.besoccer.com/match/gil-vicente/chaves/201624532,2016,19,segunda_liga,58,56,2,0,3,0,,2016
+Oriental Lisboa,Famalicão,0-1,https://www.besoccer.com/match/oriental-lisboa/famalicao/201624533,2016,19,segunda_liga,47,53,5,0,1,0,,2016
+Benfica II,Sporting CP II,1-0,https://www.besoccer.com/match/benfica-ii/sporting-cp-ii/201624523,2016,19,segunda_liga,55,56,2,0,2,0,,2016
+Portimonense,Atlético CP,1-2,https://www.besoccer.com/match/portimonense/atletico-cp/201624531,2016,19,segunda_liga,56,50,3,0,2,0,,2016
+Farense,Olhanense,1-2,https://www.besoccer.com/match/farense/sc-olhanense/201624527,2016,19,segunda_liga,45,54,4,0,4,0,,2016
+Sporting Braga II,Porto II,2-0,https://www.besoccer.com/match/sporting-braga-ii/porto-ii/201624534,2016,20,segunda_liga,50,55,3,0,0,0,,2016
+Atlético CP,Farense,0-1,https://www.besoccer.com/match/atletico-cp/farense/201624535,2016,20,segunda_liga,51,45,3,0,2,0,,2016
+Chaves,Mafra,1-0,https://www.besoccer.com/match/chaves/mafra/201624536,2016,20,segunda_liga,56,49,2,0,3,0,,2016
+Leixões,Oriental Lisboa,3-3,https://www.besoccer.com/match/leixoes/oriental-lisboa/201624538,2016,20,segunda_liga,54,47,5,0,5,0,,2016
+Penafiel,Portimonense,1-1,https://www.besoccer.com/match/penafiel/portimonense/201624539,2016,20,segunda_liga,56,56,4,0,2,0,,2016
+Vitória Guimarães B,Benfica II,3-0,https://www.besoccer.com/match/vitoria-guimar/benfica-ii/201624540,2016,20,segunda_liga,50,55,2,0,2,0,,2016
+Sporting CP II,Desportivo Aves,1-0,https://www.besoccer.com/match/sporting-cp-ii/desportivo-aves/201624541,2016,20,segunda_liga,56,57,4,0,4,0,,2016
+Olhanense,SC Covilha ,2-1,https://www.besoccer.com/match/sc-olhanense/sporting-covilha/201624542,2016,20,segunda_liga,54,52,2,0,4,0,,2016
+UD Oliveirense,Feirense,3-1,https://www.besoccer.com/match/ud-oliveirense/feirense/201624543,2016,20,segunda_liga,49,55,4,0,2,0,,2016
+Academico Viseu,Gil Vicente,1-1,https://www.besoccer.com/match/academico-viseu/gil-vicente/201624544,2016,20,segunda_liga,46,58,2,0,2,0,,2016
+Famalicão,SC Freamunde,1-3,https://www.besoccer.com/match/famalicao/sc-freamunde/201624537,2016,20,segunda_liga,53,52,1,1,4,1,,2016
+Varzim,CD Santa Clara,1-1,https://www.besoccer.com/match/varzim/santa-clara/201624545,2016,20,segunda_liga,54,51,2,0,6,0,,2016
+Gil Vicente,Desportivo Aves,1-0,https://www.besoccer.com/match/gil-vicente/desportivo-aves/201624555,2016,21,segunda_liga,58,57,1,0,1,0,,2016
+Benfica II,Sporting Braga II,1-1,https://www.besoccer.com/match/benfica-ii/sporting-braga-ii/201624547,2016,21,segunda_liga,55,51,4,0,3,0,,2016
+SC Covilha ,Vitória Guimarães B,0-1,https://www.besoccer.com/match/sporting-covilha/vitoria-guimar/201624549,2016,21,segunda_liga,52,51,4,0,4,0,,2016
+Famalicão,Leixões,3-0,https://www.besoccer.com/match/famalicao/leixoes/201624550,2016,21,segunda_liga,53,54,4,0,5,0,,2016
+SC Freamunde,Olhanense,3-1,https://www.besoccer.com/match/sc-freamunde/sc-olhanense/201624552,2016,21,segunda_liga,52,54,0,0,0,0,,2016
+Mafra,Varzim,1-1,https://www.besoccer.com/match/mafra/varzim/201624553,2016,21,segunda_liga,49,54,2,0,1,0,,2016
+Oriental Lisboa,Penafiel,0-1,https://www.besoccer.com/match/oriental-lisboa/penafiel/201624554,2016,21,segunda_liga,47,56,0,1,2,1,,2016
+Farense,Chaves,1-1,https://www.besoccer.com/match/farense/chaves/201624556,2016,21,segunda_liga,45,56,3,0,2,0,,2016
+Portimonense,UD Oliveirense,1-2,https://www.besoccer.com/match/portimonense/ud-oliveirense/201624557,2016,21,segunda_liga,56,49,2,0,4,0,,2016
+CD Santa Clara,Atlético CP,2-2,https://www.besoccer.com/match/santa-clara/atletico-cp/201624546,2016,21,segunda_liga,51,51,1,1,4,1,,2016
+Feirense,Academico Viseu,2-0,https://www.besoccer.com/match/feirense/academico-viseu/201624551,2016,21,segunda_liga,55,46,3,0,6,0,,2016
+Porto II,Sporting CP II,4-0,https://www.besoccer.com/match/porto-ii/sporting-cp-ii/201624548,2016,21,segunda_liga,55,56,0,0,2,0,,2016
+Benfica II,Porto II,0-3,https://www.besoccer.com/match/benfica-ii/porto-ii/201624558,2016,22,segunda_liga,55,55,0,0,0,0,,2016
+Chaves,Portimonense,2-2,https://www.besoccer.com/match/chaves/portimonense/201624563,2016,22,segunda_liga,56,56,4,0,4,0,,2016
+Vitória Guimarães B,Sporting CP II,1-0,https://www.besoccer.com/match/vitoria-guimar/sporting-cp-ii/201624559,2016,22,segunda_liga,51,56,1,0,5,0,,2016
+Atlético CP,Famalicão,1-0,https://www.besoccer.com/match/atletico-cp/famalicao/201624560,2016,22,segunda_liga,51,53,6,0,1,0,,2016
+Desportivo Aves,Farense,2-0,https://www.besoccer.com/match/desportivo-aves/farense/201624561,2016,22,segunda_liga,57,45,0,0,2,0,,2016
+Sporting Braga II,CD Santa Clara,2-0,https://www.besoccer.com/match/sporting-braga-ii/santa-clara/201624562,2016,22,segunda_liga,51,51,3,0,2,0,,2016
+UD Oliveirense,SC Covilha ,1-1,https://www.besoccer.com/match/ud-oliveirense/sporting-covilha/201624564,2016,22,segunda_liga,49,52,2,0,4,0,,2016
+Gil Vicente,Feirense,1-0,https://www.besoccer.com/match/gil-vicente/feirense/201624565,2016,22,segunda_liga,58,55,5,0,3,0,,2016
+Olhanense,Leixões,0-2,https://www.besoccer.com/match/sc-olhanense/leixoes/201624567,2016,22,segunda_liga,54,54,3,0,4,0,,2016
+Academico Viseu,Mafra,2-1,https://www.besoccer.com/match/academico-viseu/mafra/201624568,2016,22,segunda_liga,46,49,2,0,6,0,,2016
+Varzim,Oriental Lisboa,2-0,https://www.besoccer.com/match/varzim/oriental-lisboa/201624569,2016,22,segunda_liga,54,47,1,0,2,0,,2016
+Penafiel,SC Freamunde,1-2,https://www.besoccer.com/match/penafiel/sc-freamunde/201624566,2016,22,segunda_liga,56,52,4,0,3,0,,2016
+Feirense,Chaves,0-1,https://www.besoccer.com/match/feirense/chaves/201624581,2016,23,segunda_liga,55,56,2,0,4,0,,2016
+SC Covilha ,Academico Viseu,2-2,https://www.besoccer.com/match/sporting-covilha/academico-viseu/201624571,2016,23,segunda_liga,52,46,3,0,4,0,,2016
+Famalicão,Penafiel,1-1,https://www.besoccer.com/match/famalicao/penafiel/201624572,2016,23,segunda_liga,52,56,2,0,2,0,,2016
+Farense,Gil Vicente,0-2,https://www.besoccer.com/match/farense/gil-vicente/201624573,2016,23,segunda_liga,45,58,1,0,2,0,,2016
+Leixões,UD Oliveirense,3-1,https://www.besoccer.com/match/leixoes/ud-oliveirense/201624574,2016,23,segunda_liga,54,49,1,0,4,0,,2016
+Portimonense,Varzim,2-0,https://www.besoccer.com/match/portimonense/varzim/201624575,2016,23,segunda_liga,57,54,1,0,1,0,,2016
+Sporting CP II,Sporting Braga II,0-1,https://www.besoccer.com/match/sporting-cp-ii/sporting-braga-ii/201624576,2016,23,segunda_liga,56,51,2,0,4,0,,2016
+Porto II,Vitória Guimarães B,5-2,https://www.besoccer.com/match/porto-ii/vitoria-guimar/201624577,2016,23,segunda_liga,55,51,2,0,2,0,,2016
+Oriental Lisboa,Atlético CP,2-1,https://www.besoccer.com/match/oriental-lisboa/atletico-cp/201624578,2016,23,segunda_liga,47,51,3,0,4,0,,2016
+Mafra,Desportivo Aves,1-1,https://www.besoccer.com/match/mafra/desportivo-aves/201624579,2016,23,segunda_liga,49,57,2,0,3,0,,2016
+CD Santa Clara,Olhanense,1-0,https://www.besoccer.com/match/santa-clara/sc-olhanense/201624570,2016,23,segunda_liga,51,54,4,0,3,0,,2016
+SC Freamunde,Benfica II,1-0,https://www.besoccer.com/match/sc-freamunde/benfica-ii/201624580,2016,23,segunda_liga,52,55,1,0,5,0,,2016
+Oriental Lisboa,UD Oliveirense,5-2,https://www.besoccer.com/match/oriental-lisboa/ud-oliveirense/201624586,2016,24,segunda_liga,47,49,4,0,4,0,,2016
+Sporting Braga II,Chaves,1-3,https://www.besoccer.com/match/sporting-braga-ii/chaves/201624589,2016,24,segunda_liga,51,56,2,0,3,0,,2016
+Benfica II,Olhanense,2-3,https://www.besoccer.com/match/benfica-ii/sc-olhanense/201624588,2016,24,segunda_liga,55,54,2,0,1,0,,2016
+Portimonense,Porto II,2-1,https://www.besoccer.com/match/portimonense/porto-ii/201624587,2016,24,segunda_liga,57,56,0,0,1,0,,2016
+Feirense,Sporting CP II,2-0,https://www.besoccer.com/match/feirense/sporting-cp-ii/201624592,2016,24,segunda_liga,55,56,1,0,5,0,,2016
+SC Covilha ,Desportivo Aves,0-3,https://www.besoccer.com/match/sporting-covilha/desportivo-aves/201624584,2016,24,segunda_liga,52,57,2,0,3,0,,2016
+Mafra,Gil Vicente,0-1,https://www.besoccer.com/match/mafra/gil-vicente/201624585,2016,24,segunda_liga,49,58,0,0,0,0,,2016
+Famalicão,Varzim,0-1,https://www.besoccer.com/match/famalicao/varzim/201624590,2016,24,segunda_liga,52,54,2,0,2,0,,2016
+Farense,Academico Viseu,1-0,https://www.besoccer.com/match/farense/academico-viseu/201624591,2016,24,segunda_liga,45,46,5,0,2,0,,2016
+Leixões,Penafiel,1-0,https://www.besoccer.com/match/leixoes/penafiel/201624593,2016,24,segunda_liga,54,56,0,0,1,0,,2016
+CD Santa Clara,Vitória Guimarães B,2-0,https://www.besoccer.com/match/santa-clara/vitoria-guimar/201624582,2016,24,segunda_liga,51,51,1,0,5,0,,2016
+SC Freamunde,Atlético CP,0-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/201624583,2016,24,segunda_liga,52,51,4,0,3,0,,2016
+Vitória Guimarães B,Oriental Lisboa,1-1,https://www.besoccer.com/match/vitoria-guimar/oriental-lisboa/201624604,2016,25,segunda_liga,50,47,0,0,5,0,,2016
+Academico Viseu,Portimonense,0-1,https://www.besoccer.com/match/academico-viseu/portimonense/201624600,2016,25,segunda_liga,46,57,4,0,1,0,,2016
+Penafiel,Benfica II,1-0,https://www.besoccer.com/match/penafiel/benfica-ii/201624594,2016,25,segunda_liga,56,55,4,0,3,0,,2016
+Gil Vicente,Sporting Braga II,4-1,https://www.besoccer.com/match/gil-vicente/sporting-braga-ii/201624595,2016,25,segunda_liga,59,51,1,0,1,0,,2016
+Olhanense,Famalicão,0-1,https://www.besoccer.com/match/sc-olhanense/famalicao/201624596,2016,25,segunda_liga,54,52,3,0,9,0,,2016
+UD Oliveirense,Farense,3-1,https://www.besoccer.com/match/ud-oliveirense/farense/201624597,2016,25,segunda_liga,49,45,3,0,1,0,,2016
+Varzim,SC Freamunde,0-2,https://www.besoccer.com/match/varzim/sc-freamunde/201624598,2016,25,segunda_liga,54,52,1,0,1,0,,2016
+Sporting CP II,Mafra,1-1,https://www.besoccer.com/match/sporting-cp-ii/mafra/201624599,2016,25,segunda_liga,55,49,5,0,3,0,,2016
+Atlético CP,Leixões,0-1,https://www.besoccer.com/match/atletico-cp/leixoes/201624601,2016,25,segunda_liga,51,54,2,0,2,0,,2016
+Desportivo Aves,Feirense,1-0,https://www.besoccer.com/match/desportivo-aves/feirense/201624602,2016,25,segunda_liga,57,56,4,0,1,0,,2016
+Porto II,CD Santa Clara,4-2,https://www.besoccer.com/match/porto-ii/santa-clara/201624605,2016,25,segunda_liga,55,51,1,0,3,0,,2016
+Chaves,SC Covilha ,1-0,https://www.besoccer.com/match/chaves/sporting-covilha/201624603,2016,25,segunda_liga,57,52,4,0,1,0,,2016
+Benfica II,Atlético CP,1-1,https://www.besoccer.com/match/benfica-ii/atletico-cp/201624607,2016,26,segunda_liga,54,50,6,0,4,0,,2016
+Oriental Lisboa,Porto II,2-1,https://www.besoccer.com/match/oriental-lisboa/porto-ii/201624617,2016,26,segunda_liga,47,56,2,0,2,0,,2016
+CD Santa Clara,UD Oliveirense,0-0,https://www.besoccer.com/match/santa-clara/ud-oliveirense/201624606,2016,26,segunda_liga,51,49,2,1,3,1,,2016
+Portimonense,Desportivo Aves,0-1,https://www.besoccer.com/match/portimonense/desportivo-aves/201624608,2016,26,segunda_liga,58,57,5,0,3,0,,2016
+Famalicão,Chaves,4-3,https://www.besoccer.com/match/famalicao/chaves/201624609,2016,26,segunda_liga,53,57,6,2,3,2,,2016
+Mafra,Feirense,1-1,https://www.besoccer.com/match/mafra/feirense/201624610,2016,26,segunda_liga,49,55,3,0,4,0,,2016
+Penafiel,Olhanense,1-1,https://www.besoccer.com/match/penafiel/sc-olhanense/201624611,2016,26,segunda_liga,56,54,2,0,4,0,,2016
+Sporting Braga II,Academico Viseu,0-0,https://www.besoccer.com/match/sporting-braga-ii/academico-viseu/201624612,2016,26,segunda_liga,51,46,2,1,3,1,,2016
+SC Covilha ,Gil Vicente,3-0,https://www.besoccer.com/match/sporting-covilha/gil-vicente/201624613,2016,26,segunda_liga,51,59,1,0,2,0,,2016
+Farense,Sporting CP II,3-0,https://www.besoccer.com/match/farense/sporting-cp-ii/201624614,2016,26,segunda_liga,45,55,2,0,2,0,,2016
+SC Freamunde,Vitória Guimarães B,3-0,https://www.besoccer.com/match/sc-freamunde/vitoria-guimar/201624615,2016,26,segunda_liga,53,50,1,0,3,0,,2016
+Leixões,Varzim,0-4,https://www.besoccer.com/match/leixoes/varzim/201624616,2016,26,segunda_liga,54,54,3,0,4,0,,2016
+UD Oliveirense,Benfica II,1-2,https://www.besoccer.com/match/ud-oliveirense/benfica-ii/201624618,2016,27,segunda_liga,49,54,3,0,5,0,,2016
+Gil Vicente,SC Freamunde,0-0,https://www.besoccer.com/match/gil-vicente/sc-freamunde/201624622,2016,27,segunda_liga,58,53,1,0,3,0,,2016
+Porto II,Leixões,0-2,https://www.besoccer.com/match/porto-ii/leixoes/201624623,2016,27,segunda_liga,55,54,1,0,7,0,,2016
+Mafra,Portimonense,0-0,https://www.besoccer.com/match/mafra/portimonense/201624629,2016,27,segunda_liga,49,58,3,0,1,0,,2016
+Sporting CP II,SC Covilha ,1-3,https://www.besoccer.com/match/sporting-cp-ii/sporting-covilha/201624619,2016,27,segunda_liga,55,52,4,0,2,0,,2016
+Vitória Guimarães B,Famalicão,1-2,https://www.besoccer.com/match/vitoria-guimar/famalicao/201624620,2016,27,segunda_liga,50,53,2,0,5,0,,2016
+Varzim,Penafiel,1-1,https://www.besoccer.com/match/varzim/penafiel/201624624,2016,27,segunda_liga,54,56,3,0,4,0,,2016
+Academico Viseu,CD Santa Clara,1-0,https://www.besoccer.com/match/academico-viseu/santa-clara/201624625,2016,27,segunda_liga,46,51,3,0,3,0,,2016
+Atlético CP,Olhanense,1-0,https://www.besoccer.com/match/atletico-cp/sc-olhanense/201624626,2016,27,segunda_liga,50,54,4,0,2,0,,2016
+Desportivo Aves,Sporting Braga II,2-0,https://www.besoccer.com/match/desportivo-aves/sporting-braga-ii/201624627,2016,27,segunda_liga,57,51,1,0,2,0,,2016
+Chaves,Oriental Lisboa,1-1,https://www.besoccer.com/match/chaves/oriental-lisboa/201624628,2016,27,segunda_liga,57,47,0,0,4,0,,2016
+Feirense,Farense,1-0,https://www.besoccer.com/match/feirense/farense/201624621,2016,27,segunda_liga,56,45,2,0,3,0,,2016
+Portimonense,Sporting CP II,2-0,https://www.besoccer.com/match/portimonense/sporting-cp-ii/201624641,2016,28,segunda_liga,58,55,1,1,3,1,,2016
+Famalicão,Gil Vicente,2-2,https://www.besoccer.com/match/famalicao/gil-vicente/201624637,2016,28,segunda_liga,54,58,6,0,2,0,,2016
+CD Santa Clara,Desportivo Aves,1-2,https://www.besoccer.com/match/santa-clara/desportivo-aves/201624630,2016,28,segunda_liga,51,57,3,0,2,0,,2016
+Penafiel,Atlético CP,1-1,https://www.besoccer.com/match/penafiel/atletico-cp/201624631,2016,28,segunda_liga,56,51,0,0,2,0,,2016
+Leixões,Chaves,1-2,https://www.besoccer.com/match/leixoes/chaves/201624632,2016,28,segunda_liga,54,57,3,0,5,0,,2016
+Olhanense,Vitória Guimarães B,3-1,https://www.besoccer.com/match/sc-olhanense/vitoria-guimar/201624633,2016,28,segunda_liga,54,50,1,0,2,0,,2016
+Sporting Braga II,UD Oliveirense,2-2,https://www.besoccer.com/match/sporting-braga-ii/ud-oliveirense/201624635,2016,28,segunda_liga,50,49,0,0,0,0,,2016
+SC Covilha ,Feirense,0-2,https://www.besoccer.com/match/sporting-covilha/feirense/201624636,2016,28,segunda_liga,52,56,3,0,5,0,,2016
+Farense,Mafra,0-0,https://www.besoccer.com/match/farense/mafra/201624638,2016,28,segunda_liga,45,49,3,0,6,0,,2016
+Oriental Lisboa,Academico Viseu,1-1,https://www.besoccer.com/match/oriental-lisboa/academico-viseu/201624640,2016,28,segunda_liga,47,46,4,0,2,0,,2016
+Benfica II,Varzim,1-1,https://www.besoccer.com/match/benfica-ii/varzim/201624634,2016,28,segunda_liga,54,54,3,0,3,0,,2016
+SC Freamunde,Porto II,1-2,https://www.besoccer.com/match/sc-freamunde/porto-ii/201624639,2016,28,segunda_liga,53,55,3,0,5,0,,2016
+Varzim,Atlético CP,3-2,https://www.besoccer.com/match/varzim/atletico-cp/201624642,2016,29,segunda_liga,54,51,2,0,4,0,,2016
+Academico Viseu,Benfica II,2-2,https://www.besoccer.com/match/academico-viseu/benfica-ii/201624643,2016,29,segunda_liga,46,54,1,0,4,0,,2016
+Mafra,Sporting Braga II,1-0,https://www.besoccer.com/match/mafra/sporting-braga-ii/201624644,2016,29,segunda_liga,49,50,3,0,4,0,,2016
+Farense,SC Covilha ,0-2,https://www.besoccer.com/match/farense/sporting-covilha/201624645,2016,29,segunda_liga,45,52,4,0,3,0,,2016
+Porto II,Famalicão,1-2,https://www.besoccer.com/match/porto-ii/famalicao/201624646,2016,29,segunda_liga,55,54,3,0,2,0,,2016
+Sporting CP II,Oriental Lisboa,3-0,https://www.besoccer.com/match/sporting-cp-ii/oriental-lisboa/201624647,2016,29,segunda_liga,55,47,2,1,5,1,,2016
+Desportivo Aves,Olhanense,1-0,https://www.besoccer.com/match/desportivo-aves/sc-olhanense/201624648,2016,29,segunda_liga,58,54,2,0,3,0,,2016
+Chaves,SC Freamunde,1-0,https://www.besoccer.com/match/chaves/sc-freamunde/201624649,2016,29,segunda_liga,57,53,5,0,4,0,,2016
+Gil Vicente,CD Santa Clara,2-2,https://www.besoccer.com/match/gil-vicente/santa-clara/201624651,2016,29,segunda_liga,58,51,3,0,3,0,,2016
+UD Oliveirense,Penafiel,1-1,https://www.besoccer.com/match/ud-oliveirense/penafiel/201624653,2016,29,segunda_liga,49,56,2,0,4,0,,2016
+Feirense,Portimonense,2-1,https://www.besoccer.com/match/feirense/portimonense/201624650,2016,29,segunda_liga,56,58,4,0,2,0,,2016
+Vitória Guimarães B,Leixões,1-0,https://www.besoccer.com/match/vitoria-guimar/leixoes/201624652,2016,29,segunda_liga,50,54,3,0,3,0,,2016
+Oriental Lisboa,Feirense,0-2,https://www.besoccer.com/match/oriental-lisboa/feirense/201624656,2016,30,segunda_liga,47,56,1,0,1,0,,2016
+Portimonense,Gil Vicente,1-0,https://www.besoccer.com/match/portimonense/gil-vicente/201624657,2016,30,segunda_liga,58,58,1,0,3,0,,2016
+Atlético CP,Vitória Guimarães B,3-3,https://www.besoccer.com/match/atletico-cp/vitoria-guimar/201624658,2016,30,segunda_liga,50,50,5,0,3,0,,2016
+Sporting Braga II,Farense,2-1,https://www.besoccer.com/match/sporting-braga-ii/farense/201624659,2016,30,segunda_liga,50,45,2,0,2,0,,2016
+SC Covilha ,Mafra,1-0,https://www.besoccer.com/match/sporting-covilha/mafra/201624660,2016,30,segunda_liga,52,49,3,0,3,0,,2016
+Famalicão,UD Oliveirense,2-0,https://www.besoccer.com/match/famalicao/ud-oliveirense/201624661,2016,30,segunda_liga,54,49,2,0,1,0,,2016
+SC Freamunde,Academico Viseu,0-0,https://www.besoccer.com/match/sc-freamunde/academico-viseu/201624662,2016,30,segunda_liga,53,46,4,0,2,0,,2016
+Leixões,Sporting CP II,3-1,https://www.besoccer.com/match/leixoes/sporting-cp-ii/201624663,2016,30,segunda_liga,54,55,0,0,1,0,,2016
+Olhanense,Varzim,1-1,https://www.besoccer.com/match/sc-olhanense/varzim/201624664,2016,30,segunda_liga,54,54,2,0,4,0,,2016
+CD Santa Clara,Chaves,2-2,https://www.besoccer.com/match/santa-clara/chaves/201624654,2016,30,segunda_liga,51,57,6,0,2,0,,2016
+Benfica II,Desportivo Aves,2-1,https://www.besoccer.com/match/benfica-ii/desportivo-aves/201624655,2016,30,segunda_liga,54,58,5,0,3,0,,2016
+Penafiel,Porto II,1-1,https://www.besoccer.com/match/penafiel/porto-ii/201624665,2016,30,segunda_liga,56,55,3,0,4,0,,2016
+Gil Vicente,Benfica II,3-2,https://www.besoccer.com/match/gil-vicente/benfica-ii/201624667,2016,31,segunda_liga,58,55,0,0,1,0,,2016
+Porto II,Atlético CP,1-0,https://www.besoccer.com/match/porto-ii/atletico-cp/201624666,2016,31,segunda_liga,55,50,2,0,3,0,,2016
+Academico Viseu,Famalicão,0-1,https://www.besoccer.com/match/academico-viseu/famalicao/201624669,2016,31,segunda_liga,46,54,3,1,4,1,,2016
+Sporting CP II,SC Freamunde,1-1,https://www.besoccer.com/match/sporting-cp-ii/sc-freamunde/201624670,2016,31,segunda_liga,55,53,4,0,6,0,,2016
+Mafra,Leixões,1-0,https://www.besoccer.com/match/mafra/leixoes/201624671,2016,31,segunda_liga,49,54,5,0,3,0,,2016
+UD Oliveirense,Olhanense,1-2,https://www.besoccer.com/match/ud-oliveirense/sc-olhanense/201624672,2016,31,segunda_liga,49,54,3,1,1,1,,2016
+Desportivo Aves,Oriental Lisboa,0-1,https://www.besoccer.com/match/desportivo-aves/oriental-lisboa/201624673,2016,31,segunda_liga,57,47,1,0,3,0,,2016
+Chaves,Penafiel,1-1,https://www.besoccer.com/match/chaves/penafiel/201624674,2016,31,segunda_liga,57,56,4,0,3,0,,2016
+SC Covilha ,Portimonense,0-0,https://www.besoccer.com/match/sporting-covilha/portimonense/201624675,2016,31,segunda_liga,52,58,3,0,3,0,,2016
+Farense,CD Santa Clara,1-0,https://www.besoccer.com/match/farense/santa-clara/201624676,2016,31,segunda_liga,45,51,3,0,1,0,,2016
+Vitória Guimarães B,Varzim,0-1,https://www.besoccer.com/match/vitoria-guimar/varzim/201624677,2016,31,segunda_liga,50,54,2,0,4,0,,2016
+Feirense,Sporting Braga II,1-2,https://www.besoccer.com/match/feirense/sporting-braga-ii/201624668,2016,31,segunda_liga,57,50,3,0,2,0,,2016
+Olhanense,Sporting CP II,1-0,https://www.besoccer.com/match/sc-olhanense/sporting-cp-ii/201624689,2016,32,segunda_liga,54,55,1,0,3,0,,2016
+Leixões,Desportivo Aves,3-1,https://www.besoccer.com/match/leixoes/desportivo-aves/201624679,2016,32,segunda_liga,54,57,2,0,4,0,,2016
+Portimonense,Farense,1-0,https://www.besoccer.com/match/portimonense/farense/201624680,2016,32,segunda_liga,58,45,2,0,3,0,,2016
+Oriental Lisboa,Gil Vicente,1-1,https://www.besoccer.com/match/oriental-lisboa/gil-vicente/201624681,2016,32,segunda_liga,47,58,2,0,1,0,,2016
+Penafiel,Vitória Guimarães B,3-0,https://www.besoccer.com/match/penafiel/vitoria-guimar/201624682,2016,32,segunda_liga,56,50,3,0,1,0,,2016
+Atlético CP,Academico Viseu,1-1,https://www.besoccer.com/match/atletico-cp/academico-viseu/201624684,2016,32,segunda_liga,50,46,5,0,2,0,,2016
+Sporting Braga II,SC Covilha ,0-2,https://www.besoccer.com/match/sporting-braga-ii/sporting-covilha/201624686,2016,32,segunda_liga,51,52,7,0,2,0,,2016
+SC Freamunde,UD Oliveirense,1-0,https://www.besoccer.com/match/sc-freamunde/ud-oliveirense/201624688,2016,32,segunda_liga,53,48,2,0,2,0,,2016
+Benfica II,Chaves,0-1,https://www.besoccer.com/match/benfica-ii/chaves/201624685,2016,32,segunda_liga,54,57,2,0,2,0,,2016
+Varzim,Porto II,2-0,https://www.besoccer.com/match/varzim/porto-ii/201624683,2016,32,segunda_liga,54,55,3,0,3,0,,2016
+CD Santa Clara,Mafra,1-0,https://www.besoccer.com/match/santa-clara/mafra/201624678,2016,32,segunda_liga,51,49,4,0,4,0,,2016
+Famalicão,Feirense,1-0,https://www.besoccer.com/match/famalicao/feirense/201624687,2016,32,segunda_liga,54,56,2,0,4,0,,2016
+Feirense,Atlético CP,1-2,https://www.besoccer.com/match/feirense/atletico-cp/201624690,2016,33,segunda_liga,56,50,2,0,3,0,,2016
+Chaves,Vitória Guimarães B,1-1,https://www.besoccer.com/match/chaves/vitoria-guimar/201624697,2016,33,segunda_liga,57,50,3,0,5,0,,2016
+Mafra,Benfica II,0-0,https://www.besoccer.com/match/mafra/benfica-ii/201624691,2016,33,segunda_liga,49,54,1,0,4,0,,2016
+Portimonense,Sporting Braga II,1-5,https://www.besoccer.com/match/portimonense/sporting-braga-ii/201624692,2016,33,segunda_liga,58,50,2,1,1,1,,2016
+Sporting CP II,Famalicão,0-0,https://www.besoccer.com/match/sporting-cp-ii/famalicao/201624693,2016,33,segunda_liga,55,54,1,0,2,0,,2016
+Porto II,Olhanense,0-0,https://www.besoccer.com/match/porto-ii/sc-olhanense/201624694,2016,33,segunda_liga,55,54,3,0,6,0,,2016
+Academico Viseu,Penafiel,0-2,https://www.besoccer.com/match/academico-viseu/penafiel/201624695,2016,33,segunda_liga,46,56,3,0,2,0,,2016
+Desportivo Aves,SC Freamunde,1-1,https://www.besoccer.com/match/desportivo-aves/sc-freamunde/201624696,2016,33,segunda_liga,57,53,6,0,3,0,,2016
+SC Covilha ,CD Santa Clara,1-0,https://www.besoccer.com/match/sporting-covilha/santa-clara/201624698,2016,33,segunda_liga,52,51,2,0,4,0,,2016
+Farense,Oriental Lisboa,1-0,https://www.besoccer.com/match/farense/oriental-lisboa/201624699,2016,33,segunda_liga,45,47,0,0,0,0,,2016
+Gil Vicente,Leixões,2-0,https://www.besoccer.com/match/gil-vicente/leixoes/201624700,2016,33,segunda_liga,58,54,2,0,5,0,,2016
+UD Oliveirense,Varzim,1-0,https://www.besoccer.com/match/ud-oliveirense/varzim/201624701,2016,33,segunda_liga,48,54,4,0,5,0,,2016
+Benfica II,SC Covilha ,2-2,https://www.besoccer.com/match/benfica-ii/sporting-covilha/201624710,2016,34,segunda_liga,54,52,3,0,3,0,,2016
+Porto II,Desportivo Aves,0-1,https://www.besoccer.com/match/porto-ii/desportivo-aves/201624703,2016,34,segunda_liga,55,57,1,0,4,0,,2016
+Oriental Lisboa,Sporting Braga II,0-0,https://www.besoccer.com/match/oriental-lisboa/sporting-braga-ii/201624704,2016,34,segunda_liga,47,51,4,0,2,0,,2016
+Olhanense,Chaves,1-0,https://www.besoccer.com/match/sc-olhanense/chaves/201624705,2016,34,segunda_liga,54,57,4,0,3,0,,2016
+SC Freamunde,Farense,3-0,https://www.besoccer.com/match/sc-freamunde/farense/201624706,2016,34,segunda_liga,53,45,1,0,3,0,,2016
+Leixões,Feirense,0-1,https://www.besoccer.com/match/leixoes/feirense/201624707,2016,34,segunda_liga,54,56,0,0,1,0,,2016
+Penafiel,Gil Vicente,1-0,https://www.besoccer.com/match/penafiel/gil-vicente/201624708,2016,34,segunda_liga,56,59,2,0,2,0,,2016
+Atlético CP,Sporting CP II,1-3,https://www.besoccer.com/match/atletico-cp/sporting-cp-ii/201624709,2016,34,segunda_liga,51,55,2,0,6,0,,2016
+Famalicão,Mafra,4-1,https://www.besoccer.com/match/famalicao/mafra/201624711,2016,34,segunda_liga,54,49,1,0,4,0,,2016
+Vitória Guimarães B,UD Oliveirense,4-2,https://www.besoccer.com/match/vitoria-guimar/ud-oliveirense/201624712,2016,34,segunda_liga,50,48,3,0,2,0,,2016
+Varzim,Academico Viseu,2-1,https://www.besoccer.com/match/varzim/academico-viseu/201624713,2016,34,segunda_liga,54,46,2,0,5,0,,2016
+CD Santa Clara,Portimonense,1-1,https://www.besoccer.com/match/santa-clara/portimonense/201624702,2016,34,segunda_liga,51,58,2,0,3,0,,2016
+Feirense,Benfica II,1-0,https://www.besoccer.com/match/feirense/benfica-ii/201624715,2016,35,segunda_liga,56,54,4,0,4,0,,2016
+Sporting CP II,CD Santa Clara,2-1,https://www.besoccer.com/match/sporting-cp-ii/santa-clara/201624720,2016,35,segunda_liga,55,51,2,1,5,1,,2016
+UD Oliveirense,Porto II,0-1,https://www.besoccer.com/match/ud-oliveirense/porto-ii/201624725,2016,35,segunda_liga,48,55,2,0,2,0,,2016
+Desportivo Aves,Atlético CP,2-0,https://www.besoccer.com/match/desportivo-aves/atletico-cp/201624714,2016,35,segunda_liga,57,50,2,0,2,0,,2016
+Farense,Famalicão,2-2,https://www.besoccer.com/match/farense/famalicao/201624716,2016,35,segunda_liga,45,54,4,0,2,0,,2016
+Mafra,SC Freamunde,2-1,https://www.besoccer.com/match/mafra/sc-freamunde/201624717,2016,35,segunda_liga,49,53,4,1,2,1,,2016
+Academico Viseu,Olhanense,0-0,https://www.besoccer.com/match/academico-viseu/sc-olhanense/201624718,2016,35,segunda_liga,46,54,2,0,3,0,,2016
+Portimonense,Oriental Lisboa,1-0,https://www.besoccer.com/match/portimonense/oriental-lisboa/201624719,2016,35,segunda_liga,58,47,1,0,1,0,,2016
+Sporting Braga II,Leixões,0-1,https://www.besoccer.com/match/sporting-braga-ii/leixoes/201624721,2016,35,segunda_liga,51,54,1,0,2,0,,2016
+Chaves,Varzim,1-0,https://www.besoccer.com/match/chaves/varzim/201624722,2016,35,segunda_liga,57,54,5,0,3,0,,2016
+SC Covilha ,Penafiel,2-2,https://www.besoccer.com/match/sporting-covilha/penafiel/201624723,2016,35,segunda_liga,52,56,0,0,2,0,,2016
+Gil Vicente,Vitória Guimarães B,2-1,https://www.besoccer.com/match/gil-vicente/vitoria-guimar/201624724,2016,35,segunda_liga,59,50,3,0,3,0,,2016
+Vitória Guimarães B,Desportivo Aves,2-0,https://www.besoccer.com/match/vitoria-guimar/desportivo-aves/201624727,2016,36,segunda_liga,50,57,1,0,2,0,,2016
+Penafiel,Sporting Braga II,0-0,https://www.besoccer.com/match/penafiel/sporting-braga-ii/201624728,2016,36,segunda_liga,56,51,3,0,3,0,,2016
+Porto II,Chaves,0-0,https://www.besoccer.com/match/porto-ii/chaves/201624729,2016,36,segunda_liga,55,57,2,0,4,0,,2016
+Olhanense,Gil Vicente,0-0,https://www.besoccer.com/match/sc-olhanense/gil-vicente/201624731,2016,36,segunda_liga,54,59,1,0,1,0,,2016
+Oriental Lisboa,Mafra,0-1,https://www.besoccer.com/match/oriental-lisboa/mafra/201624732,2016,36,segunda_liga,47,49,1,0,3,0,,2016
+Varzim,Sporting CP II,2-1,https://www.besoccer.com/match/varzim/sporting-cp-ii/201624733,2016,36,segunda_liga,54,55,4,0,3,0,,2016
+Atlético CP,UD Oliveirense,4-1,https://www.besoccer.com/match/atletico-cp/ud-oliveirense/201624734,2016,36,segunda_liga,50,48,5,0,4,0,,2016
+Benfica II,Farense,2-0,https://www.besoccer.com/match/benfica-ii/farense/201624735,2016,36,segunda_liga,54,45,4,1,1,1,,2016
+CD Santa Clara,Feirense,0-0,https://www.besoccer.com/match/santa-clara/feirense/201624726,2016,36,segunda_liga,51,56,2,0,2,0,,2016
+SC Freamunde,SC Covilha ,1-0,https://www.besoccer.com/match/sc-freamunde/sporting-covilha/201624730,2016,36,segunda_liga,53,52,3,0,3,0,,2016
+Famalicão,Portimonense,1-1,https://www.besoccer.com/match/famalicao/portimonense/201624736,2016,36,segunda_liga,54,58,5,0,2,0,,2016
+Leixões,Academico Viseu,1-1,https://www.besoccer.com/match/leixoes/academico-viseu/201624737,2016,36,segunda_liga,54,46,1,0,4,0,,2016
+Portimonense,Benfica II,1-0,https://www.besoccer.com/match/portimonense/benfica-ii/201624740,2016,37,segunda_liga,58,54,1,0,0,0,,2016
+Chaves,Atlético CP,1-0,https://www.besoccer.com/match/chaves/atletico-cp/201624739,2016,37,segunda_liga,57,50,1,0,3,0,,2016
+Academico Viseu,Vitória Guimarães B,2-1,https://www.besoccer.com/match/academico-viseu/vitoria-guimar/201624741,2016,37,segunda_liga,46,50,2,0,2,0,,2016
+Sporting CP II,UD Oliveirense,5-0,https://www.besoccer.com/match/sporting-cp-ii/ud-oliveirense/201624742,2016,37,segunda_liga,55,48,0,0,0,0,,2016
+Desportivo Aves,Penafiel,0-1,https://www.besoccer.com/match/desportivo-aves/penafiel/201624743,2016,37,segunda_liga,57,56,3,0,2,0,,2016
+Sporting Braga II,Varzim,0-2,https://www.besoccer.com/match/sporting-braga-ii/varzim/201624744,2016,37,segunda_liga,51,54,3,0,1,0,,2016
+SC Covilha ,Famalicão,0-1,https://www.besoccer.com/match/sporting-covilha/famalicao/201624745,2016,37,segunda_liga,52,54,2,0,4,0,,2016
+Farense,Leixões,3-0,https://www.besoccer.com/match/farense/leixoes/201624746,2016,37,segunda_liga,45,54,2,0,3,0,,2016
+Feirense,SC Freamunde,0-2,https://www.besoccer.com/match/feirense/sc-freamunde/201624747,2016,37,segunda_liga,56,53,3,0,4,0,,2016
+Gil Vicente,Porto II,1-2,https://www.besoccer.com/match/gil-vicente/porto-ii/201624748,2016,37,segunda_liga,59,55,2,0,1,0,,2016
+Mafra,Olhanense,1-0,https://www.besoccer.com/match/mafra/sc-olhanense/201624749,2016,37,segunda_liga,49,54,1,0,1,0,,2016
+CD Santa Clara,Oriental Lisboa,2-2,https://www.besoccer.com/match/santa-clara/oriental-lisboa/201624738,2016,37,segunda_liga,51,47,2,0,0,0,,2016
+Olhanense,Feirense,0-0,https://www.besoccer.com/match/sc-olhanense/feirense/201624755,2016,38,segunda_liga,54,56,3,1,1,1,,2016
+Penafiel,Sporting CP II,2-2,https://www.besoccer.com/match/penafiel/sporting-cp-ii/201624760,2016,38,segunda_liga,57,55,4,0,5,0,,2016
+Porto II,Academico Viseu,4-0,https://www.besoccer.com/match/porto-ii/academico-viseu/201624761,2016,38,segunda_liga,55,46,1,0,1,0,,2016
+SC Freamunde,Sporting Braga II,2-1,https://www.besoccer.com/match/sc-freamunde/sporting-braga-ii/201624751,2016,38,segunda_liga,53,50,2,0,2,0,,2016
+UD Oliveirense,Chaves,0-3,https://www.besoccer.com/match/ud-oliveirense/chaves/201624752,2016,38,segunda_liga,48,57,1,0,0,0,,2016
+Oriental Lisboa,SC Covilha ,0-0,https://www.besoccer.com/match/oriental-lisboa/sporting-covilha/201624753,2016,38,segunda_liga,47,52,1,0,3,0,,2016
+Varzim,Gil Vicente,2-0,https://www.besoccer.com/match/varzim/gil-vicente/201624756,2016,38,segunda_liga,54,58,3,0,2,0,,2016
+Atlético CP,Mafra,1-1,https://www.besoccer.com/match/atletico-cp/mafra/201624757,2016,38,segunda_liga,50,49,1,0,4,0,,2016
+Benfica II,CD Santa Clara,0-0,https://www.besoccer.com/match/benfica-ii/santa-clara/201624758,2016,38,segunda_liga,54,51,1,0,5,0,,2016
+Leixões,Portimonense,0-1,https://www.besoccer.com/match/leixoes/portimonense/201624759,2016,38,segunda_liga,54,58,3,0,5,0,,2016
+Famalicão,Desportivo Aves,3-2,https://www.besoccer.com/match/famalicao/desportivo-aves/201624750,2016,38,segunda_liga,54,57,4,0,5,0,,2016
+Vitória Guimarães B,Farense,2-1,https://www.besoccer.com/match/vitoria-guimar/farense/201624754,2016,38,segunda_liga,50,45,2,0,4,0,,2016

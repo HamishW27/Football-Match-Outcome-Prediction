@@ -1,553 +1,457 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,1,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,1,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,1,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,1,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,1,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,1,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,1,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,1,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,1,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,1,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,1,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,1,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,2,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,2,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,2,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,2,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,2,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,2,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,2,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,2,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,2,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,2,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,2,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,2,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,3,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,3,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,3,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,3,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,3,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,3,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,3,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,3,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,3,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,3,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,3,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,3,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,4,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,4,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,4,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,4,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,4,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,4,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,4,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,4,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,4,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,4,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,4,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,4,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,5,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,5,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,5,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,5,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,5,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,5,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,5,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,5,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,5,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,5,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,5,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,5,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,6,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,6,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,6,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,6,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,6,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,6,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,6,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,6,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,6,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,6,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,6,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,6,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,7,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,7,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,7,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,7,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,7,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,7,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,7,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,7,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,7,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,7,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,7,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,7,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,8,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,8,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,8,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,8,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,8,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,8,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,8,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,8,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,8,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,8,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,8,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,8,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,9,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,9,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,9,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,9,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,9,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,9,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,9,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,9,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,9,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,9,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,9,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,9,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,10,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,10,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,10,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,10,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,10,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,10,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,10,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,10,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,10,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,10,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,10,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,10,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,11,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,11,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,11,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,11,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,11,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,11,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,11,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,11,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,11,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,11,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,11,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,11,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,12,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,12,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,12,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,12,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,12,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,12,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,12,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,12,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,12,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,12,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,12,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,12,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,13,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,13,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,13,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,13,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,13,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,13,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,13,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,13,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,13,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,13,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,13,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,13,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,14,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,14,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,14,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,14,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,14,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,14,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,14,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,14,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,14,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,14,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,14,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,14,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,15,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,15,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,15,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,15,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,15,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,15,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,15,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,15,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,15,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,15,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,15,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,15,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,16,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,16,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,16,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,16,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,16,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,16,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,16,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,16,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,16,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,16,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,16,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,16,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,17,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,17,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,17,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,17,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,17,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,17,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,17,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,17,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,17,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,17,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,17,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,17,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,18,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,18,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,18,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,18,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,18,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,18,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,18,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,18,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,18,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,18,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,18,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,18,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,19,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,19,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,19,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,19,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,19,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,19,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,19,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,19,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,19,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,19,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,19,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,19,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,20,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,20,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,20,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,20,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,20,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,20,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,20,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,20,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,20,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,20,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,20,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,20,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,21,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,21,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,21,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,21,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,21,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,21,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,21,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,21,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,21,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,21,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,21,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,21,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,22,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,22,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,22,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,22,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,22,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,22,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,22,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,22,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,22,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,22,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,22,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,22,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,23,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,23,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,23,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,23,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,23,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,23,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,23,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,23,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,23,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,23,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,23,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,23,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,24,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,24,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,24,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,24,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,24,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,24,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,24,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,24,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,24,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,24,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,24,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,24,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,25,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,25,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,25,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,25,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,25,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,25,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,25,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,25,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,25,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,25,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,25,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,25,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,26,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,26,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,26,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,26,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,26,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,26,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,26,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,26,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,26,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,26,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,26,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,26,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,27,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,27,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,27,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,27,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,27,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,27,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,27,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,27,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,27,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,27,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,27,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,27,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,28,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,28,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,28,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,28,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,28,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,28,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,28,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,28,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,28,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,28,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,28,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,28,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,29,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,29,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,29,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,29,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,29,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,29,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,29,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,29,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,29,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,29,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,29,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,29,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,30,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,30,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,30,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,30,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,30,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,30,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,30,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,30,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,30,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,30,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,30,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,30,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,31,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,31,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,31,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,31,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,31,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,31,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,31,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,31,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,31,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,31,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,31,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,31,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,32,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,32,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,32,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,32,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,32,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,32,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,32,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,32,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,32,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,32,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,32,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,32,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,33,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,33,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,33,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,33,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,33,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,33,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,33,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,33,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,33,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,33,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,33,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,33,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,34,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,34,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,34,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,34,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,34,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,34,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,34,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,34,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,34,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,34,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,34,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,34,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,35,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,35,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,35,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,35,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,35,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,35,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,35,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,35,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,35,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,35,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,35,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,35,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,36,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,36,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,36,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,36,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,36,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,36,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,36,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,36,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,36,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,36,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,36,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,36,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,37,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,37,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,37,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,37,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,37,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,37,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,37,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,37,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,37,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,37,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,37,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,37,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,38,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,38,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,38,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,38,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,38,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,38,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,38,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,38,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,38,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,38,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,38,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,38,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,39,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,39,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,39,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,39,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,39,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,39,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,39,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,39,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,39,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,39,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,39,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,39,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,40,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,40,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,40,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,40,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,40,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,40,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,40,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,40,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,40,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,40,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,40,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,40,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,41,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,41,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,41,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,41,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,41,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,41,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,41,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,41,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,41,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,41,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,41,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,41,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,42,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,42,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,42,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,42,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,42,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,42,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,42,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,42,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,42,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,42,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,42,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,42,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,43,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,43,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,43,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,43,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,43,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,43,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,43,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,43,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,43,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,43,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,43,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,43,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,44,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,44,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,44,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,44,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,44,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,44,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,44,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,44,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,44,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,44,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,44,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,44,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,45,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,45,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,45,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,45,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,45,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,45,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,45,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,45,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,45,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,45,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,45,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,45,segunda_liga
-Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,46,segunda_liga
-Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,46,segunda_liga
-Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,46,segunda_liga
-Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,46,segunda_liga
-SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,46,segunda_liga
-Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,46,segunda_liga
-CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,46,segunda_liga
-Portimonense,SP. Covilhã,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,46,segunda_liga
-Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,46,segunda_liga
-Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,46,segunda_liga
-Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,46,segunda_liga
-Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,46,segunda_liga
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Olhanense,Leixões,2-0,https://www.besoccer.com/match/sc-olhanense/leixoes/201539249,2015,1,segunda_liga,56,58,1,0,4,0,,2015
+Desportivo Aves,Marítimo II,2-1,https://www.besoccer.com/match/desportivo-aves/maritimo-ii/20154406,2015,1,segunda_liga,59,44,3,1,5,1,,2015
+Chaves,Academico Viseu,1-1,https://www.besoccer.com/match/chaves/academico-viseu/20154407,2015,1,segunda_liga,54,41,4,0,3,0,,2015
+Tondela,Sporting Braga II,1-0,https://www.besoccer.com/match/tondela/sporting-braga-ii/20154408,2015,1,segunda_liga,49,52,2,0,2,0,,2015
+SC Freamunde,Atlético CP,1-0,https://www.besoccer.com/match/sc-freamunde/atletico-cp/20154410,2015,1,segunda_liga,50,52,3,0,3,0,,2015
+Vitória Guimarães B,Feirense,3-0,https://www.besoccer.com/match/vitoria-guimar/feirense/20154411,2015,1,segunda_liga,51,54,2,0,6,0,,2015
+CD Santa Clara,Oriental Lisboa,1-1,https://www.besoccer.com/match/santa-clara/oriental-lisboa/20154412,2015,1,segunda_liga,53,46,1,1,5,1,,2015
+Portimonense,SC Covilha ,1-1,https://www.besoccer.com/match/portimonense/sporting-covilha/20154414,2015,1,segunda_liga,56,49,1,0,0,0,,2015
+Benfica II,Trofense,3-2,https://www.besoccer.com/match/benfica-ii/trofense/201539248,2015,1,segunda_liga,56,53,1,0,3,0,,2015
+Porto II,UD Oliveirense,1-3,https://www.besoccer.com/match/porto-ii/ud-oliveirense/20154415,2015,1,segunda_liga,56,53,1,0,3,0,,2015
+Farense,Sporting CP II,1-0,https://www.besoccer.com/match/farense/sporting-cp-ii/20154413,2015,1,segunda_liga,42,56,3,0,2,0,,2015
+Beira Mar SC,União Madeira,1-2,https://www.besoccer.com/match/beira-mar/uniao-madeira/20154409,2015,1,segunda_liga,58,55,3,0,4,0,,2015
+SC Covilha ,Porto II,2-1,https://www.besoccer.com/match/sporting-covilha/porto-ii/20154600,2015,2,segunda_liga,49,55,2,0,4,0,,2015
+Sporting Braga II,Desportivo Aves,2-0,https://www.besoccer.com/match/sporting-braga-ii/desportivo-aves/20154601,2015,2,segunda_liga,52,59,1,0,1,0,,2015
+Feirense,Olhanense,2-2,https://www.besoccer.com/match/feirense/sc-olhanense/20154604,2015,2,segunda_liga,54,56,2,0,4,0,,2015
+Oriental Lisboa,Beira Mar SC,1-0,https://www.besoccer.com/match/oriental-lisboa/beira-mar/20154598,2015,2,segunda_liga,47,58,1,0,2,0,,2015
+União Madeira,Farense,3-0,https://www.besoccer.com/match/uniao-madeira/farense/20154602,2015,2,segunda_liga,55,42,2,0,3,0,,2015
+Leixões,Benfica II,2-1,https://www.besoccer.com/match/leixoes/benfica-ii/20154605,2015,2,segunda_liga,58,56,2,0,3,0,,2015
+Atlético CP,Chaves,2-2,https://www.besoccer.com/match/atletico-cp/chaves/20154596,2015,2,segunda_liga,52,54,2,0,0,0,,2015
+Marítimo II,Portimonense,1-0,https://www.besoccer.com/match/maritimo-ii/portimonense/20154597,2015,2,segunda_liga,44,56,4,0,1,0,,2015
+UD Oliveirense,Vitória Guimarães B,1-0,https://www.besoccer.com/match/ud-oliveirense/vitoria-guimar/20154599,2015,2,segunda_liga,53,51,2,0,2,0,,2015
+Sporting CP II,CD Santa Clara,3-1,https://www.besoccer.com/match/sporting-cp-ii/santa-clara/20154603,2015,2,segunda_liga,56,53,2,0,4,0,,2015
+Academico Viseu,SC Freamunde,1-2,https://www.besoccer.com/match/academico-viseu/sc-freamunde/20154606,2015,2,segunda_liga,42,50,3,1,4,1,,2015
+Trofense,Tondela,2-2,https://www.besoccer.com/match/trofense/tondela/20154607,2015,2,segunda_liga,53,49,2,0,1,0,,2015
+Porto II,União Madeira,1-1,https://www.besoccer.com/match/porto-ii/uniao-madeira/201539258,2015,3,segunda_liga,55,55,2,0,3,0,,2015
+Tondela,Atlético CP,1-1,https://www.besoccer.com/match/tondela/atletico-cp/201539255,2015,3,segunda_liga,49,52,1,0,3,0,,2015
+Benfica II,Academico Viseu,4-0,https://www.besoccer.com/match/benfica-ii/academico-viseu/201539259,2015,3,segunda_liga,56,41,4,0,2,0,,2015
+Farense,CD Santa Clara,0-1,https://www.besoccer.com/match/farense/santa-clara/201539257,2015,3,segunda_liga,42,53,1,1,2,1,,2015
+Olhanense,Sporting CP II,0-1,https://www.besoccer.com/match/sc-olhanense/sporting-cp-ii/201539251,2015,3,segunda_liga,56,56,4,0,3,0,,2015
+Desportivo Aves,Feirense,2-1,https://www.besoccer.com/match/desportivo-aves/feirense/201539252,2015,3,segunda_liga,59,54,2,0,3,0,,2015
+SC Freamunde,Marítimo II,0-1,https://www.besoccer.com/match/sc-freamunde/maritimo-ii/201539253,2015,3,segunda_liga,50,44,3,0,4,0,,2015
+Trofense,UD Oliveirense,0-1,https://www.besoccer.com/match/trofense/ud-oliveirense/201539254,2015,3,segunda_liga,53,53,3,0,6,0,,2015
+Chaves,Sporting Braga II,2-1,https://www.besoccer.com/match/chaves/sporting-braga-ii/201539256,2015,3,segunda_liga,54,52,3,0,4,0,,2015
+Portimonense,Oriental Lisboa,0-0,https://www.besoccer.com/match/portimonense/oriental-lisboa/201539261,2015,3,segunda_liga,56,47,1,0,1,0,,2015
+Vitória Guimarães B,Leixões,3-3,https://www.besoccer.com/match/vitoria-guimar/leixoes/201539250,2015,3,segunda_liga,51,58,2,1,7,1,,2015
+Beira Mar SC,SC Covilha ,1-1,https://www.besoccer.com/match/beira-mar/sporting-covilha/201539260,2015,3,segunda_liga,58,49,3,0,3,0,,2015
+SC Covilha ,Olhanense,3-3,https://www.besoccer.com/match/sporting-covilha/sc-olhanense/201539267,2015,4,segunda_liga,49,56,2,0,3,0,,2015
+Feirense,Porto II,1-2,https://www.besoccer.com/match/feirense/porto-ii/201539271,2015,4,segunda_liga,54,55,5,1,6,1,,2015
+Sporting CP II,Desportivo Aves,3-0,https://www.besoccer.com/match/sporting-cp-ii/desportivo-aves/201539273,2015,4,segunda_liga,56,59,3,0,1,0,,2015
+CD Santa Clara,Beira Mar SC,2-2,https://www.besoccer.com/match/santa-clara/beira-mar/201539262,2015,4,segunda_liga,53,58,3,0,7,0,,2015
+UD Oliveirense,Benfica II,0-1,https://www.besoccer.com/match/ud-oliveirense/benfica-ii/201539264,2015,4,segunda_liga,53,56,5,0,4,0,,2015
+Atlético CP,Vitória Guimarães B,2-0,https://www.besoccer.com/match/atletico-cp/vitoria-guimar/201539266,2015,4,segunda_liga,52,51,1,0,3,0,,2015
+Leixões,Tondela,1-1,https://www.besoccer.com/match/leixoes/tondela/201539269,2015,4,segunda_liga,58,49,3,0,3,0,,2015
+Oriental Lisboa,Farense,0-1,https://www.besoccer.com/match/oriental-lisboa/farense/201539270,2015,4,segunda_liga,47,42,2,0,5,0,,2015
+Marítimo II,Chaves,1-1,https://www.besoccer.com/match/maritimo-ii/chaves/201539272,2015,4,segunda_liga,44,54,3,0,5,0,,2015
+Sporting Braga II,SC Freamunde,0-3,https://www.besoccer.com/match/sporting-braga-ii/sc-freamunde/201539263,2015,4,segunda_liga,52,50,3,0,3,0,,2015
+Academico Viseu,Trofense,2-0,https://www.besoccer.com/match/academico-viseu/trofense/201539265,2015,4,segunda_liga,41,53,5,0,5,0,,2015
+União Madeira,Portimonense,0-1,https://www.besoccer.com/match/uniao-madeira/portimonense/201539268,2015,4,segunda_liga,55,56,4,0,6,0,,2015
+Benfica II,SC Covilha ,3-1,https://www.besoccer.com/match/benfica-ii/sporting-covilha/201539283,2015,5,segunda_liga,56,49,2,0,2,0,,2015
+Porto II,CD Santa Clara,0-1,https://www.besoccer.com/match/porto-ii/santa-clara/201539275,2015,5,segunda_liga,55,53,3,0,4,0,,2015
+Olhanense,Marítimo II,3-0,https://www.besoccer.com/match/sc-olhanense/maritimo-ii/201539285,2015,5,segunda_liga,56,44,4,0,1,0,,2015
+Beira Mar SC,Sporting CP II,2-1,https://www.besoccer.com/match/beira-mar/sporting-cp-ii/201539279,2015,5,segunda_liga,58,57,1,0,3,0,,2015
+Desportivo Aves,União Madeira,1-1,https://www.besoccer.com/match/desportivo-aves/uniao-madeira/201539274,2015,5,segunda_liga,59,55,4,0,3,0,,2015
+Portimonense,Feirense,3-2,https://www.besoccer.com/match/portimonense/feirense/201539276,2015,5,segunda_liga,56,53,3,0,4,0,,2015
+SC Freamunde,UD Oliveirense,3-0,https://www.besoccer.com/match/sc-freamunde/ud-oliveirense/201539277,2015,5,segunda_liga,50,53,2,0,1,0,,2015
+Trofense,Atlético CP,2-0,https://www.besoccer.com/match/trofense/atletico-cp/201539278,2015,5,segunda_liga,53,52,3,0,4,0,,2015
+Chaves,Leixões,1-0,https://www.besoccer.com/match/chaves/leixoes/201539280,2015,5,segunda_liga,54,58,1,0,3,0,,2015
+Farense,Sporting Braga II,1-1,https://www.besoccer.com/match/farense/sporting-braga-ii/201539281,2015,5,segunda_liga,42,52,4,0,5,0,,2015
+Tondela,Academico Viseu,1-1,https://www.besoccer.com/match/tondela/academico-viseu/201539282,2015,5,segunda_liga,49,41,5,0,5,0,,2015
+Vitória Guimarães B,Oriental Lisboa,2-2,https://www.besoccer.com/match/vitoria-guimar/oriental-lisboa/201539284,2015,5,segunda_liga,51,47,2,0,4,0,,2015
+Atlético CP,Academico Viseu,0-1,https://www.besoccer.com/match/atletico-cp/academico-viseu/201539290,2015,6,segunda_liga,52,42,2,0,1,0,,2015
+Sporting Braga II,Trofense,1-2,https://www.besoccer.com/match/sporting-braga-ii/trofense/201539294,2015,6,segunda_liga,52,53,3,0,4,0,,2015
+UD Oliveirense,Tondela,1-0,https://www.besoccer.com/match/ud-oliveirense/tondela/201539288,2015,6,segunda_liga,53,49,4,0,5,0,,2015
+Leixões,Desportivo Aves,2-1,https://www.besoccer.com/match/leixoes/desportivo-aves/201539286,2015,6,segunda_liga,58,59,4,0,5,0,,2015
+Oriental Lisboa,Benfica II,0-0,https://www.besoccer.com/match/oriental-lisboa/benfica-ii/201539289,2015,6,segunda_liga,47,57,1,0,5,0,,2015
+Marítimo II,Beira Mar SC,1-3,https://www.besoccer.com/match/maritimo-ii/beira-mar/201539293,2015,6,segunda_liga,44,58,4,0,4,0,,2015
+União Madeira,Vitória Guimarães B,1-0,https://www.besoccer.com/match/uniao-madeira/vitoria-guimar/201539295,2015,6,segunda_liga,55,51,5,0,1,0,,2015
+Sporting CP II,Portimonense,0-0,https://www.besoccer.com/match/sporting-cp-ii/portimonense/201539297,2015,6,segunda_liga,56,56,2,0,2,0,,2015
+CD Santa Clara,Olhanense,0-0,https://www.besoccer.com/match/santa-clara/sc-olhanense/201539287,2015,6,segunda_liga,53,56,3,0,3,0,,2015
+Feirense,SC Freamunde,0-0,https://www.besoccer.com/match/feirense/sc-freamunde/201539296,2015,6,segunda_liga,53,51,3,0,3,0,,2015
+Farense,Porto II,1-0,https://www.besoccer.com/match/farense/porto-ii/201539292,2015,6,segunda_liga,42,55,3,0,0,0,,2015
+SC Covilha ,Chaves,0-3,https://www.besoccer.com/match/sporting-covilha/chaves/201539291,2015,6,segunda_liga,49,54,1,1,5,1,,2015
+Tondela,Feirense,1-0,https://www.besoccer.com/match/tondela/feirense/201539304,2015,7,segunda_liga,49,53,4,0,3,0,,2015
+Olhanense,União Madeira,0-1,https://www.besoccer.com/match/sc-olhanense/uniao-madeira/201539300,2015,7,segunda_liga,56,55,1,0,4,0,,2015
+Porto II,Oriental Lisboa,1-0,https://www.besoccer.com/match/porto-ii/oriental-lisboa/201539302,2015,7,segunda_liga,55,47,2,0,4,0,,2015
+Desportivo Aves,UD Oliveirense,0-0,https://www.besoccer.com/match/desportivo-aves/ud-oliveirense/201539299,2015,7,segunda_liga,59,53,5,0,5,0,,2015
+Trofense,Marítimo II,0-1,https://www.besoccer.com/match/trofense/maritimo-ii/201539301,2015,7,segunda_liga,53,44,1,0,4,0,,2015
+Academico Viseu,Sporting Braga II,1-1,https://www.besoccer.com/match/academico-viseu/sporting-braga-ii/201539306,2015,7,segunda_liga,42,52,4,1,6,1,,2015
+Chaves,Sporting CP II,3-2,https://www.besoccer.com/match/chaves/sporting-cp-ii/201539308,2015,7,segunda_liga,54,56,1,0,4,0,,2015
+Benfica II,Atlético CP,2-2,https://www.besoccer.com/match/benfica-ii/atletico-cp/201539298,2015,7,segunda_liga,57,51,3,0,3,0,,2015
+SC Freamunde,Leixões,2-0,https://www.besoccer.com/match/sc-freamunde/leixoes/201539305,2015,7,segunda_liga,51,58,4,0,7,0,,2015
+Beira Mar SC,Farense,1-0,https://www.besoccer.com/match/beira-mar/farense/201539307,2015,7,segunda_liga,58,43,3,0,5,0,,2015
+Portimonense,CD Santa Clara,1-1,https://www.besoccer.com/match/portimonense/santa-clara/201539303,2015,7,segunda_liga,56,53,1,0,5,0,,2015
+Vitória Guimarães B,SC Covilha ,2-1,https://www.besoccer.com/match/vitoria-guimar/sporting-covilha/201539309,2015,7,segunda_liga,51,50,2,0,3,0,,2015
+União Madeira,Benfica II,2-3,https://www.besoccer.com/match/uniao-madeira/benfica-ii/201539317,2015,8,segunda_liga,55,57,3,1,5,1,,2015
+Beira Mar SC,Porto II,0-2,https://www.besoccer.com/match/beira-mar/porto-ii/201539321,2015,8,segunda_liga,58,55,4,0,5,0,,2015
+UD Oliveirense,Academico Viseu,3-3,https://www.besoccer.com/match/ud-oliveirense/academico-viseu/201539312,2015,8,segunda_liga,53,42,1,0,2,0,,2015
+Marítimo II,Tondela,2-3,https://www.besoccer.com/match/maritimo-ii/tondela/201539314,2015,8,segunda_liga,44,49,1,2,4,2,,2015
+Sporting Braga II,Atlético CP,4-2,https://www.besoccer.com/match/sporting-braga-ii/atletico-cp/201539310,2015,8,segunda_liga,52,51,2,1,3,1,,2015
+CD Santa Clara,Vitória Guimarães B,1-3,https://www.besoccer.com/match/santa-clara/vitoria-guimar/201539311,2015,8,segunda_liga,53,51,3,0,4,0,,2015
+Feirense,Chaves,1-1,https://www.besoccer.com/match/feirense/chaves/201539315,2015,8,segunda_liga,53,54,2,0,0,0,,2015
+Leixões,Trofense,2-1,https://www.besoccer.com/match/leixoes/trofense/201539316,2015,8,segunda_liga,58,53,2,0,1,0,,2015
+Farense,Portimonense,1-0,https://www.besoccer.com/match/farense/portimonense/201539318,2015,8,segunda_liga,42,56,2,0,2,0,,2015
+SC Covilha ,Desportivo Aves,1-0,https://www.besoccer.com/match/sporting-covilha/desportivo-aves/201539319,2015,8,segunda_liga,48,59,5,0,5,0,,2015
+Oriental Lisboa,Olhanense,0-2,https://www.besoccer.com/match/oriental-lisboa/sc-olhanense/201539320,2015,8,segunda_liga,47,56,2,0,2,0,,2015
+Sporting CP II,SC Freamunde,0-2,https://www.besoccer.com/match/sporting-cp-ii/sc-freamunde/201539313,2015,8,segunda_liga,56,51,1,0,3,0,,2015
+Benfica II,CD Santa Clara,1-1,https://www.besoccer.com/match/benfica-ii/santa-clara/201539330,2015,9,segunda_liga,57,53,3,0,2,0,,2015
+Chaves,União Madeira,0-3,https://www.besoccer.com/match/chaves/uniao-madeira/201539322,2015,9,segunda_liga,55,56,4,0,2,0,,2015
+Vitória Guimarães B,Beira Mar SC,1-2,https://www.besoccer.com/match/vitoria-guimar/beira-mar/201539323,2015,9,segunda_liga,51,58,1,0,5,0,,2015
+Tondela,Sporting CP II,0-0,https://www.besoccer.com/match/tondela/sporting-cp-ii/201539324,2015,9,segunda_liga,50,56,2,0,1,0,,2015
+Atlético CP,UD Oliveirense,1-2,https://www.besoccer.com/match/atletico-cp/ud-oliveirense/201539325,2015,9,segunda_liga,51,53,4,1,3,1,,2015
+SC Freamunde,SC Covilha ,0-1,https://www.besoccer.com/match/sc-freamunde/sporting-covilha/201539326,2015,9,segunda_liga,51,50,2,0,6,0,,2015
+Academico Viseu,Marítimo II,3-0,https://www.besoccer.com/match/academico-viseu/maritimo-ii/201539332,2015,9,segunda_liga,42,44,2,0,3,0,,2015
+Portimonense,Porto II,2-0,https://www.besoccer.com/match/portimonense/porto-ii/201539333,2015,9,segunda_liga,55,55,1,0,3,0,,2015
+Olhanense,Farense,1-3,https://www.besoccer.com/match/sc-olhanense/farense/201539327,2015,9,segunda_liga,56,43,4,0,3,0,,2015
+Desportivo Aves,Oriental Lisboa,1-0,https://www.besoccer.com/match/desportivo-aves/oriental-lisboa/201539328,2015,9,segunda_liga,59,47,3,0,2,0,,2015
+Trofense,Feirense,0-3,https://www.besoccer.com/match/trofense/feirense/201539329,2015,9,segunda_liga,53,53,6,1,3,1,,2015
+Sporting Braga II,Leixões,3-0,https://www.besoccer.com/match/sporting-braga-ii/leixoes/201539331,2015,9,segunda_liga,52,58,1,0,4,0,,2015
+Porto II,Olhanense,7-0,https://www.besoccer.com/match/porto-ii/sc-olhanense/201539344,2015,10,segunda_liga,55,56,0,0,1,0,,2015
+Feirense,Benfica II,2-2,https://www.besoccer.com/match/feirense/benfica-ii/201539341,2015,10,segunda_liga,53,57,1,0,2,0,,2015
+UD Oliveirense,Sporting Braga II,2-1,https://www.besoccer.com/match/ud-oliveirense/sporting-braga-ii/201539339,2015,10,segunda_liga,53,52,1,0,1,0,,2015
+Leixões,Academico Viseu,1-0,https://www.besoccer.com/match/leixoes/academico-viseu/201539343,2015,10,segunda_liga,58,43,5,0,4,0,,2015
+União Madeira,SC Freamunde,1-2,https://www.besoccer.com/match/uniao-madeira/sc-freamunde/201539334,2015,10,segunda_liga,56,51,3,0,6,0,,2015
+Sporting CP II,Trofense,2-1,https://www.besoccer.com/match/sporting-cp-ii/trofense/201539335,2015,10,segunda_liga,56,53,3,0,3,0,,2015
+Oriental Lisboa,Chaves,0-0,https://www.besoccer.com/match/oriental-lisboa/chaves/201539336,2015,10,segunda_liga,47,54,4,0,2,0,,2015
+CD Santa Clara,Desportivo Aves,0-0,https://www.besoccer.com/match/santa-clara/desportivo-aves/201539337,2015,10,segunda_liga,53,59,3,0,2,0,,2015
+Beira Mar SC,Portimonense,1-3,https://www.besoccer.com/match/beira-mar/portimonense/201539338,2015,10,segunda_liga,58,56,4,0,2,0,,2015
+SC Covilha ,Tondela,4-0,https://www.besoccer.com/match/sporting-covilha/tondela/201539342,2015,10,segunda_liga,50,50,2,0,2,0,,2015
+Marítimo II,Atlético CP,2-5,https://www.besoccer.com/match/maritimo-ii/atletico-cp/201539345,2015,10,segunda_liga,44,51,1,0,3,0,,2015
+Farense,Vitória Guimarães B,1-1,https://www.besoccer.com/match/farense/vitoria-guimar/201539340,2015,10,segunda_liga,43,51,3,0,2,0,,2015
+Tondela,União Madeira,3-1,https://www.besoccer.com/match/tondela/uniao-madeira/201539351,2015,11,segunda_liga,49,56,3,0,3,0,,2015
+Vitória Guimarães B,Portimonense,3-2,https://www.besoccer.com/match/vitoria-guimar/portimonense/201539354,2015,11,segunda_liga,51,56,3,0,2,0,,2015
+Academico Viseu,Sporting CP II,0-3,https://www.besoccer.com/match/academico-viseu/sporting-cp-ii/201539346,2015,11,segunda_liga,43,56,1,0,4,0,,2015
+Benfica II,Farense,2-0,https://www.besoccer.com/match/benfica-ii/farense/201539353,2015,11,segunda_liga,57,43,2,0,4,0,,2015
+UD Oliveirense,Marítimo II,1-1,https://www.besoccer.com/match/ud-oliveirense/maritimo-ii/201539357,2015,11,segunda_liga,54,43,2,0,1,0,,2015
+SC Freamunde,Oriental Lisboa,3-0,https://www.besoccer.com/match/sc-freamunde/oriental-lisboa/201539347,2015,11,segunda_liga,51,47,3,0,2,0,,2015
+Trofense,SC Covilha ,1-0,https://www.besoccer.com/match/trofense/sporting-covilha/201539348,2015,11,segunda_liga,53,50,4,0,2,0,,2015
+Sporting Braga II,Feirense,1-3,https://www.besoccer.com/match/sporting-braga-ii/feirense/201539349,2015,11,segunda_liga,52,54,3,1,3,1,,2015
+Desportivo Aves,Porto II,0-3,https://www.besoccer.com/match/desportivo-aves/porto-ii/201539350,2015,11,segunda_liga,59,55,1,0,3,0,,2015
+Olhanense,Beira Mar SC,0-0,https://www.besoccer.com/match/sc-olhanense/beira-mar/201539352,2015,11,segunda_liga,55,58,3,0,3,0,,2015
+Atlético CP,Leixões,2-1,https://www.besoccer.com/match/atletico-cp/leixoes/201539355,2015,11,segunda_liga,52,57,3,0,3,0,,2015
+Chaves,CD Santa Clara,3-1,https://www.besoccer.com/match/chaves/santa-clara/201539356,2015,11,segunda_liga,55,53,1,0,2,0,,2015
+Portimonense,Benfica II,2-2,https://www.besoccer.com/match/portimonense/benfica-ii/201539360,2015,12,segunda_liga,56,57,0,0,2,0,,2015
+Oriental Lisboa,Trofense,4-0,https://www.besoccer.com/match/oriental-lisboa/trofense/201539362,2015,12,segunda_liga,47,53,2,0,3,0,,2015
+Vitória Guimarães B,Olhanense,3-2,https://www.besoccer.com/match/vitoria-guimar/sc-olhanense/201539363,2015,12,segunda_liga,51,55,2,0,3,0,,2015
+Feirense,Atlético CP,2-1,https://www.besoccer.com/match/feirense/atletico-cp/201539365,2015,12,segunda_liga,54,52,1,0,5,0,,2015
+Leixões,Marítimo II,3-0,https://www.besoccer.com/match/leixoes/maritimo-ii/201539366,2015,12,segunda_liga,57,43,2,0,1,0,,2015
+Beira Mar SC,Desportivo Aves,1-0,https://www.besoccer.com/match/beira-mar/desportivo-aves/201539368,2015,12,segunda_liga,58,59,1,0,3,0,,2015
+SC Covilha ,Academico Viseu,1-1,https://www.besoccer.com/match/sporting-covilha/academico-viseu/201539369,2015,12,segunda_liga,50,42,3,0,5,0,,2015
+União Madeira,Sporting Braga II,1-1,https://www.besoccer.com/match/uniao-madeira/sporting-braga-ii/201539358,2015,12,segunda_liga,55,52,3,1,3,1,,2015
+Porto II,SC Freamunde,2-0,https://www.besoccer.com/match/porto-ii/sc-freamunde/201539359,2015,12,segunda_liga,56,52,2,0,4,0,,2015
+CD Santa Clara,Tondela,2-2,https://www.besoccer.com/match/santa-clara/tondela/201539367,2015,12,segunda_liga,53,50,1,0,6,0,,2015
+Farense,Chaves,0-1,https://www.besoccer.com/match/farense/chaves/201539361,2015,12,segunda_liga,43,55,4,0,3,0,,2015
+Sporting CP II,UD Oliveirense,0-0,https://www.besoccer.com/match/sporting-cp-ii/ud-oliveirense/201539364,2015,12,segunda_liga,56,54,2,0,2,0,,2015
+Sporting Braga II,CD Santa Clara,0-0,https://www.besoccer.com/match/sporting-braga-ii/santa-clara/201539376,2015,13,segunda_liga,52,53,2,0,2,0,,2015
+Marítimo II,SC Covilha ,2-1,https://www.besoccer.com/match/maritimo-ii/sporting-covilha/201539374,2015,13,segunda_liga,43,50,2,0,5,0,,2015
+Atlético CP,Sporting CP II,5-0,https://www.besoccer.com/match/atletico-cp/sporting-cp-ii/201539371,2015,13,segunda_liga,53,56,3,0,2,0,,2015
+Tondela,Oriental Lisboa,4-2,https://www.besoccer.com/match/tondela/oriental-lisboa/201539370,2015,13,segunda_liga,50,47,4,0,4,0,,2015
+Trofense,União Madeira,1-1,https://www.besoccer.com/match/trofense/uniao-madeira/201539373,2015,13,segunda_liga,53,56,3,0,2,0,,2015
+Olhanense,Portimonense,2-0,https://www.besoccer.com/match/sc-olhanense/portimonense/201539375,2015,13,segunda_liga,55,56,4,0,2,0,,2015
+Academico Viseu,Feirense,0-1,https://www.besoccer.com/match/academico-viseu/feirense/201539377,2015,13,segunda_liga,43,54,5,0,4,0,,2015
+SC Freamunde,Farense,0-0,https://www.besoccer.com/match/sc-freamunde/farense/201539378,2015,13,segunda_liga,51,43,2,0,4,0,,2015
+UD Oliveirense,Leixões,1-0,https://www.besoccer.com/match/ud-oliveirense/leixoes/201539379,2015,13,segunda_liga,54,57,4,0,5,0,,2015
+Desportivo Aves,Vitória Guimarães B,2-1,https://www.besoccer.com/match/desportivo-aves/vitoria-guimar/201539380,2015,13,segunda_liga,59,51,1,0,5,0,,2015
+Benfica II,Beira Mar SC,1-2,https://www.besoccer.com/match/benfica-ii/beira-mar/201539381,2015,13,segunda_liga,57,58,3,0,3,0,,2015
+Chaves,Porto II,0-0,https://www.besoccer.com/match/chaves/porto-ii/201539372,2015,13,segunda_liga,55,56,5,0,2,0,,2015
+Porto II,Tondela,1-1,https://www.besoccer.com/match/porto-ii/tondela/201539383,2015,14,segunda_liga,56,50,3,0,2,0,,2015
+Vitória Guimarães B,Chaves,3-0,https://www.besoccer.com/match/vitoria-guimar/chaves/201539385,2015,14,segunda_liga,51,55,4,0,3,0,,2015
+SC Covilha ,Atlético CP,1-0,https://www.besoccer.com/match/sporting-covilha/atletico-cp/201539386,2015,14,segunda_liga,50,53,2,0,4,0,,2015
+Oriental Lisboa,Academico Viseu,1-1,https://www.besoccer.com/match/oriental-lisboa/academico-viseu/201539391,2015,14,segunda_liga,47,43,2,0,6,0,,2015
+União Madeira,Marítimo II,2-0,https://www.besoccer.com/match/uniao-madeira/maritimo-ii/201539382,2015,14,segunda_liga,56,43,2,0,3,0,,2015
+Benfica II,Olhanense,5-1,https://www.besoccer.com/match/benfica-ii/sc-olhanense/201539387,2015,14,segunda_liga,57,55,0,0,3,0,,2015
+Beira Mar SC,Trofense,3-0,https://www.besoccer.com/match/beira-mar/trofense/201539392,2015,14,segunda_liga,58,53,1,0,1,0,,2015
+Portimonense,Sporting Braga II,3-2,https://www.besoccer.com/match/portimonense/sporting-braga-ii/201539388,2015,14,segunda_liga,55,52,4,0,5,0,,2015
+Feirense,UD Oliveirense,2-2,https://www.besoccer.com/match/feirense/ud-oliveirense/201539389,2015,14,segunda_liga,54,54,4,0,3,0,,2015
+Farense,Desportivo Aves,2-2,https://www.besoccer.com/match/farense/desportivo-aves/201539384,2015,14,segunda_liga,43,59,4,0,1,0,,2015
+CD Santa Clara,SC Freamunde,0-1,https://www.besoccer.com/match/santa-clara/sc-freamunde/201539390,2015,14,segunda_liga,53,51,3,0,3,0,,2015
+Leixões,Sporting CP II,0-0,https://www.besoccer.com/match/leixoes/sporting-cp-ii/201539393,2015,14,segunda_liga,57,56,1,0,2,0,,2015
+Chaves,Benfica II,0-0,https://www.besoccer.com/match/chaves/benfica-ii/201539400,2015,15,segunda_liga,55,57,3,1,3,1,,2015
+SC Freamunde,Olhanense,0-2,https://www.besoccer.com/match/sc-freamunde/sc-olhanense/201539394,2015,15,segunda_liga,51,55,5,1,4,1,,2015
+Atlético CP,Farense,1-1,https://www.besoccer.com/match/atletico-cp/farense/201539396,2015,15,segunda_liga,53,43,5,0,3,0,,2015
+Desportivo Aves,Portimonense,0-0,https://www.besoccer.com/match/desportivo-aves/portimonense/201539397,2015,15,segunda_liga,59,55,1,1,2,1,,2015
+Trofense,Porto II,2-0,https://www.besoccer.com/match/trofense/porto-ii/201539398,2015,15,segunda_liga,53,56,2,0,1,0,,2015
+Academico Viseu,União Madeira,0-2,https://www.besoccer.com/match/academico-viseu/uniao-madeira/201539399,2015,15,segunda_liga,43,56,3,0,3,0,,2015
+Tondela,Vitória Guimarães B,2-3,https://www.besoccer.com/match/tondela/vitoria-guimar/201539401,2015,15,segunda_liga,50,51,3,1,6,1,,2015
+Marítimo II,Oriental Lisboa,2-3,https://www.besoccer.com/match/maritimo-ii/oriental-lisboa/201539402,2015,15,segunda_liga,43,47,4,0,3,0,,2015
+UD Oliveirense,CD Santa Clara,1-0,https://www.besoccer.com/match/ud-oliveirense/santa-clara/201539403,2015,15,segunda_liga,54,53,1,0,3,0,,2015
+Sporting CP II,SC Covilha ,0-0,https://www.besoccer.com/match/sporting-cp-ii/sporting-covilha/201539404,2015,15,segunda_liga,56,50,0,1,2,1,,2015
+Leixões,Feirense,3-1,https://www.besoccer.com/match/leixoes/feirense/201539405,2015,15,segunda_liga,57,54,4,0,3,0,,2015
+Sporting Braga II,Beira Mar SC,0-3,https://www.besoccer.com/match/sporting-braga-ii/beira-mar/201539395,2015,15,segunda_liga,52,58,5,0,3,0,,2015
+Olhanense,Desportivo Aves,2-3,https://www.besoccer.com/match/sc-olhanense/desportivo-aves/201539416,2015,16,segunda_liga,55,59,3,0,3,0,,2015
+Portimonense,Chaves,2-1,https://www.besoccer.com/match/portimonense/chaves/201539406,2015,16,segunda_liga,56,55,5,0,6,0,,2015
+União Madeira,Atlético CP,2-2,https://www.besoccer.com/match/uniao-madeira/atletico-cp/201539412,2015,16,segunda_liga,56,52,3,0,3,0,,2015
+Benfica II,Tondela,0-2,https://www.besoccer.com/match/benfica-ii/tondela/201539413,2015,16,segunda_liga,57,50,3,0,4,0,,2015
+Porto II,Academico Viseu,3-2,https://www.besoccer.com/match/porto-ii/academico-viseu/201539409,2015,16,segunda_liga,56,43,2,0,2,0,,2015
+Feirense,Sporting CP II,2-0,https://www.besoccer.com/match/feirense/sporting-cp-ii/201539411,2015,16,segunda_liga,54,56,0,0,3,0,,2015
+Farense,Trofense,1-1,https://www.besoccer.com/match/farense/trofense/201539407,2015,16,segunda_liga,43,53,5,0,3,0,,2015
+SC Covilha ,Leixões,3-0,https://www.besoccer.com/match/sporting-covilha/leixoes/201539410,2015,16,segunda_liga,50,57,2,0,2,0,,2015
+Oriental Lisboa,Sporting Braga II,1-1,https://www.besoccer.com/match/oriental-lisboa/sporting-braga-ii/201539414,2015,16,segunda_liga,48,51,3,0,3,0,,2015
+Vitória Guimarães B,SC Freamunde,0-1,https://www.besoccer.com/match/vitoria-guimar/sc-freamunde/201539415,2015,16,segunda_liga,52,52,3,1,6,1,,2015
+CD Santa Clara,Marítimo II,2-0,https://www.besoccer.com/match/santa-clara/maritimo-ii/201539408,2015,16,segunda_liga,53,43,1,0,3,0,,2015
+Beira Mar SC,UD Oliveirense,2-4,https://www.besoccer.com/match/beira-mar/ud-oliveirense/201539417,2015,16,segunda_liga,58,54,6,1,4,1,,2015
+Trofense,Vitória Guimarães B,1-5,https://www.besoccer.com/match/trofense/vitoria-guimar/201539419,2015,17,segunda_liga,53,52,3,1,2,1,,2015
+Academico Viseu,CD Santa Clara,3-0,https://www.besoccer.com/match/academico-viseu/santa-clara/201539422,2015,17,segunda_liga,43,53,4,0,5,0,,2015
+Tondela,Farense,1-0,https://www.besoccer.com/match/tondela/farense/201539429,2015,17,segunda_liga,50,43,5,0,3,0,,2015
+Leixões,Porto II,2-3,https://www.besoccer.com/match/leixoes/porto-ii/201539420,2015,17,segunda_liga,57,56,4,1,5,1,,2015
+Sporting CP II,União Madeira,0-1,https://www.besoccer.com/match/sporting-cp-ii/uniao-madeira/201539421,2015,17,segunda_liga,56,56,4,0,2,0,,2015
+Atlético CP,Oriental Lisboa,0-1,https://www.besoccer.com/match/atletico-cp/oriental-lisboa/201539423,2015,17,segunda_liga,52,48,4,0,2,0,,2015
+SC Freamunde,Portimonense,0-0,https://www.besoccer.com/match/sc-freamunde/portimonense/201539425,2015,17,segunda_liga,52,56,4,0,6,0,,2015
+UD Oliveirense,SC Covilha ,2-1,https://www.besoccer.com/match/ud-oliveirense/sporting-covilha/201539426,2015,17,segunda_liga,54,50,1,0,1,0,,2015
+Sporting Braga II,Olhanense,2-0,https://www.besoccer.com/match/sporting-braga-ii/sc-olhanense/201539428,2015,17,segunda_liga,51,55,2,0,2,0,,2015
+Chaves,Beira Mar SC,3-0,https://www.besoccer.com/match/chaves/beira-mar/201539418,2015,17,segunda_liga,55,58,3,0,3,0,,2015
+Desportivo Aves,Benfica II,3-3,https://www.besoccer.com/match/desportivo-aves/benfica-ii/201539427,2015,17,segunda_liga,59,57,1,0,4,0,,2015
+Marítimo II,Feirense,0-1,https://www.besoccer.com/match/maritimo-ii/feirense/201539424,2015,17,segunda_liga,43,54,3,0,3,0,,2015
+Vitória Guimarães B,Academico Viseu,1-2,https://www.besoccer.com/match/vitoria-guimar/academico-viseu/201539440,2015,18,segunda_liga,52,43,5,0,2,0,,2015
+Oriental Lisboa,Sporting CP II,3-4,https://www.besoccer.com/match/oriental-lisboa/sporting-cp-ii/201539436,2015,18,segunda_liga,48,56,1,0,4,0,,2015
+Desportivo Aves,Chaves,2-3,https://www.besoccer.com/match/desportivo-aves/chaves/201539431,2015,18,segunda_liga,59,56,3,0,1,0,,2015
+Beira Mar SC,Feirense,1-2,https://www.besoccer.com/match/beira-mar/feirense/201539433,2015,18,segunda_liga,58,54,2,1,4,1,,2015
+Portimonense,Tondela,1-1,https://www.besoccer.com/match/portimonense/tondela/201539434,2015,18,segunda_liga,56,51,3,0,3,0,,2015
+Farense,Marítimo II,1-1,https://www.besoccer.com/match/farense/maritimo-ii/201539437,2015,18,segunda_liga,43,43,4,0,2,0,,2015
+Olhanense,Trofense,1-0,https://www.besoccer.com/match/sc-olhanense/trofense/201539438,2015,18,segunda_liga,55,53,3,0,5,0,,2015
+União Madeira,UD Oliveirense,0-0,https://www.besoccer.com/match/uniao-madeira/ud-oliveirense/201539430,2015,18,segunda_liga,56,54,3,1,3,1,,2015
+Porto II,Atlético CP,1-1,https://www.besoccer.com/match/porto-ii/atletico-cp/201539432,2015,18,segunda_liga,56,52,1,0,3,0,,2015
+CD Santa Clara,Leixões,2-0,https://www.besoccer.com/match/santa-clara/leixoes/201539439,2015,18,segunda_liga,53,57,3,0,1,0,,2015
+SC Covilha ,Sporting Braga II,4-0,https://www.besoccer.com/match/sporting-covilha/sporting-braga-ii/201539441,2015,18,segunda_liga,50,52,2,0,2,0,,2015
+Benfica II,SC Freamunde,1-1,https://www.besoccer.com/match/benfica-ii/sc-freamunde/201539435,2015,18,segunda_liga,57,52,1,0,2,0,,2015
+Sporting CP II,Porto II,2-1,https://www.besoccer.com/match/sporting-cp-ii/porto-ii/201539449,2015,19,segunda_liga,56,56,6,0,5,0,,2015
+SC Freamunde,Desportivo Aves,1-1,https://www.besoccer.com/match/sc-freamunde/desportivo-aves/201539450,2015,19,segunda_liga,52,59,2,0,3,0,,2015
+Marítimo II,Vitória Guimarães B,3-2,https://www.besoccer.com/match/maritimo-ii/vitoria-guimar/201539447,2015,19,segunda_liga,43,51,4,0,2,0,,2015
+UD Oliveirense,Oriental Lisboa,0-1,https://www.besoccer.com/match/ud-oliveirense/oriental-lisboa/201539442,2015,19,segunda_liga,54,48,3,0,4,0,,2015
+Chaves,Olhanense,1-1,https://www.besoccer.com/match/chaves/sc-olhanense/201539443,2015,19,segunda_liga,56,55,4,0,5,0,,2015
+Feirense,SC Covilha ,2-1,https://www.besoccer.com/match/feirense/sporting-covilha/201539444,2015,19,segunda_liga,54,50,3,0,3,0,,2015
+Trofense,Portimonense,1-2,https://www.besoccer.com/match/trofense/portimonense/201539445,2015,19,segunda_liga,53,56,4,0,5,0,,2015
+Sporting Braga II,Benfica II,3-2,https://www.besoccer.com/match/sporting-braga-ii/benfica-ii/201539446,2015,19,segunda_liga,51,57,3,1,6,1,,2015
+Atlético CP,CD Santa Clara,2-1,https://www.besoccer.com/match/atletico-cp/santa-clara/201539448,2015,19,segunda_liga,52,53,6,0,7,0,,2015
+Academico Viseu,Farense,1-0,https://www.besoccer.com/match/academico-viseu/farense/201539451,2015,19,segunda_liga,43,43,1,0,4,0,,2015
+Leixões,União Madeira,2-1,https://www.besoccer.com/match/leixoes/uniao-madeira/201539452,2015,19,segunda_liga,57,56,5,0,0,0,,2015
+Tondela,Beira Mar SC,1-0,https://www.besoccer.com/match/tondela/beira-mar/201539453,2015,19,segunda_liga,51,58,5,0,2,0,,2015
+Benfica II,Marítimo II,3-0,https://www.besoccer.com/match/benfica-ii/maritimo-ii/201539465,2015,20,segunda_liga,56,43,2,0,3,0,,2015
+Portimonense,UD Oliveirense,2-1,https://www.besoccer.com/match/portimonense/ud-oliveirense/201539461,2015,20,segunda_liga,56,54,4,0,1,0,,2015
+Olhanense,Academico Viseu,0-0,https://www.besoccer.com/match/sc-olhanense/academico-viseu/201539454,2015,20,segunda_liga,55,43,2,0,2,0,,2015
+Desportivo Aves,Tondela,0-1,https://www.besoccer.com/match/desportivo-aves/tondela/201539455,2015,20,segunda_liga,59,51,3,0,3,0,,2015
+Beira Mar SC,Atlético CP,2-2,https://www.besoccer.com/match/beira-mar/atletico-cp/201539456,2015,20,segunda_liga,58,52,2,0,4,0,,2015
+Farense,Leixões,3-0,https://www.besoccer.com/match/farense/leixoes/201539458,2015,20,segunda_liga,43,57,0,0,1,0,,2015
+Oriental Lisboa,SC Covilha ,0-2,https://www.besoccer.com/match/oriental-lisboa/sporting-covilha/201539459,2015,20,segunda_liga,48,50,4,0,2,0,,2015
+Chaves,SC Freamunde,1-1,https://www.besoccer.com/match/chaves/sc-freamunde/201539460,2015,20,segunda_liga,56,52,4,0,5,0,,2015
+Vitória Guimarães B,Sporting CP II,1-3,https://www.besoccer.com/match/vitoria-guimar/sporting-cp-ii/201539462,2015,20,segunda_liga,51,56,1,0,4,0,,2015
+Sporting Braga II,Porto II,2-2,https://www.besoccer.com/match/sporting-braga-ii/porto-ii/201539463,2015,20,segunda_liga,52,56,3,0,2,0,,2015
+União Madeira,Feirense,0-2,https://www.besoccer.com/match/uniao-madeira/feirense/201539457,2015,20,segunda_liga,56,54,5,0,1,0,,2015
+CD Santa Clara,Trofense,0-0,https://www.besoccer.com/match/santa-clara/trofense/201539464,2015,20,segunda_liga,53,53,0,0,2,0,,2015
+Marítimo II,Sporting Braga II,0-1,https://www.besoccer.com/match/maritimo-ii/sporting-braga-ii/201539466,2015,21,segunda_liga,43,52,4,0,2,0,,2015
+SC Freamunde,Beira Mar SC,0-0,https://www.besoccer.com/match/sc-freamunde/beira-mar/201539476,2015,21,segunda_liga,52,58,2,0,2,0,,2015
+SC Covilha ,União Madeira,1-0,https://www.besoccer.com/match/sporting-covilha/uniao-madeira/201539467,2015,21,segunda_liga,51,56,1,0,2,0,,2015
+Feirense,CD Santa Clara,2-1,https://www.besoccer.com/match/feirense/santa-clara/201539468,2015,21,segunda_liga,55,53,4,0,4,0,,2015
+UD Oliveirense,Farense,2-2,https://www.besoccer.com/match/ud-oliveirense/farense/201539469,2015,21,segunda_liga,54,43,4,0,3,0,,2015
+Leixões,Oriental Lisboa,1-2,https://www.besoccer.com/match/leixoes/oriental-lisboa/201539470,2015,21,segunda_liga,57,48,2,0,5,0,,2015
+Atlético CP,Portimonense,1-2,https://www.besoccer.com/match/atletico-cp/portimonense/201539471,2015,21,segunda_liga,53,56,2,0,3,0,,2015
+Academico Viseu,Desportivo Aves,3-0,https://www.besoccer.com/match/academico-viseu/desportivo-aves/201539473,2015,21,segunda_liga,43,58,0,0,2,0,,2015
+Tondela,Olhanense,1-0,https://www.besoccer.com/match/tondela/sc-olhanense/201539475,2015,21,segunda_liga,51,55,2,0,3,0,,2015
+Trofense,Chaves,0-1,https://www.besoccer.com/match/trofense/chaves/201539477,2015,21,segunda_liga,53,56,2,0,4,0,,2015
+Porto II,Vitória Guimarães B,3-0,https://www.besoccer.com/match/porto-ii/vitoria-guimar/201539472,2015,21,segunda_liga,56,51,1,0,2,0,,2015
+Sporting CP II,Benfica II,0-1,https://www.besoccer.com/match/sporting-cp-ii/benfica-ii/201539474,2015,21,segunda_liga,56,57,3,0,4,0,,2015
+Sporting Braga II,Vitória Guimarães B,1-1,https://www.besoccer.com/match/sporting-braga-ii/vitoria-guimar/201539487,2015,22,segunda_liga,52,51,3,0,4,0,,2015
+Farense,SC Covilha ,1-0,https://www.besoccer.com/match/farense/sporting-covilha/201539482,2015,22,segunda_liga,43,51,2,0,2,0,,2015
+CD Santa Clara,União Madeira,1-2,https://www.besoccer.com/match/santa-clara/uniao-madeira/201539486,2015,22,segunda_liga,53,56,1,0,3,0,,2015
+Chaves,Tondela,1-1,https://www.besoccer.com/match/chaves/tondela/201539485,2015,22,segunda_liga,56,51,1,0,2,0,,2015
+Olhanense,UD Oliveirense,2-1,https://www.besoccer.com/match/sc-olhanense/ud-oliveirense/201539478,2015,22,segunda_liga,55,54,4,0,1,0,,2015
+Oriental Lisboa,Feirense,2-0,https://www.besoccer.com/match/oriental-lisboa/feirense/201539479,2015,22,segunda_liga,48,55,2,0,2,0,,2015
+Marítimo II,Sporting CP II,2-1,https://www.besoccer.com/match/maritimo-ii/sporting-cp-ii/201539481,2015,22,segunda_liga,43,56,4,0,2,0,,2015
+SC Freamunde,Trofense,3-0,https://www.besoccer.com/match/sc-freamunde/trofense/201539483,2015,22,segunda_liga,52,53,2,0,1,0,,2015
+Desportivo Aves,Atlético CP,1-1,https://www.besoccer.com/match/desportivo-aves/atletico-cp/201539484,2015,22,segunda_liga,58,52,1,0,4,0,,2015
+Portimonense,Academico Viseu,4-2,https://www.besoccer.com/match/portimonense/academico-viseu/201539488,2015,22,segunda_liga,56,43,0,0,2,0,,2015
+Beira Mar SC,Leixões,0-0,https://www.besoccer.com/match/beira-mar/leixoes/201539489,2015,22,segunda_liga,58,57,2,0,1,0,,2015
+Benfica II,Porto II,3-2,https://www.besoccer.com/match/benfica-ii/porto-ii/201539480,2015,22,segunda_liga,57,56,1,1,2,1,,2015
+Sporting CP II,Sporting Braga II,0-0,https://www.besoccer.com/match/sporting-cp-ii/sporting-braga-ii/201539498,2015,23,segunda_liga,56,52,2,0,2,0,,2015
+Tondela,SC Freamunde,1-1,https://www.besoccer.com/match/tondela/sc-freamunde/201539493,2015,23,segunda_liga,51,52,2,0,4,0,,2015
+União Madeira,Oriental Lisboa,0-0,https://www.besoccer.com/match/uniao-madeira/oriental-lisboa/201539490,2015,23,segunda_liga,56,48,3,0,2,0,,2015
+Academico Viseu,Beira Mar SC,0-0,https://www.besoccer.com/match/academico-viseu/beira-mar/201539491,2015,23,segunda_liga,43,57,4,0,5,0,,2015
+Trofense,Desportivo Aves,2-2,https://www.besoccer.com/match/trofense/desportivo-aves/201539492,2015,23,segunda_liga,52,58,5,1,5,1,,2015
+Vitória Guimarães B,Benfica II,4-1,https://www.besoccer.com/match/vitoria-guimar/benfica-ii/201539495,2015,23,segunda_liga,51,57,2,0,2,0,,2015
+Feirense,Farense,1-1,https://www.besoccer.com/match/feirense/farense/201539496,2015,23,segunda_liga,54,43,1,0,6,0,,2015
+Leixões,Portimonense,1-0,https://www.besoccer.com/match/leixoes/portimonense/201539497,2015,23,segunda_liga,57,56,3,0,3,0,,2015
+Atlético CP,Olhanense,3-2,https://www.besoccer.com/match/atletico-cp/sc-olhanense/201539499,2015,23,segunda_liga,52,55,3,0,3,0,,2015
+UD Oliveirense,Chaves,2-1,https://www.besoccer.com/match/ud-oliveirense/chaves/201539501,2015,23,segunda_liga,54,56,2,0,3,0,,2015
+Porto II,Marítimo II,3-1,https://www.besoccer.com/match/porto-ii/maritimo-ii/201539494,2015,23,segunda_liga,56,43,5,0,2,0,,2015
+SC Covilha ,CD Santa Clara,1-1,https://www.besoccer.com/match/sporting-covilha/santa-clara/201539500,2015,23,segunda_liga,52,53,3,0,3,0,,2015
+UD Oliveirense,Porto II,1-0,https://www.besoccer.com/match/ud-oliveirense/porto-ii/201539513,2015,24,segunda_liga,54,56,2,0,3,0,,2015
+Marítimo II,Desportivo Aves,0-2,https://www.besoccer.com/match/maritimo-ii/desportivo-aves/201539511,2015,24,segunda_liga,43,58,3,1,2,1,,2015
+Trofense,Benfica II,0-2,https://www.besoccer.com/match/trofense/benfica-ii/201539509,2015,24,segunda_liga,52,57,3,0,2,0,,2015
+Sporting CP II,Farense,5-3,https://www.besoccer.com/match/sporting-cp-ii/farense/201539502,2015,24,segunda_liga,56,43,1,0,0,0,,2015
+Leixões,Olhanense,2-1,https://www.besoccer.com/match/leixoes/sc-olhanense/201539503,2015,24,segunda_liga,57,55,2,0,3,0,,2015
+Academico Viseu,Chaves,1-1,https://www.besoccer.com/match/academico-viseu/chaves/201539504,2015,24,segunda_liga,43,56,3,0,4,0,,2015
+Feirense,Vitória Guimarães B,1-2,https://www.besoccer.com/match/feirense/vitoria-guimar/201539505,2015,24,segunda_liga,54,51,4,0,6,0,,2015
+União Madeira,Beira Mar SC,0-0,https://www.besoccer.com/match/uniao-madeira/beira-mar/201539506,2015,24,segunda_liga,56,57,1,0,2,0,,2015
+Oriental Lisboa,CD Santa Clara,1-0,https://www.besoccer.com/match/oriental-lisboa/santa-clara/201539507,2015,24,segunda_liga,48,53,5,0,4,0,,2015
+SC Covilha ,Portimonense,4-0,https://www.besoccer.com/match/sporting-covilha/portimonense/201539508,2015,24,segunda_liga,51,56,3,0,2,0,,2015
+Sporting Braga II,Tondela,1-2,https://www.besoccer.com/match/sporting-braga-ii/tondela/201539510,2015,24,segunda_liga,52,51,2,0,4,0,,2015
+Atlético CP,SC Freamunde,1-1,https://www.besoccer.com/match/atletico-cp/sc-freamunde/201539512,2015,24,segunda_liga,53,52,3,0,1,0,,2015
+Desportivo Aves,Sporting Braga II,1-1,https://www.besoccer.com/match/desportivo-aves/sporting-braga-ii/201539519,2015,25,segunda_liga,58,52,1,0,4,0,,2015
+Tondela,Trofense,4-0,https://www.besoccer.com/match/tondela/trofense/201539515,2015,25,segunda_liga,51,52,4,0,5,0,,2015
+Chaves,Atlético CP,1-0,https://www.besoccer.com/match/chaves/atletico-cp/201539518,2015,25,segunda_liga,56,53,2,0,3,0,,2015
+Olhanense,Feirense,0-0,https://www.besoccer.com/match/sc-olhanense/feirense/201539520,2015,25,segunda_liga,55,54,1,0,3,0,,2015
+SC Freamunde,Academico Viseu,1-3,https://www.besoccer.com/match/sc-freamunde/academico-viseu/201539521,2015,25,segunda_liga,52,43,5,2,6,2,,2015
+Vitória Guimarães B,UD Oliveirense,5-0,https://www.besoccer.com/match/vitoria-guimar/ud-oliveirense/201539522,2015,25,segunda_liga,51,54,1,0,3,0,,2015
+Portimonense,Marítimo II,2-2,https://www.besoccer.com/match/portimonense/maritimo-ii/201539523,2015,25,segunda_liga,56,43,2,0,1,0,,2015
+Farense,União Madeira,0-5,https://www.besoccer.com/match/farense/uniao-madeira/201539524,2015,25,segunda_liga,43,57,2,0,1,0,,2015
+Porto II,SC Covilha ,4-0,https://www.besoccer.com/match/porto-ii/sporting-covilha/201539525,2015,25,segunda_liga,56,52,3,0,5,0,,2015
+CD Santa Clara,Sporting CP II,0-1,https://www.besoccer.com/match/santa-clara/sporting-cp-ii/201539514,2015,25,segunda_liga,53,56,3,0,3,0,,2015
+Benfica II,Leixões,1-2,https://www.besoccer.com/match/benfica-ii/leixoes/201539516,2015,25,segunda_liga,57,57,3,0,6,0,,2015
+Beira Mar SC,Oriental Lisboa,1-0,https://www.besoccer.com/match/beira-mar/oriental-lisboa/201539517,2015,25,segunda_liga,57,49,2,0,4,0,,2015
+União Madeira,Porto II,5-1,https://www.besoccer.com/match/uniao-madeira/porto-ii/201539526,2015,26,segunda_liga,57,56,3,0,4,0,,2015
+Sporting CP II,Olhanense,2-1,https://www.besoccer.com/match/sporting-cp-ii/sc-olhanense/201539528,2015,26,segunda_liga,56,55,6,0,4,0,,2015
+Atlético CP,Tondela,0-1,https://www.besoccer.com/match/atletico-cp/tondela/201539530,2015,26,segunda_liga,52,52,3,1,4,1,,2015
+SC Covilha ,Beira Mar SC,2-0,https://www.besoccer.com/match/sporting-covilha/beira-mar/201539531,2015,26,segunda_liga,51,58,1,0,3,0,,2015
+UD Oliveirense,Trofense,3-1,https://www.besoccer.com/match/ud-oliveirense/trofense/201539532,2015,26,segunda_liga,54,52,4,0,3,0,,2015
+Oriental Lisboa,Portimonense,2-2,https://www.besoccer.com/match/oriental-lisboa/portimonense/201539535,2015,26,segunda_liga,48,56,1,1,1,1,,2015
+Feirense,Desportivo Aves,1-0,https://www.besoccer.com/match/feirense/desportivo-aves/201539536,2015,26,segunda_liga,54,58,2,1,2,1,,2015
+Leixões,Vitória Guimarães B,0-1,https://www.besoccer.com/match/leixoes/vitoria-guimar/201539537,2015,26,segunda_liga,57,52,4,0,3,0,,2015
+Marítimo II,SC Freamunde,1-0,https://www.besoccer.com/match/maritimo-ii/sc-freamunde/201539533,2015,26,segunda_liga,43,52,3,0,6,0,,2015
+Academico Viseu,Benfica II,2-0,https://www.besoccer.com/match/academico-viseu/benfica-ii/201539527,2015,26,segunda_liga,44,57,0,0,1,0,,2015
+CD Santa Clara,Farense,1-1,https://www.besoccer.com/match/santa-clara/farense/201539529,2015,26,segunda_liga,52,43,3,0,4,0,,2015
+Sporting Braga II,Chaves,2-3,https://www.besoccer.com/match/sporting-braga-ii/chaves/201539534,2015,26,segunda_liga,52,56,2,0,5,0,,2015
+Vitória Guimarães B,Atlético CP,4-0,https://www.besoccer.com/match/vitoria-guimar/atletico-cp/201539540,2015,27,segunda_liga,52,52,1,0,3,0,,2015
+Farense,Oriental Lisboa,1-0,https://www.besoccer.com/match/farense/oriental-lisboa/201539541,2015,27,segunda_liga,43,48,3,0,2,0,,2015
+Portimonense,União Madeira,1-0,https://www.besoccer.com/match/portimonense/uniao-madeira/201539542,2015,27,segunda_liga,56,57,4,0,2,0,,2015
+Tondela,Leixões,0-0,https://www.besoccer.com/match/tondela/leixoes/201539543,2015,27,segunda_liga,52,57,3,0,3,0,,2015
+Chaves,Marítimo II,2-0,https://www.besoccer.com/match/chaves/maritimo-ii/201539544,2015,27,segunda_liga,56,43,5,0,2,0,,2015
+Olhanense,SC Covilha ,0-0,https://www.besoccer.com/match/sc-olhanense/sporting-covilha/201539545,2015,27,segunda_liga,55,52,3,0,2,0,,2015
+SC Freamunde,Sporting Braga II,1-0,https://www.besoccer.com/match/sc-freamunde/sporting-braga-ii/201539547,2015,27,segunda_liga,52,51,3,0,2,0,,2015
+Beira Mar SC,CD Santa Clara,0-0,https://www.besoccer.com/match/beira-mar/santa-clara/201539548,2015,27,segunda_liga,57,52,2,1,5,1,,2015
+Trofense,Academico Viseu,2-1,https://www.besoccer.com/match/trofense/academico-viseu/201539549,2015,27,segunda_liga,52,44,3,0,1,0,,2015
+Benfica II,UD Oliveirense,4-1,https://www.besoccer.com/match/benfica-ii/ud-oliveirense/201539539,2015,27,segunda_liga,56,54,2,0,0,0,,2015
+Porto II,Feirense,1-0,https://www.besoccer.com/match/porto-ii/feirense/201539546,2015,27,segunda_liga,56,54,2,0,3,0,,2015
+Desportivo Aves,Sporting CP II,4-0,https://www.besoccer.com/match/desportivo-aves/sporting-cp-ii/201539538,2015,27,segunda_liga,58,56,2,0,2,0,,2015
+Academico Viseu,Tondela,1-0,https://www.besoccer.com/match/academico-viseu/tondela/201539552,2015,28,segunda_liga,44,52,5,0,4,0,,2015
+Atlético CP,Trofense,0-3,https://www.besoccer.com/match/atletico-cp/trofense/201539550,2015,28,segunda_liga,52,52,3,0,1,0,,2015
+Sporting CP II,Beira Mar SC,3-2,https://www.besoccer.com/match/sporting-cp-ii/beira-mar/201539551,2015,28,segunda_liga,56,57,3,0,1,0,,2015
+Leixões,Chaves,1-2,https://www.besoccer.com/match/leixoes/chaves/201539553,2015,28,segunda_liga,57,56,1,0,4,0,,2015
+SC Covilha ,Benfica II,3-0,https://www.besoccer.com/match/sporting-covilha/benfica-ii/201539554,2015,28,segunda_liga,52,57,2,0,3,0,,2015
+Oriental Lisboa,Vitória Guimarães B,1-0,https://www.besoccer.com/match/oriental-lisboa/vitoria-guimar/201539556,2015,28,segunda_liga,48,52,4,0,4,0,,2015
+Feirense,Portimonense,2-1,https://www.besoccer.com/match/feirense/portimonense/201539557,2015,28,segunda_liga,54,56,4,0,2,0,,2015
+UD Oliveirense,SC Freamunde,1-2,https://www.besoccer.com/match/ud-oliveirense/sc-freamunde/201539559,2015,28,segunda_liga,54,52,4,1,3,1,,2015
+União Madeira,Desportivo Aves,1-1,https://www.besoccer.com/match/uniao-madeira/desportivo-aves/201539560,2015,28,segunda_liga,57,58,3,0,4,0,,2015
+Sporting Braga II,Farense,0-0,https://www.besoccer.com/match/sporting-braga-ii/farense/201539561,2015,28,segunda_liga,51,43,3,0,4,0,,2015
+Marítimo II,Olhanense,1-0,https://www.besoccer.com/match/maritimo-ii/sc-olhanense/201539555,2015,28,segunda_liga,43,55,1,0,5,0,,2015
+CD Santa Clara,Porto II,1-0,https://www.besoccer.com/match/santa-clara/porto-ii/201539558,2015,28,segunda_liga,52,56,1,0,4,0,,2015
+Portimonense,Sporting CP II,0-1,https://www.besoccer.com/match/portimonense/sporting-cp-ii/201539564,2015,29,segunda_liga,56,56,1,0,3,0,,2015
+Tondela,UD Oliveirense,0-0,https://www.besoccer.com/match/tondela/ud-oliveirense/201539562,2015,29,segunda_liga,52,54,1,1,5,1,,2015
+Olhanense,CD Santa Clara,0-0,https://www.besoccer.com/match/sc-olhanense/santa-clara/201539563,2015,29,segunda_liga,55,53,1,0,2,0,,2015
+Desportivo Aves,Leixões,3-2,https://www.besoccer.com/match/desportivo-aves/leixoes/201539565,2015,29,segunda_liga,58,57,4,0,4,0,,2015
+SC Freamunde,Feirense,2-0,https://www.besoccer.com/match/sc-freamunde/feirense/201539566,2015,29,segunda_liga,52,54,4,0,7,0,,2015
+Beira Mar SC,Marítimo II,2-1,https://www.besoccer.com/match/beira-mar/maritimo-ii/201539567,2015,29,segunda_liga,57,43,3,0,6,0,,2015
+Vitória Guimarães B,União Madeira,0-1,https://www.besoccer.com/match/vitoria-guimar/uniao-madeira/201539568,2015,29,segunda_liga,52,57,2,0,4,0,,2015
+Trofense,Sporting Braga II,1-1,https://www.besoccer.com/match/trofense/sporting-braga-ii/201539569,2015,29,segunda_liga,52,51,3,0,1,0,,2015
+Chaves,SC Covilha ,1-0,https://www.besoccer.com/match/chaves/sporting-covilha/201539570,2015,29,segunda_liga,56,52,4,0,5,0,,2015
+Academico Viseu,Atlético CP,0-1,https://www.besoccer.com/match/academico-viseu/atletico-cp/201539572,2015,29,segunda_liga,44,52,1,0,3,0,,2015
+Benfica II,Oriental Lisboa,3-0,https://www.besoccer.com/match/benfica-ii/oriental-lisboa/201539571,2015,29,segunda_liga,56,48,3,0,3,0,,2015
+Porto II,Farense,2-1,https://www.besoccer.com/match/porto-ii/farense/201539573,2015,29,segunda_liga,56,43,2,0,3,0,,2015
+União Madeira,Olhanense,1-0,https://www.besoccer.com/match/uniao-madeira/sc-olhanense/201539574,2015,30,segunda_liga,57,55,2,0,3,0,,2015
+Leixões,SC Freamunde,0-1,https://www.besoccer.com/match/leixoes/sc-freamunde/201539576,2015,30,segunda_liga,56,52,3,0,1,0,,2015
+SC Covilha ,Vitória Guimarães B,2-0,https://www.besoccer.com/match/sporting-covilha/vitoria-guimar/201539577,2015,30,segunda_liga,52,52,3,0,3,0,,2015
+Sporting CP II,Chaves,1-1,https://www.besoccer.com/match/sporting-cp-ii/chaves/201539578,2015,30,segunda_liga,56,56,3,0,3,0,,2015
+Sporting Braga II,Academico Viseu,2-1,https://www.besoccer.com/match/sporting-braga-ii/academico-viseu/201539579,2015,30,segunda_liga,51,44,6,0,4,0,,2015
+Farense,Beira Mar SC,1-0,https://www.besoccer.com/match/farense/beira-mar/201539580,2015,30,segunda_liga,43,57,2,0,1,0,,2015
+Atlético CP,Benfica II,2-3,https://www.besoccer.com/match/atletico-cp/benfica-ii/201539581,2015,30,segunda_liga,52,56,5,0,3,0,,2015
+Oriental Lisboa,Porto II,3-0,https://www.besoccer.com/match/oriental-lisboa/porto-ii/201539582,2015,30,segunda_liga,48,56,1,0,2,0,,2015
+UD Oliveirense,Desportivo Aves,1-1,https://www.besoccer.com/match/ud-oliveirense/desportivo-aves/201539583,2015,30,segunda_liga,54,58,6,0,1,0,,2015
+Marítimo II,Trofense,0-0,https://www.besoccer.com/match/maritimo-ii/trofense/201539585,2015,30,segunda_liga,43,52,3,0,1,0,,2015
+CD Santa Clara,Portimonense,1-0,https://www.besoccer.com/match/santa-clara/portimonense/201539584,2015,30,segunda_liga,53,56,4,0,3,0,,2015
+Feirense,Tondela,0-0,https://www.besoccer.com/match/feirense/tondela/201539575,2015,30,segunda_liga,54,52,3,0,4,0,,2015
+SC Freamunde,Sporting CP II,0-0,https://www.besoccer.com/match/sc-freamunde/sporting-cp-ii/201539597,2015,31,segunda_liga,52,56,3,0,5,0,,2015
+Portimonense,Farense,1-1,https://www.besoccer.com/match/portimonense/farense/201539587,2015,31,segunda_liga,55,43,5,0,0,0,,2015
+Atlético CP,Sporting Braga II,1-1,https://www.besoccer.com/match/atletico-cp/sporting-braga-ii/201539588,2015,31,segunda_liga,52,51,4,1,2,1,,2015
+Olhanense,Oriental Lisboa,1-1,https://www.besoccer.com/match/sc-olhanense/oriental-lisboa/201539589,2015,31,segunda_liga,55,49,2,0,1,0,,2015
+Porto II,Beira Mar SC,3-2,https://www.besoccer.com/match/porto-ii/beira-mar/201539590,2015,31,segunda_liga,56,57,5,0,3,0,,2015
+Vitória Guimarães B,CD Santa Clara,2-0,https://www.besoccer.com/match/vitoria-guimar/santa-clara/201539592,2015,31,segunda_liga,52,53,4,0,2,0,,2015
+Academico Viseu,UD Oliveirense,1-0,https://www.besoccer.com/match/academico-viseu/ud-oliveirense/201539593,2015,31,segunda_liga,44,54,0,0,3,0,,2015
+Chaves,Feirense,2-0,https://www.besoccer.com/match/chaves/feirense/201539594,2015,31,segunda_liga,56,54,2,0,5,0,,2015
+Trofense,Leixões,0-2,https://www.besoccer.com/match/trofense/leixoes/201539595,2015,31,segunda_liga,52,56,0,0,1,0,,2015
+Tondela,Marítimo II,1-0,https://www.besoccer.com/match/tondela/maritimo-ii/201539596,2015,31,segunda_liga,52,43,3,0,5,0,,2015
+Benfica II,União Madeira,1-3,https://www.besoccer.com/match/benfica-ii/uniao-madeira/201539586,2015,31,segunda_liga,57,57,3,0,1,0,,2015
+Desportivo Aves,SC Covilha ,1-1,https://www.besoccer.com/match/desportivo-aves/sporting-covilha/201539591,2015,31,segunda_liga,58,52,3,0,0,0,,2015
+Marítimo II,Academico Viseu,1-0,https://www.besoccer.com/match/maritimo-ii/academico-viseu/201539604,2015,32,segunda_liga,43,44,6,0,4,0,,2015
+Oriental Lisboa,Desportivo Aves,1-0,https://www.besoccer.com/match/oriental-lisboa/desportivo-aves/201539598,2015,32,segunda_liga,49,58,5,0,0,0,,2015
+SC Covilha ,SC Freamunde,3-1,https://www.besoccer.com/match/sporting-covilha/sc-freamunde/201539599,2015,32,segunda_liga,52,52,1,0,2,0,,2015
+UD Oliveirense,Atlético CP,1-0,https://www.besoccer.com/match/ud-oliveirense/atletico-cp/201539600,2015,32,segunda_liga,53,52,3,0,5,0,,2015
+Feirense,Trofense,2-0,https://www.besoccer.com/match/feirense/trofense/201539601,2015,32,segunda_liga,54,52,2,0,2,0,,2015
+Leixões,Sporting Braga II,0-0,https://www.besoccer.com/match/leixoes/sporting-braga-ii/201539605,2015,32,segunda_liga,56,51,4,0,3,0,,2015
+Sporting CP II,Tondela,4-3,https://www.besoccer.com/match/sporting-cp-ii/tondela/201539606,2015,32,segunda_liga,56,52,1,0,2,0,,2015
+CD Santa Clara,Benfica II,1-1,https://www.besoccer.com/match/santa-clara/benfica-ii/201539602,2015,32,segunda_liga,53,56,3,0,3,0,,2015
+Farense,Olhanense,2-2,https://www.besoccer.com/match/farense/sc-olhanense/201539603,2015,32,segunda_liga,43,55,5,0,2,0,,2015
+Beira Mar SC,Vitória Guimarães B,1-0,https://www.besoccer.com/match/beira-mar/vitoria-guimar/201539607,2015,32,segunda_liga,57,52,1,0,3,0,,2015
+Porto II,Portimonense,0-1,https://www.besoccer.com/match/porto-ii/portimonense/201539608,2015,32,segunda_liga,56,55,3,0,4,0,,2015
+União Madeira,Chaves,1-1,https://www.besoccer.com/match/uniao-madeira/chaves/201539609,2015,32,segunda_liga,57,56,3,0,3,0,,2015
+Vitória Guimarães B,Farense,2-0,https://www.besoccer.com/match/vitoria-guimar/farense/201539610,2015,33,segunda_liga,52,43,1,0,1,0,,2015
+Sporting Braga II,UD Oliveirense,1-0,https://www.besoccer.com/match/sporting-braga-ii/ud-oliveirense/201539611,2015,33,segunda_liga,51,54,1,0,1,0,,2015
+Desportivo Aves,CD Santa Clara,1-1,https://www.besoccer.com/match/desportivo-aves/santa-clara/201539612,2015,33,segunda_liga,58,53,2,0,7,0,,2015
+Portimonense,Beira Mar SC,0-3,https://www.besoccer.com/match/portimonense/beira-mar/201539613,2015,33,segunda_liga,55,57,2,1,1,1,,2015
+Trofense,Sporting CP II,1-1,https://www.besoccer.com/match/trofense/sporting-cp-ii/201539614,2015,33,segunda_liga,52,56,5,0,2,0,,2015
+Olhanense,Porto II,2-2,https://www.besoccer.com/match/sc-olhanense/porto-ii/201539616,2015,33,segunda_liga,55,56,4,0,3,0,,2015
+Atlético CP,Marítimo II,2-2,https://www.besoccer.com/match/atletico-cp/maritimo-ii/201539617,2015,33,segunda_liga,52,43,3,0,4,0,,2015
+Chaves,Oriental Lisboa,1-1,https://www.besoccer.com/match/chaves/oriental-lisboa/201539618,2015,33,segunda_liga,56,49,2,0,3,0,,2015
+Academico Viseu,Leixões,2-1,https://www.besoccer.com/match/academico-viseu/leixoes/201539619,2015,33,segunda_liga,44,56,2,0,5,0,,2015
+Tondela,SC Covilha ,2-2,https://www.besoccer.com/match/tondela/sporting-covilha/201539621,2015,33,segunda_liga,52,52,4,0,4,0,,2015
+SC Freamunde,União Madeira,0-0,https://www.besoccer.com/match/sc-freamunde/uniao-madeira/201539615,2015,33,segunda_liga,52,57,1,0,1,0,,2015
+Benfica II,Feirense,0-1,https://www.besoccer.com/match/benfica-ii/feirense/201539620,2015,33,segunda_liga,56,54,2,0,6,0,,2015
+Marítimo II,UD Oliveirense,0-0,https://www.besoccer.com/match/maritimo-ii/ud-oliveirense/201539628,2015,34,segunda_liga,43,53,3,0,5,0,,2015
+Oriental Lisboa,SC Freamunde,0-0,https://www.besoccer.com/match/oriental-lisboa/sc-freamunde/201539625,2015,34,segunda_liga,49,52,1,0,2,0,,2015
+Porto II,Desportivo Aves,2-1,https://www.besoccer.com/match/porto-ii/desportivo-aves/201539623,2015,34,segunda_liga,56,58,3,0,0,0,,2015
+Portimonense,Vitória Guimarães B,0-0,https://www.besoccer.com/match/portimonense/vitoria-guimar/201539624,2015,34,segunda_liga,55,52,4,0,2,0,,2015
+Sporting CP II,Academico Viseu,2-1,https://www.besoccer.com/match/sporting-cp-ii/academico-viseu/201539626,2015,34,segunda_liga,56,44,5,0,2,0,,2015
+Leixões,Atlético CP,3-0,https://www.besoccer.com/match/leixoes/atletico-cp/201539627,2015,34,segunda_liga,56,52,1,0,1,0,,2015
+SC Covilha ,Trofense,2-0,https://www.besoccer.com/match/sporting-covilha/trofense/201539630,2015,34,segunda_liga,52,52,1,0,2,0,,2015
+Feirense,Sporting Braga II,3-1,https://www.besoccer.com/match/feirense/sporting-braga-ii/201539631,2015,34,segunda_liga,54,52,4,0,5,0,,2015
+Farense,Benfica II,0-3,https://www.besoccer.com/match/farense/benfica-ii/201539633,2015,34,segunda_liga,43,56,1,1,4,1,,2015
+União Madeira,Tondela,1-2,https://www.besoccer.com/match/uniao-madeira/tondela/201539622,2015,34,segunda_liga,57,52,4,0,4,0,,2015
+CD Santa Clara,Chaves,1-1,https://www.besoccer.com/match/santa-clara/chaves/201539629,2015,34,segunda_liga,53,56,2,1,2,1,,2015
+Beira Mar SC,Olhanense,0-1,https://www.besoccer.com/match/beira-mar/sc-olhanense/201539632,2015,34,segunda_liga,57,55,3,0,3,0,,2015
+UD Oliveirense,Sporting CP II,1-2,https://www.besoccer.com/match/ud-oliveirense/sporting-cp-ii/201539641,2015,35,segunda_liga,53,56,4,0,3,0,,2015
+Olhanense,Vitória Guimarães B,1-1,https://www.besoccer.com/match/sc-olhanense/vitoria-guimar/201539645,2015,35,segunda_liga,55,52,2,1,5,1,,2015
+Marítimo II,Leixões,1-1,https://www.besoccer.com/match/maritimo-ii/leixoes/201539635,2015,35,segunda_liga,43,56,3,0,5,0,,2015
+Benfica II,Portimonense,4-1,https://www.besoccer.com/match/benfica-ii/portimonense/201539644,2015,35,segunda_liga,56,55,1,0,2,0,,2015
+SC Freamunde,Porto II,0-2,https://www.besoccer.com/match/sc-freamunde/porto-ii/201539638,2015,35,segunda_liga,52,56,3,0,2,0,,2015
+Sporting Braga II,União Madeira,0-3,https://www.besoccer.com/match/sporting-braga-ii/uniao-madeira/201539634,2015,35,segunda_liga,51,57,3,0,2,0,,2015
+Atlético CP,Feirense,1-3,https://www.besoccer.com/match/atletico-cp/feirense/201539640,2015,35,segunda_liga,51,55,3,1,4,1,,2015
+Trofense,Oriental Lisboa,1-0,https://www.besoccer.com/match/trofense/oriental-lisboa/201539636,2015,35,segunda_liga,51,49,3,0,3,0,,2015
+Chaves,Farense,1-0,https://www.besoccer.com/match/chaves/farense/201539637,2015,35,segunda_liga,56,43,4,0,4,0,,2015
+Tondela,CD Santa Clara,2-1,https://www.besoccer.com/match/tondela/santa-clara/201539639,2015,35,segunda_liga,52,53,2,0,6,0,,2015
+Academico Viseu,SC Covilha ,0-1,https://www.besoccer.com/match/academico-viseu/sporting-covilha/201539642,2015,35,segunda_liga,44,53,4,0,4,0,,2015
+Desportivo Aves,Beira Mar SC,1-0,https://www.besoccer.com/match/desportivo-aves/beira-mar/201539643,2015,35,segunda_liga,58,57,2,0,3,0,,2015
+Sporting CP II,Atlético CP,2-0,https://www.besoccer.com/match/sporting-cp-ii/atletico-cp/201539649,2015,36,segunda_liga,56,51,2,0,4,0,,2015
+Beira Mar SC,Benfica II,1-2,https://www.besoccer.com/match/beira-mar/benfica-ii/201539651,2015,36,segunda_liga,57,57,2,0,3,0,,2015
+SC Covilha ,Marítimo II,2-1,https://www.besoccer.com/match/sporting-covilha/maritimo-ii/201539646,2015,36,segunda_liga,52,43,1,0,2,0,,2015
+Feirense,Academico Viseu,3-0,https://www.besoccer.com/match/feirense/academico-viseu/201539647,2015,36,segunda_liga,55,44,5,0,4,0,,2015
+Farense,SC Freamunde,2-1,https://www.besoccer.com/match/farense/sc-freamunde/201539650,2015,36,segunda_liga,43,52,5,0,4,0,,2015
+Leixões,UD Oliveirense,4-1,https://www.besoccer.com/match/leixoes/ud-oliveirense/201539652,2015,36,segunda_liga,56,53,3,0,1,0,,2015
+Porto II,Chaves,2-2,https://www.besoccer.com/match/porto-ii/chaves/201539653,2015,36,segunda_liga,56,56,3,0,4,0,,2015
+Vitória Guimarães B,Desportivo Aves,1-0,https://www.besoccer.com/match/vitoria-guimar/desportivo-aves/201539654,2015,36,segunda_liga,52,58,4,0,4,0,,2015
+Oriental Lisboa,Tondela,1-1,https://www.besoccer.com/match/oriental-lisboa/tondela/201539656,2015,36,segunda_liga,49,52,3,0,3,0,,2015
+União Madeira,Trofense,1-0,https://www.besoccer.com/match/uniao-madeira/trofense/201539648,2015,36,segunda_liga,57,52,2,0,2,0,,2015
+CD Santa Clara,Sporting Braga II,0-0,https://www.besoccer.com/match/santa-clara/sporting-braga-ii/201539655,2015,36,segunda_liga,53,51,1,0,2,0,,2015
+Portimonense,Olhanense,1-1,https://www.besoccer.com/match/portimonense/sc-olhanense/201539657,2015,36,segunda_liga,55,55,4,0,5,0,,2015
+Tondela,Porto II,3-1,https://www.besoccer.com/match/tondela/porto-ii/201539663,2015,37,segunda_liga,52,56,1,0,3,0,,2015
+Atlético CP,SC Covilha ,2-1,https://www.besoccer.com/match/atletico-cp/sporting-covilha/201539658,2015,37,segunda_liga,51,53,4,0,3,0,,2015
+Academico Viseu,Oriental Lisboa,4-0,https://www.besoccer.com/match/academico-viseu/oriental-lisboa/201539660,2015,37,segunda_liga,44,49,3,0,5,0,,2015
+SC Freamunde,CD Santa Clara,0-0,https://www.besoccer.com/match/sc-freamunde/santa-clara/201539661,2015,37,segunda_liga,52,52,1,0,1,0,,2015
+Marítimo II,União Madeira,1-2,https://www.besoccer.com/match/maritimo-ii/uniao-madeira/201539662,2015,37,segunda_liga,43,57,3,0,4,0,,2015
+Chaves,Vitória Guimarães B,2-0,https://www.besoccer.com/match/chaves/vitoria-guimar/201539664,2015,37,segunda_liga,56,52,2,0,6,0,,2015
+Sporting CP II,Leixões,3-1,https://www.besoccer.com/match/sporting-cp-ii/leixoes/201539665,2015,37,segunda_liga,57,57,3,0,1,0,,2015
+Trofense,Beira Mar SC,0-3,https://www.besoccer.com/match/trofense/beira-mar/201539666,2015,37,segunda_liga,52,57,4,0,2,0,,2015
+Desportivo Aves,Farense,2-0,https://www.besoccer.com/match/desportivo-aves/farense/201539667,2015,37,segunda_liga,58,43,1,0,2,0,,2015
+Sporting Braga II,Portimonense,0-2,https://www.besoccer.com/match/sporting-braga-ii/portimonense/201539668,2015,37,segunda_liga,51,55,3,0,3,0,,2015
+UD Oliveirense,Feirense,0-1,https://www.besoccer.com/match/ud-oliveirense/feirense/201539669,2015,37,segunda_liga,53,55,4,0,2,0,,2015
+Olhanense,Benfica II,1-2,https://www.besoccer.com/match/sc-olhanense/benfica-ii/201539659,2015,37,segunda_liga,55,57,5,0,1,0,,2015
+Benfica II,Chaves,2-2,https://www.besoccer.com/match/benfica-ii/chaves/201539672,2015,38,segunda_liga,57,57,5,0,1,0,,2015
+União Madeira,Academico Viseu,4-2,https://www.besoccer.com/match/uniao-madeira/academico-viseu/201539671,2015,38,segunda_liga,57,44,3,0,2,0,,2015
+Porto II,Trofense,3-2,https://www.besoccer.com/match/porto-ii/trofense/201539673,2015,38,segunda_liga,56,51,2,0,1,0,,2015
+Oriental Lisboa,Marítimo II,2-1,https://www.besoccer.com/match/oriental-lisboa/maritimo-ii/201539670,2015,38,segunda_liga,48,43,2,0,3,0,,2015
+Portimonense,Desportivo Aves,1-1,https://www.besoccer.com/match/portimonense/desportivo-aves/201539675,2015,38,segunda_liga,55,58,2,0,4,0,,2015
+Beira Mar SC,Sporting Braga II,1-0,https://www.besoccer.com/match/beira-mar/sporting-braga-ii/201539676,2015,38,segunda_liga,57,51,1,0,3,0,,2015
+Farense,Atlético CP,2-0,https://www.besoccer.com/match/farense/atletico-cp/201539677,2015,38,segunda_liga,43,51,6,0,1,0,,2015
+Feirense,Leixões,2-1,https://www.besoccer.com/match/feirense/leixoes/201539678,2015,38,segunda_liga,55,56,2,0,2,0,,2015
+Olhanense,SC Freamunde,1-0,https://www.besoccer.com/match/sc-olhanense/sc-freamunde/201539679,2015,38,segunda_liga,55,52,2,0,5,0,,2015
+Vitória Guimarães B,Tondela,1-2,https://www.besoccer.com/match/vitoria-guimar/tondela/201539681,2015,38,segunda_liga,52,52,2,0,4,0,,2015
+CD Santa Clara,UD Oliveirense,2-1,https://www.besoccer.com/match/santa-clara/ud-oliveirense/201539674,2015,38,segunda_liga,52,53,2,0,2,0,,2015
+SC Covilha ,Sporting CP II,2-0,https://www.besoccer.com/match/sporting-covilha/sporting-cp-ii/201539680,2015,38,segunda_liga,53,57,0,0,2,0,,2015

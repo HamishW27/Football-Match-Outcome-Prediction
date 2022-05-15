@@ -1,253 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,1,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,1,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,1,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,1,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,1,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,1,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,1,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,1,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,1,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,2,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,2,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,2,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,2,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,2,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,2,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,2,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,2,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,2,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,3,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,3,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,3,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,3,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,3,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,3,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,3,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,3,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,3,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,4,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,4,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,4,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,4,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,4,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,4,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,4,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,4,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,4,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,5,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,5,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,5,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,5,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,5,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,5,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,5,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,5,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,5,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,6,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,6,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,6,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,6,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,6,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,6,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,6,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,6,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,6,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,7,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,7,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,7,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,7,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,7,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,7,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,7,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,7,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,7,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,8,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,8,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,8,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,8,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,8,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,8,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,8,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,8,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,8,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,9,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,9,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,9,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,9,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,9,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,9,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,9,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,9,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,9,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,10,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,10,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,10,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,10,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,10,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,10,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,10,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,10,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,10,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,11,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,11,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,11,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,11,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,11,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,11,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,11,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,11,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,11,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,12,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,12,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,12,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,12,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,12,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,12,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,12,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,12,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,12,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,13,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,13,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,13,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,13,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,13,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,13,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,13,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,13,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,13,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,14,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,14,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,14,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,14,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,14,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,14,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,14,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,14,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,14,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,15,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,15,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,15,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,15,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,15,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,15,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,15,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,15,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,15,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,16,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,16,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,16,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,16,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,16,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,16,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,16,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,16,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,16,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,17,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,17,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,17,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,17,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,17,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,17,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,17,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,17,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,17,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,18,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,18,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,18,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,18,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,18,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,18,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,18,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,18,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,18,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,19,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,19,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,19,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,19,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,19,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,19,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,19,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,19,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,19,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,20,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,20,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,20,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,20,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,20,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,20,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,20,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,20,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,20,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,21,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,21,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,21,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,21,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,21,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,21,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,21,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,21,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,21,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,22,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,22,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,22,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,22,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,22,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,22,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,22,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,22,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,22,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,23,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,23,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,23,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,23,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,23,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,23,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,23,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,23,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,23,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,24,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,24,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,24,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,24,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,24,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,24,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,24,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,24,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,24,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,25,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,25,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,25,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,25,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,25,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,25,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,25,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,25,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,25,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,26,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,26,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,26,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,26,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,26,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,26,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,26,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,26,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,26,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,27,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,27,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,27,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,27,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,27,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,27,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,27,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,27,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,27,segunda_liga
-Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,28,segunda_liga
-Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,28,segunda_liga
-Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,28,segunda_liga
-Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,28,segunda_liga
-Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,28,segunda_liga
-Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,28,segunda_liga
-Penafiel,SP. Covilhã,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,28,segunda_liga
-Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,28,segunda_liga
-Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,28,segunda_liga
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Estoril,Arouca,1-0,https://www.besoccer.com/match/estoril/arouca/202184185,2021,1,segunda_liga,60,51,3,0,3,0,,2021
+Vizela,UD Oliveirense,2-1,https://www.besoccer.com/match/vizela/ud-oliveirense/202184195,2021,1,segunda_liga,51,47,1,0,1,0,,2021
+Cova Piedade,Mafra,0-4,https://www.besoccer.com/match/cova-piedade/mafra/202184180,2021,1,segunda_liga,47,48,3,0,3,0,,2021
+Leixões,Casa Pia,2-2,https://www.besoccer.com/match/leixoes/casa-pia/202184198,2021,1,segunda_liga,54,44,1,0,1,0,,2021
+Benfica II,Vilafranquense,3-2,https://www.besoccer.com/match/benfica-ii/vilafranquense/202184203,2021,1,segunda_liga,52,43,1,0,3,0,,2021
+Varzim,Porto II,1-0,https://www.besoccer.com/match/varzim/porto-ii/202184207,2021,1,segunda_liga,54,52,3,0,2,0,,2021
+Penafiel,SC Covilha ,1-0,https://www.besoccer.com/match/penafiel/sporting-covilha/202184190,2021,1,segunda_liga,55,53,3,0,0,0,,2021
+Academico Viseu,Académica,0-0,https://www.besoccer.com/match/academico-viseu/academica/202184177,2021,1,segunda_liga,54,57,0,0,1,0,,2021
+Feirense,Chaves,0-4,https://www.besoccer.com/match/feirense/chaves/202184182,2021,1,segunda_liga,59,58,1,0,4,0,,2021
+UD Oliveirense,Penafiel,2-1,https://www.besoccer.com/match/ud-oliveirense/penafiel/202184215,2021,2,segunda_liga,47,55,2,0,1,0,,2021
+Chaves,Varzim,0-0,https://www.besoccer.com/match/chaves/varzim/202184211,2021,2,segunda_liga,58,54,4,0,2,0,,2021
+Vilafranquense,Feirense,0-4,https://www.besoccer.com/match/vilafranquense/feirense/202184217,2021,2,segunda_liga,43,59,1,0,2,0,,2021
+Casa Pia,Benfica II,0-6,https://www.besoccer.com/match/casa-pia/benfica-ii/202184192,2021,2,segunda_liga,44,52,1,0,2,0,,2021
+Mafra,Academico Viseu,1-0,https://www.besoccer.com/match/mafra/academico-viseu/202184205,2021,2,segunda_liga,48,54,2,0,3,0,,2021
+Arouca,Leixões,0-0,https://www.besoccer.com/match/arouca/leixoes/202184208,2021,2,segunda_liga,51,54,2,0,4,0,,2021
+Porto II,Vizela,4-1,https://www.besoccer.com/match/porto-ii/vizela/202184209,2021,2,segunda_liga,52,51,2,0,4,0,,2021
+SC Covilha ,Cova Piedade,1-3,https://www.besoccer.com/match/sporting-covilha/cova-piedade/202184214,2021,2,segunda_liga,53,47,3,1,3,1,,2021
+Académica,Estoril,1-0,https://www.besoccer.com/match/academica/estoril/202184200,2021,2,segunda_liga,57,60,3,0,4,0,,2021
+Vizela,SC Covilha ,2-1,https://www.besoccer.com/match/vizela/sporting-covilha/202184677,2021,3,segunda_liga,51,53,2,0,2,0,,2021
+Feirense,Casa Pia,2-1,https://www.besoccer.com/match/feirense/casa-pia/202184672,2021,3,segunda_liga,59,44,2,0,7,0,,2021
+Varzim,Arouca,0-0,https://www.besoccer.com/match/varzim/arouca/202184676,2021,3,segunda_liga,54,51,1,0,4,0,,2021
+Benfica II,Chaves,3-4,https://www.besoccer.com/match/benfica-ii/chaves/202184670,2021,3,segunda_liga,52,58,1,0,4,0,,2021
+Cova Piedade,Académica,0-0,https://www.besoccer.com/match/cova-piedade/academica/202184671,2021,3,segunda_liga,47,57,1,0,3,0,,2021
+UD Oliveirense,Porto II,2-2,https://www.besoccer.com/match/ud-oliveirense/porto-ii/202184674,2021,3,segunda_liga,47,52,2,0,0,0,,2021
+Penafiel,Vilafranquense,1-2,https://www.besoccer.com/match/penafiel/vilafranquense/202184675,2021,3,segunda_liga,55,43,0,0,3,0,,2021
+Leixões,Mafra,0-2,https://www.besoccer.com/match/leixoes/mafra/202184673,2021,3,segunda_liga,54,48,0,0,1,0,,2021
+Academico Viseu,Estoril,0-2,https://www.besoccer.com/match/academico-viseu/estoril/202184669,2021,3,segunda_liga,54,60,6,0,4,0,,2021
+SC Covilha ,Varzim,2-1,https://www.besoccer.com/match/sporting-covilha/varzim/202184682,2021,4,segunda_liga,53,54,1,0,2,0,,2021
+Mafra,Benfica II,2-1,https://www.besoccer.com/match/mafra/benfica-ii/202184685,2021,4,segunda_liga,48,52,0,0,3,0,,2021
+Arouca,Academico Viseu,1-1,https://www.besoccer.com/match/arouca/academico-viseu/202184679,2021,4,segunda_liga,51,54,1,0,1,0,,2021
+Casa Pia,Vizela,1-1,https://www.besoccer.com/match/casa-pia/vizela/202184680,2021,4,segunda_liga,44,51,0,0,0,0,,2021
+Porto II,Penafiel,1-2,https://www.besoccer.com/match/porto-ii/penafiel/202184684,2021,4,segunda_liga,52,55,2,0,4,0,,2021
+Chaves,Cova Piedade,1-0,https://www.besoccer.com/match/chaves/cova-piedade/202184681,2021,4,segunda_liga,58,47,2,0,1,0,,2021
+Vilafranquense,UD Oliveirense,0-0,https://www.besoccer.com/match/vilafranquense/ud-oliveirense/202184686,2021,4,segunda_liga,43,47,2,0,3,0,,2021
+Estoril,Leixões,1-0,https://www.besoccer.com/match/estoril/leixoes/202184683,2021,4,segunda_liga,60,54,4,0,3,0,,2021
+Académica,Feirense,0-1,https://www.besoccer.com/match/academica/feirense/202184678,2021,4,segunda_liga,57,59,5,0,3,0,,2021
+Penafiel,Mafra,3-1,https://www.besoccer.com/match/penafiel/mafra/202184693,2021,5,segunda_liga,55,48,7,0,2,0,,2021
+Feirense,SC Covilha ,0-0,https://www.besoccer.com/match/feirense/sporting-covilha/202184691,2021,5,segunda_liga,59,53,2,0,3,0,,2021
+Cova Piedade,Arouca,0-2,https://www.besoccer.com/match/cova-piedade/arouca/202184689,2021,5,segunda_liga,47,51,3,0,3,0,,2021
+UD Oliveirense,Casa Pia,0-1,https://www.besoccer.com/match/ud-oliveirense/casa-pia/202184692,2021,5,segunda_liga,47,44,4,0,3,0,,2021
+Benfica II,Estoril,0-1,https://www.besoccer.com/match/benfica-ii/estoril/202184688,2021,5,segunda_liga,52,59,3,0,3,0,,2021
+Varzim,Académica,0-1,https://www.besoccer.com/match/varzim/academica/202184694,2021,5,segunda_liga,54,56,1,0,3,0,,2021
+Academico Viseu,Leixões,1-1,https://www.besoccer.com/match/academico-viseu/leixoes/202184687,2021,5,segunda_liga,54,54,1,0,2,0,,2021
+Porto II,Vilafranquense,2-1,https://www.besoccer.com/match/porto-ii/vilafranquense/202184690,2021,5,segunda_liga,52,42,4,0,5,0,,2021
+Vizela,Chaves,1-1,https://www.besoccer.com/match/vizela/chaves/202184695,2021,5,segunda_liga,53,58,2,1,3,1,,2021
+Leixões,Varzim,3-1,https://www.besoccer.com/match/leixoes/varzim/202184703,2021,6,segunda_liga,54,54,4,0,3,0,,2021
+Arouca,Benfica II,1-0,https://www.besoccer.com/match/arouca/benfica-ii/202184698,2021,6,segunda_liga,51,52,0,0,2,0,,2021
+Casa Pia,Porto II,2-1,https://www.besoccer.com/match/casa-pia/porto-ii/202184699,2021,6,segunda_liga,44,52,2,0,3,0,,2021
+Mafra,Vizela,2-0,https://www.besoccer.com/match/mafra/vizela/202184704,2021,6,segunda_liga,49,53,3,0,4,0,,2021
+Académica,Penafiel,2-1,https://www.besoccer.com/match/academica/penafiel/202184696,2021,6,segunda_liga,56,55,2,0,2,0,,2021
+Academico Viseu,Cova Piedade,0-2,https://www.besoccer.com/match/academico-viseu/cova-piedade/202184697,2021,6,segunda_liga,54,47,2,0,2,0,,2021
+SC Covilha ,Vilafranquense,2-2,https://www.besoccer.com/match/sporting-covilha/vilafranquense/202184701,2021,6,segunda_liga,53,42,1,1,4,1,,2021
+Chaves,UD Oliveirense,0-2,https://www.besoccer.com/match/chaves/ud-oliveirense/202184700,2021,6,segunda_liga,58,47,2,0,2,0,,2021
+Estoril,Feirense,3-3,https://www.besoccer.com/match/estoril/feirense/202184702,2021,6,segunda_liga,59,59,2,1,5,1,,2021
+Penafiel,Arouca,2-2,https://www.besoccer.com/match/penafiel/arouca/202184710,2021,7,segunda_liga,55,51,4,0,4,0,,2021
+Vizela,Académica,1-3,https://www.besoccer.com/match/vizela/academica/202184713,2021,7,segunda_liga,53,57,4,2,0,2,,2021
+Cova Piedade,Leixões,2-0,https://www.besoccer.com/match/cova-piedade/leixoes/202184706,2021,7,segunda_liga,47,54,3,0,4,0,,2021
+Porto II,Chaves,1-2,https://www.besoccer.com/match/porto-ii/chaves/202184707,2021,7,segunda_liga,52,58,7,1,3,1,,2021
+Vilafranquense,Casa Pia,2-2,https://www.besoccer.com/match/vilafranquense/casa-pia/202184712,2021,7,segunda_liga,42,44,4,0,3,0,,2021
+Benfica II,Academico Viseu,0-1,https://www.besoccer.com/match/benfica-ii/academico-viseu/202184705,2021,7,segunda_liga,52,53,7,0,5,0,,2021
+Varzim,Estoril,0-2,https://www.besoccer.com/match/varzim/estoril/202184711,2021,7,segunda_liga,54,60,4,0,3,0,,2021
+UD Oliveirense,SC Covilha ,1-2,https://www.besoccer.com/match/ud-oliveirense/sporting-covilha/202184709,2021,7,segunda_liga,47,53,1,0,3,0,,2021
+Feirense,Mafra,3-1,https://www.besoccer.com/match/feirense/mafra/202184708,2021,7,segunda_liga,59,49,4,0,3,0,,2021
+SC Covilha ,Porto II,4-0,https://www.besoccer.com/match/sporting-covilha/porto-ii/202184719,2021,8,segunda_liga,53,52,4,0,2,0,,2021
+Académica,UD Oliveirense,3-0,https://www.besoccer.com/match/academica/ud-oliveirense/202184714,2021,8,segunda_liga,56,47,3,0,3,0,,2021
+Chaves,Vilafranquense,0-0,https://www.besoccer.com/match/chaves/vilafranquense/202184718,2021,8,segunda_liga,58,42,1,0,1,0,,2021
+Leixões,Benfica II,3-2,https://www.besoccer.com/match/leixoes/benfica-ii/202184721,2021,8,segunda_liga,54,52,4,0,2,0,,2021
+Casa Pia,Penafiel,3-3,https://www.besoccer.com/match/casa-pia/penafiel/202184717,2021,8,segunda_liga,44,55,4,0,3,0,,2021
+Academico Viseu,Feirense,0-1,https://www.besoccer.com/match/academico-viseu/feirense/202184715,2021,8,segunda_liga,53,59,2,0,4,0,,2021
+Arouca,Vizela,2-1,https://www.besoccer.com/match/arouca/vizela/202184716,2021,8,segunda_liga,51,53,5,0,2,0,,2021
+Mafra,Varzim,3-1,https://www.besoccer.com/match/mafra/varzim/202184722,2021,8,segunda_liga,49,54,3,0,5,0,,2021
+Estoril,Cova Piedade,5-1,https://www.besoccer.com/match/estoril/cova-piedade/202184720,2021,8,segunda_liga,60,47,1,0,2,0,,2021
+Feirense,Arouca,0-1,https://www.besoccer.com/match/feirense/arouca/202184726,2021,9,segunda_liga,59,51,4,0,6,0,,2021
+Casa Pia,SC Covilha ,0-1,https://www.besoccer.com/match/casa-pia/sporting-covilha/202184723,2021,9,segunda_liga,44,53,2,0,4,0,,2021
+Porto II,Mafra,1-2,https://www.besoccer.com/match/porto-ii/mafra/202184725,2021,9,segunda_liga,52,49,2,0,4,0,,2021
+Varzim,Academico Viseu,1-1,https://www.besoccer.com/match/varzim/academico-viseu/202184729,2021,9,segunda_liga,54,53,2,0,3,0,,2021
+Vizela,Leixões,2-1,https://www.besoccer.com/match/vizela/leixoes/202184731,2021,9,segunda_liga,53,54,2,0,1,0,,2021
+UD Oliveirense,Estoril,0-1,https://www.besoccer.com/match/ud-oliveirense/estoril/202184727,2021,9,segunda_liga,47,60,6,0,3,0,,2021
+Vilafranquense,Académica,0-0,https://www.besoccer.com/match/vilafranquense/academica/202184730,2021,9,segunda_liga,42,57,1,0,2,0,,2021
+Penafiel,Chaves,1-0,https://www.besoccer.com/match/penafiel/chaves/202184728,2021,9,segunda_liga,55,58,3,0,6,0,,2021
+Cova Piedade,Benfica II,2-3,https://www.besoccer.com/match/cova-piedade/benfica-ii/202184724,2021,9,segunda_liga,47,52,3,0,3,0,,2021
+Academico Viseu,Penafiel,0-0,https://www.besoccer.com/match/academico-viseu/penafiel/202184733,2021,10,segunda_liga,54,56,3,0,2,0,,2021
+Cova Piedade,Feirense,0-0,https://www.besoccer.com/match/cova-piedade/feirense/202184736,2021,10,segunda_liga,49,60,4,1,2,1,,2021
+Académica,SC Covilha ,2-1,https://www.besoccer.com/match/academica/sporting-covilha/202184732,2021,10,segunda_liga,58,54,1,0,1,0,,2021
+Estoril,Vizela,2-2,https://www.besoccer.com/match/estoril/vizela/202184738,2021,10,segunda_liga,60,49,2,1,1,1,,2021
+Arouca,Porto II,2-3,https://www.besoccer.com/match/arouca/porto-ii/202184734,2021,10,segunda_liga,52,52,2,0,4,0,,2021
+Benfica II,Varzim,1-0,https://www.besoccer.com/match/benfica-ii/varzim/202184735,2021,10,segunda_liga,52,54,2,0,2,0,,2021
+Mafra,Vilafranquense,0-1,https://www.besoccer.com/match/mafra/vilafranquense/202184740,2021,10,segunda_liga,49,43,3,0,7,0,,2021
+Chaves,Casa Pia,1-2,https://www.besoccer.com/match/chaves/casa-pia/202184737,2021,10,segunda_liga,58,45,1,0,5,0,,2021
+Leixões,UD Oliveirense,1-1,https://www.besoccer.com/match/leixoes/ud-oliveirense/202184739,2021,10,segunda_liga,55,47,2,0,2,0,,2021
+Penafiel,Leixões,1-0,https://www.besoccer.com/match/penafiel/leixoes/202184746,2021,11,segunda_liga,56,55,3,0,5,0,,2021
+Feirense,Benfica II,2-0,https://www.besoccer.com/match/feirense/benfica-ii/202184744,2021,11,segunda_liga,60,52,4,0,2,0,,2021
+UD Oliveirense,Arouca,1-2,https://www.besoccer.com/match/ud-oliveirense/arouca/202184745,2021,11,segunda_liga,47,52,5,0,1,0,,2021
+Vizela,Academico Viseu,1-0,https://www.besoccer.com/match/vizela/academico-viseu/202184749,2021,11,segunda_liga,49,54,3,0,4,0,,2021
+Vilafranquense,Estoril,0-1,https://www.besoccer.com/match/vilafranquense/estoril/202184748,2021,11,segunda_liga,44,60,3,0,3,0,,2021
+Porto II,Académica,1-2,https://www.besoccer.com/match/porto-ii/academica/202184743,2021,11,segunda_liga,52,58,3,0,3,0,,2021
+Varzim,Cova Piedade,1-3,https://www.besoccer.com/match/varzim/cova-piedade/202184747,2021,11,segunda_liga,54,48,4,1,4,1,,2021
+SC Covilha ,Chaves,1-2,https://www.besoccer.com/match/sporting-covilha/chaves/202184742,2021,11,segunda_liga,54,58,7,0,5,0,,2021
+Casa Pia,Mafra,2-0,https://www.besoccer.com/match/casa-pia/mafra/202184741,2021,11,segunda_liga,45,50,3,0,2,0,,2021
+Cova Piedade,Penafiel,2-3,https://www.besoccer.com/match/cova-piedade/penafiel/202184754,2021,12,segunda_liga,48,56,4,0,1,0,,2021
+Academico Viseu,Chaves,2-1,https://www.besoccer.com/match/academico-viseu/chaves/202184751,2021,12,segunda_liga,54,58,2,0,3,0,,2021
+Varzim,Feirense,0-2,https://www.besoccer.com/match/varzim/feirense/202184758,2021,12,segunda_liga,54,60,2,0,4,0,,2021
+Mafra,UD Oliveirense,2-2,https://www.besoccer.com/match/mafra/ud-oliveirense/202184757,2021,12,segunda_liga,50,47,1,0,4,0,,2021
+Académica,Casa Pia,1-1,https://www.besoccer.com/match/academica/casa-pia/202184750,2021,12,segunda_liga,58,45,4,2,2,2,,2021
+Benfica II,Vizela,1-1,https://www.besoccer.com/match/benfica-ii/vizela/202184753,2021,12,segunda_liga,52,49,0,0,2,0,,2021
+Arouca,SC Covilha ,1-0,https://www.besoccer.com/match/arouca/sporting-covilha/202184752,2021,12,segunda_liga,52,54,1,0,1,0,,2021
+Estoril,Porto II,1-1,https://www.besoccer.com/match/estoril/porto-ii/202184755,2021,12,segunda_liga,60,52,1,0,3,0,,2021
+Leixões,Vilafranquense,2-0,https://www.besoccer.com/match/leixoes/vilafranquense/202184756,2021,12,segunda_liga,55,44,1,0,5,0,,2021
+Chaves,Académica,2-1,https://www.besoccer.com/match/chaves/academica/202184760,2021,13,segunda_liga,58,58,5,0,2,0,,2021
+Penafiel,Benfica II,2-0,https://www.besoccer.com/match/penafiel/benfica-ii/202184765,2021,13,segunda_liga,56,52,3,0,1,0,,2021
+Vilafranquense,Arouca,2-0,https://www.besoccer.com/match/vilafranquense/arouca/202184766,2021,13,segunda_liga,44,52,4,0,1,0,,2021
+UD Oliveirense,Cova Piedade,0-0,https://www.besoccer.com/match/ud-oliveirense/cova-piedade/202184764,2021,13,segunda_liga,47,48,2,0,2,0,,2021
+Vizela,Varzim,1-0,https://www.besoccer.com/match/vizela/varzim/202184767,2021,13,segunda_liga,49,54,2,0,3,0,,2021
+Porto II,Academico Viseu,2-3,https://www.besoccer.com/match/porto-ii/academico-viseu/202184762,2021,13,segunda_liga,52,54,1,0,5,0,,2021
+Casa Pia,Estoril,0-2,https://www.besoccer.com/match/casa-pia/estoril/202184759,2021,13,segunda_liga,45,60,0,0,2,0,,2021
+Feirense,Leixões,3-1,https://www.besoccer.com/match/feirense/leixoes/202184763,2021,13,segunda_liga,60,55,1,0,0,0,,2021
+SC Covilha ,Mafra,2-2,https://www.besoccer.com/match/sporting-covilha/mafra/202184761,2021,13,segunda_liga,54,50,4,0,3,0,,2021
+Benfica II,UD Oliveirense,4-0,https://www.besoccer.com/match/benfica-ii/ud-oliveirense/202184770,2021,14,segunda_liga,52,47,2,0,4,0,,2021
+Mafra,Chaves,1-2,https://www.besoccer.com/match/mafra/chaves/202184775,2021,14,segunda_liga,50,58,2,0,4,0,,2021
+Feirense,Vizela,1-2,https://www.besoccer.com/match/feirense/vizela/202184773,2021,14,segunda_liga,60,49,3,0,5,0,,2021
+Leixões,SC Covilha ,0-0,https://www.besoccer.com/match/leixoes/sporting-covilha/202184774,2021,14,segunda_liga,55,54,3,0,3,0,,2021
+Varzim,Vilafranquense,1-1,https://www.besoccer.com/match/varzim/vilafranquense/202184776,2021,14,segunda_liga,54,44,1,0,4,0,,2021
+Cova Piedade,Porto II,1-1,https://www.besoccer.com/match/cova-piedade/porto-ii/202184771,2021,14,segunda_liga,48,52,2,0,3,0,,2021
+Estoril,Penafiel,3-1,https://www.besoccer.com/match/estoril/penafiel/202184772,2021,14,segunda_liga,60,56,5,0,2,0,,2021
+Academico Viseu,Casa Pia,1-1,https://www.besoccer.com/match/academico-viseu/casa-pia/202184768,2021,14,segunda_liga,54,45,2,0,3,0,,2021
+Arouca,Académica,0-2,https://www.besoccer.com/match/arouca/academica/202184769,2021,14,segunda_liga,52,58,2,1,4,1,,2021
+Chaves,Estoril,0-2,https://www.besoccer.com/match/chaves/estoril/202184779,2021,15,segunda_liga,58,60,2,0,1,0,,2021
+Vilafranquense,Academico Viseu,1-1,https://www.besoccer.com/match/vilafranquense/academico-viseu/202184784,2021,15,segunda_liga,44,55,2,0,1,0,,2021
+Penafiel,Varzim,1-2,https://www.besoccer.com/match/penafiel/varzim/202184783,2021,15,segunda_liga,56,54,2,0,3,0,,2021
+SC Covilha ,Benfica II,1-1,https://www.besoccer.com/match/sporting-covilha/benfica-ii/202184780,2021,15,segunda_liga,54,52,1,0,1,0,,2021
+UD Oliveirense,Feirense,1-0,https://www.besoccer.com/match/ud-oliveirense/feirense/202184782,2021,15,segunda_liga,47,60,4,0,2,0,,2021
+Casa Pia,Arouca,1-1,https://www.besoccer.com/match/casa-pia/arouca/202184778,2021,15,segunda_liga,45,52,2,0,1,0,,2021
+Vizela,Cova Piedade,2-1,https://www.besoccer.com/match/vizela/cova-piedade/202184785,2021,15,segunda_liga,49,49,1,0,1,0,,2021
+Porto II,Leixões,1-2,https://www.besoccer.com/match/porto-ii/leixoes/202184781,2021,15,segunda_liga,52,55,2,0,3,0,,2021
+Académica,Mafra,1-0,https://www.besoccer.com/match/academica/mafra/202184777,2021,15,segunda_liga,58,49,1,0,1,0,,2021
+Leixões,Chaves,1-0,https://www.besoccer.com/match/leixoes/chaves/202184792,2021,16,segunda_liga,55,58,4,0,3,0,,2021
+Benfica II,Académica,2-2,https://www.besoccer.com/match/benfica-ii/academica/202184788,2021,16,segunda_liga,52,58,4,0,1,0,,2021
+Vizela,Penafiel,3-1,https://www.besoccer.com/match/vizela/penafiel/202184794,2021,16,segunda_liga,49,56,2,0,3,0,,2021
+Academico Viseu,UD Oliveirense,1-2,https://www.besoccer.com/match/academico-viseu/ud-oliveirense/202184786,2021,16,segunda_liga,55,47,5,0,3,0,,2021
+Feirense,Porto II,2-0,https://www.besoccer.com/match/feirense/porto-ii/202184791,2021,16,segunda_liga,60,52,5,0,2,0,,2021
+Arouca,Mafra,0-0,https://www.besoccer.com/match/arouca/mafra/202184787,2021,16,segunda_liga,52,49,1,0,3,0,,2021
+Varzim,Casa Pia,0-1,https://www.besoccer.com/match/varzim/casa-pia/202184793,2021,16,segunda_liga,54,45,3,0,1,0,,2021
+Estoril,SC Covilha ,0-0,https://www.besoccer.com/match/estoril/sporting-covilha/202184790,2021,16,segunda_liga,61,54,2,0,3,0,,2021
+Cova Piedade,Vilafranquense,1-1,https://www.besoccer.com/match/cova-piedade/vilafranquense/202184789,2021,16,segunda_liga,48,44,2,0,2,0,,2021
+UD Oliveirense,Varzim,1-1,https://www.besoccer.com/match/ud-oliveirense/varzim/202184801,2021,17,segunda_liga,47,54,2,0,3,0,,2021
+Penafiel,Feirense,2-2,https://www.besoccer.com/match/penafiel/feirense/202184802,2021,17,segunda_liga,56,60,1,0,2,0,,2021
+Mafra,Estoril,1-1,https://www.besoccer.com/match/mafra/estoril/202184800,2021,17,segunda_liga,49,61,5,0,5,0,,2021
+Chaves,Arouca,2-1,https://www.besoccer.com/match/chaves/arouca/202184797,2021,17,segunda_liga,58,52,7,0,4,0,,2021
+Porto II,Benfica II,1-1,https://www.besoccer.com/match/porto-ii/benfica-ii/202184799,2021,17,segunda_liga,52,52,1,1,4,1,,2021
+Casa Pia,Cova Piedade,2-1,https://www.besoccer.com/match/casa-pia/cova-piedade/202184796,2021,17,segunda_liga,45,48,2,0,1,0,,2021
+Vilafranquense,Vizela,1-1,https://www.besoccer.com/match/vilafranquense/vizela/202184803,2021,17,segunda_liga,44,49,3,1,0,1,,2021
+Académica,Leixões,1-1,https://www.besoccer.com/match/academica/leixoes/202184795,2021,17,segunda_liga,58,54,4,0,1,0,,2021
+SC Covilha ,Academico Viseu,2-1,https://www.besoccer.com/match/sporting-covilha/academico-viseu/202184798,2021,17,segunda_liga,53,55,2,0,3,0,,2021
+Chaves,Feirense,0-1,https://www.besoccer.com/match/chaves/feirense/202184807,2021,18,segunda_liga,58,60,3,0,6,0,,2021
+UD Oliveirense,Vizela,0-3,https://www.besoccer.com/match/ud-oliveirense/vizela/202184811,2021,18,segunda_liga,47,49,3,0,4,0,,2021
+Vilafranquense,Benfica II,2-2,https://www.besoccer.com/match/vilafranquense/benfica-ii/202184812,2021,18,segunda_liga,44,52,1,0,3,0,,2021
+Académica,Academico Viseu,2-1,https://www.besoccer.com/match/academica/academico-viseu/202184804,2021,18,segunda_liga,58,55,1,0,3,0,,2021
+Porto II,Varzim,0-1,https://www.besoccer.com/match/porto-ii/varzim/202184809,2021,18,segunda_liga,52,53,3,0,3,0,,2021
+Casa Pia,Leixões,1-1,https://www.besoccer.com/match/casa-pia/leixoes/202184806,2021,18,segunda_liga,45,54,1,0,1,0,,2021
+Mafra,Cova Piedade,1-1,https://www.besoccer.com/match/mafra/cova-piedade/202184810,2021,18,segunda_liga,49,48,3,0,4,0,,2021
+Arouca,Estoril,1-0,https://www.besoccer.com/match/arouca/estoril/202184805,2021,18,segunda_liga,52,61,4,0,2,0,,2021
+SC Covilha ,Penafiel,0-2,https://www.besoccer.com/match/sporting-covilha/penafiel/202184808,2021,18,segunda_liga,53,56,1,0,1,0,,2021
+Feirense,Vilafranquense,2-1,https://www.besoccer.com/match/feirense/vilafranquense/202184817,2021,19,segunda_liga,60,44,3,0,5,0,,2021
+Varzim,Chaves,1-3,https://www.besoccer.com/match/varzim/chaves/202184820,2021,19,segunda_liga,53,58,1,1,3,1,,2021
+Leixões,Arouca,0-1,https://www.besoccer.com/match/leixoes/arouca/202184818,2021,19,segunda_liga,54,52,2,0,3,0,,2021
+Estoril,Académica,1-2,https://www.besoccer.com/match/estoril/academica/202184816,2021,19,segunda_liga,61,58,1,1,3,1,,2021
+Vizela,Porto II,0-0,https://www.besoccer.com/match/vizela/porto-ii/202184821,2021,19,segunda_liga,50,52,3,0,4,0,,2021
+Academico Viseu,Mafra,2-0,https://www.besoccer.com/match/academico-viseu/mafra/202184813,2021,19,segunda_liga,55,49,2,0,1,0,,2021
+Benfica II,Casa Pia,2-0,https://www.besoccer.com/match/benfica-ii/casa-pia/202184814,2021,19,segunda_liga,52,45,4,0,2,0,,2021
+Cova Piedade,SC Covilha ,1-0,https://www.besoccer.com/match/cova-piedade/sporting-covilha/202184815,2021,19,segunda_liga,48,53,3,0,1,0,,2021
+Penafiel,UD Oliveirense,1-0,https://www.besoccer.com/match/penafiel/ud-oliveirense/202184819,2021,19,segunda_liga,56,47,2,0,1,0,,2021
+Académica,Cova Piedade,2-1,https://www.besoccer.com/match/academica/cova-piedade/202184822,2021,20,segunda_liga,58,48,1,0,5,0,,2021
+Arouca,Varzim,0-0,https://www.besoccer.com/match/arouca/varzim/202184823,2021,20,segunda_liga,52,54,1,1,5,1,,2021
+SC Covilha ,Vizela,0-0,https://www.besoccer.com/match/sporting-covilha/vizela/202184826,2021,20,segunda_liga,53,50,3,0,3,0,,2021
+Mafra,Leixões,1-1,https://www.besoccer.com/match/mafra/leixoes/202184829,2021,20,segunda_liga,49,54,1,0,4,0,,2021
+Chaves,Benfica II,0-0,https://www.besoccer.com/match/chaves/benfica-ii/202184825,2021,20,segunda_liga,58,52,0,0,2,0,,2021
+Porto II,UD Oliveirense,1-2,https://www.besoccer.com/match/porto-ii/ud-oliveirense/202184828,2021,20,segunda_liga,52,47,1,1,2,1,,2021
+Casa Pia,Feirense,0-1,https://www.besoccer.com/match/casa-pia/feirense/202184824,2021,20,segunda_liga,45,60,4,1,3,1,,2021
+Estoril,Academico Viseu,3-0,https://www.besoccer.com/match/estoril/academico-viseu/202184827,2021,20,segunda_liga,61,55,1,0,1,0,,2021
+Vilafranquense,Penafiel,0-0,https://www.besoccer.com/match/vilafranquense/penafiel/202184830,2021,20,segunda_liga,44,56,4,0,1,0,,2021
+Cova Piedade,Chaves,1-1,https://www.besoccer.com/match/cova-piedade/chaves/202184833,2021,21,segunda_liga,48,58,2,0,0,0,,2021
+Vizela,Casa Pia,3-1,https://www.besoccer.com/match/vizela/casa-pia/202184839,2021,21,segunda_liga,50,45,2,0,1,0,,2021
+Leixões,Estoril,0-1,https://www.besoccer.com/match/leixoes/estoril/202184835,2021,21,segunda_liga,55,61,2,0,2,0,,2021
+Penafiel,Porto II,0-0,https://www.besoccer.com/match/penafiel/porto-ii/202184837,2021,21,segunda_liga,56,52,5,0,0,0,,2021
+Academico Viseu,Arouca,0-4,https://www.besoccer.com/match/academico-viseu/arouca/202184831,2021,21,segunda_liga,55,52,3,0,1,0,,2021
+Benfica II,Mafra,2-0,https://www.besoccer.com/match/benfica-ii/mafra/202184832,2021,21,segunda_liga,52,49,3,0,2,0,,2021
+Varzim,SC Covilha ,1-2,https://www.besoccer.com/match/varzim/sporting-covilha/202184838,2021,21,segunda_liga,53,53,5,0,2,0,,2021
+Feirense,Académica,1-0,https://www.besoccer.com/match/feirense/academica/202184834,2021,21,segunda_liga,60,58,3,0,1,0,,2021
+UD Oliveirense,Vilafranquense,2-2,https://www.besoccer.com/match/ud-oliveirense/vilafranquense/202184836,2021,21,segunda_liga,47,44,2,0,3,0,,2021
+Chaves,Vizela,2-2,https://www.besoccer.com/match/chaves/vizela/202184843,2021,22,segunda_liga,58,50,2,0,2,0,,2021
+SC Covilha ,Feirense,0-2,https://www.besoccer.com/match/sporting-covilha/feirense/202184844,2021,22,segunda_liga,53,60,4,0,3,0,,2021
+Arouca,Cova Piedade,2-1,https://www.besoccer.com/match/arouca/cova-piedade/202184841,2021,22,segunda_liga,52,48,2,0,7,0,,2021
+Vilafranquense,Porto II,1-1,https://www.besoccer.com/match/vilafranquense/porto-ii/202184848,2021,22,segunda_liga,44,52,3,0,1,0,,2021
+Estoril,Benfica II,3-2,https://www.besoccer.com/match/estoril/benfica-ii/202184845,2021,22,segunda_liga,62,52,5,0,3,0,,2021
+Mafra,Penafiel,1-0,https://www.besoccer.com/match/mafra/penafiel/202184847,2021,22,segunda_liga,49,56,4,1,1,1,,2021
+Casa Pia,UD Oliveirense,2-0,https://www.besoccer.com/match/casa-pia/ud-oliveirense/202184842,2021,22,segunda_liga,46,47,5,0,1,0,,2021
+Leixões,Academico Viseu,2-1,https://www.besoccer.com/match/leixoes/academico-viseu/202184846,2021,22,segunda_liga,55,55,2,0,1,0,,2021
+Académica,Varzim,1-2,https://www.besoccer.com/match/academica/varzim/202184840,2021,22,segunda_liga,58,53,3,0,1,0,,2021
+Vizela,Mafra,2-0,https://www.besoccer.com/match/vizela/mafra/202184857,2021,23,segunda_liga,50,49,3,0,1,0,,2021
+Penafiel,Académica,1-2,https://www.besoccer.com/match/penafiel/academica/202184854,2021,23,segunda_liga,56,58,1,0,3,0,,2021
+UD Oliveirense,Chaves,0-1,https://www.besoccer.com/match/ud-oliveirense/chaves/202184853,2021,23,segunda_liga,47,58,5,0,4,0,,2021
+Cova Piedade,Academico Viseu,0-2,https://www.besoccer.com/match/cova-piedade/academico-viseu/202184850,2021,23,segunda_liga,48,54,6,2,2,2,,2021
+Porto II,Casa Pia,1-1,https://www.besoccer.com/match/porto-ii/casa-pia/202184851,2021,23,segunda_liga,52,46,3,0,1,0,,2021
+Benfica II,Arouca,3-1,https://www.besoccer.com/match/benfica-ii/arouca/202184849,2021,23,segunda_liga,52,52,3,0,2,0,,2021
+Vilafranquense,SC Covilha ,2-2,https://www.besoccer.com/match/vilafranquense/sporting-covilha/202184856,2021,23,segunda_liga,44,53,3,0,2,0,,2021
+Varzim,Leixões,0-1,https://www.besoccer.com/match/varzim/leixoes/202184855,2021,23,segunda_liga,54,55,4,0,6,0,,2021
+Feirense,Estoril,0-1,https://www.besoccer.com/match/feirense/estoril/202184852,2021,23,segunda_liga,60,62,1,0,1,0,,2021
+Académica,Vizela,1-3,https://www.besoccer.com/match/academica/vizela/202184858,2021,24,segunda_liga,58,50,1,0,2,0,,2021
+Academico Viseu,Benfica II,2-1,https://www.besoccer.com/match/academico-viseu/benfica-ii/202184859,2021,24,segunda_liga,55,53,2,0,5,0,,2021
+Leixões,Cova Piedade,1-1,https://www.besoccer.com/match/leixoes/cova-piedade/202184865,2021,24,segunda_liga,55,48,3,0,2,0,,2021
+Casa Pia,Vilafranquense,3-0,https://www.besoccer.com/match/casa-pia/vilafranquense/202184861,2021,24,segunda_liga,45,44,5,0,2,0,,2021
+Estoril,Varzim,1-0,https://www.besoccer.com/match/estoril/varzim/202184864,2021,24,segunda_liga,62,53,4,0,1,0,,2021
+Chaves,Porto II,1-1,https://www.besoccer.com/match/chaves/porto-ii/202184862,2021,24,segunda_liga,58,52,3,0,1,0,,2021
+Arouca,Penafiel,0-1,https://www.besoccer.com/match/arouca/penafiel/202184860,2021,24,segunda_liga,52,56,2,0,3,0,,2021
+Mafra,Feirense,2-1,https://www.besoccer.com/match/mafra/feirense/202184866,2021,24,segunda_liga,49,60,3,0,3,0,,2021
+SC Covilha ,UD Oliveirense,1-0,https://www.besoccer.com/match/sporting-covilha/ud-oliveirense/202184863,2021,24,segunda_liga,53,47,2,0,1,0,,2021
+Cova Piedade,Estoril,2-3,https://www.besoccer.com/match/cova-piedade/estoril/202184868,2021,25,segunda_liga,48,62,4,0,1,0,,2021
+Varzim,Mafra,2-0,https://www.besoccer.com/match/varzim/mafra/202184873,2021,25,segunda_liga,53,49,4,0,1,0,,2021
+UD Oliveirense,Académica,0-0,https://www.besoccer.com/match/ud-oliveirense/academica/202184871,2021,25,segunda_liga,47,58,3,0,4,0,,2021
+Vizela,Arouca,1-1,https://www.besoccer.com/match/vizela/arouca/202184875,2021,25,segunda_liga,50,52,6,0,3,0,,2021
+Porto II,SC Covilha ,2-1,https://www.besoccer.com/match/porto-ii/sporting-covilha/202184869,2021,25,segunda_liga,51,53,2,0,1,0,,2021
+Benfica II,Leixões,2-1,https://www.besoccer.com/match/benfica-ii/leixoes/202184867,2021,25,segunda_liga,53,55,1,0,1,0,,2021
+Penafiel,Casa Pia,1-1,https://www.besoccer.com/match/penafiel/casa-pia/202184872,2021,25,segunda_liga,56,45,1,0,5,0,,2021
+Feirense,Academico Viseu,1-1,https://www.besoccer.com/match/feirense/academico-viseu/202184870,2021,25,segunda_liga,60,54,1,0,1,0,,2021
+Vilafranquense,Chaves,0-1,https://www.besoccer.com/match/vilafranquense/chaves/202184874,2021,25,segunda_liga,44,58,5,0,2,0,,2021
+Academico Viseu,Varzim,0-1,https://www.besoccer.com/match/academico-viseu/varzim/202184877,2021,26,segunda_liga,54,53,4,0,4,0,,2021
+Estoril,UD Oliveirense,3-0,https://www.besoccer.com/match/estoril/ud-oliveirense/202184882,2021,26,segunda_liga,62,47,2,0,1,0,,2021
+Arouca,Feirense,1-0,https://www.besoccer.com/match/arouca/feirense/202184878,2021,26,segunda_liga,53,60,2,0,2,0,,2021
+SC Covilha ,Casa Pia,0-0,https://www.besoccer.com/match/sporting-covilha/casa-pia/202184881,2021,26,segunda_liga,53,45,1,0,0,0,,2021
+Benfica II,Cova Piedade,0-1,https://www.besoccer.com/match/benfica-ii/cova-piedade/202184879,2021,26,segunda_liga,53,48,2,0,6,0,,2021
+Mafra,Porto II,0-4,https://www.besoccer.com/match/mafra/porto-ii/202184884,2021,26,segunda_liga,49,51,4,0,2,0,,2021
+Leixões,Vizela,0-4,https://www.besoccer.com/match/leixoes/vizela/202184883,2021,26,segunda_liga,54,50,4,0,1,0,,2021
+Chaves,Penafiel,2-1,https://www.besoccer.com/match/chaves/penafiel/202184880,2021,26,segunda_liga,58,56,0,0,3,0,,2021
+Académica,Vilafranquense,2-2,https://www.besoccer.com/match/academica/vilafranquense/202184876,2021,26,segunda_liga,58,44,4,0,5,0,,2021
+SC Covilha ,Académica,1-1,https://www.besoccer.com/match/sporting-covilha/academica/202184886,2021,27,segunda_liga,53,58,2,0,3,0,,2021
+Varzim,Benfica II,2-1,https://www.besoccer.com/match/varzim/benfica-ii/202184891,2021,27,segunda_liga,53,53,2,0,4,0,,2021
+Penafiel,Academico Viseu,1-2,https://www.besoccer.com/match/penafiel/academico-viseu/202184890,2021,27,segunda_liga,56,54,2,0,2,0,,2021
+Vizela,Estoril,1-1,https://www.besoccer.com/match/vizela/estoril/202184893,2021,27,segunda_liga,50,62,2,0,4,0,,2021
+Porto II,Arouca,0-3,https://www.besoccer.com/match/porto-ii/arouca/202184887,2021,27,segunda_liga,51,53,1,0,3,0,,2021
+Feirense,Cova Piedade,1-1,https://www.besoccer.com/match/feirense/cova-piedade/202184888,2021,27,segunda_liga,61,48,0,0,6,0,,2021
+Vilafranquense,Mafra,2-1,https://www.besoccer.com/match/vilafranquense/mafra/202184892,2021,27,segunda_liga,44,49,5,0,1,0,,2021
+UD Oliveirense,Leixões,2-1,https://www.besoccer.com/match/ud-oliveirense/leixoes/202184889,2021,27,segunda_liga,47,55,3,0,2,0,,2021
+Casa Pia,Chaves,1-2,https://www.besoccer.com/match/casa-pia/chaves/202184885,2021,27,segunda_liga,45,58,2,0,2,0,,2021
+Académica,Porto II,1-1,https://www.besoccer.com/match/academica/porto-ii/202184894,2021,28,segunda_liga,58,51,4,0,2,0,,2021
+Cova Piedade,Varzim,2-1,https://www.besoccer.com/match/cova-piedade/varzim/202184898,2021,28,segunda_liga,48,53,6,0,2,0,,2021
+Leixões,Penafiel,2-0,https://www.besoccer.com/match/leixoes/penafiel/202184901,2021,28,segunda_liga,55,56,4,0,1,0,,2021
+Estoril,Vilafranquense,3-1,https://www.besoccer.com/match/estoril/vilafranquense/202184900,2021,28,segunda_liga,62,44,8,0,4,0,,2021
+Chaves,SC Covilha ,2-0,https://www.besoccer.com/match/chaves/sporting-covilha/202184899,2021,28,segunda_liga,58,53,1,0,2,0,,2021
+Benfica II,Feirense,2-0,https://www.besoccer.com/match/benfica-ii/feirense/202184897,2021,28,segunda_liga,53,60,2,0,3,0,,2021
+Arouca,UD Oliveirense,3-0,https://www.besoccer.com/match/arouca/ud-oliveirense/202184896,2021,28,segunda_liga,52,47,2,0,2,0,,2021
+Academico Viseu,Vizela,1-3,https://www.besoccer.com/match/academico-viseu/vizela/202184895,2021,28,segunda_liga,54,50,1,0,3,0,,2021
+Mafra,Casa Pia,0-4,https://www.besoccer.com/match/mafra/casa-pia/202184902,2021,28,segunda_liga,49,45,2,0,2,0,,2021
+Vilafranquense,Leixões,0-2,https://www.besoccer.com/match/vilafranquense/leixoes/202184910,2021,29,segunda_liga,44,55,4,0,2,0,,2021
+Feirense,Varzim,1-0,https://www.besoccer.com/match/feirense/varzim/202184907,2021,29,segunda_liga,60,53,1,0,0,0,,2021
+Casa Pia,Académica,0-3,https://www.besoccer.com/match/casa-pia/academica/202184903,2021,29,segunda_liga,46,58,2,0,2,0,,2021
+Penafiel,Cova Piedade,2-2,https://www.besoccer.com/match/penafiel/cova-piedade/202184909,2021,29,segunda_liga,56,48,3,1,1,1,,2021
+Porto II,Estoril,2-2,https://www.besoccer.com/match/porto-ii/estoril/202184906,2021,29,segunda_liga,51,62,2,0,3,0,,2021
+UD Oliveirense,Mafra,0-0,https://www.besoccer.com/match/ud-oliveirense/mafra/202184908,2021,29,segunda_liga,47,49,3,0,1,0,,2021
+Chaves,Academico Viseu,2-1,https://www.besoccer.com/match/chaves/academico-viseu/202184904,2021,29,segunda_liga,58,54,1,0,4,0,,2021
+SC Covilha ,Arouca,1-2,https://www.besoccer.com/match/sporting-covilha/arouca/202184905,2021,29,segunda_liga,53,52,1,1,2,1,,2021
+Vizela,Benfica II,1-0,https://www.besoccer.com/match/vizela/benfica-ii/202184911,2021,29,segunda_liga,51,53,3,0,2,0,,2021
+Estoril,Casa Pia,1-1,https://www.besoccer.com/match/estoril/casa-pia/202184917,2021,30,segunda_liga,62,46,1,0,4,0,,2021
+Académica,Chaves,2-1,https://www.besoccer.com/match/academica/chaves/202184912,2021,30,segunda_liga,58,58,4,0,2,0,,2021
+Leixões,Feirense,1-4,https://www.besoccer.com/match/leixoes/feirense/202184918,2021,30,segunda_liga,54,60,3,0,0,0,,2021
+Varzim,Vizela,0-3,https://www.besoccer.com/match/varzim/vizela/202184920,2021,30,segunda_liga,53,51,3,0,2,0,,2021
+Mafra,SC Covilha ,2-2,https://www.besoccer.com/match/mafra/sporting-covilha/202184919,2021,30,segunda_liga,49,53,2,1,2,1,,2021
+Academico Viseu,Porto II,1-0,https://www.besoccer.com/match/academico-viseu/porto-ii/202184913,2021,30,segunda_liga,54,52,6,0,1,0,,2021
+Cova Piedade,UD Oliveirense,0-0,https://www.besoccer.com/match/cova-piedade/ud-oliveirense/202184916,2021,30,segunda_liga,48,47,3,1,2,1,,2021
+Arouca,Vilafranquense,3-0,https://www.besoccer.com/match/arouca/vilafranquense/202184914,2021,30,segunda_liga,52,44,5,0,2,0,,2021
+Benfica II,Penafiel,2-2,https://www.besoccer.com/match/benfica-ii/penafiel/202184915,2021,30,segunda_liga,53,56,4,0,2,0,,2021
+Chaves,Mafra,1-1,https://www.besoccer.com/match/chaves/mafra/202184923,2021,31,segunda_liga,58,49,4,1,4,1,,2021
+Porto II,Cova Piedade,5-1,https://www.besoccer.com/match/porto-ii/cova-piedade/202184925,2021,31,segunda_liga,52,48,1,0,2,0,,2021
+UD Oliveirense,Benfica II,0-2,https://www.besoccer.com/match/ud-oliveirense/benfica-ii/202184926,2021,31,segunda_liga,47,53,2,1,2,1,,2021
+Vizela,Feirense,1-1,https://www.besoccer.com/match/vizela/feirense/202184929,2021,31,segunda_liga,51,60,4,1,2,1,,2021
+SC Covilha ,Leixões,0-0,https://www.besoccer.com/match/sporting-covilha/leixoes/202184924,2021,31,segunda_liga,53,54,0,0,0,0,,2021
+Casa Pia,Academico Viseu,0-0,https://www.besoccer.com/match/casa-pia/academico-viseu/202184922,2021,31,segunda_liga,46,54,4,0,1,0,,2021
+Penafiel,Estoril,0-0,https://www.besoccer.com/match/penafiel/estoril/202184927,2021,31,segunda_liga,56,62,3,0,1,0,,2021
+Vilafranquense,Varzim,1-3,https://www.besoccer.com/match/vilafranquense/varzim/202184928,2021,31,segunda_liga,44,54,3,0,6,0,,2021
+Académica,Arouca,0-1,https://www.besoccer.com/match/academica/arouca/202184921,2021,31,segunda_liga,58,52,1,0,1,0,,2021
+Feirense,UD Oliveirense,4-1,https://www.besoccer.com/match/feirense/ud-oliveirense/202184935,2021,32,segunda_liga,60,47,2,0,3,0,,2021
+Benfica II,SC Covilha ,1-1,https://www.besoccer.com/match/benfica-ii/sporting-covilha/202184932,2021,32,segunda_liga,53,53,2,0,1,0,,2021
+Mafra,Académica,2-2,https://www.besoccer.com/match/mafra/academica/202184937,2021,32,segunda_liga,49,58,3,0,4,0,,2021
+Estoril,Chaves,1-1,https://www.besoccer.com/match/estoril/chaves/202184934,2021,32,segunda_liga,62,58,6,0,3,0,,2021
+Cova Piedade,Vizela,1-1,https://www.besoccer.com/match/cova-piedade/vizela/202184933,2021,32,segunda_liga,48,51,6,1,2,1,,2021
+Arouca,Casa Pia,2-1,https://www.besoccer.com/match/arouca/casa-pia/202184931,2021,32,segunda_liga,53,46,2,0,4,0,,2021
+Leixões,Porto II,2-0,https://www.besoccer.com/match/leixoes/porto-ii/202184936,2021,32,segunda_liga,54,52,1,0,3,0,,2021
+Varzim,Penafiel,1-2,https://www.besoccer.com/match/varzim/penafiel/202184938,2021,32,segunda_liga,54,56,1,0,4,0,,2021
+Academico Viseu,Vilafranquense,1-2,https://www.besoccer.com/match/academico-viseu/vilafranquense/202184930,2021,32,segunda_liga,54,44,4,0,3,0,,2021
+UD Oliveirense,Academico Viseu,2-1,https://www.besoccer.com/match/ud-oliveirense/academico-viseu/202184945,2021,33,segunda_liga,47,54,1,0,6,0,,2021
+Chaves,Leixões,3-1,https://www.besoccer.com/match/chaves/leixoes/202184941,2021,33,segunda_liga,58,54,2,0,1,0,,2021
+Vilafranquense,Cova Piedade,0-0,https://www.besoccer.com/match/vilafranquense/cova-piedade/202184947,2021,33,segunda_liga,44,48,5,0,2,0,,2021
+Mafra,Arouca,0-1,https://www.besoccer.com/match/mafra/arouca/202184944,2021,33,segunda_liga,48,53,3,0,2,0,,2021
+SC Covilha ,Estoril,3-2,https://www.besoccer.com/match/sporting-covilha/estoril/202184942,2021,33,segunda_liga,53,62,2,0,2,0,,2021
+Penafiel,Vizela,1-2,https://www.besoccer.com/match/penafiel/vizela/202184946,2021,33,segunda_liga,55,51,4,1,4,1,,2021
+Casa Pia,Varzim,3-0,https://www.besoccer.com/match/casa-pia/varzim/202184940,2021,33,segunda_liga,46,53,2,0,2,0,,2021
+Porto II,Feirense,4-2,https://www.besoccer.com/match/porto-ii/feirense/202184943,2021,33,segunda_liga,52,60,1,0,4,0,,2021
+Académica,Benfica II,1-0,https://www.besoccer.com/match/academica/benfica-ii/202184939,2021,33,segunda_liga,58,53,2,0,3,0,,2021
+Estoril,Mafra,1-0,https://www.besoccer.com/match/estoril/mafra/202184952,2021,34,segunda_liga,62,48,2,0,2,0,,2021
+Feirense,Penafiel,0-1,https://www.besoccer.com/match/feirense/penafiel/202184953,2021,34,segunda_liga,60,55,3,0,2,0,,2021
+Academico Viseu,SC Covilha ,3-2,https://www.besoccer.com/match/academico-viseu/sporting-covilha/202184948,2021,34,segunda_liga,54,53,0,0,0,0,,2021
+Arouca,Chaves,3-1,https://www.besoccer.com/match/arouca/chaves/202184949,2021,34,segunda_liga,53,58,2,0,3,0,,2021
+Benfica II,Porto II,2-1,https://www.besoccer.com/match/benfica-ii/porto-ii/202184950,2021,34,segunda_liga,53,52,3,1,2,1,,2021
+Cova Piedade,Casa Pia,4-0,https://www.besoccer.com/match/cova-piedade/casa-pia/202184951,2021,34,segunda_liga,48,46,2,0,1,0,,2021
+Leixões,Académica,1-2,https://www.besoccer.com/match/leixoes/academica/202184954,2021,34,segunda_liga,54,58,1,0,5,0,,2021
+Varzim,UD Oliveirense,1-0,https://www.besoccer.com/match/varzim/ud-oliveirense/202184955,2021,34,segunda_liga,53,47,2,0,4,0,,2021
+Vizela,Vilafranquense,5-2,https://www.besoccer.com/match/vizela/vilafranquense/202184956,2021,34,segunda_liga,51,44,2,0,3,0,,2021
