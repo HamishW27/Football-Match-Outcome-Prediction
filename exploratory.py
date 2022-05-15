@@ -533,7 +533,7 @@ class WebScraper:
                 'Round': [round], 'League': [league], 'Elo_home': [home_elo],
                 'Elo_away': [away_elo], 'Home_Yellow': [home_yellow],
                 'Home_Red': [home_red], 'Away_Yellow': [away_yellow],
-                'Away_Red': [away_red], 'Date_New': [date],
+                'Away_Red': [away_red],
                 'Referee': [referee], 'Year': [year]}
         return pd.DataFrame.from_dict(data)
 
@@ -570,7 +570,10 @@ def clean_date(string):
         try:
             date = datetime.strptime(string.replace(' ', ''), '%a,%d%b%H:%M')
         except ValueError:
-            date = datetime.strptime(string.replace(' ', ''), '%a,%d%b')
+            try:
+                date = datetime.strptime(string.replace(' ', ''), '%a,%d%b')
+            except ValueError:
+                date = None
     return date
 
 

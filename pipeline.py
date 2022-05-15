@@ -32,6 +32,12 @@ def download_data(db_name, columns=None):
     return pd.read_sql_table(db_name, engine, columns=columns)
 
 
+def join_lists(list_of_lists):
+    mylist = [item for sublist in list_of_lists for item in sublist]
+    mylist = [link[0] for link in mylist]
+    return mylist
+
+
 scraper = exploratory.WebScraper(exploratory.leagues)
 
 league_names = [x['Name'] for x in exploratory.leagues]
@@ -40,7 +46,7 @@ db_links = download_data('football', columns=['Link'])
 print('Downloaded sql database')
 
 new_db_links = scraper.scrape_all_leagues(leagues_and_urls, '2022')
-new_db_links = [link[0] for link in new_db_links]
+new_db_links = join_lists(new_db_links)
 
 if set(new_db_links).issubset(set(db_links['Link'])):
     print('Database is up to date')
