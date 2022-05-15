@@ -5,6 +5,7 @@ import os
 from datetime import datetime
 import re
 import requests
+from tqdm import tqdm
 
 '''
 {'Name': 'eerste_divisie', 'Teams': 20}
@@ -406,8 +407,9 @@ class DataCleaner:
     def merge_data(self, leagues, years):
         team_info = pd.read_csv('Team_Info.csv')
         big_df = pd.DataFrame()
-        for league in leagues:
-            for year in years:
+        for league in tqdm(leagues):
+            for year in (pbar2 := tqdm(years)):
+                pbar2.set_description(f'Processing {league} {year}')
                 df = self.add_cards(league, year)
                 big_df = pd.concat([big_df, df])
         big_df = pd.merge(big_df, team_info, on='Home_Team')
@@ -540,7 +542,7 @@ class WebScraper:
     def scrape_league_data(self, league, year, url_ext=''):
         links = self.scrape_league_links(league, year, url_ext=url_ext)
         dfs = []
-        for link in links:
+        for link in tqdm(links, desc='Scraping Matches'):
             dfs.append(self.scrape_page_info(link[0], league, year, link[1]))
         return pd.concat(dfs).reset_index(drop=True)
 

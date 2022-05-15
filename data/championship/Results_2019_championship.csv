@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Reading,Derby County,1-2,https://www.besoccer.com/match/reading-fc/derby-county-fc/201919669,2019,1,championship,55,59,3,0,4,0,,2019
+Birmingham City,Norwich City,2-2,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/201919670,2019,1,championship,53,61,0,0,3,0,,2019
+Brentford,Rotherham United,5-1,https://www.besoccer.com/match/brentford/rotherham-united/201919671,2019,1,championship,54,41,0,0,2,0,,2019
+Bristol City,Nottingham Forest,1-1,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/201919672,2019,1,championship,56,54,0,0,4,0,,2019
+Ipswich Town,Blackburn Rovers,2-2,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/201919673,2019,1,championship,54,54,2,0,3,0,,2019
+Millwall,Middlesbrough,2-2,https://www.besoccer.com/match/millwall-fc/middlesbrough-fc/201919674,2019,1,championship,53,66,3,0,2,0,,2019
+Preston North End,Queens Park Rangers,1-0,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/201919675,2019,1,championship,57,53,0,0,2,0,,2019
+West Bromwich Albion,Bolton Wanderers,1-2,https://www.besoccer.com/match/west-bromwich/bolton-wanderers-fc/201919676,2019,1,championship,63,48,1,0,0,0,,2019
+Wigan Athletic,Sheffield Wednesday,3-2,https://www.besoccer.com/match/wigan-athletic/sheffield-wednesday-fc/201919677,2019,1,championship,55,58,1,0,4,0,,2019
+Sheffield United,Swansea City,1-2,https://www.besoccer.com/match/sheffield-united/swansea-city-afc/201919678,2019,1,championship,52,64,0,0,0,0,,2019
+Leeds United,Stoke City,3-1,https://www.besoccer.com/match/leeds-united-afc/stoke-city/201919679,2019,1,championship,56,65,0,0,0,0,,2019
+Hull City,Aston Villa,1-3,https://www.besoccer.com/match/hull-city/aston-villa-fc/201919680,2019,1,championship,65,61,0,0,2,0,,2019
+Aston Villa,Wigan Athletic,3-2,https://www.besoccer.com/match/aston-villa-fc/wigan-athletic/201919681,2019,2,championship,61,55,1,0,4,0,,2019
+Blackburn Rovers,Millwall,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/millwall-fc/201919682,2019,2,championship,56,54,0,0,1,0,,2019
+Bolton Wanderers,Bristol City,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/bristol-city-fc/201919683,2019,2,championship,48,55,6,0,2,0,,2019
+Middlesbrough,Birmingham City,1-0,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/201919685,2019,2,championship,66,53,0,0,1,0,,2019
+Norwich City,West Bromwich Albion,3-4,https://www.besoccer.com/match/norwich-city-fc/west-bromwich/201919686,2019,2,championship,61,63,0,0,0,0,,2019
+Nottingham Forest,Reading,1-0,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/201919687,2019,2,championship,54,54,0,0,1,0,,2019
+Queens Park Rangers,Sheffield United,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/201919688,2019,2,championship,53,54,1,0,1,0,,2019
+Rotherham United,Ipswich Town,1-0,https://www.besoccer.com/match/rotherham-united/ipswich-town-fc/201919689,2019,2,championship,43,54,2,0,0,0,,2019
+Sheffield Wednesday,Hull City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/201919690,2019,2,championship,57,66,3,0,1,0,,2019
+Stoke City,Brentford,1-1,https://www.besoccer.com/match/stoke-city/brentford/201919691,2019,2,championship,65,54,2,0,0,0,,2019
+Swansea City,Preston North End,1-0,https://www.besoccer.com/match/swansea-city-afc/preston-north-end/201919692,2019,2,championship,64,58,0,0,1,0,,2019
+Derby County,Leeds United,1-4,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/201919684,2019,2,championship,59,56,4,0,2,0,,2019
+Birmingham City,Swansea City,0-0,https://www.besoccer.com/match/birmingham-city-fc/swansea-city-afc/201919693,2019,3,championship,52,64,1,0,1,0,,2019
+Bristol City,Middlesbrough,0-2,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/201919695,2019,3,championship,54,66,1,0,2,0,,2019
+Hull City,Blackburn Rovers,0-1,https://www.besoccer.com/match/hull-city/blackburn-rovers-fc/201919696,2019,3,championship,65,55,1,0,3,0,,2019
+Ipswich Town,Aston Villa,1-1,https://www.besoccer.com/match/ipswich-town-fc/aston-villa-fc/201919697,2019,3,championship,53,61,2,1,2,1,,2019
+Leeds United,Rotherham United,2-0,https://www.besoccer.com/match/leeds-united-afc/rotherham-united/201919698,2019,3,championship,55,44,0,0,1,0,,2019
+Millwall,Derby County,2-1,https://www.besoccer.com/match/millwall-fc/derby-county-fc/201919699,2019,3,championship,53,59,1,0,1,0,,2019
+Reading,Bolton Wanderers,0-1,https://www.besoccer.com/match/reading-fc/bolton-wanderers-fc/201919701,2019,3,championship,54,48,2,0,1,0,,2019
+Sheffield United,Norwich City,2-1,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/201919702,2019,3,championship,54,61,2,0,2,0,,2019
+West Bromwich Albion,Queens Park Rangers,7-1,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/201919703,2019,3,championship,63,53,2,0,1,0,,2019
+Wigan Athletic,Nottingham Forest,2-2,https://www.besoccer.com/match/wigan-athletic/nottingham-forest-fc/201919704,2019,3,championship,55,55,2,0,4,0,,2019
+Preston North End,Stoke City,2-2,https://www.besoccer.com/match/preston-north-end/stoke-city/201919700,2019,3,championship,59,65,2,0,3,0,,2019
+Brentford,Sheffield Wednesday,2-0,https://www.besoccer.com/match/brentford/sheffield-wednesday-fc/201919694,2019,3,championship,54,58,1,0,1,0,,2019
+Nottingham Forest,West Bromwich Albion,1-1,https://www.besoccer.com/match/nottingham-forest-fc/west-bromwich/201919705,2019,4,championship,54,63,2,0,1,0,,2019
+Middlesbrough,Sheffield United,3-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-united/201919708,2019,4,championship,65,54,0,0,3,0,,2019
+Derby County,Ipswich Town,2-0,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/201919707,2019,4,championship,60,53,2,0,2,0,,2019
+Queens Park Rangers,Bristol City,0-3,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/201919709,2019,4,championship,53,54,1,0,3,0,,2019
+Rotherham United,Hull City,2-3,https://www.besoccer.com/match/rotherham-united/hull-city/201919710,2019,4,championship,44,64,1,0,1,0,,2019
+Swansea City,Leeds United,2-2,https://www.besoccer.com/match/swansea-city-afc/leeds-united-afc/201919714,2019,4,championship,64,55,0,0,4,0,,2019
+Aston Villa,Brentford,2-2,https://www.besoccer.com/match/aston-villa-fc/brentford/201919706,2019,4,championship,61,54,3,0,2,0,,2019
+Sheffield Wednesday,Millwall,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/millwall-fc/201919711,2019,4,championship,58,54,2,0,0,0,,2019
+Blackburn Rovers,Reading,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/reading-fc/201919712,2019,4,championship,55,55,1,0,0,0,,2019
+Norwich City,Preston North End,2-0,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/201919713,2019,4,championship,61,58,2,0,2,0,,2019
+Bolton Wanderers,Birmingham City,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/201919715,2019,4,championship,48,53,2,0,3,0,,2019
+Stoke City,Wigan Athletic,0-3,https://www.besoccer.com/match/stoke-city/wigan-athletic/201919716,2019,4,championship,64,55,4,1,2,1,,2019
+Middlesbrough,West Bromwich Albion,1-0,https://www.besoccer.com/match/middlesbrough-fc/west-bromwich/201919721,2019,5,championship,65,63,3,0,2,0,,2019
+Aston Villa,Reading,1-1,https://www.besoccer.com/match/aston-villa-fc/reading-fc/201919717,2019,5,championship,63,55,0,0,2,0,,2019
+Blackburn Rovers,Brentford,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/brentford/201919718,2019,5,championship,57,54,0,0,1,0,,2019
+Bolton Wanderers,Sheffield United,0-3,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-united/201919719,2019,5,championship,47,54,2,0,1,0,,2019
+Derby County,Preston North End,2-0,https://www.besoccer.com/match/derby-county-fc/preston-north-end/201919720,2019,5,championship,60,58,3,0,1,0,,2019
+Norwich City,Leeds United,0-3,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/201919722,2019,5,championship,62,55,1,0,2,0,,2019
+Queens Park Rangers,Wigan Athletic,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/wigan-athletic/201919724,2019,5,championship,53,55,2,0,1,0,,2019
+Sheffield Wednesday,Ipswich Town,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/201919726,2019,5,championship,57,54,2,0,2,0,,2019
+Stoke City,Hull City,2-0,https://www.besoccer.com/match/stoke-city/hull-city/201919727,2019,5,championship,64,64,1,0,1,0,,2019
+Swansea City,Bristol City,0-1,https://www.besoccer.com/match/swansea-city-afc/bristol-city-fc/201919728,2019,5,championship,63,54,0,0,1,0,,2019
+Nottingham Forest,Birmingham City,2-2,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/201919723,2019,5,championship,55,53,4,0,0,0,,2019
+Rotherham United,Millwall,1-0,https://www.besoccer.com/match/rotherham-united/millwall-fc/201919725,2019,5,championship,45,53,1,0,2,0,,2019
+Leeds United,Middlesbrough,0-0,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/201919734,2019,6,championship,55,65,4,0,4,0,,2019
+Birmingham City,Queens Park Rangers,0-0,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/201919729,2019,6,championship,53,54,2,0,0,0,,2019
+Brentford,Nottingham Forest,2-1,https://www.besoccer.com/match/brentford/nottingham-forest-fc/201919730,2019,6,championship,54,56,5,0,7,0,,2019
+Hull City,Derby County,1-2,https://www.besoccer.com/match/hull-city/derby-county-fc/201919732,2019,6,championship,64,60,2,0,1,0,,2019
+Preston North End,Bolton Wanderers,2-2,https://www.besoccer.com/match/preston-north-end/bolton-wanderers-fc/201919736,2019,6,championship,59,48,1,0,2,0,,2019
+Reading,Sheffield Wednesday,1-2,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/201919737,2019,6,championship,54,57,1,0,1,0,,2019
+Sheffield United,Aston Villa,4-1,https://www.besoccer.com/match/sheffield-united/aston-villa-fc/201919738,2019,6,championship,55,63,1,0,1,0,,2019
+West Bromwich Albion,Stoke City,2-1,https://www.besoccer.com/match/west-bromwich/stoke-city/201919739,2019,6,championship,63,63,3,0,1,0,,2019
+Wigan Athletic,Rotherham United,1-0,https://www.besoccer.com/match/wigan-athletic/rotherham-united/201919740,2019,6,championship,54,45,2,0,3,0,,2019
+Millwall,Swansea City,1-2,https://www.besoccer.com/match/millwall-fc/swansea-city-afc/201919735,2019,6,championship,53,63,1,0,1,0,,2019
+Ipswich Town,Norwich City,1-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/201919733,2019,6,championship,53,61,2,0,1,0,,2019
+Bristol City,Blackburn Rovers,4-1,https://www.besoccer.com/match/bristol-city-fc/blackburn-rovers-fc/201919731,2019,6,championship,54,56,0,0,0,0,,2019
+Birmingham City,West Bromwich Albion,1-1,https://www.besoccer.com/match/birmingham-city-fc/west-bromwich/201919741,2019,7,championship,52,63,2,0,1,0,,2019
+Bolton Wanderers,Queens Park Rangers,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/queens-park-rangers-fc/201919743,2019,7,championship,48,54,1,0,0,0,,2019
+Brentford,Wigan Athletic,2-0,https://www.besoccer.com/match/brentford/wigan-athletic/201919744,2019,7,championship,54,54,2,0,3,0,,2019
+Bristol City,Sheffield United,1-0,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/201919745,2019,7,championship,54,55,1,0,4,0,,2019
+Hull City,Ipswich Town,2-0,https://www.besoccer.com/match/hull-city/ipswich-town-fc/201919746,2019,7,championship,64,53,2,0,0,0,,2019
+Millwall,Leeds United,1-1,https://www.besoccer.com/match/millwall-fc/leeds-united-afc/201919747,2019,7,championship,53,56,1,0,0,0,,2019
+Norwich City,Middlesbrough,1-0,https://www.besoccer.com/match/norwich-city-fc/middlesbrough-fc/201919748,2019,7,championship,61,65,3,0,1,0,,2019
+Preston North End,Reading,2-3,https://www.besoccer.com/match/preston-north-end/reading-fc/201919749,2019,7,championship,59,54,1,0,1,0,,2019
+Rotherham United,Derby County,1-0,https://www.besoccer.com/match/rotherham-united/derby-county-fc/201919750,2019,7,championship,45,60,4,0,4,0,,2019
+Sheffield Wednesday,Stoke City,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/stoke-city/201919751,2019,7,championship,57,63,1,0,0,0,,2019
+Swansea City,Nottingham Forest,0-0,https://www.besoccer.com/match/swansea-city-afc/nottingham-forest-fc/201919752,2019,7,championship,63,56,0,0,3,0,,2019
+Blackburn Rovers,Aston Villa,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/aston-villa-fc/201919742,2019,7,championship,57,63,3,0,2,0,,2019
+Derby County,Blackburn Rovers,0-0,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/201919753,2019,8,championship,60,57,2,0,3,0,,2019
+Leeds United,Preston North End,3-0,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/201919754,2019,8,championship,56,59,1,0,2,0,,2019
+Wigan Athletic,Hull City,2-1,https://www.besoccer.com/match/wigan-athletic/hull-city/201919755,2019,8,championship,54,63,1,0,3,0,,2019
+Aston Villa,Rotherham United,2-0,https://www.besoccer.com/match/aston-villa-fc/rotherham-united/201919758,2019,8,championship,63,45,2,0,2,0,,2019
+Ipswich Town,Brentford,1-1,https://www.besoccer.com/match/ipswich-town-fc/brentford/201919759,2019,8,championship,53,54,1,0,2,0,,2019
+Stoke City,Swansea City,1-0,https://www.besoccer.com/match/stoke-city/swansea-city-afc/201919756,2019,8,championship,63,63,2,0,1,0,,2019
+West Bromwich Albion,Bristol City,4-2,https://www.besoccer.com/match/west-bromwich/bristol-city-fc/201919757,2019,8,championship,64,54,2,0,1,0,,2019
+Middlesbrough,Bolton Wanderers,2-0,https://www.besoccer.com/match/middlesbrough-fc/bolton-wanderers-fc/201919760,2019,8,championship,65,48,1,0,4,0,,2019
+Nottingham Forest,Sheffield Wednesday,2-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/201919761,2019,8,championship,56,57,2,0,0,0,,2019
+Queens Park Rangers,Millwall,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/millwall-fc/201919762,2019,8,championship,54,54,3,0,2,0,,2019
+Sheffield United,Birmingham City,0-0,https://www.besoccer.com/match/sheffield-united/birmingham-city-fc/201919763,2019,8,championship,55,52,1,0,0,0,,2019
+Reading,Norwich City,1-2,https://www.besoccer.com/match/reading-fc/norwich-city-fc/201919764,2019,8,championship,54,61,2,0,3,0,,2019
+Wigan Athletic,Bristol City,1-0,https://www.besoccer.com/match/wigan-athletic/bristol-city-fc/201919776,2019,9,championship,54,54,2,0,1,0,,2019
+Aston Villa,Sheffield Wednesday,1-2,https://www.besoccer.com/match/aston-villa-fc/sheffield-wednesday-fc/201919765,2019,9,championship,63,57,2,0,1,0,,2019
+Derby County,Brentford,3-1,https://www.besoccer.com/match/derby-county-fc/brentford/201919766,2019,9,championship,60,54,2,0,1,0,,2019
+Ipswich Town,Bolton Wanderers,0-0,https://www.besoccer.com/match/ipswich-town-fc/bolton-wanderers-fc/201919767,2019,9,championship,53,48,2,0,0,0,,2019
+Leeds United,Birmingham City,1-2,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/201919768,2019,9,championship,56,52,2,0,4,0,,2019
+Middlesbrough,Swansea City,0-0,https://www.besoccer.com/match/middlesbrough-fc/swansea-city-afc/201919769,2019,9,championship,65,63,3,0,0,0,,2019
+Nottingham Forest,Rotherham United,1-0,https://www.besoccer.com/match/nottingham-forest-fc/rotherham-united/201919770,2019,9,championship,56,45,1,0,3,0,,2019
+Reading,Hull City,3-0,https://www.besoccer.com/match/reading-fc/hull-city/201919772,2019,9,championship,54,64,1,1,2,1,,2019
+Sheffield United,Preston North End,3-2,https://www.besoccer.com/match/sheffield-united/preston-north-end/201919773,2019,9,championship,55,59,1,0,2,0,,2019
+Stoke City,Blackburn Rovers,2-3,https://www.besoccer.com/match/stoke-city/blackburn-rovers-fc/201919774,2019,9,championship,63,57,2,0,1,0,,2019
+West Bromwich Albion,Millwall,2-0,https://www.besoccer.com/match/west-bromwich/millwall-fc/201919775,2019,9,championship,64,53,0,0,0,0,,2019
+Queens Park Rangers,Norwich City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/201919771,2019,9,championship,53,61,0,0,2,0,,2019
+Sheffield Wednesday,Leeds United,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/201919787,2019,10,championship,57,56,2,0,1,0,,2019
+Bristol City,Aston Villa,1-1,https://www.besoccer.com/match/bristol-city-fc/aston-villa-fc/201919781,2019,10,championship,54,63,2,0,2,0,,2019
+Birmingham City,Ipswich Town,2-2,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/201919777,2019,10,championship,52,53,0,0,2,0,,2019
+Blackburn Rovers,Nottingham Forest,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/201919778,2019,10,championship,57,57,0,0,1,0,,2019
+Bolton Wanderers,Derby County,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/derby-county-fc/201919779,2019,10,championship,48,61,3,0,1,0,,2019
+Brentford,Reading,2-2,https://www.besoccer.com/match/brentford/reading-fc/201919780,2019,10,championship,54,54,4,1,1,1,,2019
+Hull City,Middlesbrough,1-1,https://www.besoccer.com/match/hull-city/middlesbrough-fc/201919782,2019,10,championship,63,65,3,0,2,0,,2019
+Millwall,Sheffield United,2-3,https://www.besoccer.com/match/millwall-fc/sheffield-united/201919783,2019,10,championship,54,55,2,0,3,0,,2019
+Norwich City,Wigan Athletic,1-0,https://www.besoccer.com/match/norwich-city-fc/wigan-athletic/201919784,2019,10,championship,61,54,1,0,3,0,,2019
+Preston North End,West Bromwich Albion,2-3,https://www.besoccer.com/match/preston-north-end/west-bromwich/201919785,2019,10,championship,59,63,0,0,4,0,,2019
+Swansea City,Queens Park Rangers,3-0,https://www.besoccer.com/match/swansea-city-afc/queens-park-rangers-fc/201919788,2019,10,championship,62,54,0,0,3,0,,2019
+Rotherham United,Stoke City,2-2,https://www.besoccer.com/match/rotherham-united/stoke-city/201919786,2019,10,championship,45,63,0,0,0,0,,2019
+Aston Villa,Preston North End,3-3,https://www.besoccer.com/match/aston-villa-fc/preston-north-end/201919789,2019,11,championship,65,61,2,1,4,1,,2019
+Brentford,Birmingham City,1-1,https://www.besoccer.com/match/brentford/birmingham-city-fc/201919790,2019,11,championship,57,54,3,0,5,0,,2019
+Ipswich Town,Middlesbrough,0-2,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/201919791,2019,11,championship,55,68,0,0,0,0,,2019
+Wigan Athletic,Swansea City,0-0,https://www.besoccer.com/match/wigan-athletic/swansea-city-afc/201919792,2019,11,championship,52,73,1,0,0,0,,2019
+Hull City,Leeds United,0-1,https://www.besoccer.com/match/hull-city/leeds-united-afc/201919797,2019,11,championship,65,58,1,0,3,0,,2019
+Reading,Queens Park Rangers,0-1,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/201919793,2019,11,championship,54,56,3,0,0,0,,2019
+Stoke City,Bolton Wanderers,2-0,https://www.besoccer.com/match/stoke-city/bolton-wanderers-fc/201919794,2019,11,championship,73,50,1,0,2,0,,2019
+Blackburn Rovers,Sheffield United,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-united/201919795,2019,11,championship,54,58,1,0,2,0,,2019
+Derby County,Norwich City,1-1,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/201919796,2019,11,championship,61,63,1,0,2,0,,2019
+Nottingham Forest,Millwall,2-2,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/201919798,2019,11,championship,59,55,1,0,1,0,,2019
+Rotherham United,Bristol City,0-0,https://www.besoccer.com/match/rotherham-united/bristol-city-fc/201919799,2019,11,championship,43,57,1,0,1,0,,2019
+Sheffield Wednesday,West Bromwich Albion,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/west-bromwich/201919800,2019,11,championship,59,74,2,0,3,0,,2019
+Leeds United,Brentford,1-1,https://www.besoccer.com/match/leeds-united-afc/brentford/201919804,2019,12,championship,58,57,4,1,2,1,,2019
+Birmingham City,Rotherham United,3-1,https://www.besoccer.com/match/birmingham-city-fc/rotherham-united/201919801,2019,12,championship,54,43,0,0,1,0,,2019
+Middlesbrough,Nottingham Forest,0-2,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/201919805,2019,12,championship,68,59,2,0,2,0,,2019
+Millwall,Aston Villa,2-1,https://www.besoccer.com/match/millwall-fc/aston-villa-fc/201919806,2019,12,championship,55,65,1,0,1,0,,2019
+Norwich City,Stoke City,0-1,https://www.besoccer.com/match/norwich-city-fc/stoke-city/201919807,2019,12,championship,63,73,0,0,1,0,,2019
+Preston North End,Wigan Athletic,4-0,https://www.besoccer.com/match/preston-north-end/wigan-athletic/201919808,2019,12,championship,61,52,3,0,3,0,,2019
+Queens Park Rangers,Derby County,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/201919809,2019,12,championship,56,61,3,0,2,0,,2019
+Sheffield United,Hull City,1-0,https://www.besoccer.com/match/sheffield-united/hull-city/201919810,2019,12,championship,58,65,2,0,1,0,,2019
+Swansea City,Ipswich Town,2-3,https://www.besoccer.com/match/swansea-city-afc/ipswich-town-fc/201919811,2019,12,championship,73,55,1,0,2,0,,2019
+West Bromwich Albion,Reading,4-1,https://www.besoccer.com/match/west-bromwich/reading-fc/201919812,2019,12,championship,74,54,2,0,3,0,,2019
+Bolton Wanderers,Blackburn Rovers,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/blackburn-rovers-fc/201919802,2019,12,championship,50,54,3,0,3,0,,2019
+Bristol City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/201919803,2019,12,championship,57,59,1,0,5,0,,2019
+Sheffield Wednesday,Middlesbrough,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/201919822,2019,13,championship,59,68,1,0,3,0,,2019
+Blackburn Rovers,Leeds United,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/201919814,2019,13,championship,55,59,1,0,1,0,,2019
+Aston Villa,Swansea City,1-0,https://www.besoccer.com/match/aston-villa-fc/swansea-city-afc/201919813,2019,13,championship,65,72,1,0,1,0,,2019
+Brentford,Bristol City,0-1,https://www.besoccer.com/match/brentford/bristol-city-fc/201919815,2019,13,championship,57,57,4,1,3,1,,2019
+Hull City,Preston North End,1-1,https://www.besoccer.com/match/hull-city/preston-north-end/201919817,2019,13,championship,65,61,1,0,4,0,,2019
+Ipswich Town,Queens Park Rangers,0-2,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/201919818,2019,13,championship,55,56,0,0,1,0,,2019
+Nottingham Forest,Norwich City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/201919819,2019,13,championship,59,64,3,0,3,0,,2019
+Reading,Millwall,3-1,https://www.besoccer.com/match/reading-fc/millwall-fc/201919820,2019,13,championship,54,55,1,0,2,0,,2019
+Rotherham United,Bolton Wanderers,1-1,https://www.besoccer.com/match/rotherham-united/bolton-wanderers-fc/201919821,2019,13,championship,43,50,2,0,2,0,,2019
+Stoke City,Birmingham City,0-1,https://www.besoccer.com/match/stoke-city/birmingham-city-fc/201919823,2019,13,championship,73,54,1,0,2,0,,2019
+Wigan Athletic,West Bromwich Albion,1-0,https://www.besoccer.com/match/wigan-athletic/west-bromwich/201919824,2019,13,championship,52,74,3,0,5,0,,2019
+Derby County,Sheffield United,2-1,https://www.besoccer.com/match/derby-county-fc/sheffield-united/201919816,2019,13,championship,61,58,0,0,1,0,,2019
+Middlesbrough,Rotherham United,0-0,https://www.besoccer.com/match/middlesbrough-fc/rotherham-united/201919825,2019,14,championship,68,43,0,0,1,0,,2019
+Millwall,Wigan Athletic,2-1,https://www.besoccer.com/match/millwall-fc/wigan-athletic/201919826,2019,14,championship,55,52,3,0,2,0,,2019
+Norwich City,Aston Villa,2-1,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/201919827,2019,14,championship,64,65,2,0,1,0,,2019
+Queens Park Rangers,Sheffield Wednesday,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/201919828,2019,14,championship,56,59,0,0,0,0,,2019
+Sheffield United,Stoke City,1-1,https://www.besoccer.com/match/sheffield-united/stoke-city/201919829,2019,14,championship,58,73,1,0,1,0,,2019
+Swansea City,Blackburn Rovers,3-1,https://www.besoccer.com/match/swansea-city-afc/blackburn-rovers-fc/201919830,2019,14,championship,72,55,0,0,2,0,,2019
+Birmingham City,Reading,2-1,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/201919831,2019,14,championship,54,54,1,0,2,0,,2019
+Bristol City,Hull City,1-0,https://www.besoccer.com/match/bristol-city-fc/hull-city/201919832,2019,14,championship,56,65,1,0,1,0,,2019
+Leeds United,Ipswich Town,2-0,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/201919833,2019,14,championship,59,55,1,0,3,0,,2019
+Preston North End,Brentford,4-3,https://www.besoccer.com/match/preston-north-end/brentford/201919834,2019,14,championship,61,57,2,0,2,0,,2019
+Bolton Wanderers,Nottingham Forest,0-3,https://www.besoccer.com/match/bolton-wanderers-fc/nottingham-forest-fc/201919835,2019,14,championship,50,59,1,0,2,0,,2019
+West Bromwich Albion,Derby County,1-4,https://www.besoccer.com/match/west-bromwich/derby-county-fc/201919836,2019,14,championship,74,61,1,0,2,0,,2019
+Queens Park Rangers,Aston Villa,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/aston-villa-fc/201919845,2019,15,championship,56,65,3,0,0,0,,2019
+Middlesbrough,Derby County,1-1,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/201919841,2019,15,championship,68,62,1,0,1,0,,2019
+Birmingham City,Sheffield Wednesday,3-1,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/201919837,2019,15,championship,54,59,0,0,1,0,,2019
+Bolton Wanderers,Hull City,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/hull-city/201919838,2019,15,championship,50,65,1,0,2,0,,2019
+Bristol City,Stoke City,0-1,https://www.besoccer.com/match/bristol-city-fc/stoke-city/201919839,2019,15,championship,56,73,1,0,1,0,,2019
+Millwall,Ipswich Town,3-0,https://www.besoccer.com/match/millwall-fc/ipswich-town-fc/201919842,2019,15,championship,55,55,0,0,1,0,,2019
+Norwich City,Brentford,1-0,https://www.besoccer.com/match/norwich-city-fc/brentford/201919843,2019,15,championship,64,57,0,0,1,0,,2019
+Preston North End,Rotherham United,1-1,https://www.besoccer.com/match/preston-north-end/rotherham-united/201919844,2019,15,championship,61,43,1,0,1,0,,2019
+Sheffield United,Wigan Athletic,4-2,https://www.besoccer.com/match/sheffield-united/wigan-athletic/201919846,2019,15,championship,58,52,3,0,2,0,,2019
+Swansea City,Reading,2-0,https://www.besoccer.com/match/swansea-city-afc/reading-fc/201919847,2019,15,championship,72,54,2,0,1,0,,2019
+West Bromwich Albion,Blackburn Rovers,1-1,https://www.besoccer.com/match/west-bromwich/blackburn-rovers-fc/201919848,2019,15,championship,73,55,1,0,1,0,,2019
+Leeds United,Nottingham Forest,1-1,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/201919840,2019,15,championship,59,59,1,0,4,0,,2019
+Aston Villa,Bolton Wanderers,2-0,https://www.besoccer.com/match/aston-villa-fc/bolton-wanderers-fc/201919849,2019,16,championship,65,50,0,0,3,0,,2019
+Blackburn Rovers,Queens Park Rangers,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/201919850,2019,16,championship,55,56,4,0,4,0,,2019
+Brentford,Millwall,2-0,https://www.besoccer.com/match/brentford/millwall-fc/201919851,2019,16,championship,57,55,1,0,1,0,,2019
+Derby County,Birmingham City,3-1,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/201919852,2019,16,championship,61,54,0,0,3,0,,2019
+Hull City,West Bromwich Albion,1-0,https://www.besoccer.com/match/hull-city/west-bromwich/201919853,2019,16,championship,65,73,1,0,0,0,,2019
+Ipswich Town,Preston North End,1-1,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/201919854,2019,16,championship,55,61,4,0,3,0,,2019
+Nottingham Forest,Sheffield United,1-0,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/201919855,2019,16,championship,59,58,3,0,1,0,,2019
+Reading,Bristol City,3-2,https://www.besoccer.com/match/reading-fc/bristol-city-fc/201919856,2019,16,championship,54,56,5,0,2,0,,2019
+Rotherham United,Swansea City,2-1,https://www.besoccer.com/match/rotherham-united/swansea-city-afc/201919857,2019,16,championship,43,72,2,0,4,0,,2019
+Sheffield Wednesday,Norwich City,0-4,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/201919858,2019,16,championship,59,64,4,0,2,0,,2019
+Stoke City,Middlesbrough,0-0,https://www.besoccer.com/match/stoke-city/middlesbrough-fc/201919859,2019,16,championship,73,68,1,0,1,0,,2019
+Wigan Athletic,Leeds United,1-2,https://www.besoccer.com/match/wigan-athletic/leeds-united-afc/201919860,2019,16,championship,52,59,2,0,2,0,,2019
+Sheffield United,Sheffield Wednesday,0-0,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/201919871,2019,17,championship,58,59,0,0,3,0,,2019
+Birmingham City,Hull City,3-3,https://www.besoccer.com/match/birmingham-city-fc/hull-city/201919861,2019,17,championship,55,65,1,0,3,0,,2019
+Blackburn Rovers,Rotherham United,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/rotherham-united/201919862,2019,17,championship,55,43,0,0,1,0,,2019
+Bolton Wanderers,Swansea City,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/swansea-city-afc/201919863,2019,17,championship,50,72,3,0,3,0,,2019
+Bristol City,Preston North End,0-1,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/201919864,2019,17,championship,56,61,1,0,2,0,,2019
+Derby County,Aston Villa,0-3,https://www.besoccer.com/match/derby-county-fc/aston-villa-fc/201919865,2019,17,championship,61,64,3,0,2,0,,2019
+Middlesbrough,Wigan Athletic,2-0,https://www.besoccer.com/match/middlesbrough-fc/wigan-athletic/201919866,2019,17,championship,68,52,1,0,2,0,,2019
+Norwich City,Millwall,4-3,https://www.besoccer.com/match/norwich-city-fc/millwall-fc/201919867,2019,17,championship,64,55,2,0,4,0,,2019
+Nottingham Forest,Stoke City,0-0,https://www.besoccer.com/match/nottingham-forest-fc/stoke-city/201919868,2019,17,championship,60,73,1,0,0,0,,2019
+Queens Park Rangers,Brentford,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/brentford/201919869,2019,17,championship,56,57,2,0,1,0,,2019
+Reading,Ipswich Town,2-2,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/201919870,2019,17,championship,54,55,1,0,2,0,,2019
+West Bromwich Albion,Leeds United,4-1,https://www.besoccer.com/match/west-bromwich/leeds-united-afc/201919872,2019,17,championship,74,59,2,0,0,0,,2019
+Ipswich Town,West Bromwich Albion,1-2,https://www.besoccer.com/match/ipswich-town-fc/west-bromwich/201919876,2019,18,championship,55,73,1,0,3,0,,2019
+Rotherham United,Sheffield United,2-2,https://www.besoccer.com/match/rotherham-united/sheffield-united/201919880,2019,18,championship,43,58,0,0,1,0,,2019
+Hull City,Nottingham Forest,0-2,https://www.besoccer.com/match/hull-city/nottingham-forest-fc/201919875,2019,18,championship,64,60,2,0,0,0,,2019
+Leeds United,Bristol City,2-0,https://www.besoccer.com/match/leeds-united-afc/bristol-city-fc/201919877,2019,18,championship,59,57,1,0,1,0,,2019
+Millwall,Bolton Wanderers,1-1,https://www.besoccer.com/match/millwall-fc/bolton-wanderers-fc/201919878,2019,18,championship,55,49,1,0,2,0,,2019
+Preston North End,Blackburn Rovers,4-1,https://www.besoccer.com/match/preston-north-end/blackburn-rovers-fc/201919879,2019,18,championship,61,55,1,0,2,0,,2019
+Sheffield Wednesday,Derby County,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/201919881,2019,18,championship,59,62,0,0,3,0,,2019
+Stoke City,Queens Park Rangers,2-2,https://www.besoccer.com/match/stoke-city/queens-park-rangers-fc/201919882,2019,18,championship,72,56,1,0,4,0,,2019
+Swansea City,Norwich City,1-4,https://www.besoccer.com/match/swansea-city-afc/norwich-city-fc/201919883,2019,18,championship,72,64,0,0,2,0,,2019
+Wigan Athletic,Reading,0-0,https://www.besoccer.com/match/wigan-athletic/reading-fc/201919884,2019,18,championship,52,54,3,0,1,0,,2019
+Brentford,Middlesbrough,1-2,https://www.besoccer.com/match/brentford/middlesbrough-fc/201919874,2019,18,championship,56,68,1,0,2,0,,2019
+Aston Villa,Birmingham City,4-2,https://www.besoccer.com/match/aston-villa-fc/birmingham-city-fc/201919873,2019,18,championship,64,55,1,0,3,0,,2019
+Brentford,Sheffield United,2-3,https://www.besoccer.com/match/brentford/sheffield-united/201919885,2019,19,championship,56,58,1,0,1,0,,2019
+Hull City,Norwich City,0-0,https://www.besoccer.com/match/hull-city/norwich-city-fc/201919886,2019,19,championship,64,64,0,0,0,0,,2019
+Leeds United,Reading,1-0,https://www.besoccer.com/match/leeds-united-afc/reading-fc/201919887,2019,19,championship,59,54,3,0,2,0,,2019
+Rotherham United,Queens Park Rangers,2-2,https://www.besoccer.com/match/rotherham-united/queens-park-rangers-fc/201919889,2019,19,championship,43,56,0,0,2,0,,2019
+Preston North End,Middlesbrough,1-1,https://www.besoccer.com/match/preston-north-end/middlesbrough-fc/201919892,2019,19,championship,61,68,1,0,4,0,,2019
+Sheffield Wednesday,Bolton Wanderers,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/bolton-wanderers-fc/201919893,2019,19,championship,59,49,1,0,0,0,,2019
+Millwall,Birmingham City,0-2,https://www.besoccer.com/match/millwall-fc/birmingham-city-fc/201919888,2019,19,championship,55,55,1,1,2,1,,2019
+Aston Villa,Nottingham Forest,5-5,https://www.besoccer.com/match/aston-villa-fc/nottingham-forest-fc/201919890,2019,19,championship,64,60,3,0,3,0,,2019
+Ipswich Town,Bristol City,2-3,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/201919891,2019,19,championship,54,57,3,0,1,0,,2019
+Swansea City,West Bromwich Albion,1-2,https://www.besoccer.com/match/swansea-city-afc/west-bromwich/201919894,2019,19,championship,72,73,2,0,0,0,,2019
+Wigan Athletic,Blackburn Rovers,3-1,https://www.besoccer.com/match/wigan-athletic/blackburn-rovers-fc/201919895,2019,19,championship,52,55,3,0,1,0,,2019
+Stoke City,Derby County,2-1,https://www.besoccer.com/match/stoke-city/derby-county-fc/201919896,2019,19,championship,73,62,2,1,3,1,,2019
+Sheffield United,Leeds United,0-1,https://www.besoccer.com/match/sheffield-united/leeds-united-afc/201919907,2019,20,championship,58,59,4,0,3,0,,2019
+Birmingham City,Preston North End,3-0,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/201919897,2019,20,championship,55,61,0,0,0,0,,2019
+Blackburn Rovers,Sheffield Wednesday,4-2,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/201919898,2019,20,championship,55,59,1,0,1,0,,2019
+Bolton Wanderers,Wigan Athletic,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/wigan-athletic/201919899,2019,20,championship,49,52,3,0,2,0,,2019
+Derby County,Swansea City,2-1,https://www.besoccer.com/match/derby-county-fc/swansea-city-afc/201919901,2019,20,championship,62,72,0,0,0,0,,2019
+Norwich City,Rotherham United,3-1,https://www.besoccer.com/match/norwich-city-fc/rotherham-united/201919903,2019,20,championship,64,43,0,0,0,0,,2019
+Nottingham Forest,Ipswich Town,2-0,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/201919904,2019,20,championship,59,54,2,0,1,0,,2019
+Queens Park Rangers,Hull City,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/201919905,2019,20,championship,56,64,2,0,1,0,,2019
+Reading,Stoke City,2-2,https://www.besoccer.com/match/reading-fc/stoke-city/201919906,2019,20,championship,54,73,1,0,1,0,,2019
+Middlesbrough,Aston Villa,0-3,https://www.besoccer.com/match/middlesbrough-fc/aston-villa-fc/201919902,2019,20,championship,68,64,1,0,0,0,,2019
+Bristol City,Millwall,1-1,https://www.besoccer.com/match/bristol-city-fc/millwall-fc/201919900,2019,20,championship,57,55,2,0,3,0,,2019
+West Bromwich Albion,Brentford,1-1,https://www.besoccer.com/match/west-bromwich/brentford/201919908,2019,20,championship,73,56,0,0,2,0,,2019
+West Bromwich Albion,Aston Villa,2-2,https://www.besoccer.com/match/west-bromwich/aston-villa-fc/201919919,2019,21,championship,73,64,2,0,1,0,,2019
+Birmingham City,Bristol City,0-1,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/201919909,2019,21,championship,55,56,4,0,3,0,,2019
+Brentford,Swansea City,2-3,https://www.besoccer.com/match/brentford/swansea-city-afc/201919910,2019,21,championship,56,72,1,0,2,0,,2019
+Leeds United,Queens Park Rangers,2-1,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/201919911,2019,21,championship,59,56,2,0,4,0,,2019
+Middlesbrough,Blackburn Rovers,1-1,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/201919912,2019,21,championship,68,55,2,1,2,1,,2019
+Millwall,Hull City,2-2,https://www.besoccer.com/match/millwall-fc/hull-city/201919913,2019,21,championship,55,65,0,0,2,0,,2019
+Norwich City,Bolton Wanderers,3-2,https://www.besoccer.com/match/norwich-city-fc/bolton-wanderers-fc/201919914,2019,21,championship,64,49,1,0,2,0,,2019
+Nottingham Forest,Preston North End,0-1,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/201919915,2019,21,championship,60,61,1,0,1,0,,2019
+Sheffield Wednesday,Rotherham United,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/rotherham-united/201919917,2019,21,championship,59,44,1,0,0,0,,2019
+Stoke City,Ipswich Town,2-0,https://www.besoccer.com/match/stoke-city/ipswich-town-fc/201919918,2019,21,championship,72,54,0,0,1,0,,2019
+Wigan Athletic,Derby County,0-1,https://www.besoccer.com/match/wigan-athletic/derby-county-fc/201919920,2019,21,championship,51,62,1,1,2,1,,2019
+Reading,Sheffield United,0-2,https://www.besoccer.com/match/reading-fc/sheffield-united/201919916,2019,21,championship,54,58,1,0,1,0,,2019
+Sheffield United,West Bromwich Albion,1-2,https://www.besoccer.com/match/sheffield-united/west-bromwich/201919931,2019,22,championship,58,73,1,0,0,0,,2019
+Aston Villa,Stoke City,2-2,https://www.besoccer.com/match/aston-villa-fc/stoke-city/201919921,2019,22,championship,65,72,2,0,4,0,,2019
+Blackburn Rovers,Birmingham City,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/201919922,2019,22,championship,55,55,1,0,2,0,,2019
+Bolton Wanderers,Leeds United,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/leeds-united-afc/201919923,2019,22,championship,49,59,2,0,1,0,,2019
+Hull City,Brentford,2-0,https://www.besoccer.com/match/hull-city/brentford/201919926,2019,22,championship,65,56,0,0,1,0,,2019
+Ipswich Town,Wigan Athletic,1-0,https://www.besoccer.com/match/ipswich-town-fc/wigan-athletic/201919927,2019,22,championship,54,51,3,0,2,0,,2019
+Preston North End,Millwall,3-2,https://www.besoccer.com/match/preston-north-end/millwall-fc/201919928,2019,22,championship,61,55,1,0,3,0,,2019
+Queens Park Rangers,Middlesbrough,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/201919929,2019,22,championship,56,68,0,0,3,0,,2019
+Rotherham United,Reading,1-1,https://www.besoccer.com/match/rotherham-united/reading-fc/201919930,2019,22,championship,44,54,1,0,2,0,,2019
+Swansea City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/swansea-city-afc/sheffield-wednesday-fc/201919932,2019,22,championship,72,59,0,0,2,0,,2019
+Bristol City,Norwich City,2-2,https://www.besoccer.com/match/bristol-city-fc/norwich-city-fc/201919924,2019,22,championship,56,64,1,0,3,0,,2019
+Derby County,Nottingham Forest,0-0,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/201919925,2019,22,championship,62,60,3,0,3,0,,2019
+Blackburn Rovers,Norwich City,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/norwich-city-fc/201919934,2019,23,championship,55,64,2,0,3,0,,2019
+Brentford,Bolton Wanderers,1-0,https://www.besoccer.com/match/brentford/bolton-wanderers-fc/201919935,2019,23,championship,56,49,1,0,3,0,,2019
+Derby County,Bristol City,1-1,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/201919936,2019,23,championship,62,56,0,0,2,0,,2019
+Ipswich Town,Sheffield United,1-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/201919938,2019,23,championship,54,58,2,0,2,0,,2019
+Nottingham Forest,Queens Park Rangers,0-1,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/201919939,2019,23,championship,60,56,3,0,1,0,,2019
+Reading,Middlesbrough,0-1,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/201919940,2019,23,championship,54,68,2,0,2,0,,2019
+Rotherham United,West Bromwich Albion,0-4,https://www.besoccer.com/match/rotherham-united/west-bromwich/201919941,2019,23,championship,44,73,1,0,2,0,,2019
+Sheffield Wednesday,Preston North End,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/201919942,2019,23,championship,59,61,1,0,3,0,,2019
+Stoke City,Millwall,1-0,https://www.besoccer.com/match/stoke-city/millwall-fc/201919943,2019,23,championship,72,55,1,0,3,0,,2019
+Wigan Athletic,Birmingham City,0-3,https://www.besoccer.com/match/wigan-athletic/birmingham-city-fc/201919944,2019,23,championship,51,55,1,0,2,0,,2019
+Hull City,Swansea City,3-2,https://www.besoccer.com/match/hull-city/swansea-city-afc/201919937,2019,23,championship,65,72,1,0,2,0,,2019
+Aston Villa,Leeds United,2-3,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/201919933,2019,23,championship,65,59,2,0,3,0,,2019
+Birmingham City,Stoke City,2-0,https://www.besoccer.com/match/birmingham-city-fc/stoke-city/201919945,2019,24,championship,55,72,1,0,4,0,,2019
+Bolton Wanderers,Rotherham United,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/rotherham-united/201919946,2019,24,championship,49,44,1,0,1,0,,2019
+Bristol City,Brentford,1-1,https://www.besoccer.com/match/bristol-city-fc/brentford/201919947,2019,24,championship,56,56,0,0,1,0,,2019
+Leeds United,Blackburn Rovers,3-2,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/201919948,2019,24,championship,59,55,2,0,2,0,,2019
+Middlesbrough,Sheffield Wednesday,0-1,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/201919949,2019,24,championship,68,58,3,0,2,0,,2019
+Millwall,Reading,1-0,https://www.besoccer.com/match/millwall-fc/reading-fc/201919950,2019,24,championship,55,54,3,0,1,0,,2019
+Norwich City,Nottingham Forest,3-3,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/201919951,2019,24,championship,64,60,4,0,4,0,,2019
+Preston North End,Hull City,1-2,https://www.besoccer.com/match/preston-north-end/hull-city/201919952,2019,24,championship,61,64,0,0,1,0,,2019
+Queens Park Rangers,Ipswich Town,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/201919953,2019,24,championship,56,54,1,0,2,0,,2019
+Sheffield United,Derby County,3-1,https://www.besoccer.com/match/sheffield-united/derby-county-fc/201919954,2019,24,championship,58,62,3,0,5,0,,2019
+Swansea City,Aston Villa,0-1,https://www.besoccer.com/match/swansea-city-afc/aston-villa-fc/201919955,2019,24,championship,72,65,2,0,2,0,,2019
+West Bromwich Albion,Wigan Athletic,2-0,https://www.besoccer.com/match/west-bromwich/wigan-athletic/201919956,2019,24,championship,73,51,2,0,2,0,,2019
+Birmingham City,Brentford,0-0,https://www.besoccer.com/match/birmingham-city-fc/brentford/201919957,2019,25,championship,55,56,0,0,5,0,,2019
+Bolton Wanderers,Stoke City,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/stoke-city/201919958,2019,25,championship,49,72,2,0,3,0,,2019
+Bristol City,Rotherham United,1-0,https://www.besoccer.com/match/bristol-city-fc/rotherham-united/201919959,2019,25,championship,56,44,2,0,2,0,,2019
+Leeds United,Hull City,0-2,https://www.besoccer.com/match/leeds-united-afc/hull-city/201919960,2019,25,championship,59,64,3,0,2,0,,2019
+Middlesbrough,Ipswich Town,2-0,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/201919961,2019,25,championship,68,54,1,0,2,0,,2019
+Millwall,Nottingham Forest,1-0,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/201919962,2019,25,championship,55,60,2,0,2,0,,2019
+Norwich City,Derby County,3-4,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/201919963,2019,25,championship,64,62,3,0,3,0,,2019
+Preston North End,Aston Villa,1-1,https://www.besoccer.com/match/preston-north-end/aston-villa-fc/201919964,2019,25,championship,61,65,2,0,2,0,,2019
+Queens Park Rangers,Reading,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/201919965,2019,25,championship,56,54,3,0,2,0,,2019
+Sheffield United,Blackburn Rovers,3-0,https://www.besoccer.com/match/sheffield-united/blackburn-rovers-fc/201919966,2019,25,championship,58,54,5,1,1,1,,2019
+Swansea City,Wigan Athletic,2-2,https://www.besoccer.com/match/swansea-city-afc/wigan-athletic/201919967,2019,25,championship,72,52,3,0,4,0,,2019
+West Bromwich Albion,Sheffield Wednesday,1-1,https://www.besoccer.com/match/west-bromwich/sheffield-wednesday-fc/201919968,2019,25,championship,73,59,2,1,2,1,,2019
+Aston Villa,Queens Park Rangers,2-2,https://www.besoccer.com/match/aston-villa-fc/queens-park-rangers-fc/201919969,2019,26,championship,65,56,2,0,5,0,,2019
+Blackburn Rovers,West Bromwich Albion,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/west-bromwich/201919970,2019,26,championship,55,73,3,0,3,0,,2019
+Brentford,Norwich City,1-1,https://www.besoccer.com/match/brentford/norwich-city-fc/201919971,2019,26,championship,56,65,4,0,3,0,,2019
+Derby County,Middlesbrough,1-1,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/201919972,2019,26,championship,62,68,0,0,2,0,,2019
+Hull City,Bolton Wanderers,6-0,https://www.besoccer.com/match/hull-city/bolton-wanderers-fc/201919973,2019,26,championship,64,49,2,0,2,0,,2019
+Ipswich Town,Millwall,2-3,https://www.besoccer.com/match/ipswich-town-fc/millwall-fc/201919974,2019,26,championship,54,55,0,0,1,0,,2019
+Nottingham Forest,Leeds United,4-2,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/201919975,2019,26,championship,60,59,2,0,0,0,,2019
+Reading,Swansea City,1-4,https://www.besoccer.com/match/reading-fc/swansea-city-afc/201919976,2019,26,championship,54,71,2,0,1,0,,2019
+Rotherham United,Preston North End,2-1,https://www.besoccer.com/match/rotherham-united/preston-north-end/201919977,2019,26,championship,44,61,5,0,1,0,,2019
+Sheffield Wednesday,Birmingham City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/201919978,2019,26,championship,58,55,1,0,3,0,,2019
+Stoke City,Bristol City,0-2,https://www.besoccer.com/match/stoke-city/bristol-city-fc/201919979,2019,26,championship,72,56,3,0,1,0,,2019
+Wigan Athletic,Sheffield United,0-3,https://www.besoccer.com/match/wigan-athletic/sheffield-united/201919980,2019,26,championship,52,58,2,0,2,0,,2019
+Leeds United,Derby County,2-0,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/201919986,2019,27,championship,59,62,1,0,4,0,,2019
+Birmingham City,Middlesbrough,1-2,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/201919981,2019,27,championship,55,68,2,0,1,0,,2019
+Brentford,Stoke City,3-1,https://www.besoccer.com/match/brentford/stoke-city/201919982,2019,27,championship,56,72,0,0,2,0,,2019
+Bristol City,Bolton Wanderers,2-1,https://www.besoccer.com/match/bristol-city-fc/bolton-wanderers-fc/201919983,2019,27,championship,56,49,0,0,2,0,,2019
+Hull City,Sheffield Wednesday,3-0,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/201919984,2019,27,championship,64,58,0,0,2,0,,2019
+Ipswich Town,Rotherham United,1-0,https://www.besoccer.com/match/ipswich-town-fc/rotherham-united/201919985,2019,27,championship,54,44,2,0,1,0,,2019
+Preston North End,Swansea City,1-1,https://www.besoccer.com/match/preston-north-end/swansea-city-afc/201919988,2019,27,championship,61,71,1,1,3,1,,2019
+Reading,Nottingham Forest,2-0,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/201919989,2019,27,championship,54,60,3,0,4,0,,2019
+Sheffield United,Queens Park Rangers,1-0,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/201919990,2019,27,championship,58,56,2,0,1,0,,2019
+West Bromwich Albion,Norwich City,1-1,https://www.besoccer.com/match/west-bromwich/norwich-city-fc/201919991,2019,27,championship,73,65,3,0,3,0,,2019
+Wigan Athletic,Aston Villa,3-0,https://www.besoccer.com/match/wigan-athletic/aston-villa-fc/201919992,2019,27,championship,51,65,3,0,2,0,,2019
+Millwall,Blackburn Rovers,0-2,https://www.besoccer.com/match/millwall-fc/blackburn-rovers-fc/201919987,2019,27,championship,55,55,0,0,0,0,,2019
+Norwich City,Birmingham City,3-1,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/201919998,2019,28,championship,65,55,0,0,4,0,,2019
+Aston Villa,Hull City,2-2,https://www.besoccer.com/match/aston-villa-fc/hull-city/201919993,2019,28,championship,65,64,2,0,3,0,,2019
+Blackburn Rovers,Ipswich Town,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/201919994,2019,28,championship,55,54,2,0,1,0,,2019
+Derby County,Reading,2-1,https://www.besoccer.com/match/derby-county-fc/reading-fc/201919996,2019,28,championship,62,54,2,0,1,0,,2019
+Middlesbrough,Millwall,1-1,https://www.besoccer.com/match/middlesbrough-fc/millwall-fc/201919997,2019,28,championship,67,55,3,0,1,0,,2019
+Nottingham Forest,Bristol City,0-1,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/201919999,2019,28,championship,60,56,2,0,0,0,,2019
+Queens Park Rangers,Preston North End,1-4,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/201920000,2019,28,championship,56,61,3,0,1,0,,2019
+Rotherham United,Brentford,2-4,https://www.besoccer.com/match/rotherham-united/brentford/201920001,2019,28,championship,44,56,1,0,0,0,,2019
+Sheffield Wednesday,Wigan Athletic,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/wigan-athletic/201920002,2019,28,championship,58,51,0,0,2,0,,2019
+Stoke City,Leeds United,2-1,https://www.besoccer.com/match/stoke-city/leeds-united-afc/201920003,2019,28,championship,72,59,1,0,3,0,,2019
+Swansea City,Sheffield United,1-0,https://www.besoccer.com/match/swansea-city-afc/sheffield-united/201920004,2019,28,championship,72,58,0,0,4,0,,2019
+Bolton Wanderers,West Bromwich Albion,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/west-bromwich/201919995,2019,28,championship,49,73,2,0,2,0,,2019
+Aston Villa,Ipswich Town,2-1,https://www.besoccer.com/match/aston-villa-fc/ipswich-town-fc/201920005,2019,29,championship,65,54,3,0,1,0,,2019
+Blackburn Rovers,Hull City,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/hull-city/201920006,2019,29,championship,55,65,1,0,1,0,,2019
+Norwich City,Sheffield United,2-2,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/201920010,2019,29,championship,65,58,3,0,2,0,,2019
+Nottingham Forest,Wigan Athletic,3-1,https://www.besoccer.com/match/nottingham-forest-fc/wigan-athletic/201920011,2019,29,championship,60,51,4,0,2,0,,2019
+Rotherham United,Leeds United,1-2,https://www.besoccer.com/match/rotherham-united/leeds-united-afc/201920013,2019,29,championship,44,60,1,0,2,0,,2019
+Stoke City,Preston North End,0-2,https://www.besoccer.com/match/stoke-city/preston-north-end/201920015,2019,29,championship,72,61,2,0,1,0,,2019
+Swansea City,Birmingham City,3-3,https://www.besoccer.com/match/swansea-city-afc/birmingham-city-fc/201920016,2019,29,championship,71,56,2,0,5,0,,2019
+Bolton Wanderers,Reading,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/reading-fc/201920007,2019,29,championship,49,54,2,0,3,0,,2019
+Queens Park Rangers,West Bromwich Albion,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/201920012,2019,29,championship,57,73,0,0,1,0,,2019
+Derby County,Millwall,0-1,https://www.besoccer.com/match/derby-county-fc/millwall-fc/201920008,2019,29,championship,62,55,2,0,3,0,,2019
+Sheffield Wednesday,Brentford,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/brentford/201920014,2019,29,championship,59,56,1,0,0,0,,2019
+Middlesbrough,Bristol City,0-1,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/201920009,2019,29,championship,67,56,1,0,3,0,,2019
+Preston North End,Derby County,0-0,https://www.besoccer.com/match/preston-north-end/derby-county-fc/201920024,2019,30,championship,61,62,1,0,1,0,,2019
+Birmingham City,Nottingham Forest,2-0,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/201920017,2019,30,championship,56,60,2,0,2,0,,2019
+Brentford,Blackburn Rovers,5-2,https://www.besoccer.com/match/brentford/blackburn-rovers-fc/201920018,2019,30,championship,56,55,1,0,1,0,,2019
+Bristol City,Swansea City,2-0,https://www.besoccer.com/match/bristol-city-fc/swansea-city-afc/201920019,2019,30,championship,57,71,0,0,1,0,,2019
+Hull City,Stoke City,2-0,https://www.besoccer.com/match/hull-city/stoke-city/201920020,2019,30,championship,65,72,2,0,2,0,,2019
+Ipswich Town,Sheffield Wednesday,0-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/201920021,2019,30,championship,54,59,1,0,2,0,,2019
+Millwall,Rotherham United,0-0,https://www.besoccer.com/match/millwall-fc/rotherham-united/201920023,2019,30,championship,55,44,0,0,4,0,,2019
+Reading,Aston Villa,0-0,https://www.besoccer.com/match/reading-fc/aston-villa-fc/201920025,2019,30,championship,54,65,3,0,4,0,,2019
+Sheffield United,Bolton Wanderers,2-0,https://www.besoccer.com/match/sheffield-united/bolton-wanderers-fc/201920026,2019,30,championship,59,49,0,0,1,0,,2019
+West Bromwich Albion,Middlesbrough,2-3,https://www.besoccer.com/match/west-bromwich/middlesbrough-fc/201920027,2019,30,championship,73,67,1,0,4,0,,2019
+Wigan Athletic,Queens Park Rangers,2-1,https://www.besoccer.com/match/wigan-athletic/queens-park-rangers-fc/201920028,2019,30,championship,51,57,3,0,1,0,,2019
+Leeds United,Norwich City,1-3,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/201920022,2019,30,championship,59,64,3,0,2,0,,2019
+Aston Villa,Sheffield United,3-3,https://www.besoccer.com/match/aston-villa-fc/sheffield-united/201920029,2019,31,championship,65,58,3,0,3,0,,2019
+Middlesbrough,Leeds United,1-1,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/201920033,2019,31,championship,67,59,2,0,1,0,,2019
+Blackburn Rovers,Bristol City,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/bristol-city-fc/201920030,2019,31,championship,55,57,1,0,2,0,,2019
+Bolton Wanderers,Preston North End,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/preston-north-end/201920031,2019,31,championship,49,60,2,0,0,0,,2019
+Derby County,Hull City,2-0,https://www.besoccer.com/match/derby-county-fc/hull-city/201920032,2019,31,championship,62,65,1,0,1,0,,2019
+Nottingham Forest,Brentford,2-1,https://www.besoccer.com/match/nottingham-forest-fc/brentford/201920035,2019,31,championship,60,56,2,0,1,0,,2019
+Queens Park Rangers,Birmingham City,3-4,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/201920036,2019,31,championship,57,56,1,0,1,0,,2019
+Rotherham United,Wigan Athletic,1-1,https://www.besoccer.com/match/rotherham-united/wigan-athletic/201920037,2019,31,championship,44,51,1,0,3,0,,2019
+Sheffield Wednesday,Reading,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/201920038,2019,31,championship,58,54,0,0,0,0,,2019
+Swansea City,Millwall,1-0,https://www.besoccer.com/match/swansea-city-afc/millwall-fc/201920040,2019,31,championship,72,55,0,0,2,0,,2019
+Stoke City,West Bromwich Albion,0-1,https://www.besoccer.com/match/stoke-city/west-bromwich/201920039,2019,31,championship,72,73,1,0,2,0,,2019
+Norwich City,Ipswich Town,3-0,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/201920034,2019,31,championship,64,53,4,0,3,0,,2019
+Birmingham City,Bolton Wanderers,0-1,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/201920041,2019,32,championship,56,49,1,0,2,0,,2019
+Hull City,Rotherham United,2-2,https://www.besoccer.com/match/hull-city/rotherham-united/201920042,2019,32,championship,65,44,0,0,1,0,,2019
+Bristol City,Queens Park Rangers,2-1,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/201920047,2019,32,championship,57,57,2,0,5,0,,2019
+Millwall,Sheffield Wednesday,0-0,https://www.besoccer.com/match/millwall-fc/sheffield-wednesday-fc/201920049,2019,32,championship,55,58,1,0,2,0,,2019
+West Bromwich Albion,Nottingham Forest,2-2,https://www.besoccer.com/match/west-bromwich/nottingham-forest-fc/201920045,2019,32,championship,73,60,2,0,2,0,,2019
+Ipswich Town,Derby County,1-1,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/201920043,2019,32,championship,53,62,3,0,4,0,,2019
+Preston North End,Norwich City,3-1,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/201920044,2019,32,championship,60,64,3,0,2,0,,2019
+Brentford,Aston Villa,1-0,https://www.besoccer.com/match/brentford/aston-villa-fc/201920046,2019,32,championship,57,64,0,0,1,0,,2019
+Leeds United,Swansea City,2-1,https://www.besoccer.com/match/leeds-united-afc/swansea-city-afc/201920048,2019,32,championship,59,72,1,0,0,0,,2019
+Sheffield United,Middlesbrough,1-0,https://www.besoccer.com/match/sheffield-united/middlesbrough-fc/201920050,2019,32,championship,58,67,2,0,2,0,,2019
+Wigan Athletic,Stoke City,0-0,https://www.besoccer.com/match/wigan-athletic/stoke-city/201920051,2019,32,championship,51,71,1,0,3,0,,2019
+Reading,Blackburn Rovers,2-1,https://www.besoccer.com/match/reading-fc/blackburn-rovers-fc/201920052,2019,32,championship,54,55,1,0,1,0,,2019
+Rotherham United,Sheffield Wednesday,2-2,https://www.besoccer.com/match/rotherham-united/sheffield-wednesday-fc/201920062,2019,33,championship,44,59,4,0,2,0,,2019
+Aston Villa,West Bromwich Albion,0-2,https://www.besoccer.com/match/aston-villa-fc/west-bromwich/201920053,2019,33,championship,64,73,3,0,2,0,,2019
+Bolton Wanderers,Norwich City,0-4,https://www.besoccer.com/match/bolton-wanderers-fc/norwich-city-fc/201920055,2019,33,championship,49,64,1,0,0,0,,2019
+Ipswich Town,Stoke City,1-1,https://www.besoccer.com/match/ipswich-town-fc/stoke-city/201920059,2019,33,championship,53,71,0,0,1,0,,2019
+Preston North End,Nottingham Forest,0-0,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/201920060,2019,33,championship,60,60,1,0,0,0,,2019
+Sheffield United,Reading,4-0,https://www.besoccer.com/match/sheffield-united/reading-fc/201920063,2019,33,championship,58,54,2,0,1,0,,2019
+Blackburn Rovers,Middlesbrough,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/201920054,2019,33,championship,55,67,1,1,0,1,,2019
+Bristol City,Birmingham City,1-2,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/201920056,2019,33,championship,57,56,3,0,2,0,,2019
+Hull City,Millwall,2-1,https://www.besoccer.com/match/hull-city/millwall-fc/201920058,2019,33,championship,65,55,1,0,2,0,,2019
+Queens Park Rangers,Leeds United,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/201920061,2019,33,championship,57,59,4,0,1,0,,2019
+Derby County,Wigan Athletic,2-1,https://www.besoccer.com/match/derby-county-fc/wigan-athletic/201920057,2019,33,championship,62,51,4,0,1,0,,2019
+Swansea City,Brentford,3-0,https://www.besoccer.com/match/swansea-city-afc/brentford/201920064,2019,33,championship,72,57,0,0,4,0,,2019
+Birmingham City,Blackburn Rovers,2-2,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/201920065,2019,34,championship,56,55,0,0,2,0,,2019
+Brentford,Hull City,5-1,https://www.besoccer.com/match/brentford/hull-city/201920066,2019,34,championship,57,65,1,0,3,0,,2019
+Leeds United,Bolton Wanderers,2-1,https://www.besoccer.com/match/leeds-united-afc/bolton-wanderers-fc/201920067,2019,34,championship,59,49,1,0,4,0,,2019
+Middlesbrough,Queens Park Rangers,2-0,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/201920068,2019,34,championship,67,57,2,0,1,0,,2019
+Millwall,Preston North End,1-3,https://www.besoccer.com/match/millwall-fc/preston-north-end/201920069,2019,34,championship,55,60,2,0,1,0,,2019
+Norwich City,Bristol City,3-2,https://www.besoccer.com/match/norwich-city-fc/bristol-city-fc/201920070,2019,34,championship,64,57,1,0,3,0,,2019
+Reading,Rotherham United,1-1,https://www.besoccer.com/match/reading-fc/rotherham-united/201920072,2019,34,championship,54,44,1,0,3,0,,2019
+Sheffield Wednesday,Swansea City,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/swansea-city-afc/201920073,2019,34,championship,59,72,1,0,0,0,,2019
+Stoke City,Aston Villa,1-1,https://www.besoccer.com/match/stoke-city/aston-villa-fc/201920074,2019,34,championship,71,64,3,0,1,0,,2019
+Wigan Athletic,Ipswich Town,1-1,https://www.besoccer.com/match/wigan-athletic/ipswich-town-fc/201920076,2019,34,championship,51,53,2,0,2,0,,2019
+West Bromwich Albion,Sheffield United,0-1,https://www.besoccer.com/match/west-bromwich/sheffield-united/201920075,2019,34,championship,73,58,2,0,3,0,,2019
+Nottingham Forest,Derby County,1-0,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/201920071,2019,34,championship,60,62,2,0,3,0,,2019
+Leeds United,West Bromwich Albion,4-0,https://www.besoccer.com/match/leeds-united-afc/west-bromwich/201920081,2019,35,championship,59,73,0,0,1,0,,2019
+Aston Villa,Derby County,4-0,https://www.besoccer.com/match/aston-villa-fc/derby-county-fc/201920077,2019,35,championship,64,62,2,0,2,0,,2019
+Brentford,Queens Park Rangers,3-0,https://www.besoccer.com/match/brentford/queens-park-rangers-fc/201920078,2019,35,championship,57,57,2,0,2,0,,2019
+Hull City,Birmingham City,2-0,https://www.besoccer.com/match/hull-city/birmingham-city-fc/201920079,2019,35,championship,65,56,2,0,1,0,,2019
+Ipswich Town,Reading,1-2,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/201920080,2019,35,championship,53,54,3,0,4,0,,2019
+Millwall,Norwich City,1-3,https://www.besoccer.com/match/millwall-fc/norwich-city-fc/201920082,2019,35,championship,56,64,2,0,0,0,,2019
+Preston North End,Bristol City,1-1,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/201920083,2019,35,championship,61,58,0,0,3,0,,2019
+Rotherham United,Blackburn Rovers,3-2,https://www.besoccer.com/match/rotherham-united/blackburn-rovers-fc/201920084,2019,35,championship,43,55,2,0,1,0,,2019
+Stoke City,Nottingham Forest,2-0,https://www.besoccer.com/match/stoke-city/nottingham-forest-fc/201920086,2019,35,championship,71,60,2,0,2,0,,2019
+Swansea City,Bolton Wanderers,2-0,https://www.besoccer.com/match/swansea-city-afc/bolton-wanderers-fc/201920087,2019,35,championship,72,49,0,0,1,0,,2019
+Wigan Athletic,Middlesbrough,0-0,https://www.besoccer.com/match/wigan-athletic/middlesbrough-fc/201920088,2019,35,championship,51,67,1,0,2,0,,2019
+Sheffield Wednesday,Sheffield United,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/201920085,2019,35,championship,59,59,0,0,0,0,,2019
+Norwich City,Swansea City,1-0,https://www.besoccer.com/match/norwich-city-fc/swansea-city-afc/201920095,2019,36,championship,64,71,1,0,1,0,,2019
+Blackburn Rovers,Preston North End,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/preston-north-end/201920090,2019,36,championship,55,61,2,0,1,0,,2019
+Sheffield United,Rotherham United,2-0,https://www.besoccer.com/match/sheffield-united/rotherham-united/201920099,2019,36,championship,59,43,0,0,0,0,,2019
+Bolton Wanderers,Millwall,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/millwall-fc/201920091,2019,36,championship,49,56,0,0,3,0,,2019
+Bristol City,Leeds United,0-1,https://www.besoccer.com/match/bristol-city-fc/leeds-united-afc/201920092,2019,36,championship,58,59,4,0,4,0,,2019
+Derby County,Sheffield Wednesday,1-1,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/201920093,2019,36,championship,62,59,2,0,3,0,,2019
+Middlesbrough,Brentford,1-2,https://www.besoccer.com/match/middlesbrough-fc/brentford/201920094,2019,36,championship,67,57,5,0,1,0,,2019
+Nottingham Forest,Hull City,3-0,https://www.besoccer.com/match/nottingham-forest-fc/hull-city/201920096,2019,36,championship,59,65,2,0,1,0,,2019
+Queens Park Rangers,Stoke City,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/stoke-city/201920097,2019,36,championship,57,71,2,1,2,1,,2019
+Reading,Wigan Athletic,3-2,https://www.besoccer.com/match/reading-fc/wigan-athletic/201920098,2019,36,championship,54,51,3,0,3,0,,2019
+West Bromwich Albion,Ipswich Town,1-1,https://www.besoccer.com/match/west-bromwich/ipswich-town-fc/201920100,2019,36,championship,72,53,3,0,2,0,,2019
+Birmingham City,Aston Villa,0-1,https://www.besoccer.com/match/birmingham-city-fc/aston-villa-fc/201920089,2019,36,championship,56,64,3,0,3,0,,2019
+Blackburn Rovers,Wigan Athletic,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/wigan-athletic/201920102,2019,37,championship,55,51,3,0,4,0,,2019
+Bristol City,Ipswich Town,1-1,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/201920103,2019,37,championship,58,53,1,0,3,0,,2019
+Sheffield United,Brentford,2-0,https://www.besoccer.com/match/sheffield-united/brentford/201920105,2019,37,championship,59,57,1,1,0,1,,2019
+Bolton Wanderers,Sheffield Wednesday,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-wednesday-fc/201920106,2019,37,championship,49,59,0,0,0,0,,2019
+Reading,Leeds United,0-3,https://www.besoccer.com/match/reading-fc/leeds-united-afc/201920107,2019,37,championship,54,59,1,0,3,0,,2019
+Birmingham City,Millwall,0-2,https://www.besoccer.com/match/birmingham-city-fc/millwall-fc/201920101,2019,37,championship,56,55,1,0,2,0,,2019
+Nottingham Forest,Aston Villa,1-3,https://www.besoccer.com/match/nottingham-forest-fc/aston-villa-fc/201920104,2019,37,championship,59,64,3,0,3,0,,2019
+Derby County,Stoke City,0-0,https://www.besoccer.com/match/derby-county-fc/stoke-city/201920108,2019,37,championship,63,71,0,0,2,0,,2019
+Middlesbrough,Preston North End,1-2,https://www.besoccer.com/match/middlesbrough-fc/preston-north-end/201920109,2019,37,championship,67,61,0,1,2,1,,2019
+Norwich City,Hull City,3-2,https://www.besoccer.com/match/norwich-city-fc/hull-city/201920110,2019,37,championship,65,65,1,0,3,0,,2019
+Queens Park Rangers,Rotherham United,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/rotherham-united/201920111,2019,37,championship,57,44,2,0,1,0,,2019
+West Bromwich Albion,Swansea City,3-0,https://www.besoccer.com/match/west-bromwich/swansea-city-afc/201920112,2019,37,championship,73,72,0,0,0,0,,2019
+Leeds United,Sheffield United,0-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-united/201920117,2019,38,championship,59,59,0,1,2,1,,2019
+Aston Villa,Middlesbrough,3-0,https://www.besoccer.com/match/aston-villa-fc/middlesbrough-fc/201920113,2019,38,championship,64,67,0,0,1,0,,2019
+Brentford,West Bromwich Albion,0-1,https://www.besoccer.com/match/brentford/west-bromwich/201920114,2019,38,championship,57,72,2,0,1,0,,2019
+Hull City,Queens Park Rangers,2-2,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/201920115,2019,38,championship,65,57,2,0,3,0,,2019
+Ipswich Town,Nottingham Forest,1-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/201920116,2019,38,championship,53,60,0,0,2,0,,2019
+Preston North End,Birmingham City,1-0,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/201920119,2019,38,championship,61,56,3,0,3,0,,2019
+Rotherham United,Norwich City,1-2,https://www.besoccer.com/match/rotherham-united/norwich-city-fc/201920120,2019,38,championship,44,64,2,0,2,0,,2019
+Sheffield Wednesday,Blackburn Rovers,4-2,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/201920121,2019,38,championship,59,55,4,0,0,0,,2019
+Stoke City,Reading,0-0,https://www.besoccer.com/match/stoke-city/reading-fc/201920122,2019,38,championship,70,54,3,0,3,0,,2019
+Wigan Athletic,Bolton Wanderers,5-2,https://www.besoccer.com/match/wigan-athletic/bolton-wanderers-fc/201920124,2019,38,championship,51,49,0,0,1,0,,2019
+Millwall,Bristol City,1-2,https://www.besoccer.com/match/millwall-fc/bristol-city-fc/201920118,2019,38,championship,56,58,0,0,3,0,,2019
+Swansea City,Derby County,1-1,https://www.besoccer.com/match/swansea-city-afc/derby-county-fc/201920123,2019,38,championship,71,63,3,0,4,0,,2019
+West Bromwich Albion,Birmingham City,3-2,https://www.besoccer.com/match/west-bromwich/birmingham-city-fc/201920135,2019,39,championship,73,56,2,0,4,0,,2019
+Aston Villa,Blackburn Rovers,2-1,https://www.besoccer.com/match/aston-villa-fc/blackburn-rovers-fc/201920125,2019,39,championship,64,55,1,0,1,0,,2019
+Derby County,Rotherham United,6-1,https://www.besoccer.com/match/derby-county-fc/rotherham-united/201920126,2019,39,championship,62,44,0,0,1,0,,2019
+Ipswich Town,Hull City,0-2,https://www.besoccer.com/match/ipswich-town-fc/hull-city/201920127,2019,39,championship,53,64,1,0,2,0,,2019
+Leeds United,Millwall,3-2,https://www.besoccer.com/match/leeds-united-afc/millwall-fc/201920128,2019,39,championship,59,56,3,0,4,0,,2019
+Nottingham Forest,Swansea City,2-1,https://www.besoccer.com/match/nottingham-forest-fc/swansea-city-afc/201920130,2019,39,championship,60,71,4,0,1,0,,2019
+Queens Park Rangers,Bolton Wanderers,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/bolton-wanderers-fc/201920131,2019,39,championship,56,49,0,0,1,0,,2019
+Reading,Preston North End,2-1,https://www.besoccer.com/match/reading-fc/preston-north-end/201920132,2019,39,championship,54,61,0,0,1,0,,2019
+Sheffield United,Bristol City,2-3,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/201920133,2019,39,championship,59,58,1,0,4,0,,2019
+Stoke City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/stoke-city/sheffield-wednesday-fc/201920134,2019,39,championship,70,59,1,0,3,0,,2019
+Wigan Athletic,Brentford,0-0,https://www.besoccer.com/match/wigan-athletic/brentford/201920136,2019,39,championship,51,57,1,0,2,0,,2019
+Middlesbrough,Norwich City,0-1,https://www.besoccer.com/match/middlesbrough-fc/norwich-city-fc/201920129,2019,39,championship,67,65,3,0,4,0,,2019
+Norwich City,Queens Park Rangers,4-0,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/201920144,2019,40,championship,65,56,0,1,2,1,,2019
+Birmingham City,Leeds United,1-0,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/201920137,2019,40,championship,56,60,1,0,3,0,,2019
+Blackburn Rovers,Stoke City,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/stoke-city/201920138,2019,40,championship,55,70,2,0,0,0,,2019
+Bolton Wanderers,Ipswich Town,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/ipswich-town-fc/201920139,2019,40,championship,49,53,0,0,0,0,,2019
+Brentford,Derby County,3-3,https://www.besoccer.com/match/brentford/derby-county-fc/201920140,2019,40,championship,57,62,3,0,5,0,,2019
+Bristol City,Wigan Athletic,2-2,https://www.besoccer.com/match/bristol-city-fc/wigan-athletic/201920141,2019,40,championship,58,51,1,0,1,0,,2019
+Hull City,Reading,3-1,https://www.besoccer.com/match/hull-city/reading-fc/201920142,2019,40,championship,64,54,3,0,2,0,,2019
+Millwall,West Bromwich Albion,2-0,https://www.besoccer.com/match/millwall-fc/west-bromwich/201920143,2019,40,championship,55,72,3,0,3,0,,2019
+Preston North End,Sheffield United,0-1,https://www.besoccer.com/match/preston-north-end/sheffield-united/201920145,2019,40,championship,61,59,3,0,1,0,,2019
+Rotherham United,Nottingham Forest,2-1,https://www.besoccer.com/match/rotherham-united/nottingham-forest-fc/201920146,2019,40,championship,44,60,0,0,1,0,,2019
+Sheffield Wednesday,Aston Villa,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/aston-villa-fc/201920147,2019,40,championship,59,64,1,0,3,0,,2019
+Swansea City,Middlesbrough,3-1,https://www.besoccer.com/match/swansea-city-afc/middlesbrough-fc/201920148,2019,40,championship,71,67,1,0,1,0,,2019
+Blackburn Rovers,Derby County,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/201920149,2019,41,championship,54,62,2,0,0,0,,2019
+Bristol City,West Bromwich Albion,3-2,https://www.besoccer.com/match/bristol-city-fc/west-bromwich/201920150,2019,41,championship,58,72,2,0,1,0,,2019
+Preston North End,Leeds United,0-2,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/201920152,2019,41,championship,61,60,2,1,2,1,,2019
+Sheffield Wednesday,Nottingham Forest,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/201920153,2019,41,championship,59,60,2,0,2,0,,2019
+Swansea City,Stoke City,3-1,https://www.besoccer.com/match/swansea-city-afc/stoke-city/201920154,2019,41,championship,71,70,0,0,2,0,,2019
+Bolton Wanderers,Middlesbrough,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/middlesbrough-fc/201920155,2019,41,championship,49,66,0,0,0,0,,2019
+Norwich City,Reading,2-2,https://www.besoccer.com/match/norwich-city-fc/reading-fc/201920151,2019,41,championship,65,54,0,0,2,0,,2019
+Birmingham City,Sheffield United,1-1,https://www.besoccer.com/match/birmingham-city-fc/sheffield-united/201920156,2019,41,championship,56,59,2,0,0,0,,2019
+Brentford,Ipswich Town,2-0,https://www.besoccer.com/match/brentford/ipswich-town-fc/201920157,2019,41,championship,57,53,1,0,1,0,,2019
+Hull City,Wigan Athletic,2-1,https://www.besoccer.com/match/hull-city/wigan-athletic/201920158,2019,41,championship,64,51,2,0,1,0,,2019
+Millwall,Queens Park Rangers,0-0,https://www.besoccer.com/match/millwall-fc/queens-park-rangers-fc/201920159,2019,41,championship,55,56,2,0,3,0,,2019
+Rotherham United,Aston Villa,1-2,https://www.besoccer.com/match/rotherham-united/aston-villa-fc/201920160,2019,41,championship,44,64,3,0,2,0,,2019
+Aston Villa,Bristol City,2-1,https://www.besoccer.com/match/aston-villa-fc/bristol-city-fc/201920161,2019,42,championship,65,58,1,0,6,0,,2019
+Derby County,Bolton Wanderers,4-0,https://www.besoccer.com/match/derby-county-fc/bolton-wanderers-fc/201920162,2019,42,championship,62,49,1,0,1,0,,2019
+Ipswich Town,Birmingham City,1-1,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/201920163,2019,42,championship,53,56,5,0,1,0,,2019
+Middlesbrough,Hull City,1-0,https://www.besoccer.com/match/middlesbrough-fc/hull-city/201920165,2019,42,championship,66,64,0,0,1,0,,2019
+Nottingham Forest,Blackburn Rovers,1-2,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/201920166,2019,42,championship,60,55,2,0,3,0,,2019
+Queens Park Rangers,Swansea City,4-0,https://www.besoccer.com/match/queens-park-rangers-fc/swansea-city-afc/201920167,2019,42,championship,56,71,4,0,1,0,,2019
+Reading,Brentford,2-1,https://www.besoccer.com/match/reading-fc/brentford/201920168,2019,42,championship,54,57,4,0,1,0,,2019
+Sheffield United,Millwall,1-1,https://www.besoccer.com/match/sheffield-united/millwall-fc/201920169,2019,42,championship,59,56,1,1,1,1,,2019
+Stoke City,Rotherham United,2-2,https://www.besoccer.com/match/stoke-city/rotherham-united/201920170,2019,42,championship,70,44,0,0,1,0,,2019
+West Bromwich Albion,Preston North End,4-1,https://www.besoccer.com/match/west-bromwich/preston-north-end/201920171,2019,42,championship,72,61,2,0,1,0,,2019
+Leeds United,Sheffield Wednesday,1-0,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/201920164,2019,42,championship,60,59,2,0,2,0,,2019
+Wigan Athletic,Norwich City,1-1,https://www.besoccer.com/match/wigan-athletic/norwich-city-fc/201920172,2019,42,championship,51,65,2,0,2,0,,2019
+Bristol City,Reading,1-1,https://www.besoccer.com/match/bristol-city-fc/reading-fc/201920175,2019,43,championship,58,54,0,0,0,0,,2019
+Sheffield United,Nottingham Forest,2-0,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/201920182,2019,43,championship,60,60,3,0,2,0,,2019
+Millwall,Brentford,1-1,https://www.besoccer.com/match/millwall-fc/brentford/201920178,2019,43,championship,56,57,1,0,3,0,,2019
+Birmingham City,Derby County,2-2,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/201920173,2019,43,championship,55,62,3,0,3,0,,2019
+Bolton Wanderers,Aston Villa,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/aston-villa-fc/201920174,2019,43,championship,48,65,2,0,1,0,,2019
+Leeds United,Wigan Athletic,1-2,https://www.besoccer.com/match/leeds-united-afc/wigan-athletic/201920176,2019,43,championship,60,51,3,0,3,0,,2019
+Middlesbrough,Stoke City,1-0,https://www.besoccer.com/match/middlesbrough-fc/stoke-city/201920177,2019,43,championship,66,70,1,0,1,0,,2019
+Preston North End,Ipswich Town,4-0,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/201920180,2019,43,championship,61,53,0,0,1,0,,2019
+Queens Park Rangers,Blackburn Rovers,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/201920181,2019,43,championship,56,54,3,0,3,0,,2019
+Swansea City,Rotherham United,4-3,https://www.besoccer.com/match/swansea-city-afc/rotherham-united/201920183,2019,43,championship,71,44,0,0,1,0,,2019
+West Bromwich Albion,Hull City,3-2,https://www.besoccer.com/match/west-bromwich/hull-city/201920184,2019,43,championship,72,64,0,0,0,0,,2019
+Norwich City,Sheffield Wednesday,2-2,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/201920179,2019,43,championship,65,59,1,0,2,0,,2019
+Aston Villa,Millwall,1-0,https://www.besoccer.com/match/aston-villa-fc/millwall-fc/201920185,2019,44,championship,65,56,2,0,2,0,,2019
+Blackburn Rovers,Bolton Wanderers,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/bolton-wanderers-fc/201920186,2019,44,championship,54,48,0,0,0,0,,2019
+Derby County,Queens Park Rangers,2-0,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/201920188,2019,44,championship,62,56,1,0,3,0,,2019
+Hull City,Sheffield United,0-3,https://www.besoccer.com/match/hull-city/sheffield-united/201920189,2019,44,championship,64,60,0,0,0,0,,2019
+Ipswich Town,Swansea City,0-1,https://www.besoccer.com/match/ipswich-town-fc/swansea-city-afc/201920190,2019,44,championship,53,71,2,0,3,0,,2019
+Nottingham Forest,Middlesbrough,3-0,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/201920191,2019,44,championship,60,66,1,0,1,0,,2019
+Reading,West Bromwich Albion,0-0,https://www.besoccer.com/match/reading-fc/west-bromwich/201920192,2019,44,championship,54,72,2,0,1,0,,2019
+Rotherham United,Birmingham City,1-3,https://www.besoccer.com/match/rotherham-united/birmingham-city-fc/201920193,2019,44,championship,44,55,3,0,1,0,,2019
+Sheffield Wednesday,Bristol City,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/201920194,2019,44,championship,59,58,1,0,2,0,,2019
+Stoke City,Norwich City,2-2,https://www.besoccer.com/match/stoke-city/norwich-city-fc/201920195,2019,44,championship,70,65,0,0,0,0,,2019
+Wigan Athletic,Preston North End,2-0,https://www.besoccer.com/match/wigan-athletic/preston-north-end/201920196,2019,44,championship,51,61,1,0,2,0,,2019
+Brentford,Leeds United,2-0,https://www.besoccer.com/match/brentford/leeds-united-afc/201920187,2019,44,championship,57,60,3,0,1,0,,2019
+Millwall,Stoke City,0-0,https://www.besoccer.com/match/millwall-fc/stoke-city/201920202,2019,45,championship,56,70,1,0,2,0,,2019
+Birmingham City,Wigan Athletic,1-1,https://www.besoccer.com/match/birmingham-city-fc/wigan-athletic/201920197,2019,45,championship,55,51,1,0,1,0,,2019
+Bolton Wanderers,Brentford,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/brentford/201920198,2019,45,championship,48,57,0,0,0,0,,2019
+Bristol City,Derby County,0-2,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/201920199,2019,45,championship,58,62,0,1,4,1,,2019
+Middlesbrough,Reading,2-1,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/201920201,2019,45,championship,66,54,3,0,1,0,,2019
+Preston North End,Sheffield Wednesday,3-3,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/201920204,2019,45,championship,61,59,1,0,2,0,,2019
+Queens Park Rangers,Nottingham Forest,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/201920205,2019,45,championship,56,60,1,0,2,0,,2019
+Swansea City,Hull City,2-2,https://www.besoccer.com/match/swansea-city-afc/hull-city/201920207,2019,45,championship,71,64,1,0,4,0,,2019
+West Bromwich Albion,Rotherham United,2-1,https://www.besoccer.com/match/west-bromwich/rotherham-united/201920208,2019,45,championship,72,44,0,0,2,0,,2019
+Sheffield United,Ipswich Town,2-0,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/201920206,2019,45,championship,60,53,0,0,1,0,,2019
+Norwich City,Blackburn Rovers,2-1,https://www.besoccer.com/match/norwich-city-fc/blackburn-rovers-fc/201920203,2019,45,championship,65,54,1,0,3,0,,2019
+Leeds United,Aston Villa,1-1,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/201920200,2019,45,championship,60,65,4,0,2,0,,2019
+Aston Villa,Norwich City,1-2,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/201920209,2019,46,championship,65,65,1,0,3,0,,2019
+Blackburn Rovers,Swansea City,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/swansea-city-afc/201920210,2019,46,championship,54,71,1,0,1,0,,2019
+Brentford,Preston North End,3-0,https://www.besoccer.com/match/brentford/preston-north-end/201920211,2019,46,championship,57,61,0,0,2,0,,2019
+Derby County,West Bromwich Albion,3-1,https://www.besoccer.com/match/derby-county-fc/west-bromwich/201920212,2019,46,championship,62,72,1,0,5,0,,2019
+Hull City,Bristol City,1-1,https://www.besoccer.com/match/hull-city/bristol-city-fc/201920213,2019,46,championship,64,58,2,0,2,0,,2019
+Ipswich Town,Leeds United,3-2,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/201920214,2019,46,championship,53,60,2,1,1,1,,2019
+Nottingham Forest,Bolton Wanderers,1-0,https://www.besoccer.com/match/nottingham-forest-fc/bolton-wanderers-fc/201920215,2019,46,championship,60,48,0,0,0,0,,2019
+Reading,Birmingham City,0-0,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/201920216,2019,46,championship,54,55,0,0,1,0,,2019
+Rotherham United,Middlesbrough,1-2,https://www.besoccer.com/match/rotherham-united/middlesbrough-fc/201920217,2019,46,championship,44,66,0,0,1,0,,2019
+Sheffield Wednesday,Queens Park Rangers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/201920218,2019,46,championship,59,56,2,0,2,0,,2019
+Stoke City,Sheffield United,2-2,https://www.besoccer.com/match/stoke-city/sheffield-united/201920219,2019,46,championship,70,59,1,0,1,0,,2019
+Wigan Athletic,Millwall,1-0,https://www.besoccer.com/match/wigan-athletic/millwall-fc/201920220,2019,46,championship,51,56,0,0,0,0,,2019

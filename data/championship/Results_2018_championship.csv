@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Sunderland,Derby County,1-1,https://www.besoccer.com/match/sunderland-afc/derby-county-fc/2018418285,2018,1,championship,63,60,1,0,0,0,,2018
+Nottingham Forest,Millwall,1-0,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/2018418290,2018,1,championship,55,52,0,0,1,0,,2018
+Bristol City,Barnsley,3-1,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/2018418286,2018,1,championship,53,49,1,0,2,0,,2018
+Burton Albion,Cardiff City,0-1,https://www.besoccer.com/match/burton-albion/cardiff-city-fc/2018418287,2018,1,championship,44,57,1,0,0,0,,2018
+Fulham,Norwich City,1-1,https://www.besoccer.com/match/fulham/norwich-city-fc/2018418288,2018,1,championship,62,63,3,0,2,0,,2018
+Ipswich Town,Birmingham City,1-0,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/2018418289,2018,1,championship,55,56,1,0,1,0,,2018
+Preston North End,Sheffield Wednesday,1-0,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/2018418291,2018,1,championship,57,59,2,0,3,0,,2018
+Queens Park Rangers,Reading,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/2018418292,2018,1,championship,56,60,1,0,2,0,,2018
+Sheffield United,Brentford,1-0,https://www.besoccer.com/match/sheffield-united/brentford/2018418293,2018,1,championship,55,53,0,0,0,0,,2018
+Wolves,Middlesbrough,1-0,https://www.besoccer.com/match/wolverhampton/middlesbrough-fc/2018418294,2018,1,championship,57,62,1,0,2,0,,2018
+Aston Villa,Hull City,1-1,https://www.besoccer.com/match/aston-villa-fc/hull-city/2018418295,2018,1,championship,61,62,2,0,0,0,,2018
+Bolton Wanderers,Leeds United,2-3,https://www.besoccer.com/match/bolton-wanderers-fc/leeds-united-afc/2018418296,2018,1,championship,55,58,1,0,0,0,,2018
+Barnsley,Ipswich Town,1-2,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/2018418297,2018,2,championship,49,55,1,0,2,0,,2018
+Birmingham City,Bristol City,2-1,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/2018418298,2018,2,championship,56,53,1,1,2,1,,2018
+Brentford,Nottingham Forest,3-4,https://www.besoccer.com/match/brentford/nottingham-forest-fc/2018418299,2018,2,championship,53,55,1,0,3,0,,2018
+Cardiff City,Aston Villa,3-0,https://www.besoccer.com/match/cardiff-city-fc/aston-villa-fc/2018418300,2018,2,championship,57,61,0,0,1,0,,2018
+Derby County,Wolves,0-2,https://www.besoccer.com/match/derby-county-fc/wolverhampton/2018418301,2018,2,championship,60,57,0,0,0,0,,2018
+Hull City,Burton Albion,4-1,https://www.besoccer.com/match/hull-city/burton-albion/2018418302,2018,2,championship,62,44,2,0,2,0,,2018
+Leeds United,Preston North End,0-0,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/2018418303,2018,2,championship,58,57,1,0,2,0,,2018
+Millwall,Bolton Wanderers,1-1,https://www.besoccer.com/match/millwall-fc/bolton-wanderers-fc/2018418305,2018,2,championship,52,55,2,0,3,0,,2018
+Reading,Fulham,1-1,https://www.besoccer.com/match/reading-fc/fulham/2018418307,2018,2,championship,60,62,2,0,1,0,,2018
+Sheffield Wednesday,Queens Park Rangers,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/2018418308,2018,2,championship,59,56,0,0,3,0,,2018
+Middlesbrough,Sheffield United,1-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-united/2018418304,2018,2,championship,62,55,1,0,1,0,,2018
+Norwich City,Sunderland,1-3,https://www.besoccer.com/match/norwich-city-fc/sunderland-afc/2018418306,2018,2,championship,63,63,0,0,1,0,,2018
+Barnsley,Nottingham Forest,2-1,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/2018418309,2018,3,championship,49,55,2,0,1,0,,2018
+Birmingham City,Bolton Wanderers,0-0,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/2018418310,2018,3,championship,56,55,1,0,1,0,,2018
+Brentford,Bristol City,2-2,https://www.besoccer.com/match/brentford/bristol-city-fc/2018418311,2018,3,championship,53,53,2,0,3,0,,2018
+Cardiff City,Sheffield United,2-0,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/2018418312,2018,3,championship,57,55,2,0,1,0,,2018
+Derby County,Preston North End,1-0,https://www.besoccer.com/match/derby-county-fc/preston-north-end/2018418313,2018,3,championship,60,57,2,0,3,0,,2018
+Hull City,Wolves,2-3,https://www.besoccer.com/match/hull-city/wolverhampton/2018418314,2018,3,championship,62,57,2,0,4,0,,2018
+Leeds United,Fulham,0-0,https://www.besoccer.com/match/leeds-united-afc/fulham/2018418315,2018,3,championship,58,62,2,0,1,0,,2018
+Middlesbrough,Burton Albion,2-0,https://www.besoccer.com/match/middlesbrough-fc/burton-albion/2018418316,2018,3,championship,62,44,1,0,2,0,,2018
+Millwall,Ipswich Town,3-4,https://www.besoccer.com/match/millwall-fc/ipswich-town-fc/2018418317,2018,3,championship,52,55,1,0,4,0,,2018
+Reading,Aston Villa,2-1,https://www.besoccer.com/match/reading-fc/aston-villa-fc/2018418320,2018,3,championship,60,61,2,0,2,0,,2018
+Norwich City,Queens Park Rangers,2-0,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/2018418318,2018,3,championship,63,56,1,0,1,0,,2018
+Sheffield Wednesday,Sunderland,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/sunderland-afc/2018418319,2018,3,championship,59,63,0,0,1,0,,2018
+Burton Albion,Birmingham City,2-1,https://www.besoccer.com/match/burton-albion/birmingham-city-fc/2018418324,2018,4,championship,44,56,1,0,0,0,,2018
+Sheffield United,Barnsley,1-0,https://www.besoccer.com/match/sheffield-united/barnsley-fc/2018418330,2018,4,championship,55,49,3,1,3,1,,2018
+Aston Villa,Norwich City,4-2,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/2018418321,2018,4,championship,61,63,1,0,3,0,,2018
+Bolton Wanderers,Derby County,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/derby-county-fc/2018418322,2018,4,championship,55,60,2,0,1,0,,2018
+Bristol City,Millwall,0-0,https://www.besoccer.com/match/bristol-city-fc/millwall-fc/2018418323,2018,4,championship,53,52,3,0,2,0,,2018
+Fulham,Sheffield Wednesday,0-1,https://www.besoccer.com/match/fulham/sheffield-wednesday-fc/2018418325,2018,4,championship,62,59,2,0,0,0,,2018
+Ipswich Town,Brentford,2-0,https://www.besoccer.com/match/ipswich-town-fc/brentford/2018418326,2018,4,championship,55,53,1,0,2,0,,2018
+Nottingham Forest,Middlesbrough,2-1,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/2018418327,2018,4,championship,55,62,2,0,4,0,,2018
+Preston North End,Reading,1-0,https://www.besoccer.com/match/preston-north-end/reading-fc/2018418328,2018,4,championship,57,60,2,0,3,0,,2018
+Queens Park Rangers,Hull City,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/2018418329,2018,4,championship,56,62,3,0,3,0,,2018
+Wolves,Cardiff City,1-2,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/2018418332,2018,4,championship,57,57,2,0,4,0,,2018
+Sunderland,Leeds United,0-2,https://www.besoccer.com/match/sunderland-afc/leeds-united-afc/2018418331,2018,4,championship,63,58,3,0,1,0,,2018
+Hull City,Bolton Wanderers,4-0,https://www.besoccer.com/match/hull-city/bolton-wanderers-fc/2018418339,2018,5,championship,62,55,1,0,1,0,,2018
+Bristol City,Aston Villa,1-1,https://www.besoccer.com/match/bristol-city-fc/aston-villa-fc/2018418336,2018,5,championship,53,61,1,0,1,0,,2018
+Barnsley,Sunderland,3-0,https://www.besoccer.com/match/barnsley-fc/sunderland-afc/2018418333,2018,5,championship,49,63,1,0,3,0,,2018
+Birmingham City,Reading,0-2,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/2018418334,2018,5,championship,56,60,0,0,0,0,,2018
+Brentford,Wolves,0-0,https://www.besoccer.com/match/brentford/wolverhampton/2018418335,2018,5,championship,53,57,1,0,1,0,,2018
+Burton Albion,Sheffield Wednesday,1-1,https://www.besoccer.com/match/burton-albion/sheffield-wednesday-fc/2018418337,2018,5,championship,44,59,0,0,2,0,,2018
+Cardiff City,Queens Park Rangers,2-1,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/2018418338,2018,5,championship,57,56,0,0,1,0,,2018
+Ipswich Town,Fulham,0-2,https://www.besoccer.com/match/ipswich-town-fc/fulham/2018418340,2018,5,championship,55,62,1,0,0,0,,2018
+Middlesbrough,Preston North End,0-0,https://www.besoccer.com/match/middlesbrough-fc/preston-north-end/2018418341,2018,5,championship,61,57,1,0,2,0,,2018
+Millwall,Norwich City,4-0,https://www.besoccer.com/match/millwall-fc/norwich-city-fc/2018418342,2018,5,championship,52,63,2,0,1,0,,2018
+Sheffield United,Derby County,3-1,https://www.besoccer.com/match/sheffield-united/derby-county-fc/2018418344,2018,5,championship,55,60,4,0,3,0,,2018
+Nottingham Forest,Leeds United,0-2,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/2018418343,2018,5,championship,55,58,3,0,2,0,,2018
+Derby County,Hull City,5-0,https://www.besoccer.com/match/derby-county-fc/hull-city/2018418347,2018,6,championship,60,62,0,0,0,0,,2018
+Aston Villa,Brentford,0-0,https://www.besoccer.com/match/aston-villa-fc/brentford/2018418345,2018,6,championship,62,53,0,0,0,0,,2018
+Bolton Wanderers,Middlesbrough,0-3,https://www.besoccer.com/match/bolton-wanderers-fc/middlesbrough-fc/2018418346,2018,6,championship,55,61,1,0,1,0,,2018
+Fulham,Cardiff City,1-1,https://www.besoccer.com/match/fulham/cardiff-city-fc/2018418348,2018,6,championship,62,57,4,0,3,0,,2018
+Leeds United,Burton Albion,5-0,https://www.besoccer.com/match/leeds-united-afc/burton-albion/2018418349,2018,6,championship,58,44,0,0,1,0,,2018
+Norwich City,Birmingham City,1-0,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/2018418350,2018,6,championship,63,56,1,0,5,0,,2018
+Preston North End,Barnsley,1-1,https://www.besoccer.com/match/preston-north-end/barnsley-fc/2018418351,2018,6,championship,57,49,1,0,2,0,,2018
+Queens Park Rangers,Ipswich Town,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/2018418352,2018,6,championship,56,56,1,0,2,0,,2018
+Reading,Bristol City,0-1,https://www.besoccer.com/match/reading-fc/bristol-city-fc/2018418353,2018,6,championship,60,53,1,0,1,0,,2018
+Sunderland,Sheffield United,1-2,https://www.besoccer.com/match/sunderland-afc/sheffield-united/2018418355,2018,6,championship,63,55,1,0,2,0,,2018
+Wolves,Millwall,1-0,https://www.besoccer.com/match/wolverhampton/millwall-fc/2018418356,2018,6,championship,57,52,1,0,2,0,,2018
+Sheffield Wednesday,Nottingham Forest,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/2018418354,2018,6,championship,59,55,1,0,0,0,,2018
+Aston Villa,Middlesbrough,0-0,https://www.besoccer.com/match/aston-villa-fc/middlesbrough-fc/2018418357,2018,7,championship,61,61,2,1,1,1,,2018
+Leeds United,Birmingham City,2-0,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/2018418360,2018,7,championship,58,56,1,0,2,0,,2018
+Norwich City,Burton Albion,0-0,https://www.besoccer.com/match/norwich-city-fc/burton-albion/2018418361,2018,7,championship,63,44,2,0,2,0,,2018
+Preston North End,Cardiff City,3-0,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/2018418362,2018,7,championship,57,58,3,0,3,0,,2018
+Queens Park Rangers,Millwall,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/millwall-fc/2018418363,2018,7,championship,56,52,2,0,5,0,,2018
+Sheffield Wednesday,Brentford,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/brentford/2018418364,2018,7,championship,59,53,3,0,0,0,,2018
+Sunderland,Nottingham Forest,0-1,https://www.besoccer.com/match/sunderland-afc/nottingham-forest-fc/2018418365,2018,7,championship,64,55,1,0,1,0,,2018
+Wolves,Bristol City,3-3,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/2018418366,2018,7,championship,58,53,1,0,2,0,,2018
+Bolton Wanderers,Sheffield United,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-united/2018418367,2018,7,championship,55,55,3,0,1,0,,2018
+Fulham,Hull City,2-1,https://www.besoccer.com/match/fulham/hull-city/2018418359,2018,7,championship,62,63,0,0,0,0,,2018
+Derby County,Ipswich Town,0-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/2018418358,2018,7,championship,60,56,3,0,3,0,,2018
+Reading,Barnsley,3-0,https://www.besoccer.com/match/reading-fc/barnsley-fc/2018418368,2018,7,championship,60,49,0,0,1,0,,2018
+Birmingham City,Preston North End,1-3,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/2018418370,2018,8,championship,56,57,2,0,4,0,,2018
+Brentford,Reading,1-1,https://www.besoccer.com/match/brentford/reading-fc/2018418371,2018,8,championship,53,60,1,0,4,0,,2018
+Bristol City,Derby County,4-1,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/2018418372,2018,8,championship,53,60,1,0,2,0,,2018
+Burton Albion,Fulham,2-1,https://www.besoccer.com/match/burton-albion/fulham/2018418373,2018,8,championship,44,62,1,0,1,0,,2018
+Cardiff City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/2018418374,2018,8,championship,58,59,1,0,2,0,,2018
+Hull City,Sunderland,1-1,https://www.besoccer.com/match/hull-city/sunderland-afc/2018418375,2018,8,championship,62,64,2,0,5,0,,2018
+Ipswich Town,Bolton Wanderers,2-0,https://www.besoccer.com/match/ipswich-town-fc/bolton-wanderers-fc/2018418376,2018,8,championship,56,55,1,0,3,0,,2018
+Middlesbrough,Queens Park Rangers,3-2,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/2018418377,2018,8,championship,62,56,4,0,4,0,,2018
+Millwall,Leeds United,1-0,https://www.besoccer.com/match/millwall-fc/leeds-united-afc/2018418378,2018,8,championship,52,58,1,0,3,0,,2018
+Nottingham Forest,Wolves,1-2,https://www.besoccer.com/match/nottingham-forest-fc/wolverhampton/2018418379,2018,8,championship,55,58,2,0,2,0,,2018
+Sheffield United,Norwich City,0-1,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/2018418380,2018,8,championship,55,63,2,0,5,0,,2018
+Barnsley,Aston Villa,0-3,https://www.besoccer.com/match/barnsley-fc/aston-villa-fc/2018418369,2018,8,championship,49,61,1,0,2,0,,2018
+Bolton Wanderers,Brentford,0-3,https://www.besoccer.com/match/bolton-wanderers-fc/brentford/2018418382,2018,9,championship,55,54,2,0,1,0,,2018
+Derby County,Birmingham City,1-1,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/2018418383,2018,9,championship,60,56,1,0,1,0,,2018
+Fulham,Middlesbrough,1-1,https://www.besoccer.com/match/fulham/middlesbrough-fc/2018418384,2018,9,championship,61,62,2,0,1,0,,2018
+Leeds United,Ipswich Town,3-2,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/2018418385,2018,9,championship,58,56,1,0,3,0,,2018
+Norwich City,Bristol City,0-0,https://www.besoccer.com/match/norwich-city-fc/bristol-city-fc/2018418386,2018,9,championship,63,54,1,0,1,0,,2018
+Preston North End,Millwall,0-0,https://www.besoccer.com/match/preston-north-end/millwall-fc/2018418387,2018,9,championship,57,52,3,0,1,0,,2018
+Queens Park Rangers,Burton Albion,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/burton-albion/2018418388,2018,9,championship,56,45,0,0,0,0,,2018
+Reading,Hull City,1-1,https://www.besoccer.com/match/reading-fc/hull-city/2018418389,2018,9,championship,60,62,0,0,0,0,,2018
+Sunderland,Cardiff City,1-2,https://www.besoccer.com/match/sunderland-afc/cardiff-city-fc/2018418391,2018,9,championship,63,58,3,0,3,0,,2018
+Wolves,Barnsley,2-1,https://www.besoccer.com/match/wolverhampton/barnsley-fc/2018418392,2018,9,championship,58,49,3,0,1,0,,2018
+Aston Villa,Nottingham Forest,2-1,https://www.besoccer.com/match/aston-villa-fc/nottingham-forest-fc/2018418381,2018,9,championship,62,56,1,0,3,0,,2018
+Sheffield Wednesday,Sheffield United,2-4,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/2018418390,2018,9,championship,59,55,1,0,2,0,,2018
+Barnsley,Queens Park Rangers,1-1,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/2018418393,2018,10,championship,49,55,1,0,2,0,,2018
+Brentford,Derby County,1-1,https://www.besoccer.com/match/brentford/derby-county-fc/2018418395,2018,10,championship,54,60,3,0,5,0,,2018
+Bristol City,Bolton Wanderers,2-0,https://www.besoccer.com/match/bristol-city-fc/bolton-wanderers-fc/2018418396,2018,10,championship,54,55,2,0,3,0,,2018
+Burton Albion,Aston Villa,0-4,https://www.besoccer.com/match/burton-albion/aston-villa-fc/2018418397,2018,10,championship,45,62,0,0,0,0,,2018
+Cardiff City,Leeds United,3-1,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/2018418398,2018,10,championship,58,59,0,0,2,0,,2018
+Hull City,Preston North End,1-2,https://www.besoccer.com/match/hull-city/preston-north-end/2018418399,2018,10,championship,62,57,4,0,2,0,,2018
+Ipswich Town,Sunderland,5-2,https://www.besoccer.com/match/ipswich-town-fc/sunderland-afc/2018418400,2018,10,championship,56,63,1,0,2,0,,2018
+Middlesbrough,Norwich City,0-1,https://www.besoccer.com/match/middlesbrough-fc/norwich-city-fc/2018418401,2018,10,championship,62,62,1,0,4,0,,2018
+Millwall,Reading,2-1,https://www.besoccer.com/match/millwall-fc/reading-fc/2018418402,2018,10,championship,52,60,1,0,0,0,,2018
+Nottingham Forest,Fulham,1-3,https://www.besoccer.com/match/nottingham-forest-fc/fulham/2018418403,2018,10,championship,56,61,2,0,0,0,,2018
+Birmingham City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/2018418394,2018,10,championship,56,59,0,0,0,0,,2018
+Sheffield United,Wolves,2-0,https://www.besoccer.com/match/sheffield-united/wolverhampton/2018418404,2018,10,championship,55,58,3,0,1,0,,2018
+Queens Park Rangers,Fulham,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/fulham/2018418414,2018,11,championship,55,61,3,0,3,0,,2018
+Aston Villa,Bolton Wanderers,1-0,https://www.besoccer.com/match/aston-villa-fc/bolton-wanderers-fc/2018418405,2018,11,championship,62,55,1,1,3,1,,2018
+Burton Albion,Wolves,0-4,https://www.besoccer.com/match/burton-albion/wolverhampton/2018418406,2018,11,championship,45,58,1,0,0,0,,2018
+Cardiff City,Derby County,0-0,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/2018418407,2018,11,championship,58,60,2,0,1,0,,2018
+Hull City,Birmingham City,6-1,https://www.besoccer.com/match/hull-city/birmingham-city-fc/2018418408,2018,11,championship,62,56,0,0,0,0,,2018
+Ipswich Town,Bristol City,1-3,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/2018418409,2018,11,championship,56,54,2,0,2,0,,2018
+Middlesbrough,Brentford,2-2,https://www.besoccer.com/match/middlesbrough-fc/brentford/2018418410,2018,11,championship,62,54,3,0,3,0,,2018
+Millwall,Barnsley,1-3,https://www.besoccer.com/match/millwall-fc/barnsley-fc/2018418411,2018,11,championship,52,49,2,0,3,0,,2018
+Nottingham Forest,Sheffield United,2-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/2018418412,2018,11,championship,56,55,3,0,4,0,,2018
+Preston North End,Sunderland,2-2,https://www.besoccer.com/match/preston-north-end/sunderland-afc/2018418413,2018,11,championship,57,63,1,0,1,0,,2018
+Reading,Norwich City,1-2,https://www.besoccer.com/match/reading-fc/norwich-city-fc/2018418415,2018,11,championship,60,62,4,0,1,0,,2018
+Sheffield Wednesday,Leeds United,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/2018418416,2018,11,championship,59,59,1,0,0,0,,2018
+Birmingham City,Cardiff City,1-0,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/2018418418,2018,12,championship,56,58,2,0,1,0,,2018
+Bristol City,Burton Albion,0-0,https://www.besoccer.com/match/bristol-city-fc/burton-albion/2018418421,2018,12,championship,55,46,0,0,1,0,,2018
+Barnsley,Middlesbrough,2-2,https://www.besoccer.com/match/barnsley-fc/middlesbrough-fc/2018418417,2018,12,championship,50,69,2,0,0,0,,2018
+Bolton Wanderers,Sheffield Wednesday,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-wednesday-fc/2018418419,2018,12,championship,51,60,3,0,3,0,,2018
+Brentford,Millwall,1-0,https://www.besoccer.com/match/brentford/millwall-fc/2018418420,2018,12,championship,54,52,2,0,1,0,,2018
+Fulham,Preston North End,2-2,https://www.besoccer.com/match/fulham/preston-north-end/2018418423,2018,12,championship,62,58,1,0,4,0,,2018
+Leeds United,Reading,0-1,https://www.besoccer.com/match/leeds-united-afc/reading-fc/2018418424,2018,12,championship,59,61,5,0,2,0,,2018
+Norwich City,Hull City,1-1,https://www.besoccer.com/match/norwich-city-fc/hull-city/2018418425,2018,12,championship,63,69,1,0,4,0,,2018
+Sheffield United,Ipswich Town,1-0,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/2018418426,2018,12,championship,52,57,2,0,1,0,,2018
+Sunderland,Queens Park Rangers,1-1,https://www.besoccer.com/match/sunderland-afc/queens-park-rangers-fc/2018418427,2018,12,championship,63,56,0,0,0,0,,2018
+Wolves,Aston Villa,2-0,https://www.besoccer.com/match/wolverhampton/aston-villa-fc/2018418428,2018,12,championship,59,62,0,0,2,0,,2018
+Derby County,Nottingham Forest,2-0,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/2018418422,2018,12,championship,60,56,0,0,1,0,,2018
+Aston Villa,Fulham,2-1,https://www.besoccer.com/match/aston-villa-fc/fulham/2018418429,2018,13,championship,62,62,1,0,2,0,,2018
+Barnsley,Hull City,0-1,https://www.besoccer.com/match/barnsley-fc/hull-city/2018418430,2018,13,championship,50,69,1,0,3,0,,2018
+Bolton Wanderers,Queens Park Rangers,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/queens-park-rangers-fc/2018418431,2018,13,championship,50,56,0,0,0,0,,2018
+Brentford,Sunderland,3-3,https://www.besoccer.com/match/brentford/sunderland-afc/2018418432,2018,13,championship,54,63,2,0,4,0,,2018
+Bristol City,Leeds United,0-3,https://www.besoccer.com/match/bristol-city-fc/leeds-united-afc/2018418433,2018,13,championship,56,60,3,1,3,1,,2018
+Derby County,Sheffield Wednesday,2-0,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/2018418434,2018,13,championship,60,60,2,0,3,0,,2018
+Middlesbrough,Cardiff City,0-1,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/2018418436,2018,13,championship,70,58,2,0,2,0,,2018
+Nottingham Forest,Burton Albion,2-0,https://www.besoccer.com/match/nottingham-forest-fc/burton-albion/2018418438,2018,13,championship,56,46,0,0,2,0,,2018
+Sheffield United,Reading,2-1,https://www.besoccer.com/match/sheffield-united/reading-fc/2018418439,2018,13,championship,52,61,1,0,2,0,,2018
+Wolves,Preston North End,3-2,https://www.besoccer.com/match/wolverhampton/preston-north-end/2018418440,2018,13,championship,59,58,3,0,4,0,,2018
+Millwall,Birmingham City,2-0,https://www.besoccer.com/match/millwall-fc/birmingham-city-fc/2018418437,2018,13,championship,52,56,2,0,2,0,,2018
+Ipswich Town,Norwich City,0-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/2018418435,2018,13,championship,57,64,3,0,0,0,,2018
+Leeds United,Sheffield United,1-2,https://www.besoccer.com/match/leeds-united-afc/sheffield-united/2018418446,2018,14,championship,59,52,2,0,6,0,,2018
+Sheffield Wednesday,Barnsley,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/2018418451,2018,14,championship,60,50,2,0,1,0,,2018
+Burton Albion,Ipswich Town,1-2,https://www.besoccer.com/match/burton-albion/ipswich-town-fc/2018418442,2018,14,championship,46,57,1,0,2,0,,2018
+Cardiff City,Millwall,0-0,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/2018418443,2018,14,championship,59,53,2,0,1,0,,2018
+Fulham,Bolton Wanderers,1-1,https://www.besoccer.com/match/fulham/bolton-wanderers-fc/2018418444,2018,14,championship,62,50,1,0,4,0,,2018
+Norwich City,Derby County,1-2,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/2018418447,2018,14,championship,64,60,1,0,3,0,,2018
+Preston North End,Brentford,2-3,https://www.besoccer.com/match/preston-north-end/brentford/2018418448,2018,14,championship,58,54,3,0,0,0,,2018
+Queens Park Rangers,Wolves,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/2018418449,2018,14,championship,56,59,3,0,1,0,,2018
+Reading,Middlesbrough,0-2,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/2018418450,2018,14,championship,60,70,1,0,1,0,,2018
+Sunderland,Bristol City,1-2,https://www.besoccer.com/match/sunderland-afc/bristol-city-fc/2018418452,2018,14,championship,62,56,2,0,2,0,,2018
+Hull City,Nottingham Forest,2-3,https://www.besoccer.com/match/hull-city/nottingham-forest-fc/2018418445,2018,14,championship,69,55,4,0,3,0,,2018
+Birmingham City,Aston Villa,0-0,https://www.besoccer.com/match/birmingham-city-fc/aston-villa-fc/2018418441,2018,14,championship,56,63,3,0,2,0,,2018
+Burton Albion,Barnsley,2-4,https://www.besoccer.com/match/burton-albion/barnsley-fc/2018418454,2018,15,championship,46,50,0,0,1,0,,2018
+Cardiff City,Ipswich Town,3-1,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/2018418455,2018,15,championship,59,57,1,0,1,0,,2018
+Fulham,Bristol City,0-2,https://www.besoccer.com/match/fulham/bristol-city-fc/2018418456,2018,15,championship,62,56,0,1,2,1,,2018
+Hull City,Middlesbrough,1-3,https://www.besoccer.com/match/hull-city/middlesbrough-fc/2018418457,2018,15,championship,69,70,2,1,2,1,,2018
+Leeds United,Derby County,1-2,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/2018418458,2018,15,championship,59,60,2,0,2,0,,2018
+Norwich City,Wolves,0-2,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/2018418459,2018,15,championship,64,59,4,0,4,0,,2018
+Queens Park Rangers,Sheffield United,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/2018418461,2018,15,championship,56,52,2,0,2,0,,2018
+Sheffield Wednesday,Millwall,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/millwall-fc/2018418462,2018,15,championship,60,52,0,0,1,0,,2018
+Sunderland,Bolton Wanderers,3-3,https://www.besoccer.com/match/sunderland-afc/bolton-wanderers-fc/2018418463,2018,15,championship,62,50,1,0,0,0,,2018
+Reading,Nottingham Forest,3-1,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/2018418464,2018,15,championship,60,56,0,0,1,0,,2018
+Birmingham City,Brentford,0-2,https://www.besoccer.com/match/birmingham-city-fc/brentford/2018418453,2018,15,championship,56,54,2,0,1,0,,2018
+Preston North End,Aston Villa,0-2,https://www.besoccer.com/match/preston-north-end/aston-villa-fc/2018418460,2018,15,championship,58,63,1,0,1,0,,2018
+Wolves,Fulham,2-0,https://www.besoccer.com/match/wolverhampton/fulham/2018418476,2018,16,championship,59,62,2,0,4,0,,2018
+Bristol City,Cardiff City,2-1,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/2018418469,2018,16,championship,56,59,3,0,2,0,,2018
+Aston Villa,Sheffield Wednesday,1-2,https://www.besoccer.com/match/aston-villa-fc/sheffield-wednesday-fc/2018418465,2018,16,championship,63,60,0,0,1,0,,2018
+Barnsley,Birmingham City,2-0,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/2018418466,2018,16,championship,50,56,0,0,2,0,,2018
+Bolton Wanderers,Norwich City,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/norwich-city-fc/2018418467,2018,16,championship,50,64,4,0,2,0,,2018
+Derby County,Reading,2-4,https://www.besoccer.com/match/derby-county-fc/reading-fc/2018418470,2018,16,championship,60,60,4,0,3,0,,2018
+Ipswich Town,Preston North End,3-0,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/2018418471,2018,16,championship,57,58,1,0,3,0,,2018
+Millwall,Burton Albion,0-1,https://www.besoccer.com/match/millwall-fc/burton-albion/2018418473,2018,16,championship,52,46,1,1,1,1,,2018
+Nottingham Forest,Queens Park Rangers,4-0,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/2018418474,2018,16,championship,56,56,1,0,1,0,,2018
+Sheffield United,Hull City,4-1,https://www.besoccer.com/match/sheffield-united/hull-city/2018418475,2018,16,championship,52,69,1,0,2,0,,2018
+Brentford,Leeds United,3-1,https://www.besoccer.com/match/brentford/leeds-united-afc/2018418468,2018,16,championship,54,59,3,0,2,0,,2018
+Middlesbrough,Sunderland,1-0,https://www.besoccer.com/match/middlesbrough-fc/sunderland-afc/2018418472,2018,16,championship,70,62,1,0,4,0,,2018
+Burton Albion,Sheffield United,1-3,https://www.besoccer.com/match/burton-albion/sheffield-united/2018418478,2018,17,championship,46,52,1,0,0,0,,2018
+Preston North End,Bolton Wanderers,0-0,https://www.besoccer.com/match/preston-north-end/bolton-wanderers-fc/2018418484,2018,17,championship,58,50,2,0,3,0,,2018
+Birmingham City,Nottingham Forest,1-0,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/2018418477,2018,17,championship,56,55,2,0,2,0,,2018
+Cardiff City,Brentford,2-0,https://www.besoccer.com/match/cardiff-city-fc/brentford/2018418479,2018,17,championship,58,55,2,0,0,0,,2018
+Hull City,Ipswich Town,2-2,https://www.besoccer.com/match/hull-city/ipswich-town-fc/2018418481,2018,17,championship,69,56,3,0,5,0,,2018
+Norwich City,Barnsley,1-1,https://www.besoccer.com/match/norwich-city-fc/barnsley-fc/2018418483,2018,17,championship,64,50,1,0,2,0,,2018
+Queens Park Rangers,Aston Villa,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/aston-villa-fc/2018418485,2018,17,championship,56,62,2,0,3,0,,2018
+Reading,Wolves,0-2,https://www.besoccer.com/match/reading-fc/wolverhampton/2018418486,2018,17,championship,60,60,2,0,2,0,,2018
+Sheffield Wednesday,Bristol City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/2018418487,2018,17,championship,60,56,1,0,1,0,,2018
+Sunderland,Millwall,2-2,https://www.besoccer.com/match/sunderland-afc/millwall-fc/2018418488,2018,17,championship,62,52,3,0,0,0,,2018
+Fulham,Derby County,1-1,https://www.besoccer.com/match/fulham/derby-county-fc/2018418480,2018,17,championship,62,60,1,0,0,0,,2018
+Leeds United,Middlesbrough,2-1,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/2018418482,2018,17,championship,59,70,5,0,3,0,,2018
+Aston Villa,Sunderland,2-1,https://www.besoccer.com/match/aston-villa-fc/sunderland-afc/2018418489,2018,18,championship,63,62,0,0,0,0,,2018
+Barnsley,Cardiff City,0-1,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/2018418490,2018,18,championship,50,59,0,0,2,0,,2018
+Brentford,Burton Albion,1-1,https://www.besoccer.com/match/brentford/burton-albion/2018418491,2018,18,championship,55,45,1,0,1,0,,2018
+Bristol City,Preston North End,1-2,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/2018418492,2018,18,championship,56,58,1,0,3,0,,2018
+Derby County,Queens Park Rangers,2-0,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/2018418493,2018,18,championship,60,56,2,0,3,0,,2018
+Millwall,Hull City,0-0,https://www.besoccer.com/match/millwall-fc/hull-city/2018418496,2018,18,championship,53,69,1,0,2,0,,2018
+Nottingham Forest,Norwich City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/2018418497,2018,18,championship,56,64,1,0,2,0,,2018
+Sheffield United,Fulham,4-5,https://www.besoccer.com/match/sheffield-united/fulham/2018418498,2018,18,championship,52,62,3,0,4,0,,2018
+Bolton Wanderers,Reading,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/reading-fc/2018418500,2018,18,championship,50,60,2,0,0,0,,2018
+Ipswich Town,Sheffield Wednesday,2-2,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/2018418494,2018,18,championship,56,59,1,0,2,0,,2018
+Middlesbrough,Birmingham City,2-0,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/2018418495,2018,18,championship,69,56,1,0,1,0,,2018
+Wolves,Leeds United,4-1,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/2018418499,2018,18,championship,60,59,0,0,3,0,,2018
+Barnsley,Leeds United,0-2,https://www.besoccer.com/match/barnsley-fc/leeds-united-afc/2018418502,2018,19,championship,50,59,3,0,3,0,,2018
+Aston Villa,Ipswich Town,2-0,https://www.besoccer.com/match/aston-villa-fc/ipswich-town-fc/2018418501,2018,19,championship,63,56,0,0,2,0,,2018
+Burton Albion,Sunderland,0-2,https://www.besoccer.com/match/burton-albion/sunderland-afc/2018418503,2018,19,championship,45,62,0,0,3,0,,2018
+Fulham,Millwall,1-0,https://www.besoccer.com/match/fulham/millwall-fc/2018418504,2018,19,championship,62,53,0,0,2,0,,2018
+Hull City,Bristol City,2-3,https://www.besoccer.com/match/hull-city/bristol-city-fc/2018418505,2018,19,championship,69,57,1,0,2,0,,2018
+Middlesbrough,Derby County,0-3,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/2018418506,2018,19,championship,69,60,2,1,2,1,,2018
+Norwich City,Preston North End,1-1,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/2018418507,2018,19,championship,64,58,3,0,4,0,,2018
+Reading,Sheffield Wednesday,0-0,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/2018418510,2018,19,championship,60,59,0,0,1,0,,2018
+Wolves,Bolton Wanderers,5-1,https://www.besoccer.com/match/wolverhampton/bolton-wanderers-fc/2018418512,2018,19,championship,60,50,2,0,2,0,,2018
+Sheffield United,Birmingham City,1-1,https://www.besoccer.com/match/sheffield-united/birmingham-city-fc/2018418511,2018,19,championship,52,56,1,0,4,0,,2018
+Nottingham Forest,Cardiff City,0-2,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/2018418508,2018,19,championship,56,59,1,0,2,0,,2018
+Queens Park Rangers,Brentford,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/brentford/2018418509,2018,19,championship,56,55,2,0,2,0,,2018
+Cardiff City,Norwich City,3-1,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/2018418517,2018,20,championship,59,64,1,0,2,0,,2018
+Leeds United,Aston Villa,1-1,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/2018418520,2018,20,championship,59,63,2,0,3,0,,2018
+Bolton Wanderers,Barnsley,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/barnsley-fc/2018418514,2018,20,championship,50,50,4,0,5,0,,2018
+Brentford,Fulham,3-1,https://www.besoccer.com/match/brentford/fulham/2018418515,2018,20,championship,55,62,1,0,4,0,,2018
+Derby County,Burton Albion,1-0,https://www.besoccer.com/match/derby-county-fc/burton-albion/2018418518,2018,20,championship,61,45,0,0,2,0,,2018
+Ipswich Town,Nottingham Forest,4-2,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/2018418519,2018,20,championship,56,56,2,0,2,0,,2018
+Millwall,Sheffield United,3-1,https://www.besoccer.com/match/millwall-fc/sheffield-united/2018418521,2018,20,championship,52,53,0,0,1,0,,2018
+Preston North End,Queens Park Rangers,1-0,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/2018418522,2018,20,championship,58,56,2,0,3,0,,2018
+Sheffield Wednesday,Hull City,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/2018418523,2018,20,championship,59,69,3,0,2,0,,2018
+Sunderland,Reading,1-3,https://www.besoccer.com/match/sunderland-afc/reading-fc/2018418524,2018,20,championship,62,60,3,1,2,1,,2018
+Bristol City,Middlesbrough,2-1,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/2018418516,2018,20,championship,57,70,2,0,2,0,,2018
+Birmingham City,Wolves,0-1,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/2018418513,2018,20,championship,56,60,3,1,2,1,,2018
+Sheffield United,Bristol City,1-2,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/2018418535,2018,21,championship,53,57,1,1,3,1,,2018
+Aston Villa,Millwall,0-0,https://www.besoccer.com/match/aston-villa-fc/millwall-fc/2018418525,2018,21,championship,63,52,1,0,3,0,,2018
+Barnsley,Derby County,0-3,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/2018418526,2018,21,championship,51,60,0,0,1,0,,2018
+Burton Albion,Preston North End,1-2,https://www.besoccer.com/match/burton-albion/preston-north-end/2018418527,2018,21,championship,45,58,3,0,2,0,,2018
+Fulham,Birmingham City,1-0,https://www.besoccer.com/match/fulham/birmingham-city-fc/2018418528,2018,21,championship,62,56,1,0,1,0,,2018
+Hull City,Brentford,3-2,https://www.besoccer.com/match/hull-city/brentford/2018418529,2018,21,championship,69,55,3,0,2,0,,2018
+Middlesbrough,Ipswich Town,2-0,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/2018418530,2018,21,championship,70,57,3,0,1,0,,2018
+Nottingham Forest,Bolton Wanderers,3-2,https://www.besoccer.com/match/nottingham-forest-fc/bolton-wanderers-fc/2018418532,2018,21,championship,56,50,2,0,2,0,,2018
+Queens Park Rangers,Leeds United,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/2018418533,2018,21,championship,56,59,2,0,3,0,,2018
+Wolves,Sunderland,0-0,https://www.besoccer.com/match/wolverhampton/sunderland-afc/2018418536,2018,21,championship,60,62,1,0,4,0,,2018
+Norwich City,Sheffield Wednesday,3-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/2018418531,2018,21,championship,63,60,1,0,0,0,,2018
+Reading,Cardiff City,2-2,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/2018418534,2018,21,championship,61,59,2,0,1,0,,2018
+Sheffield Wednesday,Wolves,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/2018418547,2018,22,championship,60,60,2,1,3,1,,2018
+Birmingham City,Queens Park Rangers,1-2,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/2018418537,2018,22,championship,56,56,1,0,2,0,,2018
+Bolton Wanderers,Burton Albion,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/burton-albion/2018418538,2018,22,championship,50,45,0,0,0,0,,2018
+Brentford,Barnsley,0-0,https://www.besoccer.com/match/brentford/barnsley-fc/2018418539,2018,22,championship,55,51,1,0,2,0,,2018
+Bristol City,Nottingham Forest,2-1,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/2018418540,2018,22,championship,57,56,2,0,2,0,,2018
+Derby County,Aston Villa,2-0,https://www.besoccer.com/match/derby-county-fc/aston-villa-fc/2018418542,2018,22,championship,60,63,0,0,0,0,,2018
+Ipswich Town,Reading,2-0,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/2018418543,2018,22,championship,57,61,3,0,4,0,,2018
+Leeds United,Norwich City,1-0,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/2018418544,2018,22,championship,59,63,3,0,2,0,,2018
+Millwall,Middlesbrough,2-1,https://www.besoccer.com/match/millwall-fc/middlesbrough-fc/2018418545,2018,22,championship,52,70,4,0,2,0,,2018
+Preston North End,Sheffield United,1-0,https://www.besoccer.com/match/preston-north-end/sheffield-united/2018418546,2018,22,championship,58,53,2,0,0,0,,2018
+Sunderland,Fulham,1-0,https://www.besoccer.com/match/sunderland-afc/fulham/2018418548,2018,22,championship,62,62,1,0,2,0,,2018
+Cardiff City,Hull City,1-0,https://www.besoccer.com/match/cardiff-city-fc/hull-city/2018418541,2018,22,championship,59,69,1,0,0,0,,2018
+Norwich City,Brentford,1-2,https://www.besoccer.com/match/norwich-city-fc/brentford/2018418554,2018,23,championship,63,55,2,0,2,0,,2018
+Bolton Wanderers,Cardiff City,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/cardiff-city-fc/2018418550,2018,23,championship,51,59,3,0,4,0,,2018
+Derby County,Millwall,3-0,https://www.besoccer.com/match/derby-county-fc/millwall-fc/2018418551,2018,23,championship,61,52,0,0,1,0,,2018
+Fulham,Barnsley,2-1,https://www.besoccer.com/match/fulham/barnsley-fc/2018418552,2018,23,championship,62,51,1,0,2,0,,2018
+Leeds United,Hull City,1-0,https://www.besoccer.com/match/leeds-united-afc/hull-city/2018418553,2018,23,championship,59,69,0,0,2,0,,2018
+Preston North End,Nottingham Forest,1-1,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/2018418555,2018,23,championship,58,56,2,0,4,0,,2018
+Queens Park Rangers,Bristol City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/2018418556,2018,23,championship,56,57,1,0,3,0,,2018
+Reading,Burton Albion,1-2,https://www.besoccer.com/match/reading-fc/burton-albion/2018418557,2018,23,championship,60,45,0,0,1,0,,2018
+Sheffield Wednesday,Middlesbrough,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/2018418558,2018,23,championship,60,70,2,0,1,0,,2018
+Sunderland,Birmingham City,1-1,https://www.besoccer.com/match/sunderland-afc/birmingham-city-fc/2018418559,2018,23,championship,62,56,0,0,4,0,,2018
+Wolves,Ipswich Town,1-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/2018418560,2018,23,championship,61,57,1,0,3,0,,2018
+Aston Villa,Sheffield United,2-2,https://www.besoccer.com/match/aston-villa-fc/sheffield-united/2018418549,2018,23,championship,63,53,0,0,3,0,,2018
+Millwall,Wolves,2-2,https://www.besoccer.com/match/millwall-fc/wolverhampton/2018418570,2018,24,championship,52,61,3,0,3,0,,2018
+Barnsley,Preston North End,0-0,https://www.besoccer.com/match/barnsley-fc/preston-north-end/2018418561,2018,24,championship,50,58,1,0,3,0,,2018
+Birmingham City,Norwich City,0-2,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/2018418562,2018,24,championship,56,63,1,0,2,0,,2018
+Bristol City,Reading,2-0,https://www.besoccer.com/match/bristol-city-fc/reading-fc/2018418564,2018,24,championship,57,60,3,0,2,0,,2018
+Burton Albion,Leeds United,1-2,https://www.besoccer.com/match/burton-albion/leeds-united-afc/2018418565,2018,24,championship,45,59,3,0,2,0,,2018
+Cardiff City,Fulham,2-4,https://www.besoccer.com/match/cardiff-city-fc/fulham/2018418566,2018,24,championship,59,62,1,0,4,0,,2018
+Hull City,Derby County,0-0,https://www.besoccer.com/match/hull-city/derby-county-fc/2018418567,2018,24,championship,68,61,2,0,3,0,,2018
+Ipswich Town,Queens Park Rangers,0-0,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/2018418568,2018,24,championship,56,56,1,0,1,0,,2018
+Middlesbrough,Bolton Wanderers,2-0,https://www.besoccer.com/match/middlesbrough-fc/bolton-wanderers-fc/2018418569,2018,24,championship,69,50,2,0,3,0,,2018
+Nottingham Forest,Sheffield Wednesday,0-3,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/2018418571,2018,24,championship,56,60,2,0,0,0,,2018
+Sheffield United,Sunderland,3-0,https://www.besoccer.com/match/sheffield-united/sunderland-afc/2018418572,2018,24,championship,53,62,1,0,2,0,,2018
+Brentford,Aston Villa,2-1,https://www.besoccer.com/match/brentford/aston-villa-fc/2018418563,2018,24,championship,55,63,2,0,1,0,,2018
+Cardiff City,Preston North End,0-1,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/2018418578,2018,25,championship,59,58,2,0,4,0,,2018
+Millwall,Queens Park Rangers,1-0,https://www.besoccer.com/match/millwall-fc/queens-park-rangers-fc/2018418582,2018,25,championship,52,56,1,0,1,0,,2018
+Barnsley,Reading,1-1,https://www.besoccer.com/match/barnsley-fc/reading-fc/2018418573,2018,25,championship,51,60,0,0,1,0,,2018
+Birmingham City,Leeds United,1-0,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/2018418574,2018,25,championship,56,59,1,0,2,0,,2018
+Brentford,Sheffield Wednesday,2-0,https://www.besoccer.com/match/brentford/sheffield-wednesday-fc/2018418575,2018,25,championship,55,60,1,0,3,0,,2018
+Burton Albion,Norwich City,0-0,https://www.besoccer.com/match/burton-albion/norwich-city-fc/2018418577,2018,25,championship,45,63,1,0,1,0,,2018
+Hull City,Fulham,2-2,https://www.besoccer.com/match/hull-city/fulham/2018418579,2018,25,championship,69,62,0,0,1,0,,2018
+Ipswich Town,Derby County,1-2,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/2018418580,2018,25,championship,57,61,1,0,0,0,,2018
+Middlesbrough,Aston Villa,0-1,https://www.besoccer.com/match/middlesbrough-fc/aston-villa-fc/2018418581,2018,25,championship,70,63,3,0,4,0,,2018
+Nottingham Forest,Sunderland,0-1,https://www.besoccer.com/match/nottingham-forest-fc/sunderland-afc/2018418583,2018,25,championship,56,62,1,0,0,0,,2018
+Sheffield United,Bolton Wanderers,0-1,https://www.besoccer.com/match/sheffield-united/bolton-wanderers-fc/2018418584,2018,25,championship,53,51,2,0,2,0,,2018
+Bristol City,Wolves,1-2,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/2018418576,2018,25,championship,57,61,0,1,1,1,,2018
+Bolton Wanderers,Hull City,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/hull-city/2018418586,2018,26,championship,51,69,3,0,3,0,,2018
+Derby County,Sheffield United,1-1,https://www.besoccer.com/match/derby-county-fc/sheffield-united/2018418587,2018,26,championship,61,53,1,0,3,0,,2018
+Leeds United,Nottingham Forest,0-0,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/2018418589,2018,26,championship,59,56,2,0,2,0,,2018
+Norwich City,Millwall,2-1,https://www.besoccer.com/match/norwich-city-fc/millwall-fc/2018418590,2018,26,championship,63,53,0,0,1,0,,2018
+Preston North End,Middlesbrough,2-3,https://www.besoccer.com/match/preston-north-end/middlesbrough-fc/2018418591,2018,26,championship,58,69,2,0,4,0,,2018
+Queens Park Rangers,Cardiff City,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/2018418592,2018,26,championship,56,59,2,0,2,0,,2018
+Sheffield Wednesday,Burton Albion,0-3,https://www.besoccer.com/match/sheffield-wednesday-fc/burton-albion/2018418594,2018,26,championship,60,45,2,0,1,0,,2018
+Sunderland,Barnsley,0-1,https://www.besoccer.com/match/sunderland-afc/barnsley-fc/2018418595,2018,26,championship,62,50,1,0,5,0,,2018
+Aston Villa,Bristol City,5-0,https://www.besoccer.com/match/aston-villa-fc/bristol-city-fc/2018418585,2018,26,championship,63,57,0,0,1,0,,2018
+Fulham,Ipswich Town,4-1,https://www.besoccer.com/match/fulham/ipswich-town-fc/2018418588,2018,26,championship,62,57,3,0,4,0,,2018
+Wolves,Brentford,3-0,https://www.besoccer.com/match/wolverhampton/brentford/2018418596,2018,26,championship,61,55,2,0,3,0,,2018
+Reading,Birmingham City,0-2,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/2018418593,2018,26,championship,61,56,1,0,0,0,,2018
+Sheffield United,Sheffield Wednesday,0-0,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/2018418608,2018,27,championship,53,59,0,0,4,0,,2018
+Cardiff City,Sunderland,4-0,https://www.besoccer.com/match/cardiff-city-fc/sunderland-afc/2018418602,2018,27,championship,59,62,1,0,2,0,,2018
+Barnsley,Wolves,0-0,https://www.besoccer.com/match/barnsley-fc/wolverhampton/2018418597,2018,27,championship,50,61,1,0,2,0,,2018
+Birmingham City,Derby County,0-3,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/2018418598,2018,27,championship,55,61,1,0,3,0,,2018
+Brentford,Bolton Wanderers,2-0,https://www.besoccer.com/match/brentford/bolton-wanderers-fc/2018418599,2018,27,championship,55,51,0,0,5,0,,2018
+Bristol City,Norwich City,0-1,https://www.besoccer.com/match/bristol-city-fc/norwich-city-fc/2018418600,2018,27,championship,57,63,1,0,5,0,,2018
+Burton Albion,Queens Park Rangers,1-3,https://www.besoccer.com/match/burton-albion/queens-park-rangers-fc/2018418601,2018,27,championship,45,56,3,0,2,0,,2018
+Hull City,Reading,0-0,https://www.besoccer.com/match/hull-city/reading-fc/2018418603,2018,27,championship,69,60,1,0,0,0,,2018
+Ipswich Town,Leeds United,1-0,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/2018418604,2018,27,championship,57,59,2,0,2,0,,2018
+Middlesbrough,Fulham,0-1,https://www.besoccer.com/match/middlesbrough-fc/fulham/2018418605,2018,27,championship,69,62,4,0,3,0,,2018
+Millwall,Preston North End,1-1,https://www.besoccer.com/match/millwall-fc/preston-north-end/2018418606,2018,27,championship,53,58,1,0,2,0,,2018
+Nottingham Forest,Aston Villa,0-1,https://www.besoccer.com/match/nottingham-forest-fc/aston-villa-fc/2018418607,2018,27,championship,56,63,2,0,2,0,,2018
+Derby County,Bristol City,0-0,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/2018418611,2018,28,championship,61,58,1,0,1,0,,2018
+Aston Villa,Barnsley,3-1,https://www.besoccer.com/match/aston-villa-fc/barnsley-fc/2018418609,2018,28,championship,62,50,0,0,2,0,,2018
+Bolton Wanderers,Ipswich Town,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/ipswich-town-fc/2018418610,2018,28,championship,50,57,1,0,1,0,,2018
+Fulham,Burton Albion,6-0,https://www.besoccer.com/match/fulham/burton-albion/2018418612,2018,28,championship,62,45,0,0,2,0,,2018
+Leeds United,Millwall,3-4,https://www.besoccer.com/match/leeds-united-afc/millwall-fc/2018418613,2018,28,championship,59,53,3,1,2,1,,2018
+Norwich City,Sheffield United,1-2,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/2018418614,2018,28,championship,63,53,2,0,2,0,,2018
+Preston North End,Birmingham City,1-1,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/2018418615,2018,28,championship,58,55,2,0,2,0,,2018
+Queens Park Rangers,Middlesbrough,0-3,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/2018418616,2018,28,championship,56,69,0,0,0,0,,2018
+Reading,Brentford,0-1,https://www.besoccer.com/match/reading-fc/brentford/2018418617,2018,28,championship,60,55,3,0,4,0,,2018
+Sunderland,Hull City,1-0,https://www.besoccer.com/match/sunderland-afc/hull-city/2018418619,2018,28,championship,62,68,4,0,2,0,,2018
+Wolves,Nottingham Forest,0-2,https://www.besoccer.com/match/wolverhampton/nottingham-forest-fc/2018418620,2018,28,championship,61,56,3,0,3,0,,2018
+Sheffield Wednesday,Cardiff City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/2018418618,2018,28,championship,59,59,1,0,3,0,,2018
+Barnsley,Fulham,1-3,https://www.besoccer.com/match/barnsley-fc/fulham/2018418621,2018,29,championship,50,62,3,1,1,1,,2018
+Brentford,Norwich City,0-1,https://www.besoccer.com/match/brentford/norwich-city-fc/2018418623,2018,29,championship,56,63,2,0,3,0,,2018
+Bristol City,Queens Park Rangers,2-0,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/2018418624,2018,29,championship,58,56,1,1,3,1,,2018
+Ipswich Town,Wolves,0-1,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/2018418628,2018,29,championship,57,61,3,0,1,0,,2018
+Birmingham City,Sunderland,3-1,https://www.besoccer.com/match/birmingham-city-fc/sunderland-afc/2018418622,2018,29,championship,55,62,3,0,3,0,,2018
+Burton Albion,Reading,1-3,https://www.besoccer.com/match/burton-albion/reading-fc/2018418625,2018,29,championship,45,60,3,0,3,0,,2018
+Hull City,Leeds United,0-0,https://www.besoccer.com/match/hull-city/leeds-united-afc/2018418627,2018,29,championship,68,59,5,0,1,0,,2018
+Middlesbrough,Sheffield Wednesday,0-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/2018418629,2018,29,championship,69,59,0,0,2,0,,2018
+Millwall,Derby County,0-0,https://www.besoccer.com/match/millwall-fc/derby-county-fc/2018418630,2018,29,championship,53,61,2,0,1,0,,2018
+Nottingham Forest,Preston North End,0-3,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/2018418631,2018,29,championship,55,58,3,0,1,0,,2018
+Sheffield United,Aston Villa,0-1,https://www.besoccer.com/match/sheffield-united/aston-villa-fc/2018418632,2018,29,championship,53,62,2,0,0,0,,2018
+Cardiff City,Bolton Wanderers,2-0,https://www.besoccer.com/match/cardiff-city-fc/bolton-wanderers-fc/2018418626,2018,29,championship,59,51,0,0,1,0,,2018
+Bolton Wanderers,Bristol City,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/bristol-city-fc/2018418634,2018,30,championship,51,58,2,0,2,0,,2018
+Aston Villa,Burton Albion,3-2,https://www.besoccer.com/match/aston-villa-fc/burton-albion/2018418633,2018,30,championship,63,46,3,0,4,0,,2018
+Derby County,Brentford,3-0,https://www.besoccer.com/match/derby-county-fc/brentford/2018418635,2018,30,championship,61,56,2,0,2,0,,2018
+Fulham,Nottingham Forest,2-0,https://www.besoccer.com/match/fulham/nottingham-forest-fc/2018418636,2018,30,championship,62,55,1,0,2,0,,2018
+Leeds United,Cardiff City,1-4,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/2018418637,2018,30,championship,59,59,1,1,4,1,,2018
+Norwich City,Middlesbrough,1-0,https://www.besoccer.com/match/norwich-city-fc/middlesbrough-fc/2018418638,2018,30,championship,63,69,2,0,2,0,,2018
+Preston North End,Hull City,2-1,https://www.besoccer.com/match/preston-north-end/hull-city/2018418639,2018,30,championship,58,68,2,0,1,0,,2018
+Queens Park Rangers,Barnsley,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/2018418640,2018,30,championship,56,50,2,1,1,1,,2018
+Reading,Millwall,0-2,https://www.besoccer.com/match/reading-fc/millwall-fc/2018418641,2018,30,championship,60,53,3,0,3,0,,2018
+Sheffield Wednesday,Birmingham City,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/2018418642,2018,30,championship,59,56,2,2,3,2,,2018
+Sunderland,Ipswich Town,0-2,https://www.besoccer.com/match/sunderland-afc/ipswich-town-fc/2018418643,2018,30,championship,61,56,1,0,1,0,,2018
+Wolves,Sheffield United,3-0,https://www.besoccer.com/match/wolverhampton/sheffield-united/2018418644,2018,30,championship,61,53,0,0,0,0,,2018
+Millwall,Cardiff City,1-1,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/2018418653,2018,31,championship,53,58,2,0,0,0,,2018
+Barnsley,Sheffield Wednesday,1-1,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/2018418646,2018,31,championship,50,59,1,0,3,0,,2018
+Sheffield United,Leeds United,2-1,https://www.besoccer.com/match/sheffield-united/leeds-united-afc/2018418655,2018,31,championship,53,59,3,0,2,0,,2018
+Bolton Wanderers,Fulham,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/fulham/2018418647,2018,31,championship,50,62,2,0,1,0,,2018
+Brentford,Preston North End,1-1,https://www.besoccer.com/match/brentford/preston-north-end/2018418648,2018,31,championship,55,58,2,0,3,0,,2018
+Bristol City,Sunderland,3-3,https://www.besoccer.com/match/bristol-city-fc/sunderland-afc/2018418649,2018,31,championship,58,61,3,0,1,0,,2018
+Derby County,Norwich City,1-1,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/2018418650,2018,31,championship,61,63,2,0,3,0,,2018
+Ipswich Town,Burton Albion,0-0,https://www.besoccer.com/match/ipswich-town-fc/burton-albion/2018418651,2018,31,championship,56,46,0,0,1,0,,2018
+Middlesbrough,Reading,2-1,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/2018418652,2018,31,championship,70,60,2,0,3,0,,2018
+Nottingham Forest,Hull City,0-2,https://www.besoccer.com/match/nottingham-forest-fc/hull-city/2018418654,2018,31,championship,56,68,1,0,1,0,,2018
+Wolves,Queens Park Rangers,2-1,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/2018418656,2018,31,championship,61,55,0,0,3,0,,2018
+Aston Villa,Birmingham City,2-0,https://www.besoccer.com/match/aston-villa-fc/birmingham-city-fc/2018418645,2018,31,championship,62,56,0,0,3,0,,2018
+Sheffield Wednesday,Derby County,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/2018418667,2018,32,championship,59,61,3,0,3,0,,2018
+Birmingham City,Millwall,0-1,https://www.besoccer.com/match/birmingham-city-fc/millwall-fc/2018418657,2018,32,championship,56,53,2,0,1,0,,2018
+Burton Albion,Nottingham Forest,0-0,https://www.besoccer.com/match/burton-albion/nottingham-forest-fc/2018418658,2018,32,championship,45,56,1,0,3,0,,2018
+Cardiff City,Middlesbrough,1-0,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/2018418659,2018,32,championship,59,69,0,0,1,0,,2018
+Fulham,Aston Villa,2-0,https://www.besoccer.com/match/fulham/aston-villa-fc/2018418660,2018,32,championship,62,62,1,0,1,0,,2018
+Preston North End,Wolves,1-1,https://www.besoccer.com/match/preston-north-end/wolverhampton/2018418664,2018,32,championship,58,61,3,1,0,1,,2018
+Queens Park Rangers,Bolton Wanderers,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/bolton-wanderers-fc/2018418665,2018,32,championship,55,50,0,0,1,0,,2018
+Sunderland,Brentford,0-2,https://www.besoccer.com/match/sunderland-afc/brentford/2018418668,2018,32,championship,61,55,3,0,0,0,,2018
+Norwich City,Ipswich Town,1-1,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/2018418663,2018,32,championship,64,56,1,0,5,0,,2018
+Leeds United,Bristol City,2-2,https://www.besoccer.com/match/leeds-united-afc/bristol-city-fc/2018418662,2018,32,championship,59,58,2,0,3,0,,2018
+Hull City,Barnsley,1-1,https://www.besoccer.com/match/hull-city/barnsley-fc/2018418661,2018,32,championship,68,50,4,0,2,0,,2018
+Reading,Sheffield United,1-3,https://www.besoccer.com/match/reading-fc/sheffield-united/2018418666,2018,32,championship,60,53,3,0,2,0,,2018
+Aston Villa,Preston North End,1-1,https://www.besoccer.com/match/aston-villa-fc/preston-north-end/2018418669,2018,33,championship,62,58,3,0,3,0,,2018
+Barnsley,Burton Albion,1-2,https://www.besoccer.com/match/barnsley-fc/burton-albion/2018418670,2018,33,championship,50,45,1,0,4,0,,2018
+Brentford,Birmingham City,5-0,https://www.besoccer.com/match/brentford/birmingham-city-fc/2018418671,2018,33,championship,55,56,0,0,2,0,,2018
+Middlesbrough,Hull City,3-1,https://www.besoccer.com/match/middlesbrough-fc/hull-city/2018418675,2018,33,championship,70,68,1,0,1,0,,2018
+Millwall,Sheffield Wednesday,2-1,https://www.besoccer.com/match/millwall-fc/sheffield-wednesday-fc/2018418676,2018,33,championship,53,59,0,0,4,0,,2018
+Nottingham Forest,Reading,1-1,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/2018418677,2018,33,championship,56,60,3,0,3,0,,2018
+Sheffield United,Queens Park Rangers,2-1,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/2018418678,2018,33,championship,53,55,1,0,0,0,,2018
+Bolton Wanderers,Sunderland,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/sunderland-afc/2018418680,2018,33,championship,50,61,4,0,0,0,,2018
+Bristol City,Fulham,1-1,https://www.besoccer.com/match/bristol-city-fc/fulham/2018418672,2018,33,championship,58,62,3,0,1,0,,2018
+Derby County,Leeds United,2-2,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/2018418673,2018,33,championship,61,59,0,0,1,0,,2018
+Ipswich Town,Cardiff City,0-1,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/2018418674,2018,33,championship,56,59,0,0,1,0,,2018
+Wolves,Norwich City,2-2,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/2018418679,2018,33,championship,61,63,3,0,0,0,,2018
+Hull City,Sheffield United,1-0,https://www.besoccer.com/match/hull-city/sheffield-united/2018418685,2018,34,championship,68,53,1,0,0,0,,2018
+Birmingham City,Barnsley,0-2,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/2018418681,2018,34,championship,56,50,3,0,0,0,,2018
+Burton Albion,Millwall,0-1,https://www.besoccer.com/match/burton-albion/millwall-fc/2018418682,2018,34,championship,45,53,1,0,2,0,,2018
+Leeds United,Brentford,1-0,https://www.besoccer.com/match/leeds-united-afc/brentford/2018418686,2018,34,championship,59,55,2,0,4,0,,2018
+Norwich City,Bolton Wanderers,0-0,https://www.besoccer.com/match/norwich-city-fc/bolton-wanderers-fc/2018418687,2018,34,championship,63,50,2,0,5,0,,2018
+Preston North End,Ipswich Town,0-1,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/2018418688,2018,34,championship,58,56,1,0,3,0,,2018
+Queens Park Rangers,Nottingham Forest,2-5,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/2018418689,2018,34,championship,55,56,1,0,2,0,,2018
+Reading,Derby County,3-3,https://www.besoccer.com/match/reading-fc/derby-county-fc/2018418690,2018,34,championship,60,61,2,0,5,0,,2018
+Sheffield Wednesday,Aston Villa,2-4,https://www.besoccer.com/match/sheffield-wednesday-fc/aston-villa-fc/2018418691,2018,34,championship,59,62,3,0,0,0,,2018
+Sunderland,Middlesbrough,3-3,https://www.besoccer.com/match/sunderland-afc/middlesbrough-fc/2018418692,2018,34,championship,61,70,5,1,1,1,,2018
+Fulham,Wolves,2-0,https://www.besoccer.com/match/fulham/wolverhampton/2018418684,2018,34,championship,62,61,1,0,2,0,,2018
+Cardiff City,Bristol City,1-0,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/2018418683,2018,34,championship,59,58,2,0,1,0,,2018
+Middlesbrough,Leeds United,3-0,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/2018418700,2018,35,championship,69,59,1,0,3,0,,2018
+Bolton Wanderers,Preston North End,1-3,https://www.besoccer.com/match/bolton-wanderers-fc/preston-north-end/2018418695,2018,35,championship,50,58,2,0,4,0,,2018
+Bristol City,Sheffield Wednesday,4-0,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/2018418697,2018,35,championship,58,59,1,0,3,0,,2018
+Derby County,Fulham,1-2,https://www.besoccer.com/match/derby-county-fc/fulham/2018418698,2018,35,championship,61,62,3,0,2,0,,2018
+Millwall,Sunderland,1-1,https://www.besoccer.com/match/millwall-fc/sunderland-afc/2018418701,2018,35,championship,53,61,2,0,1,0,,2018
+Nottingham Forest,Birmingham City,2-1,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/2018418702,2018,35,championship,56,56,1,0,2,0,,2018
+Aston Villa,Queens Park Rangers,1-3,https://www.besoccer.com/match/aston-villa-fc/queens-park-rangers-fc/2018418693,2018,35,championship,62,55,1,0,2,0,,2018
+Barnsley,Norwich City,1-1,https://www.besoccer.com/match/barnsley-fc/norwich-city-fc/2018418694,2018,35,championship,50,64,2,0,1,0,,2018
+Brentford,Cardiff City,1-3,https://www.besoccer.com/match/brentford/cardiff-city-fc/2018418696,2018,35,championship,55,59,1,0,3,0,,2018
+Ipswich Town,Hull City,0-3,https://www.besoccer.com/match/ipswich-town-fc/hull-city/2018418699,2018,35,championship,56,68,1,0,0,0,,2018
+Sheffield United,Burton Albion,2-0,https://www.besoccer.com/match/sheffield-united/burton-albion/2018418703,2018,35,championship,54,45,2,0,1,0,,2018
+Wolves,Reading,3-0,https://www.besoccer.com/match/wolverhampton/reading-fc/2018418704,2018,35,championship,61,59,1,0,2,0,,2018
+Birmingham City,Middlesbrough,0-1,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/2018418705,2018,36,championship,56,69,1,0,0,0,,2018
+Burton Albion,Brentford,0-2,https://www.besoccer.com/match/burton-albion/brentford/2018418706,2018,36,championship,45,55,1,0,1,0,,2018
+Cardiff City,Barnsley,2-1,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/2018418707,2018,36,championship,59,50,2,0,3,0,,2018
+Fulham,Sheffield United,3-0,https://www.besoccer.com/match/fulham/sheffield-united/2018418708,2018,36,championship,63,53,1,0,4,0,,2018
+Hull City,Millwall,1-2,https://www.besoccer.com/match/hull-city/millwall-fc/2018418709,2018,36,championship,68,54,2,0,4,0,,2018
+Norwich City,Nottingham Forest,0-0,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/2018418711,2018,36,championship,64,56,2,0,5,0,,2018
+Preston North End,Bristol City,2-1,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/2018418712,2018,36,championship,59,58,4,0,4,0,,2018
+Queens Park Rangers,Derby County,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/2018418713,2018,36,championship,55,62,1,0,3,0,,2018
+Sheffield Wednesday,Ipswich Town,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/2018418714,2018,36,championship,59,56,1,0,1,0,,2018
+Sunderland,Aston Villa,0-3,https://www.besoccer.com/match/sunderland-afc/aston-villa-fc/2018418715,2018,36,championship,61,62,2,0,1,0,,2018
+Reading,Bolton Wanderers,1-1,https://www.besoccer.com/match/reading-fc/bolton-wanderers-fc/2018418716,2018,36,championship,59,50,3,0,3,0,,2018
+Leeds United,Wolves,0-3,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/2018418710,2018,36,championship,58,61,2,0,0,0,,2018
+Burton Albion,Bristol City,0-0,https://www.besoccer.com/match/burton-albion/bristol-city-fc/2018418718,2018,37,championship,45,58,0,0,1,0,,2018
+Cardiff City,Birmingham City,3-2,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/2018418719,2018,37,championship,59,56,2,0,2,0,,2018
+Hull City,Norwich City,4-3,https://www.besoccer.com/match/hull-city/norwich-city-fc/2018418720,2018,37,championship,68,64,2,0,3,0,,2018
+Ipswich Town,Sheffield United,0-0,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/2018418721,2018,37,championship,56,53,2,0,1,0,,2018
+Middlesbrough,Barnsley,3-1,https://www.besoccer.com/match/middlesbrough-fc/barnsley-fc/2018418722,2018,37,championship,69,50,0,0,1,0,,2018
+Millwall,Brentford,1-0,https://www.besoccer.com/match/millwall-fc/brentford/2018418723,2018,37,championship,53,55,2,0,0,0,,2018
+Preston North End,Fulham,1-2,https://www.besoccer.com/match/preston-north-end/fulham/2018418725,2018,37,championship,59,63,1,0,0,0,,2018
+Queens Park Rangers,Sunderland,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/sunderland-afc/2018418726,2018,37,championship,55,61,2,0,1,0,,2018
+Reading,Leeds United,2-2,https://www.besoccer.com/match/reading-fc/leeds-united-afc/2018418727,2018,37,championship,59,58,2,0,1,0,,2018
+Sheffield Wednesday,Bolton Wanderers,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/bolton-wanderers-fc/2018418728,2018,37,championship,59,50,0,0,0,0,,2018
+Aston Villa,Wolves,4-1,https://www.besoccer.com/match/aston-villa-fc/wolverhampton/2018418717,2018,37,championship,62,61,3,0,5,0,,2018
+Nottingham Forest,Derby County,0-0,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/2018418724,2018,37,championship,56,62,4,0,2,0,,2018
+Fulham,Queens Park Rangers,2-2,https://www.besoccer.com/match/fulham/queens-park-rangers-fc/2018418735,2018,38,championship,63,55,2,0,3,0,,2018
+Barnsley,Millwall,0-2,https://www.besoccer.com/match/barnsley-fc/millwall-fc/2018418729,2018,38,championship,50,53,0,0,0,0,,2018
+Birmingham City,Hull City,3-0,https://www.besoccer.com/match/birmingham-city-fc/hull-city/2018418730,2018,38,championship,56,68,1,0,0,0,,2018
+Brentford,Middlesbrough,1-1,https://www.besoccer.com/match/brentford/middlesbrough-fc/2018418732,2018,38,championship,55,69,3,1,4,1,,2018
+Bristol City,Ipswich Town,1-0,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/2018418733,2018,38,championship,58,56,1,0,1,0,,2018
+Leeds United,Sheffield Wednesday,1-2,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/2018418736,2018,38,championship,58,59,0,0,4,0,,2018
+Norwich City,Reading,3-2,https://www.besoccer.com/match/norwich-city-fc/reading-fc/2018418737,2018,38,championship,64,59,2,0,5,0,,2018
+Sheffield United,Nottingham Forest,0-0,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/2018418738,2018,38,championship,54,56,1,0,3,0,,2018
+Sunderland,Preston North End,0-2,https://www.besoccer.com/match/sunderland-afc/preston-north-end/2018418739,2018,38,championship,61,59,1,1,1,1,,2018
+Wolves,Burton Albion,3-1,https://www.besoccer.com/match/wolverhampton/burton-albion/2018418740,2018,38,championship,61,45,0,0,1,0,,2018
+Bolton Wanderers,Aston Villa,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/aston-villa-fc/2018418731,2018,38,championship,50,63,1,0,2,0,,2018
+Derby County,Cardiff City,3-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/2018418734,2018,38,championship,61,59,0,0,4,0,,2018
+Millwall,Nottingham Forest,2-0,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/2018418749,2018,39,championship,54,56,3,0,3,0,,2018
+Barnsley,Bristol City,2-2,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/2018418741,2018,39,championship,50,58,1,0,1,0,,2018
+Brentford,Sheffield United,1-1,https://www.besoccer.com/match/brentford/sheffield-united/2018418743,2018,39,championship,56,54,0,1,2,1,,2018
+Cardiff City,Burton Albion,3-1,https://www.besoccer.com/match/cardiff-city-fc/burton-albion/2018418744,2018,39,championship,60,45,1,0,2,0,,2018
+Leeds United,Bolton Wanderers,2-1,https://www.besoccer.com/match/leeds-united-afc/bolton-wanderers-fc/2018418747,2018,39,championship,58,50,2,0,2,0,,2018
+Norwich City,Fulham,0-2,https://www.besoccer.com/match/norwich-city-fc/fulham/2018418750,2018,39,championship,64,63,3,0,4,0,,2018
+Sheffield Wednesday,Preston North End,4-1,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/2018418752,2018,39,championship,59,58,2,0,1,0,,2018
+Middlesbrough,Wolves,1-2,https://www.besoccer.com/match/middlesbrough-fc/wolverhampton/2018418748,2018,39,championship,69,61,3,0,5,0,,2018
+Reading,Queens Park Rangers,1-0,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/2018418751,2018,39,championship,59,55,3,1,3,1,,2018
+Derby County,Sunderland,1-4,https://www.besoccer.com/match/derby-county-fc/sunderland-afc/2018418745,2018,39,championship,61,60,2,0,4,0,,2018
+Birmingham City,Ipswich Town,1-0,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/2018418742,2018,39,championship,55,56,2,0,3,0,,2018
+Hull City,Aston Villa,0-0,https://www.besoccer.com/match/hull-city/aston-villa-fc/2018418746,2018,39,championship,68,63,1,0,2,0,,2018
+Preston North End,Derby County,0-1,https://www.besoccer.com/match/preston-north-end/derby-county-fc/2018418760,2018,40,championship,59,61,2,0,1,0,,2018
+Bristol City,Brentford,0-1,https://www.besoccer.com/match/bristol-city-fc/brentford/2018418755,2018,40,championship,58,56,3,0,2,0,,2018
+Burton Albion,Middlesbrough,1-1,https://www.besoccer.com/match/burton-albion/middlesbrough-fc/2018418756,2018,40,championship,45,69,3,0,0,0,,2018
+Ipswich Town,Millwall,2-2,https://www.besoccer.com/match/ipswich-town-fc/millwall-fc/2018418758,2018,40,championship,56,54,4,0,0,0,,2018
+Queens Park Rangers,Norwich City,4-1,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/2018418761,2018,40,championship,55,64,2,0,4,0,,2018
+Sunderland,Sheffield Wednesday,1-3,https://www.besoccer.com/match/sunderland-afc/sheffield-wednesday-fc/2018418763,2018,40,championship,60,59,1,0,1,0,,2018
+Sheffield United,Cardiff City,1-1,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/2018418762,2018,40,championship,54,60,0,0,1,0,,2018
+Aston Villa,Reading,3-0,https://www.besoccer.com/match/aston-villa-fc/reading-fc/2018418753,2018,40,championship,63,59,0,0,1,0,,2018
+Fulham,Leeds United,2-0,https://www.besoccer.com/match/fulham/leeds-united-afc/2018418757,2018,40,championship,63,58,3,0,2,0,,2018
+Wolves,Hull City,2-2,https://www.besoccer.com/match/wolverhampton/hull-city/2018418764,2018,40,championship,61,68,0,0,3,0,,2018
+Bolton Wanderers,Birmingham City,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/2018418754,2018,40,championship,50,55,1,0,1,0,,2018
+Nottingham Forest,Barnsley,3-0,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/2018418759,2018,40,championship,56,50,2,0,1,0,,2018
+Cardiff City,Wolves,0-1,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/2018418768,2018,41,championship,60,61,2,0,3,0,,2018
+Barnsley,Sheffield United,3-2,https://www.besoccer.com/match/barnsley-fc/sheffield-united/2018418765,2018,41,championship,50,54,2,0,2,0,,2018
+Norwich City,Aston Villa,3-1,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/2018418774,2018,41,championship,64,63,4,0,3,0,,2018
+Birmingham City,Burton Albion,1-1,https://www.besoccer.com/match/birmingham-city-fc/burton-albion/2018418766,2018,41,championship,55,45,2,0,2,0,,2018
+Brentford,Ipswich Town,1-0,https://www.besoccer.com/match/brentford/ipswich-town-fc/2018418767,2018,41,championship,56,57,2,0,3,0,,2018
+Derby County,Bolton Wanderers,3-0,https://www.besoccer.com/match/derby-county-fc/bolton-wanderers-fc/2018418769,2018,41,championship,61,50,1,0,1,0,,2018
+Hull City,Queens Park Rangers,4-0,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/2018418770,2018,41,championship,68,55,3,0,2,0,,2018
+Leeds United,Sunderland,1-1,https://www.besoccer.com/match/leeds-united-afc/sunderland-afc/2018418771,2018,41,championship,58,60,3,1,3,1,,2018
+Middlesbrough,Nottingham Forest,2-0,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/2018418772,2018,41,championship,69,56,1,0,2,0,,2018
+Millwall,Bristol City,2-0,https://www.besoccer.com/match/millwall-fc/bristol-city-fc/2018418773,2018,41,championship,54,58,1,0,0,0,,2018
+Reading,Preston North End,1-0,https://www.besoccer.com/match/reading-fc/preston-north-end/2018418775,2018,41,championship,59,59,2,0,2,0,,2018
+Sheffield Wednesday,Fulham,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/fulham/2018418776,2018,41,championship,59,63,2,0,0,0,,2018
+Aston Villa,Cardiff City,1-0,https://www.besoccer.com/match/aston-villa-fc/cardiff-city-fc/2018418777,2018,42,championship,63,60,4,0,5,0,,2018
+Bristol City,Birmingham City,3-1,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/2018418778,2018,42,championship,58,54,0,0,1,0,,2018
+Burton Albion,Hull City,0-5,https://www.besoccer.com/match/burton-albion/hull-city/2018418779,2018,42,championship,45,68,0,0,2,0,,2018
+Fulham,Reading,1-0,https://www.besoccer.com/match/fulham/reading-fc/2018418780,2018,42,championship,63,59,1,0,1,0,,2018
+Ipswich Town,Barnsley,1-0,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/2018418781,2018,42,championship,57,50,1,0,1,0,,2018
+Nottingham Forest,Brentford,0-1,https://www.besoccer.com/match/nottingham-forest-fc/brentford/2018418782,2018,42,championship,56,56,2,0,0,0,,2018
+Preston North End,Leeds United,3-1,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/2018418783,2018,42,championship,59,58,3,0,2,0,,2018
+Queens Park Rangers,Sheffield Wednesday,4-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/2018418784,2018,42,championship,55,59,1,0,1,0,,2018
+Sheffield United,Middlesbrough,2-1,https://www.besoccer.com/match/sheffield-united/middlesbrough-fc/2018418785,2018,42,championship,54,69,1,0,4,0,,2018
+Sunderland,Norwich City,1-1,https://www.besoccer.com/match/sunderland-afc/norwich-city-fc/2018418786,2018,42,championship,60,63,0,0,0,0,,2018
+Bolton Wanderers,Millwall,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/millwall-fc/2018418788,2018,42,championship,50,54,0,0,0,0,,2018
+Wolves,Derby County,2-0,https://www.besoccer.com/match/wolverhampton/derby-county-fc/2018418787,2018,42,championship,61,61,1,0,0,0,,2018
+Aston Villa,Leeds United,1-0,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/2018418789,2018,43,championship,63,58,0,0,0,0,,2018
+Sheffield United,Millwall,1-1,https://www.besoccer.com/match/sheffield-united/millwall-fc/2018418799,2018,43,championship,54,54,2,0,3,0,,2018
+Barnsley,Bolton Wanderers,2-2,https://www.besoccer.com/match/barnsley-fc/bolton-wanderers-fc/2018418790,2018,43,championship,50,50,5,0,4,0,,2018
+Burton Albion,Derby County,3-1,https://www.besoccer.com/match/burton-albion/derby-county-fc/2018418791,2018,43,championship,45,61,3,0,1,0,,2018
+Hull City,Sheffield Wednesday,0-1,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/2018418793,2018,43,championship,68,59,1,0,1,0,,2018
+Middlesbrough,Bristol City,2-1,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/2018418794,2018,43,championship,69,58,4,0,2,0,,2018
+Norwich City,Cardiff City,0-2,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/2018418795,2018,43,championship,63,60,1,0,2,0,,2018
+Nottingham Forest,Ipswich Town,2-1,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/2018418796,2018,43,championship,56,56,1,0,1,0,,2018
+Queens Park Rangers,Preston North End,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/2018418797,2018,43,championship,55,59,3,0,1,0,,2018
+Reading,Sunderland,2-2,https://www.besoccer.com/match/reading-fc/sunderland-afc/2018418798,2018,43,championship,59,60,1,0,1,0,,2018
+Fulham,Brentford,1-1,https://www.besoccer.com/match/fulham/brentford/2018418792,2018,43,championship,63,55,1,0,2,0,,2018
+Wolves,Birmingham City,2-0,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/2018418800,2018,43,championship,61,54,0,0,2,0,,2018
+Millwall,Fulham,0-3,https://www.besoccer.com/match/millwall-fc/fulham/2018418809,2018,44,championship,54,63,4,0,1,0,,2018
+Birmingham City,Sheffield United,2-1,https://www.besoccer.com/match/birmingham-city-fc/sheffield-united/2018418801,2018,44,championship,55,54,1,0,2,0,,2018
+Bolton Wanderers,Wolves,0-4,https://www.besoccer.com/match/bolton-wanderers-fc/wolverhampton/2018418802,2018,44,championship,50,62,1,0,1,0,,2018
+Brentford,Queens Park Rangers,2-1,https://www.besoccer.com/match/brentford/queens-park-rangers-fc/2018418803,2018,44,championship,55,55,2,0,4,0,,2018
+Bristol City,Hull City,5-5,https://www.besoccer.com/match/bristol-city-fc/hull-city/2018418804,2018,44,championship,58,68,1,0,4,0,,2018
+Derby County,Middlesbrough,1-2,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/2018418806,2018,44,championship,61,69,3,0,2,0,,2018
+Ipswich Town,Aston Villa,0-4,https://www.besoccer.com/match/ipswich-town-fc/aston-villa-fc/2018418807,2018,44,championship,56,63,0,1,0,1,,2018
+Leeds United,Barnsley,2-1,https://www.besoccer.com/match/leeds-united-afc/barnsley-fc/2018418808,2018,44,championship,58,50,1,0,1,0,,2018
+Preston North End,Norwich City,0-0,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/2018418810,2018,44,championship,59,64,3,0,5,0,,2018
+Sheffield Wednesday,Reading,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/2018418811,2018,44,championship,59,59,0,0,0,0,,2018
+Sunderland,Burton Albion,1-2,https://www.besoccer.com/match/sunderland-afc/burton-albion/2018418812,2018,44,championship,60,45,4,0,2,0,,2018
+Cardiff City,Nottingham Forest,2-1,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/2018418805,2018,44,championship,60,56,0,0,3,0,,2018
+Fulham,Sunderland,2-1,https://www.besoccer.com/match/fulham/sunderland-afc/2018418276,2018,45,championship,63,60,2,0,4,0,,2018
+Aston Villa,Derby County,1-1,https://www.besoccer.com/match/aston-villa-fc/derby-county-fc/2018418273,2018,45,championship,63,61,0,0,1,0,,2018
+Barnsley,Brentford,2-0,https://www.besoccer.com/match/barnsley-fc/brentford/2018418274,2018,45,championship,50,55,0,0,1,0,,2018
+Burton Albion,Bolton Wanderers,2-0,https://www.besoccer.com/match/burton-albion/bolton-wanderers-fc/2018418275,2018,45,championship,45,50,2,0,2,0,,2018
+Hull City,Cardiff City,0-2,https://www.besoccer.com/match/hull-city/cardiff-city-fc/2018418277,2018,45,championship,68,60,3,0,2,0,,2018
+Norwich City,Leeds United,2-1,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/2018418279,2018,45,championship,64,58,1,0,2,0,,2018
+Nottingham Forest,Bristol City,0-0,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/2018418280,2018,45,championship,56,58,1,0,1,0,,2018
+Queens Park Rangers,Birmingham City,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/2018418281,2018,45,championship,55,55,2,0,1,0,,2018
+Reading,Ipswich Town,0-4,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/2018418282,2018,45,championship,59,56,0,0,0,0,,2018
+Sheffield United,Preston North End,0-1,https://www.besoccer.com/match/sheffield-united/preston-north-end/2018418283,2018,45,championship,54,59,4,0,3,0,,2018
+Wolves,Sheffield Wednesday,0-0,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/2018418284,2018,45,championship,62,59,1,0,0,0,,2018
+Middlesbrough,Millwall,2-0,https://www.besoccer.com/match/middlesbrough-fc/millwall-fc/2018418278,2018,45,championship,69,54,2,0,3,0,,2018
+Birmingham City,Fulham,3-1,https://www.besoccer.com/match/birmingham-city-fc/fulham/2018418261,2018,46,championship,55,64,2,0,3,0,,2018
+Bolton Wanderers,Nottingham Forest,3-2,https://www.besoccer.com/match/bolton-wanderers-fc/nottingham-forest-fc/2018418262,2018,46,championship,50,56,3,0,4,0,,2018
+Brentford,Hull City,1-1,https://www.besoccer.com/match/brentford/hull-city/2018418263,2018,46,championship,56,68,0,0,0,0,,2018
+Bristol City,Sheffield United,2-3,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/2018418264,2018,46,championship,58,54,4,0,2,0,,2018
+Cardiff City,Reading,0-0,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/2018418265,2018,46,championship,60,58,1,0,2,0,,2018
+Derby County,Barnsley,4-1,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/2018418266,2018,46,championship,61,50,1,0,2,0,,2018
+Ipswich Town,Middlesbrough,2-2,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/2018418267,2018,46,championship,56,69,3,0,1,0,,2018
+Leeds United,Queens Park Rangers,2-0,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/2018418268,2018,46,championship,58,56,3,0,3,0,,2018
+Millwall,Aston Villa,1-0,https://www.besoccer.com/match/millwall-fc/aston-villa-fc/2018418269,2018,46,championship,55,63,1,0,0,0,,2018
+Preston North End,Burton Albion,2-1,https://www.besoccer.com/match/preston-north-end/burton-albion/2018418270,2018,46,championship,58,45,2,1,2,1,,2018
+Sheffield Wednesday,Norwich City,5-1,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/2018418271,2018,46,championship,59,63,2,0,1,0,,2018
+Sunderland,Wolves,3-0,https://www.besoccer.com/match/sunderland-afc/wolverhampton/2018418272,2018,46,championship,60,62,0,0,0,0,,2018

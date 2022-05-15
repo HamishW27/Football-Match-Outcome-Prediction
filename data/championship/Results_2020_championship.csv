@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Luton Town,Middlesbrough,3-3,https://www.besoccer.com/match/luton-town-fc/middlesbrough-fc/202017171,2020,1,championship,47,64,2,0,2,0,,2020
+Barnsley,Fulham,1-0,https://www.besoccer.com/match/barnsley-fc/fulham/202017172,2020,1,championship,49,55,3,0,1,0,,2020
+Blackburn Rovers,Charlton Athletic,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/charlton-athletic-fc/202017173,2020,1,championship,53,50,0,0,3,0,,2020
+Brentford,Birmingham City,0-1,https://www.besoccer.com/match/brentford/birmingham-city-fc/202017174,2020,1,championship,56,54,1,0,3,0,,2020
+Millwall,Preston North End,1-0,https://www.besoccer.com/match/millwall-fc/preston-north-end/202017175,2020,1,championship,54,59,2,0,3,0,,2020
+Reading,Sheffield Wednesday,1-3,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/202017176,2020,1,championship,53,58,0,0,3,0,,2020
+Stoke City,Queens Park Rangers,1-2,https://www.besoccer.com/match/stoke-city/queens-park-rangers-fc/202017177,2020,1,championship,68,54,1,0,3,0,,2020
+Swansea City,Hull City,2-1,https://www.besoccer.com/match/swansea-city-afc/hull-city/202017178,2020,1,championship,69,62,2,0,2,0,,2020
+Wigan Athletic,Cardiff City,3-2,https://www.besoccer.com/match/wigan-athletic/cardiff-city-fc/202017179,2020,1,championship,50,53,2,0,4,0,,2020
+Nottingham Forest,West Bromwich Albion,1-2,https://www.besoccer.com/match/nottingham-forest-fc/west-bromwich/202017180,2020,1,championship,58,69,0,0,1,0,,2020
+Bristol City,Leeds United,1-3,https://www.besoccer.com/match/bristol-city-fc/leeds-united-afc/202017181,2020,1,championship,56,58,3,0,2,0,,2020
+Huddersfield Town,Derby County,1-2,https://www.besoccer.com/match/huddersfield-town-fc/derby-county-fc/202017182,2020,1,championship,52,61,0,0,0,0,,2020
+Leeds United,Nottingham Forest,1-1,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/202017189,2020,2,championship,58,58,2,0,2,0,,2020
+Birmingham City,Bristol City,1-1,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/202017183,2020,2,championship,54,57,2,0,3,0,,2020
+Cardiff City,Luton Town,2-1,https://www.besoccer.com/match/cardiff-city-fc/luton-town-fc/202017184,2020,2,championship,54,48,2,0,2,0,,2020
+Charlton Athletic,Stoke City,3-1,https://www.besoccer.com/match/charlton-athletic-fc/stoke-city/202017185,2020,2,championship,50,67,0,0,0,0,,2020
+Derby County,Swansea City,0-0,https://www.besoccer.com/match/derby-county-fc/swansea-city-afc/202017186,2020,2,championship,61,68,2,0,1,0,,2020
+Fulham,Blackburn Rovers,2-0,https://www.besoccer.com/match/fulham/blackburn-rovers-fc/202017187,2020,2,championship,54,53,0,0,2,0,,2020
+Hull City,Reading,2-1,https://www.besoccer.com/match/hull-city/reading-fc/202017188,2020,2,championship,61,53,2,0,2,0,,2020
+Middlesbrough,Brentford,0-1,https://www.besoccer.com/match/middlesbrough-fc/brentford/202017190,2020,2,championship,63,56,0,0,1,0,,2020
+Preston North End,Wigan Athletic,3-0,https://www.besoccer.com/match/preston-north-end/wigan-athletic/202017191,2020,2,championship,60,50,1,0,2,0,,2020
+Queens Park Rangers,Huddersfield Town,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/huddersfield-town-fc/202017192,2020,2,championship,54,52,2,0,5,0,,2020
+Sheffield Wednesday,Barnsley,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/202017193,2020,2,championship,58,50,1,0,1,0,,2020
+West Bromwich Albion,Millwall,1-1,https://www.besoccer.com/match/west-bromwich/millwall-fc/202017194,2020,2,championship,69,54,1,0,2,0,,2020
+Huddersfield Town,Fulham,1-2,https://www.besoccer.com/match/huddersfield-town-fc/fulham/202017199,2020,3,championship,52,53,2,0,2,0,,2020
+Barnsley,Charlton Athletic,2-2,https://www.besoccer.com/match/barnsley-fc/charlton-athletic-fc/202017195,2020,3,championship,51,50,4,0,3,0,,2020
+Blackburn Rovers,Middlesbrough,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/202017196,2020,3,championship,54,63,5,0,3,0,,2020
+Brentford,Hull City,1-1,https://www.besoccer.com/match/brentford/hull-city/202017197,2020,3,championship,56,61,1,0,1,0,,2020
+Bristol City,Queens Park Rangers,2-0,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/202017198,2020,3,championship,57,52,2,0,2,0,,2020
+Luton Town,West Bromwich Albion,1-2,https://www.besoccer.com/match/luton-town-fc/west-bromwich/202017200,2020,3,championship,49,69,2,0,0,0,,2020
+Millwall,Sheffield Wednesday,1-0,https://www.besoccer.com/match/millwall-fc/sheffield-wednesday-fc/202017201,2020,3,championship,54,59,1,1,1,1,,2020
+Nottingham Forest,Birmingham City,3-0,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/202017202,2020,3,championship,58,53,0,0,2,0,,2020
+Stoke City,Derby County,2-2,https://www.besoccer.com/match/stoke-city/derby-county-fc/202017204,2020,3,championship,67,61,3,0,3,0,,2020
+Swansea City,Preston North End,3-2,https://www.besoccer.com/match/swansea-city-afc/preston-north-end/202017205,2020,3,championship,68,60,0,0,1,0,,2020
+Wigan Athletic,Leeds United,0-2,https://www.besoccer.com/match/wigan-athletic/leeds-united-afc/202017206,2020,3,championship,49,58,4,1,2,1,,2020
+Reading,Cardiff City,3-0,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/202017203,2020,3,championship,53,53,1,0,2,0,,2020
+Birmingham City,Barnsley,2-0,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/202017207,2020,4,championship,52,52,1,0,1,0,,2020
+Derby County,Bristol City,1-2,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/202017208,2020,4,championship,61,57,2,0,1,0,,2020
+Hull City,Blackburn Rovers,0-1,https://www.besoccer.com/match/hull-city/blackburn-rovers-fc/202017209,2020,4,championship,61,54,4,0,1,0,,2020
+Middlesbrough,Wigan Athletic,1-0,https://www.besoccer.com/match/middlesbrough-fc/wigan-athletic/202017210,2020,4,championship,62,49,2,0,2,0,,2020
+Sheffield Wednesday,Luton Town,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/luton-town-fc/202017211,2020,4,championship,59,49,2,0,1,0,,2020
+Cardiff City,Huddersfield Town,2-1,https://www.besoccer.com/match/cardiff-city-fc/huddersfield-town-fc/202017212,2020,4,championship,54,52,1,0,1,0,,2020
+Charlton Athletic,Nottingham Forest,1-1,https://www.besoccer.com/match/charlton-athletic-fc/nottingham-forest-fc/202017213,2020,4,championship,49,59,3,0,3,0,,2020
+Fulham,Millwall,4-0,https://www.besoccer.com/match/fulham/millwall-fc/202017214,2020,4,championship,54,54,2,0,1,0,,2020
+Leeds United,Brentford,1-0,https://www.besoccer.com/match/leeds-united-afc/brentford/202017215,2020,4,championship,58,56,2,0,1,0,,2020
+Preston North End,Stoke City,3-1,https://www.besoccer.com/match/preston-north-end/stoke-city/202017216,2020,4,championship,59,67,3,0,2,0,,2020
+Queens Park Rangers,Swansea City,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/swansea-city-afc/202017217,2020,4,championship,53,68,2,0,3,0,,2020
+West Bromwich Albion,Reading,1-1,https://www.besoccer.com/match/west-bromwich/reading-fc/202017218,2020,4,championship,69,52,2,0,2,0,,2020
+Derby County,West Bromwich Albion,1-1,https://www.besoccer.com/match/derby-county-fc/west-bromwich/202017222,2020,5,championship,61,69,1,0,1,0,,2020
+Barnsley,Luton Town,1-3,https://www.besoccer.com/match/barnsley-fc/luton-town-fc/202017219,2020,5,championship,52,51,3,0,1,0,,2020
+Blackburn Rovers,Cardiff City,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/cardiff-city-fc/202017220,2020,5,championship,55,54,1,0,3,0,,2020
+Charlton Athletic,Brentford,1-0,https://www.besoccer.com/match/charlton-athletic-fc/brentford/202017221,2020,5,championship,49,57,1,0,3,0,,2020
+Fulham,Nottingham Forest,1-2,https://www.besoccer.com/match/fulham/nottingham-forest-fc/202017223,2020,5,championship,54,58,2,0,4,0,,2020
+Huddersfield Town,Reading,0-2,https://www.besoccer.com/match/huddersfield-town-fc/reading-fc/202017224,2020,5,championship,51,51,1,0,1,0,,2020
+Hull City,Bristol City,1-3,https://www.besoccer.com/match/hull-city/bristol-city-fc/202017225,2020,5,championship,60,57,0,0,3,0,,2020
+Middlesbrough,Millwall,1-1,https://www.besoccer.com/match/middlesbrough-fc/millwall-fc/202017226,2020,5,championship,62,53,0,0,2,0,,2020
+Preston North End,Sheffield Wednesday,2-1,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/202017227,2020,5,championship,59,59,0,0,3,0,,2020
+Queens Park Rangers,Wigan Athletic,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/wigan-athletic/202017228,2020,5,championship,53,50,2,0,4,0,,2020
+Stoke City,Leeds United,0-3,https://www.besoccer.com/match/stoke-city/leeds-united-afc/202017229,2020,5,championship,67,58,0,0,2,0,,2020
+Swansea City,Birmingham City,3-0,https://www.besoccer.com/match/swansea-city-afc/birmingham-city-fc/202017230,2020,5,championship,69,52,1,0,5,0,,2020
+Cardiff City,Fulham,1-1,https://www.besoccer.com/match/cardiff-city-fc/fulham/202017234,2020,6,championship,54,54,1,0,4,0,,2020
+Bristol City,Middlesbrough,2-2,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/202017233,2020,6,championship,57,62,1,0,1,0,,2020
+Birmingham City,Stoke City,2-1,https://www.besoccer.com/match/birmingham-city-fc/stoke-city/202017231,2020,6,championship,52,67,2,0,1,0,,2020
+Brentford,Derby County,3-0,https://www.besoccer.com/match/brentford/derby-county-fc/202017232,2020,6,championship,57,61,0,0,2,0,,2020
+Leeds United,Swansea City,0-1,https://www.besoccer.com/match/leeds-united-afc/swansea-city-afc/202017235,2020,6,championship,59,69,2,0,2,0,,2020
+Luton Town,Huddersfield Town,2-1,https://www.besoccer.com/match/luton-town-fc/huddersfield-town-fc/202017236,2020,6,championship,51,52,2,0,2,0,,2020
+Millwall,Hull City,1-1,https://www.besoccer.com/match/millwall-fc/hull-city/202017237,2020,6,championship,53,60,2,0,5,0,,2020
+Nottingham Forest,Preston North End,1-1,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/202017238,2020,6,championship,59,59,4,0,1,0,,2020
+Reading,Charlton Athletic,0-2,https://www.besoccer.com/match/reading-fc/charlton-athletic-fc/202017239,2020,6,championship,51,49,1,0,3,0,,2020
+Sheffield Wednesday,Queens Park Rangers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/202017240,2020,6,championship,59,53,4,0,3,0,,2020
+West Bromwich Albion,Blackburn Rovers,3-2,https://www.besoccer.com/match/west-bromwich/blackburn-rovers-fc/202017241,2020,6,championship,69,55,2,0,2,0,,2020
+Wigan Athletic,Barnsley,0-0,https://www.besoccer.com/match/wigan-athletic/barnsley-fc/202017242,2020,6,championship,50,51,1,0,5,0,,2020
+Derby County,Cardiff City,1-1,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/202017246,2020,7,championship,61,54,2,0,2,0,,2020
+Fulham,West Bromwich Albion,1-1,https://www.besoccer.com/match/fulham/west-bromwich/202017247,2020,7,championship,54,68,2,0,1,0,,2020
+Blackburn Rovers,Millwall,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/millwall-fc/202017244,2020,7,championship,55,53,0,0,1,0,,2020
+Charlton Athletic,Birmingham City,0-1,https://www.besoccer.com/match/charlton-athletic-fc/birmingham-city-fc/202017245,2020,7,championship,49,51,1,0,3,0,,2020
+Hull City,Wigan Athletic,2-2,https://www.besoccer.com/match/hull-city/wigan-athletic/202017249,2020,7,championship,60,50,2,0,6,0,,2020
+Middlesbrough,Reading,1-0,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/202017250,2020,7,championship,62,51,0,0,3,0,,2020
+Preston North End,Brentford,2-0,https://www.besoccer.com/match/preston-north-end/brentford/202017251,2020,7,championship,59,56,2,0,1,0,,2020
+Queens Park Rangers,Luton Town,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/luton-town-fc/202017252,2020,7,championship,53,51,2,0,1,0,,2020
+Stoke City,Bristol City,1-2,https://www.besoccer.com/match/stoke-city/bristol-city-fc/202017253,2020,7,championship,67,57,2,1,3,1,,2020
+Swansea City,Nottingham Forest,0-1,https://www.besoccer.com/match/swansea-city-afc/nottingham-forest-fc/202017254,2020,7,championship,70,59,2,0,1,0,,2020
+Huddersfield Town,Sheffield Wednesday,0-2,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-wednesday-fc/202017248,2020,7,championship,51,59,2,0,3,0,,2020
+Barnsley,Leeds United,0-2,https://www.besoccer.com/match/barnsley-fc/leeds-united-afc/202017243,2020,7,championship,50,59,1,0,0,0,,2020
+Leeds United,Derby County,1-1,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/202017259,2020,8,championship,59,61,0,0,4,0,,2020
+Birmingham City,Preston North End,0-1,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/202017255,2020,8,championship,51,60,0,0,0,0,,2020
+Brentford,Stoke City,0-0,https://www.besoccer.com/match/brentford/stoke-city/202017256,2020,8,championship,56,67,1,0,2,0,,2020
+Bristol City,Swansea City,0-0,https://www.besoccer.com/match/bristol-city-fc/swansea-city-afc/202017257,2020,8,championship,57,70,1,0,1,0,,2020
+Cardiff City,Middlesbrough,1-0,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/202017258,2020,8,championship,54,62,1,0,2,0,,2020
+Luton Town,Hull City,0-3,https://www.besoccer.com/match/luton-town-fc/hull-city/202017260,2020,8,championship,51,60,0,0,2,0,,2020
+Millwall,Queens Park Rangers,1-2,https://www.besoccer.com/match/millwall-fc/queens-park-rangers-fc/202017261,2020,8,championship,53,53,2,0,3,0,,2020
+Nottingham Forest,Barnsley,1-0,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/202017262,2020,8,championship,59,50,2,0,3,0,,2020
+Reading,Blackburn Rovers,1-2,https://www.besoccer.com/match/reading-fc/blackburn-rovers-fc/202017263,2020,8,championship,51,55,2,0,2,0,,2020
+Sheffield Wednesday,Fulham,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/fulham/202017264,2020,8,championship,59,54,2,0,1,0,,2020
+Wigan Athletic,Charlton Athletic,2-0,https://www.besoccer.com/match/wigan-athletic/charlton-athletic-fc/202017266,2020,8,championship,50,49,1,0,1,0,,2020
+West Bromwich Albion,Huddersfield Town,4-2,https://www.besoccer.com/match/west-bromwich/huddersfield-town-fc/202017265,2020,8,championship,68,51,0,0,0,0,,2020
+Fulham,Wigan Athletic,2-0,https://www.besoccer.com/match/fulham/wigan-athletic/202017271,2020,9,championship,54,50,2,0,3,0,,2020
+Stoke City,Nottingham Forest,2-3,https://www.besoccer.com/match/stoke-city/nottingham-forest-fc/202017277,2020,9,championship,66,59,0,0,4,0,,2020
+Queens Park Rangers,West Bromwich Albion,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/202017276,2020,9,championship,52,68,2,1,2,1,,2020
+Blackburn Rovers,Luton Town,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/luton-town-fc/202017268,2020,9,championship,55,52,1,0,2,0,,2020
+Charlton Athletic,Leeds United,1-0,https://www.besoccer.com/match/charlton-athletic-fc/leeds-united-afc/202017269,2020,9,championship,50,60,3,0,1,0,,2020
+Derby County,Birmingham City,3-2,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/202017270,2020,9,championship,61,51,3,0,1,0,,2020
+Huddersfield Town,Millwall,1-1,https://www.besoccer.com/match/huddersfield-town-fc/millwall-fc/202017272,2020,9,championship,51,53,1,0,1,0,,2020
+Hull City,Cardiff City,2-2,https://www.besoccer.com/match/hull-city/cardiff-city-fc/202017273,2020,9,championship,60,54,2,0,0,0,,2020
+Middlesbrough,Sheffield Wednesday,1-4,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/202017274,2020,9,championship,62,59,0,0,3,0,,2020
+Preston North End,Bristol City,3-3,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/202017275,2020,9,championship,60,57,1,0,1,0,,2020
+Swansea City,Reading,1-1,https://www.besoccer.com/match/swansea-city-afc/reading-fc/202017278,2020,9,championship,70,52,0,0,3,0,,2020
+Barnsley,Brentford,1-3,https://www.besoccer.com/match/barnsley-fc/brentford/202017267,2020,9,championship,50,56,0,0,0,0,,2020
+Blackburn Rovers,Nottingham Forest,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/202017279,2020,10,championship,57,61,2,0,1,0,,2020
+Hull City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/202017280,2020,10,championship,62,61,1,0,3,0,,2020
+Leeds United,West Bromwich Albion,1-0,https://www.besoccer.com/match/leeds-united-afc/west-bromwich/202017281,2020,10,championship,62,71,1,0,5,0,,2020
+Middlesbrough,Preston North End,1-1,https://www.besoccer.com/match/middlesbrough-fc/preston-north-end/202017282,2020,10,championship,62,62,2,0,2,0,,2020
+Wigan Athletic,Birmingham City,1-0,https://www.besoccer.com/match/wigan-athletic/birmingham-city-fc/202017283,2020,10,championship,52,53,0,0,1,0,,2020
+Reading,Fulham,1-4,https://www.besoccer.com/match/reading-fc/fulham/202017284,2020,10,championship,53,62,2,1,0,1,,2020
+Stoke City,Huddersfield Town,0-1,https://www.besoccer.com/match/stoke-city/huddersfield-town-fc/202017285,2020,10,championship,69,59,1,0,2,0,,2020
+Barnsley,Derby County,2-2,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/202017286,2020,10,championship,47,62,2,0,0,0,,2020
+Brentford,Bristol City,1-1,https://www.besoccer.com/match/brentford/bristol-city-fc/202017287,2020,10,championship,58,59,1,0,1,0,,2020
+Cardiff City,Queens Park Rangers,3-0,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/202017288,2020,10,championship,62,54,2,0,1,0,,2020
+Charlton Athletic,Swansea City,1-2,https://www.besoccer.com/match/charlton-athletic-fc/swansea-city-afc/202017289,2020,10,championship,48,73,4,0,1,0,,2020
+Luton Town,Millwall,1-1,https://www.besoccer.com/match/luton-town-fc/millwall-fc/202017290,2020,10,championship,52,55,0,0,2,0,,2020
+Birmingham City,Middlesbrough,2-1,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/202017291,2020,11,championship,53,62,1,0,3,0,,2020
+Fulham,Charlton Athletic,2-2,https://www.besoccer.com/match/fulham/charlton-athletic-fc/202017294,2020,11,championship,62,48,2,0,1,0,,2020
+Bristol City,Reading,1-0,https://www.besoccer.com/match/bristol-city-fc/reading-fc/202017292,2020,11,championship,59,53,1,0,2,0,,2020
+Derby County,Luton Town,2-0,https://www.besoccer.com/match/derby-county-fc/luton-town-fc/202017293,2020,11,championship,62,52,1,0,0,0,,2020
+Huddersfield Town,Hull City,3-0,https://www.besoccer.com/match/huddersfield-town-fc/hull-city/202017295,2020,11,championship,59,62,3,0,1,0,,2020
+Millwall,Leeds United,2-1,https://www.besoccer.com/match/millwall-fc/leeds-united-afc/202017296,2020,11,championship,55,62,4,0,1,0,,2020
+Nottingham Forest,Brentford,1-0,https://www.besoccer.com/match/nottingham-forest-fc/brentford/202017297,2020,11,championship,61,58,0,0,1,0,,2020
+Preston North End,Barnsley,5-1,https://www.besoccer.com/match/preston-north-end/barnsley-fc/202017298,2020,11,championship,62,47,1,0,3,0,,2020
+Queens Park Rangers,Blackburn Rovers,4-2,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/202017299,2020,11,championship,54,57,4,0,4,0,,2020
+Sheffield Wednesday,Wigan Athletic,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/wigan-athletic/202017300,2020,11,championship,61,52,1,0,1,0,,2020
+Swansea City,Stoke City,1-2,https://www.besoccer.com/match/swansea-city-afc/stoke-city/202017301,2020,11,championship,73,69,2,0,1,0,,2020
+West Bromwich Albion,Cardiff City,4-2,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/202017302,2020,11,championship,71,62,1,0,1,0,,2020
+Cardiff City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/202017306,2020,12,championship,62,61,0,0,3,0,,2020
+Blackburn Rovers,Huddersfield Town,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/huddersfield-town-fc/202017304,2020,12,championship,57,58,1,0,3,0,,2020
+Barnsley,Swansea City,1-1,https://www.besoccer.com/match/barnsley-fc/swansea-city-afc/202017303,2020,12,championship,47,72,1,0,1,0,,2020
+Brentford,Millwall,3-2,https://www.besoccer.com/match/brentford/millwall-fc/202017305,2020,12,championship,58,55,3,0,6,0,,2020
+Charlton Athletic,Derby County,3-0,https://www.besoccer.com/match/charlton-athletic-fc/derby-county-fc/202017307,2020,12,championship,47,62,1,0,2,0,,2020
+Hull City,Queens Park Rangers,2-3,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/202017308,2020,12,championship,62,55,1,0,0,0,,2020
+Leeds United,Birmingham City,1-0,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/202017309,2020,12,championship,62,53,2,0,2,0,,2020
+Luton Town,Bristol City,3-0,https://www.besoccer.com/match/luton-town-fc/bristol-city-fc/202017310,2020,12,championship,52,59,2,0,2,0,,2020
+Middlesbrough,West Bromwich Albion,0-1,https://www.besoccer.com/match/middlesbrough-fc/west-bromwich/202017311,2020,12,championship,62,71,2,0,4,0,,2020
+Reading,Preston North End,1-0,https://www.besoccer.com/match/reading-fc/preston-north-end/202017312,2020,12,championship,53,62,2,0,2,0,,2020
+Stoke City,Fulham,2-0,https://www.besoccer.com/match/stoke-city/fulham/202017313,2020,12,championship,68,62,2,0,2,0,,2020
+Wigan Athletic,Nottingham Forest,1-0,https://www.besoccer.com/match/wigan-athletic/nottingham-forest-fc/202017314,2020,12,championship,52,61,3,0,1,0,,2020
+Birmingham City,Blackburn Rovers,1-0,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/202017315,2020,13,championship,53,57,2,0,2,0,,2020
+Millwall,Cardiff City,2-2,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/202017316,2020,13,championship,55,62,1,0,1,0,,2020
+Queens Park Rangers,Reading,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/202017317,2020,13,championship,55,53,2,0,2,0,,2020
+Sheffield Wednesday,Stoke City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/stoke-city/202017318,2020,13,championship,61,68,2,0,1,0,,2020
+Swansea City,Brentford,0-3,https://www.besoccer.com/match/swansea-city-afc/brentford/202017319,2020,13,championship,72,58,2,0,1,0,,2020
+Preston North End,Leeds United,1-1,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/202017326,2020,13,championship,62,62,1,0,0,0,,2020
+West Bromwich Albion,Barnsley,2-2,https://www.besoccer.com/match/west-bromwich/barnsley-fc/202017320,2020,13,championship,71,47,2,0,7,0,,2020
+Bristol City,Charlton Athletic,2-1,https://www.besoccer.com/match/bristol-city-fc/charlton-athletic-fc/202017321,2020,13,championship,59,47,2,1,5,1,,2020
+Derby County,Wigan Athletic,1-0,https://www.besoccer.com/match/derby-county-fc/wigan-athletic/202017322,2020,13,championship,62,52,2,0,2,0,,2020
+Fulham,Luton Town,3-2,https://www.besoccer.com/match/fulham/luton-town-fc/202017323,2020,13,championship,62,52,1,0,0,0,,2020
+Huddersfield Town,Middlesbrough,0-0,https://www.besoccer.com/match/huddersfield-town-fc/middlesbrough-fc/202017324,2020,13,championship,58,62,1,0,3,0,,2020
+Nottingham Forest,Hull City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/hull-city/202017325,2020,13,championship,62,62,3,0,2,0,,2020
+Sheffield Wednesday,Leeds United,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/202017336,2020,14,championship,61,62,2,0,0,0,,2020
+Birmingham City,Luton Town,2-1,https://www.besoccer.com/match/birmingham-city-fc/luton-town-fc/202017327,2020,14,championship,53,52,1,0,3,0,,2020
+Huddersfield Town,Barnsley,2-1,https://www.besoccer.com/match/huddersfield-town-fc/barnsley-fc/202017329,2020,14,championship,58,47,1,0,1,0,,2020
+Hull City,Derby County,2-0,https://www.besoccer.com/match/hull-city/derby-county-fc/202017330,2020,14,championship,62,62,4,0,1,0,,2020
+Middlesbrough,Fulham,0-0,https://www.besoccer.com/match/middlesbrough-fc/fulham/202017331,2020,14,championship,62,62,3,0,2,0,,2020
+Millwall,Stoke City,2-0,https://www.besoccer.com/match/millwall-fc/stoke-city/202017332,2020,14,championship,55,68,1,0,0,0,,2020
+Preston North End,Blackburn Rovers,3-2,https://www.besoccer.com/match/preston-north-end/blackburn-rovers-fc/202017334,2020,14,championship,62,57,0,0,2,0,,2020
+West Bromwich Albion,Charlton Athletic,2-2,https://www.besoccer.com/match/west-bromwich/charlton-athletic-fc/202017338,2020,14,championship,71,47,2,1,3,1,,2020
+Swansea City,Cardiff City,1-0,https://www.besoccer.com/match/swansea-city-afc/cardiff-city-fc/202017337,2020,14,championship,72,62,0,0,1,0,,2020
+Bristol City,Wigan Athletic,2-2,https://www.besoccer.com/match/bristol-city-fc/wigan-athletic/202017328,2020,14,championship,59,52,1,0,2,0,,2020
+Queens Park Rangers,Brentford,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/brentford/202017335,2020,14,championship,55,58,0,0,3,0,,2020
+Nottingham Forest,Reading,1-1,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/202017333,2020,14,championship,62,53,1,0,2,0,,2020
+Barnsley,Bristol City,2-2,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/202017339,2020,15,championship,47,60,2,0,0,0,,2020
+Wigan Athletic,Swansea City,1-2,https://www.besoccer.com/match/wigan-athletic/swansea-city-afc/202017350,2020,15,championship,52,72,4,0,2,0,,2020
+Blackburn Rovers,Sheffield Wednesday,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/202017340,2020,15,championship,57,61,0,0,0,0,,2020
+Brentford,Huddersfield Town,0-1,https://www.besoccer.com/match/brentford/huddersfield-town-fc/202017341,2020,15,championship,58,58,1,0,5,0,,2020
+Cardiff City,Birmingham City,4-2,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/202017342,2020,15,championship,62,53,1,1,3,1,,2020
+Derby County,Middlesbrough,2-0,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/202017344,2020,15,championship,63,61,0,0,1,0,,2020
+Fulham,Hull City,0-3,https://www.besoccer.com/match/fulham/hull-city/202017345,2020,15,championship,62,62,2,0,2,0,,2020
+Leeds United,Queens Park Rangers,2-0,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/202017346,2020,15,championship,62,54,1,0,4,0,,2020
+Luton Town,Nottingham Forest,1-2,https://www.besoccer.com/match/luton-town-fc/nottingham-forest-fc/202017347,2020,15,championship,52,62,0,0,1,0,,2020
+Reading,Millwall,2-1,https://www.besoccer.com/match/reading-fc/millwall-fc/202017348,2020,15,championship,53,55,1,0,0,0,,2020
+Charlton Athletic,Preston North End,0-1,https://www.besoccer.com/match/charlton-athletic-fc/preston-north-end/202017343,2020,15,championship,47,62,3,0,5,0,,2020
+Stoke City,West Bromwich Albion,0-2,https://www.besoccer.com/match/stoke-city/west-bromwich/202017349,2020,15,championship,68,71,2,0,1,0,,2020
+Nottingham Forest,Derby County,1-0,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/202017357,2020,16,championship,62,63,3,0,3,0,,2020
+Barnsley,Stoke City,2-4,https://www.besoccer.com/match/barnsley-fc/stoke-city/202017351,2020,16,championship,47,68,3,0,1,0,,2020
+Birmingham City,Fulham,0-1,https://www.besoccer.com/match/birmingham-city-fc/fulham/202017352,2020,16,championship,53,62,3,0,2,0,,2020
+Hull City,West Bromwich Albion,0-1,https://www.besoccer.com/match/hull-city/west-bromwich/202017354,2020,16,championship,62,71,3,0,3,0,,2020
+Leeds United,Blackburn Rovers,2-1,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/202017355,2020,16,championship,62,57,1,0,2,0,,2020
+Millwall,Charlton Athletic,2-1,https://www.besoccer.com/match/millwall-fc/charlton-athletic-fc/202017356,2020,16,championship,55,47,1,0,1,0,,2020
+Preston North End,Huddersfield Town,3-1,https://www.besoccer.com/match/preston-north-end/huddersfield-town-fc/202017358,2020,16,championship,62,59,4,0,2,0,,2020
+Queens Park Rangers,Middlesbrough,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/202017359,2020,16,championship,55,61,4,0,2,0,,2020
+Reading,Luton Town,3-0,https://www.besoccer.com/match/reading-fc/luton-town-fc/202017360,2020,16,championship,53,52,0,0,1,0,,2020
+Sheffield Wednesday,Swansea City,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/swansea-city-afc/202017361,2020,16,championship,61,72,1,0,0,0,,2020
+Wigan Athletic,Brentford,0-3,https://www.besoccer.com/match/wigan-athletic/brentford/202017362,2020,16,championship,52,58,2,1,1,1,,2020
+Cardiff City,Bristol City,0-1,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/202017353,2020,16,championship,62,60,1,0,2,0,,2020
+Fulham,Queens Park Rangers,2-1,https://www.besoccer.com/match/fulham/queens-park-rangers-fc/202017368,2020,17,championship,62,55,1,0,0,0,,2020
+Charlton Athletic,Cardiff City,2-2,https://www.besoccer.com/match/charlton-athletic-fc/cardiff-city-fc/202017366,2020,17,championship,48,62,1,0,3,0,,2020
+Blackburn Rovers,Barnsley,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/barnsley-fc/202017363,2020,17,championship,57,47,1,0,1,0,,2020
+Brentford,Reading,1-0,https://www.besoccer.com/match/brentford/reading-fc/202017364,2020,17,championship,59,53,3,0,3,0,,2020
+Bristol City,Nottingham Forest,0-0,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/202017365,2020,17,championship,59,61,1,0,2,0,,2020
+Derby County,Preston North End,1-0,https://www.besoccer.com/match/derby-county-fc/preston-north-end/202017367,2020,17,championship,62,62,0,0,2,0,,2020
+Huddersfield Town,Birmingham City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/202017369,2020,17,championship,59,53,1,0,1,0,,2020
+Luton Town,Leeds United,1-2,https://www.besoccer.com/match/luton-town-fc/leeds-united-afc/202017370,2020,17,championship,52,62,0,0,1,0,,2020
+Stoke City,Wigan Athletic,2-1,https://www.besoccer.com/match/stoke-city/wigan-athletic/202017372,2020,17,championship,68,52,3,0,2,0,,2020
+Swansea City,Millwall,0-1,https://www.besoccer.com/match/swansea-city-afc/millwall-fc/202017373,2020,17,championship,72,55,1,0,2,0,,2020
+West Bromwich Albion,Sheffield Wednesday,2-1,https://www.besoccer.com/match/west-bromwich/sheffield-wednesday-fc/202017374,2020,17,championship,71,62,1,0,3,0,,2020
+Middlesbrough,Hull City,2-2,https://www.besoccer.com/match/middlesbrough-fc/hull-city/202017371,2020,17,championship,61,62,2,1,1,1,,2020
+Cardiff City,Stoke City,1-0,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/202017375,2020,18,championship,62,68,1,0,1,0,,2020
+Fulham,Derby County,3-0,https://www.besoccer.com/match/fulham/derby-county-fc/202017376,2020,18,championship,62,62,1,0,2,0,,2020
+Huddersfield Town,Swansea City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/swansea-city-afc/202017377,2020,18,championship,59,72,3,1,2,1,,2020
+Luton Town,Charlton Athletic,2-1,https://www.besoccer.com/match/luton-town-fc/charlton-athletic-fc/202017378,2020,18,championship,52,48,3,0,1,0,,2020
+Millwall,Wigan Athletic,2-2,https://www.besoccer.com/match/millwall-fc/wigan-athletic/202017379,2020,18,championship,55,52,2,0,1,0,,2020
+Reading,Leeds United,0-1,https://www.besoccer.com/match/reading-fc/leeds-united-afc/202017380,2020,18,championship,53,62,1,0,1,0,,2020
+Blackburn Rovers,Brentford,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/brentford/202017381,2020,18,championship,57,59,2,0,1,0,,2020
+Hull City,Preston North End,4-0,https://www.besoccer.com/match/hull-city/preston-north-end/202017382,2020,18,championship,62,62,1,0,1,0,,2020
+Middlesbrough,Barnsley,1-0,https://www.besoccer.com/match/middlesbrough-fc/barnsley-fc/202017383,2020,18,championship,61,47,3,0,0,0,,2020
+Queens Park Rangers,Nottingham Forest,0-4,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/202017384,2020,18,championship,55,61,1,1,2,1,,2020
+Sheffield Wednesday,Birmingham City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/202017385,2020,18,championship,62,53,1,0,2,0,,2020
+West Bromwich Albion,Bristol City,4-1,https://www.besoccer.com/match/west-bromwich/bristol-city-fc/202017386,2020,18,championship,71,59,0,0,2,0,,2020
+Swansea City,Fulham,1-2,https://www.besoccer.com/match/swansea-city-afc/fulham/202017397,2020,19,championship,72,62,0,0,1,0,,2020
+Charlton Athletic,Sheffield Wednesday,1-3,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-wednesday-fc/202017391,2020,19,championship,48,62,2,0,2,0,,2020
+Barnsley,Hull City,3-1,https://www.besoccer.com/match/barnsley-fc/hull-city/202017387,2020,19,championship,47,62,0,0,1,0,,2020
+Birmingham City,Millwall,1-1,https://www.besoccer.com/match/birmingham-city-fc/millwall-fc/202017388,2020,19,championship,53,55,0,0,0,0,,2020
+Brentford,Luton Town,7-0,https://www.besoccer.com/match/brentford/luton-town-fc/202017389,2020,19,championship,59,52,0,0,0,0,,2020
+Bristol City,Huddersfield Town,5-2,https://www.besoccer.com/match/bristol-city-fc/huddersfield-town-fc/202017390,2020,19,championship,59,59,0,0,1,0,,2020
+Derby County,Queens Park Rangers,1-1,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/202017392,2020,19,championship,62,55,1,0,3,0,,2020
+Leeds United,Middlesbrough,4-0,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/202017393,2020,19,championship,62,61,2,0,3,0,,2020
+Nottingham Forest,Cardiff City,0-1,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/202017394,2020,19,championship,61,62,0,0,1,0,,2020
+Stoke City,Blackburn Rovers,1-2,https://www.besoccer.com/match/stoke-city/blackburn-rovers-fc/202017396,2020,19,championship,68,57,0,0,0,0,,2020
+Wigan Athletic,Reading,1-3,https://www.besoccer.com/match/wigan-athletic/reading-fc/202017398,2020,19,championship,52,53,2,0,2,0,,2020
+Preston North End,West Bromwich Albion,0-1,https://www.besoccer.com/match/preston-north-end/west-bromwich/202017395,2020,19,championship,62,71,0,0,1,0,,2020
+Millwall,Nottingham Forest,2-2,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/202017406,2020,20,championship,55,62,1,0,2,0,,2020
+Huddersfield Town,Leeds United,0-2,https://www.besoccer.com/match/huddersfield-town-fc/leeds-united-afc/202017402,2020,20,championship,59,62,2,0,3,0,,2020
+Blackburn Rovers,Derby County,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/202017399,2020,20,championship,57,62,1,0,1,0,,2020
+Cardiff City,Barnsley,3-2,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/202017400,2020,20,championship,62,47,1,0,5,0,,2020
+Fulham,Bristol City,1-2,https://www.besoccer.com/match/fulham/bristol-city-fc/202017401,2020,20,championship,62,59,6,0,2,0,,2020
+Hull City,Stoke City,2-1,https://www.besoccer.com/match/hull-city/stoke-city/202017403,2020,20,championship,62,68,0,0,0,0,,2020
+Luton Town,Wigan Athletic,2-1,https://www.besoccer.com/match/luton-town-fc/wigan-athletic/202017404,2020,20,championship,52,52,1,0,3,0,,2020
+Middlesbrough,Charlton Athletic,1-0,https://www.besoccer.com/match/middlesbrough-fc/charlton-athletic-fc/202017405,2020,20,championship,61,48,1,0,3,0,,2020
+Queens Park Rangers,Preston North End,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/202017407,2020,20,championship,54,62,2,0,2,0,,2020
+Reading,Birmingham City,2-3,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/202017408,2020,20,championship,54,53,1,0,1,0,,2020
+Sheffield Wednesday,Brentford,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/brentford/202017409,2020,20,championship,61,59,1,0,2,0,,2020
+West Bromwich Albion,Swansea City,5-1,https://www.besoccer.com/match/west-bromwich/swansea-city-afc/202017410,2020,20,championship,71,72,1,0,2,0,,2020
+Bristol City,Millwall,1-2,https://www.besoccer.com/match/bristol-city-fc/millwall-fc/202017411,2020,21,championship,59,55,0,0,0,0,,2020
+Charlton Athletic,Huddersfield Town,0-1,https://www.besoccer.com/match/charlton-athletic-fc/huddersfield-town-fc/202017412,2020,21,championship,48,59,3,0,2,0,,2020
+Leeds United,Hull City,2-0,https://www.besoccer.com/match/leeds-united-afc/hull-city/202017413,2020,21,championship,62,62,2,0,1,0,,2020
+Nottingham Forest,Middlesbrough,1-1,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/202017414,2020,21,championship,62,61,4,0,2,0,,2020
+Preston North End,Fulham,2-1,https://www.besoccer.com/match/preston-north-end/fulham/202017415,2020,21,championship,62,62,4,1,1,1,,2020
+Stoke City,Luton Town,3-0,https://www.besoccer.com/match/stoke-city/luton-town-fc/202017416,2020,21,championship,68,51,1,0,2,0,,2020
+Barnsley,Reading,1-1,https://www.besoccer.com/match/barnsley-fc/reading-fc/202017417,2020,21,championship,47,54,2,0,1,0,,2020
+Birmingham City,Queens Park Rangers,0-2,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/202017418,2020,21,championship,53,55,2,0,2,0,,2020
+Brentford,Cardiff City,2-1,https://www.besoccer.com/match/brentford/cardiff-city-fc/202017419,2020,21,championship,59,62,2,0,2,0,,2020
+Derby County,Sheffield Wednesday,1-1,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/202017420,2020,21,championship,62,61,3,0,4,0,,2020
+Swansea City,Blackburn Rovers,1-1,https://www.besoccer.com/match/swansea-city-afc/blackburn-rovers-fc/202017421,2020,21,championship,72,57,1,1,1,1,,2020
+Wigan Athletic,West Bromwich Albion,1-1,https://www.besoccer.com/match/wigan-athletic/west-bromwich/202017422,2020,21,championship,52,71,1,0,2,0,,2020
+Charlton Athletic,Hull City,2-2,https://www.besoccer.com/match/charlton-athletic-fc/hull-city/202017427,2020,22,championship,48,62,2,0,2,0,,2020
+Birmingham City,West Bromwich Albion,2-3,https://www.besoccer.com/match/birmingham-city-fc/west-bromwich/202017424,2020,22,championship,53,71,2,0,2,0,,2020
+Barnsley,Queens Park Rangers,5-3,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/202017423,2020,22,championship,47,55,4,0,3,0,,2020
+Brentford,Fulham,1-0,https://www.besoccer.com/match/brentford/fulham/202017425,2020,22,championship,59,62,1,0,1,0,,2020
+Bristol City,Blackburn Rovers,0-2,https://www.besoccer.com/match/bristol-city-fc/blackburn-rovers-fc/202017426,2020,22,championship,59,57,1,0,2,0,,2020
+Derby County,Millwall,0-1,https://www.besoccer.com/match/derby-county-fc/millwall-fc/202017428,2020,22,championship,62,55,1,0,2,0,,2020
+Leeds United,Cardiff City,3-3,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/202017429,2020,22,championship,62,62,1,0,1,0,,2020
+Nottingham Forest,Sheffield Wednesday,0-4,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/202017430,2020,22,championship,62,61,0,0,0,0,,2020
+Preston North End,Luton Town,2-1,https://www.besoccer.com/match/preston-north-end/luton-town-fc/202017431,2020,22,championship,62,51,0,0,3,0,,2020
+Stoke City,Reading,0-0,https://www.besoccer.com/match/stoke-city/reading-fc/202017432,2020,22,championship,68,54,1,0,3,0,,2020
+Swansea City,Middlesbrough,3-1,https://www.besoccer.com/match/swansea-city-afc/middlesbrough-fc/202017433,2020,22,championship,72,61,2,0,2,0,,2020
+Wigan Athletic,Huddersfield Town,1-1,https://www.besoccer.com/match/wigan-athletic/huddersfield-town-fc/202017434,2020,22,championship,52,59,1,0,2,0,,2020
+Middlesbrough,Stoke City,2-1,https://www.besoccer.com/match/middlesbrough-fc/stoke-city/202017441,2020,23,championship,61,68,2,0,4,0,,2020
+Cardiff City,Preston North End,0-0,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/202017436,2020,23,championship,62,62,1,0,2,0,,2020
+Fulham,Leeds United,2-1,https://www.besoccer.com/match/fulham/leeds-united-afc/202017437,2020,23,championship,62,62,3,0,4,0,,2020
+Huddersfield Town,Nottingham Forest,2-1,https://www.besoccer.com/match/huddersfield-town-fc/nottingham-forest-fc/202017438,2020,23,championship,59,62,3,0,3,0,,2020
+Hull City,Birmingham City,3-0,https://www.besoccer.com/match/hull-city/birmingham-city-fc/202017439,2020,23,championship,62,53,2,0,1,0,,2020
+Luton Town,Swansea City,0-1,https://www.besoccer.com/match/luton-town-fc/swansea-city-afc/202017440,2020,23,championship,51,72,1,0,2,0,,2020
+Millwall,Barnsley,1-2,https://www.besoccer.com/match/millwall-fc/barnsley-fc/202017442,2020,23,championship,55,47,2,0,4,0,,2020
+Queens Park Rangers,Charlton Athletic,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/charlton-athletic-fc/202017443,2020,23,championship,55,48,3,0,4,0,,2020
+Reading,Derby County,3-0,https://www.besoccer.com/match/reading-fc/derby-county-fc/202017444,2020,23,championship,54,62,2,0,8,0,,2020
+West Bromwich Albion,Brentford,1-1,https://www.besoccer.com/match/west-bromwich/brentford/202017446,2020,23,championship,71,59,2,0,1,0,,2020
+Sheffield Wednesday,Bristol City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/202017445,2020,23,championship,61,59,1,0,3,0,,2020
+Blackburn Rovers,Wigan Athletic,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/wigan-athletic/202017435,2020,23,championship,57,52,1,0,2,0,,2020
+Barnsley,West Bromwich Albion,1-1,https://www.besoccer.com/match/barnsley-fc/west-bromwich/202017447,2020,24,championship,47,71,1,0,3,0,,2020
+Blackburn Rovers,Birmingham City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/202017448,2020,24,championship,57,53,3,0,3,0,,2020
+Brentford,Swansea City,3-1,https://www.besoccer.com/match/brentford/swansea-city-afc/202017449,2020,24,championship,59,72,0,0,2,0,,2020
+Cardiff City,Millwall,1-1,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/202017450,2020,24,championship,62,56,1,0,0,0,,2020
+Charlton Athletic,Bristol City,3-2,https://www.besoccer.com/match/charlton-athletic-fc/bristol-city-fc/202017451,2020,24,championship,48,59,3,0,1,0,,2020
+Hull City,Nottingham Forest,0-2,https://www.besoccer.com/match/hull-city/nottingham-forest-fc/202017452,2020,24,championship,62,62,4,0,2,0,,2020
+Luton Town,Fulham,3-3,https://www.besoccer.com/match/luton-town-fc/fulham/202017454,2020,24,championship,51,62,0,0,0,0,,2020
+Middlesbrough,Huddersfield Town,1-0,https://www.besoccer.com/match/middlesbrough-fc/huddersfield-town-fc/202017455,2020,24,championship,61,59,3,0,4,0,,2020
+Stoke City,Sheffield Wednesday,3-2,https://www.besoccer.com/match/stoke-city/sheffield-wednesday-fc/202017457,2020,24,championship,68,61,0,0,2,0,,2020
+Wigan Athletic,Derby County,1-1,https://www.besoccer.com/match/wigan-athletic/derby-county-fc/202017458,2020,24,championship,52,62,1,0,3,0,,2020
+Leeds United,Preston North End,1-1,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/202017453,2020,24,championship,62,62,3,0,4,0,,2020
+Reading,Queens Park Rangers,1-0,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/202017456,2020,24,championship,54,54,1,0,0,0,,2020
+Birmingham City,Leeds United,4-5,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/202017459,2020,25,championship,53,62,5,0,3,0,,2020
+Bristol City,Luton Town,3-0,https://www.besoccer.com/match/bristol-city-fc/luton-town-fc/202017460,2020,25,championship,59,51,1,0,4,0,,2020
+Fulham,Stoke City,1-0,https://www.besoccer.com/match/fulham/stoke-city/202017462,2020,25,championship,62,68,2,0,3,0,,2020
+Huddersfield Town,Blackburn Rovers,2-1,https://www.besoccer.com/match/huddersfield-town-fc/blackburn-rovers-fc/202017463,2020,25,championship,59,57,2,0,1,0,,2020
+Millwall,Brentford,1-0,https://www.besoccer.com/match/millwall-fc/brentford/202017464,2020,25,championship,56,59,3,0,1,0,,2020
+Nottingham Forest,Wigan Athletic,1-0,https://www.besoccer.com/match/nottingham-forest-fc/wigan-athletic/202017465,2020,25,championship,62,52,0,0,2,0,,2020
+Preston North End,Reading,0-2,https://www.besoccer.com/match/preston-north-end/reading-fc/202017466,2020,25,championship,62,54,0,0,0,0,,2020
+Queens Park Rangers,Hull City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/202017467,2020,25,championship,54,63,0,0,2,0,,2020
+Sheffield Wednesday,Cardiff City,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/202017468,2020,25,championship,61,62,1,0,2,0,,2020
+Swansea City,Barnsley,0-0,https://www.besoccer.com/match/swansea-city-afc/barnsley-fc/202017469,2020,25,championship,71,47,1,0,4,0,,2020
+West Bromwich Albion,Middlesbrough,0-2,https://www.besoccer.com/match/west-bromwich/middlesbrough-fc/202017470,2020,25,championship,71,61,4,0,3,0,,2020
+Derby County,Charlton Athletic,2-1,https://www.besoccer.com/match/derby-county-fc/charlton-athletic-fc/202017461,2020,25,championship,62,47,1,1,5,1,,2020
+Millwall,Luton Town,3-1,https://www.besoccer.com/match/millwall-fc/luton-town-fc/202017476,2020,26,championship,56,51,0,0,0,0,,2020
+Birmingham City,Wigan Athletic,2-3,https://www.besoccer.com/match/birmingham-city-fc/wigan-athletic/202017471,2020,26,championship,53,51,0,0,1,0,,2020
+Bristol City,Brentford,0-4,https://www.besoccer.com/match/bristol-city-fc/brentford/202017472,2020,26,championship,60,59,3,1,2,1,,2020
+Fulham,Reading,1-2,https://www.besoccer.com/match/fulham/reading-fc/202017474,2020,26,championship,62,54,4,0,3,0,,2020
+Huddersfield Town,Stoke City,2-5,https://www.besoccer.com/match/huddersfield-town-fc/stoke-city/202017475,2020,26,championship,59,67,5,0,2,0,,2020
+Nottingham Forest,Blackburn Rovers,3-2,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/202017477,2020,26,championship,62,57,1,0,1,0,,2020
+Preston North End,Middlesbrough,0-2,https://www.besoccer.com/match/preston-north-end/middlesbrough-fc/202017478,2020,26,championship,62,61,0,0,2,0,,2020
+Queens Park Rangers,Cardiff City,6-1,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/202017479,2020,26,championship,54,62,2,0,1,0,,2020
+Sheffield Wednesday,Hull City,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/202017480,2020,26,championship,62,62,2,0,1,0,,2020
+West Bromwich Albion,Leeds United,1-1,https://www.besoccer.com/match/west-bromwich/leeds-united-afc/202017482,2020,26,championship,71,62,2,0,3,0,,2020
+Derby County,Barnsley,2-1,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/202017473,2020,26,championship,62,47,1,0,0,0,,2020
+Swansea City,Charlton Athletic,1-0,https://www.besoccer.com/match/swansea-city-afc/charlton-athletic-fc/202017481,2020,26,championship,71,47,1,0,3,0,,2020
+Brentford,Queens Park Rangers,3-1,https://www.besoccer.com/match/brentford/queens-park-rangers-fc/202017485,2020,27,championship,59,55,0,0,5,0,,2020
+Barnsley,Huddersfield Town,2-1,https://www.besoccer.com/match/barnsley-fc/huddersfield-town-fc/202017483,2020,27,championship,47,58,2,0,5,0,,2020
+Blackburn Rovers,Preston North End,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/preston-north-end/202017484,2020,27,championship,57,62,2,0,0,0,,2020
+Charlton Athletic,West Bromwich Albion,2-2,https://www.besoccer.com/match/charlton-athletic-fc/west-bromwich/202017487,2020,27,championship,47,72,2,0,6,0,,2020
+Hull City,Fulham,0-1,https://www.besoccer.com/match/hull-city/fulham/202017488,2020,27,championship,62,62,1,0,4,0,,2020
+Leeds United,Sheffield Wednesday,0-2,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/202017489,2020,27,championship,63,62,1,0,2,0,,2020
+Luton Town,Birmingham City,1-2,https://www.besoccer.com/match/luton-town-fc/birmingham-city-fc/202017490,2020,27,championship,51,53,1,0,4,0,,2020
+Middlesbrough,Derby County,2-2,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/202017491,2020,27,championship,61,62,1,0,2,0,,2020
+Reading,Nottingham Forest,1-1,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/202017492,2020,27,championship,54,62,4,0,2,0,,2020
+Stoke City,Millwall,0-0,https://www.besoccer.com/match/stoke-city/millwall-fc/202017493,2020,27,championship,67,56,1,0,1,0,,2020
+Wigan Athletic,Bristol City,0-2,https://www.besoccer.com/match/wigan-athletic/bristol-city-fc/202017494,2020,27,championship,51,60,1,0,1,0,,2020
+Cardiff City,Swansea City,0-0,https://www.besoccer.com/match/cardiff-city-fc/swansea-city-afc/202017486,2020,27,championship,62,71,4,0,2,0,,2020
+Fulham,Middlesbrough,1-0,https://www.besoccer.com/match/fulham/middlesbrough-fc/202017498,2020,28,championship,62,61,1,0,1,0,,2020
+Queens Park Rangers,Leeds United,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/202017503,2020,28,championship,54,63,4,0,3,0,,2020
+Birmingham City,Cardiff City,1-1,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/202017495,2020,28,championship,53,62,1,0,3,0,,2020
+Bristol City,Barnsley,1-0,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/202017496,2020,28,championship,59,47,1,0,2,0,,2020
+Derby County,Hull City,1-0,https://www.besoccer.com/match/derby-county-fc/hull-city/202017497,2020,28,championship,62,62,3,0,0,0,,2020
+Huddersfield Town,Brentford,0-0,https://www.besoccer.com/match/huddersfield-town-fc/brentford/202017499,2020,28,championship,58,59,1,0,0,0,,2020
+Millwall,Reading,2-0,https://www.besoccer.com/match/millwall-fc/reading-fc/202017500,2020,28,championship,56,54,1,0,3,0,,2020
+Preston North End,Charlton Athletic,2-1,https://www.besoccer.com/match/preston-north-end/charlton-athletic-fc/202017502,2020,28,championship,62,47,1,0,0,0,,2020
+Sheffield Wednesday,Blackburn Rovers,0-5,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/202017504,2020,28,championship,62,58,1,1,1,1,,2020
+Swansea City,Wigan Athletic,2-1,https://www.besoccer.com/match/swansea-city-afc/wigan-athletic/202017505,2020,28,championship,71,51,0,0,1,0,,2020
+Nottingham Forest,Luton Town,3-1,https://www.besoccer.com/match/nottingham-forest-fc/luton-town-fc/202017501,2020,28,championship,61,51,0,0,3,0,,2020
+West Bromwich Albion,Stoke City,0-1,https://www.besoccer.com/match/west-bromwich/stoke-city/202017506,2020,28,championship,72,67,1,0,3,0,,2020
+Middlesbrough,Birmingham City,1-1,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/202017515,2020,29,championship,61,53,0,0,1,0,,2020
+Barnsley,Preston North End,0-3,https://www.besoccer.com/match/barnsley-fc/preston-north-end/202017507,2020,29,championship,48,62,1,0,1,0,,2020
+Charlton Athletic,Fulham,0-0,https://www.besoccer.com/match/charlton-athletic-fc/fulham/202017511,2020,29,championship,48,62,1,0,1,0,,2020
+Stoke City,Swansea City,2-0,https://www.besoccer.com/match/stoke-city/swansea-city-afc/202017517,2020,29,championship,67,71,0,0,2,0,,2020
+Blackburn Rovers,Queens Park Rangers,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/202017508,2020,29,championship,58,54,1,0,3,0,,2020
+Brentford,Nottingham Forest,0-1,https://www.besoccer.com/match/brentford/nottingham-forest-fc/202017509,2020,29,championship,60,62,1,0,1,0,,2020
+Cardiff City,West Bromwich Albion,2-1,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/202017510,2020,29,championship,62,72,1,0,0,0,,2020
+Hull City,Huddersfield Town,1-2,https://www.besoccer.com/match/hull-city/huddersfield-town-fc/202017512,2020,29,championship,62,58,0,0,1,0,,2020
+Leeds United,Millwall,3-2,https://www.besoccer.com/match/leeds-united-afc/millwall-fc/202017513,2020,29,championship,63,56,2,0,1,0,,2020
+Luton Town,Derby County,3-2,https://www.besoccer.com/match/luton-town-fc/derby-county-fc/202017514,2020,29,championship,51,61,1,0,4,0,,2020
+Wigan Athletic,Sheffield Wednesday,2-1,https://www.besoccer.com/match/wigan-athletic/sheffield-wednesday-fc/202017518,2020,29,championship,51,62,0,0,0,0,,2020
+Reading,Bristol City,0-1,https://www.besoccer.com/match/reading-fc/bristol-city-fc/202017516,2020,29,championship,54,59,1,0,3,0,,2020
+Cardiff City,Reading,1-1,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/202017520,2020,30,championship,62,55,3,0,2,0,,2020
+Derby County,Stoke City,4-0,https://www.besoccer.com/match/derby-county-fc/stoke-city/202017522,2020,30,championship,62,67,2,0,2,0,,2020
+Hull City,Brentford,1-5,https://www.besoccer.com/match/hull-city/brentford/202017524,2020,30,championship,62,60,0,0,1,0,,2020
+Birmingham City,Nottingham Forest,2-1,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/202017519,2020,30,championship,53,62,1,0,1,0,,2020
+Charlton Athletic,Barnsley,2-1,https://www.besoccer.com/match/charlton-athletic-fc/barnsley-fc/202017521,2020,30,championship,47,48,1,0,4,0,,2020
+Fulham,Huddersfield Town,3-2,https://www.besoccer.com/match/fulham/huddersfield-town-fc/202017523,2020,30,championship,62,58,4,0,1,0,,2020
+Leeds United,Wigan Athletic,0-1,https://www.besoccer.com/match/leeds-united-afc/wigan-athletic/202017525,2020,30,championship,63,51,0,0,2,0,,2020
+Middlesbrough,Blackburn Rovers,1-1,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/202017526,2020,30,championship,62,57,0,0,2,0,,2020
+Preston North End,Swansea City,1-1,https://www.besoccer.com/match/preston-north-end/swansea-city-afc/202017527,2020,30,championship,61,71,1,0,3,0,,2020
+Queens Park Rangers,Bristol City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/202017528,2020,30,championship,55,59,0,0,0,0,,2020
+Sheffield Wednesday,Millwall,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/millwall-fc/202017529,2020,30,championship,62,56,4,0,3,0,,2020
+West Bromwich Albion,Luton Town,2-0,https://www.besoccer.com/match/west-bromwich/luton-town-fc/202017530,2020,30,championship,71,51,0,0,1,0,,2020
+Bristol City,Birmingham City,1-3,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/202017534,2020,31,championship,59,53,0,0,0,0,,2020
+Wigan Athletic,Preston North End,1-2,https://www.besoccer.com/match/wigan-athletic/preston-north-end/202017542,2020,31,championship,51,61,1,0,3,0,,2020
+Barnsley,Sheffield Wednesday,1-1,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/202017531,2020,31,championship,48,62,1,0,2,0,,2020
+Blackburn Rovers,Fulham,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/fulham/202017532,2020,31,championship,57,62,0,0,1,0,,2020
+Brentford,Middlesbrough,3-2,https://www.besoccer.com/match/brentford/middlesbrough-fc/202017533,2020,31,championship,60,62,0,0,1,0,,2020
+Huddersfield Town,Queens Park Rangers,2-0,https://www.besoccer.com/match/huddersfield-town-fc/queens-park-rangers-fc/202017535,2020,31,championship,58,55,0,0,3,0,,2020
+Luton Town,Cardiff City,0-1,https://www.besoccer.com/match/luton-town-fc/cardiff-city-fc/202017536,2020,31,championship,51,61,0,0,1,0,,2020
+Reading,Hull City,1-1,https://www.besoccer.com/match/reading-fc/hull-city/202017539,2020,31,championship,55,63,1,0,3,0,,2020
+Stoke City,Charlton Athletic,3-1,https://www.besoccer.com/match/stoke-city/charlton-athletic-fc/202017540,2020,31,championship,67,47,0,0,5,0,,2020
+Swansea City,Derby County,2-3,https://www.besoccer.com/match/swansea-city-afc/derby-county-fc/202017541,2020,31,championship,70,62,1,0,4,0,,2020
+Nottingham Forest,Leeds United,2-0,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/202017538,2020,31,championship,62,63,3,0,3,0,,2020
+Millwall,West Bromwich Albion,0-2,https://www.besoccer.com/match/millwall-fc/west-bromwich/202017537,2020,31,championship,56,71,2,0,2,0,,2020
+Barnsley,Birmingham City,0-1,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/202017543,2020,32,championship,48,53,1,0,1,0,,2020
+Blackburn Rovers,Hull City,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/hull-city/202017544,2020,32,championship,57,62,1,0,2,0,,2020
+Brentford,Leeds United,1-1,https://www.besoccer.com/match/brentford/leeds-united-afc/202017545,2020,32,championship,60,63,0,0,0,0,,2020
+Nottingham Forest,Charlton Athletic,0-1,https://www.besoccer.com/match/nottingham-forest-fc/charlton-athletic-fc/202017546,2020,32,championship,62,47,2,0,4,0,,2020
+Swansea City,Queens Park Rangers,0-0,https://www.besoccer.com/match/swansea-city-afc/queens-park-rangers-fc/202017547,2020,32,championship,70,55,1,0,2,0,,2020
+Wigan Athletic,Middlesbrough,2-2,https://www.besoccer.com/match/wigan-athletic/middlesbrough-fc/202017548,2020,32,championship,51,62,6,1,3,1,,2020
+Bristol City,Derby County,3-2,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/202017549,2020,32,championship,59,62,0,0,1,0,,2020
+Huddersfield Town,Cardiff City,0-3,https://www.besoccer.com/match/huddersfield-town-fc/cardiff-city-fc/202017550,2020,32,championship,58,61,1,0,2,0,,2020
+Luton Town,Sheffield Wednesday,1-0,https://www.besoccer.com/match/luton-town-fc/sheffield-wednesday-fc/202017551,2020,32,championship,50,62,3,0,1,0,,2020
+Millwall,Fulham,1-1,https://www.besoccer.com/match/millwall-fc/fulham/202017552,2020,32,championship,56,62,1,0,2,0,,2020
+Reading,West Bromwich Albion,1-2,https://www.besoccer.com/match/reading-fc/west-bromwich/202017553,2020,32,championship,55,71,2,0,2,0,,2020
+Stoke City,Preston North End,0-2,https://www.besoccer.com/match/stoke-city/preston-north-end/202017554,2020,32,championship,67,61,3,0,2,0,,2020
+Hull City,Swansea City,4-4,https://www.besoccer.com/match/hull-city/swansea-city-afc/202017560,2020,33,championship,62,70,0,0,3,0,,2020
+West Bromwich Albion,Nottingham Forest,2-2,https://www.besoccer.com/match/west-bromwich/nottingham-forest-fc/202017566,2020,33,championship,71,62,1,0,3,0,,2020
+Birmingham City,Brentford,1-1,https://www.besoccer.com/match/birmingham-city-fc/brentford/202017555,2020,33,championship,53,60,2,0,3,0,,2020
+Cardiff City,Wigan Athletic,2-2,https://www.besoccer.com/match/cardiff-city-fc/wigan-athletic/202017556,2020,33,championship,62,51,3,0,3,0,,2020
+Charlton Athletic,Blackburn Rovers,0-2,https://www.besoccer.com/match/charlton-athletic-fc/blackburn-rovers-fc/202017557,2020,33,championship,47,57,0,0,3,0,,2020
+Derby County,Huddersfield Town,1-1,https://www.besoccer.com/match/derby-county-fc/huddersfield-town-fc/202017558,2020,33,championship,62,58,3,0,0,0,,2020
+Fulham,Barnsley,0-3,https://www.besoccer.com/match/fulham/barnsley-fc/202017559,2020,33,championship,62,48,1,0,1,0,,2020
+Leeds United,Bristol City,1-0,https://www.besoccer.com/match/leeds-united-afc/bristol-city-fc/202017561,2020,33,championship,63,59,2,0,2,0,,2020
+Middlesbrough,Luton Town,0-1,https://www.besoccer.com/match/middlesbrough-fc/luton-town-fc/202017562,2020,33,championship,62,50,1,0,4,0,,2020
+Preston North End,Millwall,0-1,https://www.besoccer.com/match/preston-north-end/millwall-fc/202017563,2020,33,championship,61,56,3,0,1,0,,2020
+Queens Park Rangers,Stoke City,4-2,https://www.besoccer.com/match/queens-park-rangers-fc/stoke-city/202017564,2020,33,championship,55,67,4,0,2,0,,2020
+Sheffield Wednesday,Reading,0-3,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/202017565,2020,33,championship,62,55,1,1,2,1,,2020
+Derby County,Fulham,1-1,https://www.besoccer.com/match/derby-county-fc/fulham/202017572,2020,34,championship,62,62,0,0,1,0,,2020
+Brentford,Blackburn Rovers,2-2,https://www.besoccer.com/match/brentford/blackburn-rovers-fc/202017569,2020,34,championship,60,57,1,0,0,0,,2020
+Barnsley,Middlesbrough,1-0,https://www.besoccer.com/match/barnsley-fc/middlesbrough-fc/202017567,2020,34,championship,48,62,2,0,0,0,,2020
+Birmingham City,Sheffield Wednesday,3-3,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/202017568,2020,34,championship,53,62,1,0,5,0,,2020
+Bristol City,West Bromwich Albion,0-3,https://www.besoccer.com/match/bristol-city-fc/west-bromwich/202017570,2020,34,championship,59,71,2,0,1,0,,2020
+Charlton Athletic,Luton Town,3-1,https://www.besoccer.com/match/charlton-athletic-fc/luton-town-fc/202017571,2020,34,championship,47,50,2,0,1,0,,2020
+Leeds United,Reading,1-0,https://www.besoccer.com/match/leeds-united-afc/reading-fc/202017573,2020,34,championship,62,55,1,0,2,0,,2020
+Nottingham Forest,Queens Park Rangers,0-0,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/202017574,2020,34,championship,62,55,1,0,3,0,,2020
+Preston North End,Hull City,2-1,https://www.besoccer.com/match/preston-north-end/hull-city/202017575,2020,34,championship,61,62,1,0,3,0,,2020
+Stoke City,Cardiff City,2-0,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/202017576,2020,34,championship,67,62,1,0,1,0,,2020
+Swansea City,Huddersfield Town,3-1,https://www.besoccer.com/match/swansea-city-afc/huddersfield-town-fc/202017577,2020,34,championship,70,58,1,0,1,0,,2020
+Wigan Athletic,Millwall,1-0,https://www.besoccer.com/match/wigan-athletic/millwall-fc/202017578,2020,34,championship,51,57,1,0,3,0,,2020
+Cardiff City,Nottingham Forest,0-1,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/202017579,2020,35,championship,62,62,1,0,2,0,,2020
+Huddersfield Town,Bristol City,2-1,https://www.besoccer.com/match/huddersfield-town-fc/bristol-city-fc/202017581,2020,35,championship,58,59,2,0,4,0,,2020
+Luton Town,Brentford,2-1,https://www.besoccer.com/match/luton-town-fc/brentford/202017582,2020,35,championship,50,60,2,0,1,0,,2020
+Queens Park Rangers,Derby County,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/202017583,2020,35,championship,55,62,3,0,1,0,,2020
+West Bromwich Albion,Preston North End,2-0,https://www.besoccer.com/match/west-bromwich/preston-north-end/202017584,2020,35,championship,71,61,0,0,0,0,,2020
+Fulham,Swansea City,1-0,https://www.besoccer.com/match/fulham/swansea-city-afc/202017580,2020,35,championship,62,70,0,0,4,0,,2020
+Blackburn Rovers,Stoke City,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/stoke-city/202017585,2020,35,championship,57,67,2,0,2,0,,2020
+Hull City,Barnsley,0-1,https://www.besoccer.com/match/hull-city/barnsley-fc/202017586,2020,35,championship,62,48,1,0,1,0,,2020
+Middlesbrough,Leeds United,0-1,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/202017587,2020,35,championship,62,62,3,0,0,0,,2020
+Millwall,Birmingham City,0-0,https://www.besoccer.com/match/millwall-fc/birmingham-city-fc/202017588,2020,35,championship,56,53,1,0,0,0,,2020
+Sheffield Wednesday,Charlton Athletic,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/charlton-athletic-fc/202017589,2020,35,championship,62,47,2,0,3,0,,2020
+Reading,Wigan Athletic,0-3,https://www.besoccer.com/match/reading-fc/wigan-athletic/202017590,2020,35,championship,55,51,3,0,1,0,,2020
+Hull City,Leeds United,0-4,https://www.besoccer.com/match/hull-city/leeds-united-afc/202017595,2020,36,championship,62,62,2,0,1,0,,2020
+Blackburn Rovers,Swansea City,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/swansea-city-afc/202017591,2020,36,championship,58,70,3,0,5,0,,2020
+Cardiff City,Brentford,2-2,https://www.besoccer.com/match/cardiff-city-fc/brentford/202017592,2020,36,championship,62,60,4,0,1,0,,2020
+Fulham,Preston North End,2-0,https://www.besoccer.com/match/fulham/preston-north-end/202017593,2020,36,championship,62,61,0,0,0,0,,2020
+Huddersfield Town,Charlton Athletic,4-0,https://www.besoccer.com/match/huddersfield-town-fc/charlton-athletic-fc/202017594,2020,36,championship,58,47,1,0,2,0,,2020
+Luton Town,Stoke City,1-1,https://www.besoccer.com/match/luton-town-fc/stoke-city/202017596,2020,36,championship,51,67,1,0,1,0,,2020
+Millwall,Bristol City,1-1,https://www.besoccer.com/match/millwall-fc/bristol-city-fc/202017598,2020,36,championship,56,59,1,0,0,0,,2020
+Queens Park Rangers,Birmingham City,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/202017599,2020,36,championship,55,53,0,0,0,0,,2020
+Reading,Barnsley,2-0,https://www.besoccer.com/match/reading-fc/barnsley-fc/202017600,2020,36,championship,55,48,1,0,3,0,,2020
+Sheffield Wednesday,Derby County,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/202017601,2020,36,championship,62,62,2,0,1,0,,2020
+West Bromwich Albion,Wigan Athletic,0-1,https://www.besoccer.com/match/west-bromwich/wigan-athletic/202017602,2020,36,championship,71,51,2,0,1,0,,2020
+Middlesbrough,Nottingham Forest,2-2,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/202017597,2020,36,championship,62,62,1,0,1,0,,2020
+Nottingham Forest,Millwall,0-3,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/202017610,2020,37,championship,62,56,1,0,1,0,,2020
+Bristol City,Fulham,1-1,https://www.besoccer.com/match/bristol-city-fc/fulham/202017606,2020,37,championship,59,63,2,0,2,0,,2020
+Barnsley,Cardiff City,0-2,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/202017603,2020,37,championship,47,62,0,0,0,0,,2020
+Birmingham City,Reading,1-3,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/202017604,2020,37,championship,53,55,2,0,1,0,,2020
+Brentford,Sheffield Wednesday,5-0,https://www.besoccer.com/match/brentford/sheffield-wednesday-fc/202017605,2020,37,championship,60,62,0,0,2,0,,2020
+Charlton Athletic,Middlesbrough,0-1,https://www.besoccer.com/match/charlton-athletic-fc/middlesbrough-fc/202017607,2020,37,championship,48,62,3,0,1,0,,2020
+Leeds United,Huddersfield Town,2-0,https://www.besoccer.com/match/leeds-united-afc/huddersfield-town-fc/202017609,2020,37,championship,62,58,3,0,3,0,,2020
+Preston North End,Queens Park Rangers,1-3,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/202017611,2020,37,championship,61,55,2,0,2,0,,2020
+Stoke City,Hull City,5-1,https://www.besoccer.com/match/stoke-city/hull-city/202017612,2020,37,championship,67,62,0,0,2,0,,2020
+Swansea City,West Bromwich Albion,0-0,https://www.besoccer.com/match/swansea-city-afc/west-bromwich/202017613,2020,37,championship,70,71,1,0,2,0,,2020
+Wigan Athletic,Luton Town,0-0,https://www.besoccer.com/match/wigan-athletic/luton-town-fc/202017614,2020,37,championship,52,50,1,0,2,0,,2020
+Derby County,Blackburn Rovers,3-0,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/202017608,2020,37,championship,62,58,2,0,3,0,,2020
+Middlesbrough,Swansea City,0-3,https://www.besoccer.com/match/middlesbrough-fc/swansea-city-afc/202017621,2020,38,championship,61,70,2,0,1,0,,2020
+Fulham,Brentford,0-2,https://www.besoccer.com/match/fulham/brentford/202017617,2020,38,championship,63,60,1,0,2,0,,2020
+Millwall,Derby County,2-3,https://www.besoccer.com/match/millwall-fc/derby-county-fc/202017622,2020,38,championship,56,62,0,0,2,0,,2020
+Blackburn Rovers,Bristol City,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/bristol-city-fc/202017615,2020,38,championship,58,59,2,0,2,0,,2020
+Huddersfield Town,Wigan Athletic,0-2,https://www.besoccer.com/match/huddersfield-town-fc/wigan-athletic/202017618,2020,38,championship,58,52,2,0,1,0,,2020
+Hull City,Charlton Athletic,0-1,https://www.besoccer.com/match/hull-city/charlton-athletic-fc/202017619,2020,38,championship,62,48,1,0,3,0,,2020
+Luton Town,Preston North End,1-1,https://www.besoccer.com/match/luton-town-fc/preston-north-end/202017620,2020,38,championship,51,62,1,0,0,0,,2020
+Queens Park Rangers,Barnsley,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/202017623,2020,38,championship,55,47,0,0,1,0,,2020
+Reading,Stoke City,1-1,https://www.besoccer.com/match/reading-fc/stoke-city/202017624,2020,38,championship,55,67,0,0,2,0,,2020
+Sheffield Wednesday,Nottingham Forest,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/202017625,2020,38,championship,62,62,3,0,3,0,,2020
+West Bromwich Albion,Birmingham City,0-0,https://www.besoccer.com/match/west-bromwich/birmingham-city-fc/202017626,2020,38,championship,72,54,1,0,3,0,,2020
+Cardiff City,Leeds United,2-0,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/202017616,2020,38,championship,62,62,2,0,4,0,,2020
+Brentford,West Bromwich Albion,1-0,https://www.besoccer.com/match/brentford/west-bromwich/202017628,2020,39,championship,60,71,2,0,1,0,,2020
+Charlton Athletic,Queens Park Rangers,1-0,https://www.besoccer.com/match/charlton-athletic-fc/queens-park-rangers-fc/202017630,2020,39,championship,47,55,1,0,0,0,,2020
+Preston North End,Cardiff City,1-3,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/202017632,2020,39,championship,62,62,1,0,2,0,,2020
+Swansea City,Luton Town,0-1,https://www.besoccer.com/match/swansea-city-afc/luton-town-fc/202017636,2020,39,championship,70,51,2,1,3,1,,2020
+Barnsley,Millwall,0-0,https://www.besoccer.com/match/barnsley-fc/millwall-fc/202017627,2020,39,championship,48,56,2,0,2,0,,2020
+Derby County,Reading,2-1,https://www.besoccer.com/match/derby-county-fc/reading-fc/202017631,2020,39,championship,62,55,3,1,0,1,,2020
+Birmingham City,Hull City,3-3,https://www.besoccer.com/match/birmingham-city-fc/hull-city/202017633,2020,39,championship,54,62,3,0,0,0,,2020
+Leeds United,Fulham,3-0,https://www.besoccer.com/match/leeds-united-afc/fulham/202017634,2020,39,championship,62,62,2,0,3,0,,2020
+Wigan Athletic,Blackburn Rovers,2-0,https://www.besoccer.com/match/wigan-athletic/blackburn-rovers-fc/202017637,2020,39,championship,52,58,1,0,0,0,,2020
+Stoke City,Middlesbrough,0-2,https://www.besoccer.com/match/stoke-city/middlesbrough-fc/202017638,2020,39,championship,67,61,1,1,1,1,,2020
+Bristol City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/202017629,2020,39,championship,59,61,1,0,2,0,,2020
+Nottingham Forest,Huddersfield Town,3-1,https://www.besoccer.com/match/nottingham-forest-fc/huddersfield-town-fc/202017635,2020,39,championship,62,58,3,0,0,0,,2020
+Millwall,Swansea City,1-1,https://www.besoccer.com/match/millwall-fc/swansea-city-afc/202017644,2020,40,championship,56,70,2,0,1,0,,2020
+Barnsley,Blackburn Rovers,2-0,https://www.besoccer.com/match/barnsley-fc/blackburn-rovers-fc/202017639,2020,40,championship,48,58,1,0,2,0,,2020
+Cardiff City,Charlton Athletic,0-0,https://www.besoccer.com/match/cardiff-city-fc/charlton-athletic-fc/202017641,2020,40,championship,62,47,1,0,1,0,,2020
+Reading,Brentford,0-3,https://www.besoccer.com/match/reading-fc/brentford/202017648,2020,40,championship,55,60,0,0,1,0,,2020
+Queens Park Rangers,Fulham,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/fulham/202017647,2020,40,championship,55,62,2,0,3,0,,2020
+Leeds United,Luton Town,1-1,https://www.besoccer.com/match/leeds-united-afc/luton-town-fc/202017643,2020,40,championship,62,51,0,0,5,0,,2020
+Wigan Athletic,Stoke City,3-0,https://www.besoccer.com/match/wigan-athletic/stoke-city/202017650,2020,40,championship,52,67,1,0,3,0,,2020
+Preston North End,Derby County,0-1,https://www.besoccer.com/match/preston-north-end/derby-county-fc/202017646,2020,40,championship,62,62,0,0,0,0,,2020
+Birmingham City,Huddersfield Town,0-3,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/202017640,2020,40,championship,54,58,0,0,1,0,,2020
+Nottingham Forest,Bristol City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/202017645,2020,40,championship,62,59,0,0,2,0,,2020
+Sheffield Wednesday,West Bromwich Albion,0-3,https://www.besoccer.com/match/sheffield-wednesday-fc/west-bromwich/202017649,2020,40,championship,61,71,0,0,4,0,,2020
+Hull City,Middlesbrough,2-1,https://www.besoccer.com/match/hull-city/middlesbrough-fc/202017642,2020,40,championship,62,61,1,0,1,0,,2020
+Charlton Athletic,Millwall,0-1,https://www.besoccer.com/match/charlton-athletic-fc/millwall-fc/202017654,2020,41,championship,47,56,3,0,2,0,,2020
+Derby County,Nottingham Forest,1-1,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/202017655,2020,41,championship,62,62,1,1,3,1,,2020
+Blackburn Rovers,Leeds United,1-3,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/202017651,2020,41,championship,58,63,1,0,2,0,,2020
+Brentford,Wigan Athletic,3-0,https://www.besoccer.com/match/brentford/wigan-athletic/202017652,2020,41,championship,60,52,0,0,1,0,,2020
+Bristol City,Cardiff City,0-1,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/202017653,2020,41,championship,59,62,1,0,0,0,,2020
+Fulham,Birmingham City,1-0,https://www.besoccer.com/match/fulham/birmingham-city-fc/202017656,2020,41,championship,63,54,2,0,4,0,,2020
+Huddersfield Town,Preston North End,0-0,https://www.besoccer.com/match/huddersfield-town-fc/preston-north-end/202017657,2020,41,championship,58,61,0,0,0,0,,2020
+Luton Town,Reading,0-5,https://www.besoccer.com/match/luton-town-fc/reading-fc/202017658,2020,41,championship,51,55,0,0,1,0,,2020
+Stoke City,Barnsley,4-0,https://www.besoccer.com/match/stoke-city/barnsley-fc/202017660,2020,41,championship,67,48,2,0,0,0,,2020
+Swansea City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/swansea-city-afc/sheffield-wednesday-fc/202017661,2020,41,championship,70,61,2,0,1,0,,2020
+Middlesbrough,Queens Park Rangers,0-1,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/202017659,2020,41,championship,61,55,3,0,0,0,,2020
+West Bromwich Albion,Hull City,4-2,https://www.besoccer.com/match/west-bromwich/hull-city/202017662,2020,41,championship,71,61,2,1,1,1,,2020
+Nottingham Forest,Fulham,0-1,https://www.besoccer.com/match/nottingham-forest-fc/fulham/202017670,2020,42,championship,62,63,2,0,2,0,,2020
+Brentford,Charlton Athletic,2-1,https://www.besoccer.com/match/brentford/charlton-athletic-fc/202017664,2020,42,championship,60,47,1,0,1,0,,2020
+Luton Town,Barnsley,1-1,https://www.besoccer.com/match/luton-town-fc/barnsley-fc/202017668,2020,42,championship,51,48,4,0,2,0,,2020
+Reading,Huddersfield Town,0-0,https://www.besoccer.com/match/reading-fc/huddersfield-town-fc/202017671,2020,42,championship,55,58,1,0,2,0,,2020
+Cardiff City,Blackburn Rovers,2-3,https://www.besoccer.com/match/cardiff-city-fc/blackburn-rovers-fc/202017666,2020,42,championship,62,58,0,0,1,0,,2020
+Millwall,Middlesbrough,0-2,https://www.besoccer.com/match/millwall-fc/middlesbrough-fc/202017669,2020,42,championship,56,61,1,0,3,0,,2020
+West Bromwich Albion,Derby County,2-0,https://www.besoccer.com/match/west-bromwich/derby-county-fc/202017673,2020,42,championship,71,62,0,0,4,0,,2020
+Birmingham City,Swansea City,1-3,https://www.besoccer.com/match/birmingham-city-fc/swansea-city-afc/202017663,2020,42,championship,54,70,2,0,3,0,,2020
+Bristol City,Hull City,2-1,https://www.besoccer.com/match/bristol-city-fc/hull-city/202017665,2020,42,championship,59,61,0,0,3,0,,2020
+Wigan Athletic,Queens Park Rangers,1-0,https://www.besoccer.com/match/wigan-athletic/queens-park-rangers-fc/202017674,2020,42,championship,52,56,1,0,0,0,,2020
+Sheffield Wednesday,Preston North End,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/202017672,2020,42,championship,61,61,2,0,0,0,,2020
+Leeds United,Stoke City,5-0,https://www.besoccer.com/match/leeds-united-afc/stoke-city/202017667,2020,42,championship,63,67,2,0,2,0,,2020
+Huddersfield Town,Luton Town,0-2,https://www.besoccer.com/match/huddersfield-town-fc/luton-town-fc/202017680,2020,43,championship,58,51,2,0,1,0,,2020
+Fulham,Cardiff City,2-0,https://www.besoccer.com/match/fulham/cardiff-city-fc/202017679,2020,43,championship,63,62,3,0,1,0,,2020
+Charlton Athletic,Reading,0-1,https://www.besoccer.com/match/charlton-athletic-fc/reading-fc/202017677,2020,43,championship,47,55,4,0,3,0,,2020
+Derby County,Brentford,1-3,https://www.besoccer.com/match/derby-county-fc/brentford/202017678,2020,43,championship,62,60,1,0,0,0,,2020
+Barnsley,Wigan Athletic,0-0,https://www.besoccer.com/match/barnsley-fc/wigan-athletic/202017675,2020,43,championship,48,52,2,0,3,0,,2020
+Blackburn Rovers,West Bromwich Albion,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/west-bromwich/202017676,2020,43,championship,58,71,2,0,2,0,,2020
+Hull City,Millwall,0-1,https://www.besoccer.com/match/hull-city/millwall-fc/202017681,2020,43,championship,61,56,2,0,0,0,,2020
+Middlesbrough,Bristol City,1-3,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/202017682,2020,43,championship,61,59,1,0,0,0,,2020
+Preston North End,Nottingham Forest,1-1,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/202017683,2020,43,championship,61,62,2,0,0,0,,2020
+Queens Park Rangers,Sheffield Wednesday,0-3,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/202017684,2020,43,championship,56,61,1,0,2,0,,2020
+Stoke City,Birmingham City,2-0,https://www.besoccer.com/match/stoke-city/birmingham-city-fc/202017685,2020,43,championship,67,54,1,0,4,0,,2020
+Swansea City,Leeds United,0-1,https://www.besoccer.com/match/swansea-city-afc/leeds-united-afc/202017686,2020,43,championship,70,63,2,0,3,0,,2020
+West Bromwich Albion,Fulham,0-0,https://www.besoccer.com/match/west-bromwich/fulham/202017697,2020,44,championship,71,63,3,0,0,0,,2020
+Reading,Middlesbrough,1-2,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/202017695,2020,44,championship,55,61,2,0,0,0,,2020
+Wigan Athletic,Hull City,8-0,https://www.besoccer.com/match/wigan-athletic/hull-city/202017698,2020,44,championship,52,61,0,0,2,0,,2020
+Cardiff City,Derby County,2-1,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/202017690,2020,44,championship,62,62,1,0,0,0,,2020
+Luton Town,Queens Park Rangers,1-1,https://www.besoccer.com/match/luton-town-fc/queens-park-rangers-fc/202017692,2020,44,championship,51,56,1,0,0,0,,2020
+Millwall,Blackburn Rovers,1-0,https://www.besoccer.com/match/millwall-fc/blackburn-rovers-fc/202017693,2020,44,championship,56,58,2,0,2,0,,2020
+Sheffield Wednesday,Huddersfield Town,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/huddersfield-town-fc/202017696,2020,44,championship,61,58,1,0,1,0,,2020
+Brentford,Preston North End,1-0,https://www.besoccer.com/match/brentford/preston-north-end/202017688,2020,44,championship,60,61,2,0,1,0,,2020
+Bristol City,Stoke City,1-1,https://www.besoccer.com/match/bristol-city-fc/stoke-city/202017689,2020,44,championship,59,67,1,0,0,0,,2020
+Birmingham City,Charlton Athletic,1-1,https://www.besoccer.com/match/birmingham-city-fc/charlton-athletic-fc/202017687,2020,44,championship,54,47,3,0,1,0,,2020
+Nottingham Forest,Swansea City,2-2,https://www.besoccer.com/match/nottingham-forest-fc/swansea-city-afc/202017694,2020,44,championship,62,70,4,0,2,0,,2020
+Leeds United,Barnsley,1-0,https://www.besoccer.com/match/leeds-united-afc/barnsley-fc/202017691,2020,44,championship,63,48,1,0,1,0,,2020
+Huddersfield Town,West Bromwich Albion,2-1,https://www.besoccer.com/match/huddersfield-town-fc/west-bromwich/202017704,2020,45,championship,58,71,4,0,6,0,,2020
+Charlton Athletic,Wigan Athletic,2-2,https://www.besoccer.com/match/charlton-athletic-fc/wigan-athletic/202017701,2020,45,championship,47,52,1,0,3,0,,2020
+Stoke City,Brentford,1-0,https://www.besoccer.com/match/stoke-city/brentford/202017709,2020,45,championship,67,60,2,0,0,0,,2020
+Blackburn Rovers,Reading,4-3,https://www.besoccer.com/match/blackburn-rovers-fc/reading-fc/202017700,2020,45,championship,58,55,1,0,0,0,,2020
+Fulham,Sheffield Wednesday,5-3,https://www.besoccer.com/match/fulham/sheffield-wednesday-fc/202017703,2020,45,championship,63,61,2,1,0,1,,2020
+Hull City,Luton Town,0-1,https://www.besoccer.com/match/hull-city/luton-town-fc/202017705,2020,45,championship,61,51,1,0,2,0,,2020
+Middlesbrough,Cardiff City,1-3,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/202017706,2020,45,championship,61,62,3,1,2,1,,2020
+Preston North End,Birmingham City,2-0,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/202017707,2020,45,championship,61,54,2,0,2,0,,2020
+Queens Park Rangers,Millwall,4-3,https://www.besoccer.com/match/queens-park-rangers-fc/millwall-fc/202017708,2020,45,championship,56,56,0,0,1,0,,2020
+Swansea City,Bristol City,1-0,https://www.besoccer.com/match/swansea-city-afc/bristol-city-fc/202017710,2020,45,championship,70,59,0,0,0,0,,2020
+Derby County,Leeds United,1-3,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/202017702,2020,45,championship,62,63,1,0,0,0,,2020
+Barnsley,Nottingham Forest,1-0,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/202017699,2020,45,championship,48,62,0,0,1,0,,2020
+Birmingham City,Derby County,1-3,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/202017711,2020,46,championship,54,62,1,0,0,0,,2020
+Brentford,Barnsley,1-2,https://www.besoccer.com/match/brentford/barnsley-fc/202017712,2020,46,championship,60,48,3,0,3,0,,2020
+Bristol City,Preston North End,1-1,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/202017713,2020,46,championship,59,61,0,0,0,0,,2020
+Cardiff City,Hull City,3-0,https://www.besoccer.com/match/cardiff-city-fc/hull-city/202017714,2020,46,championship,62,61,0,0,0,0,,2020
+Leeds United,Charlton Athletic,4-0,https://www.besoccer.com/match/leeds-united-afc/charlton-athletic-fc/202017715,2020,46,championship,63,47,1,0,0,0,,2020
+Luton Town,Blackburn Rovers,3-2,https://www.besoccer.com/match/luton-town-fc/blackburn-rovers-fc/202017716,2020,46,championship,51,58,4,0,1,0,,2020
+Millwall,Huddersfield Town,4-1,https://www.besoccer.com/match/millwall-fc/huddersfield-town-fc/202017717,2020,46,championship,56,58,1,0,0,0,,2020
+Nottingham Forest,Stoke City,1-4,https://www.besoccer.com/match/nottingham-forest-fc/stoke-city/202017718,2020,46,championship,62,67,0,0,1,0,,2020
+Reading,Swansea City,1-4,https://www.besoccer.com/match/reading-fc/swansea-city-afc/202017719,2020,46,championship,55,70,1,1,0,1,,2020
+Sheffield Wednesday,Middlesbrough,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/202017720,2020,46,championship,61,61,0,0,0,0,,2020
+West Bromwich Albion,Queens Park Rangers,2-2,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/202017721,2020,46,championship,71,56,0,0,0,0,,2020
+Wigan Athletic,Fulham,1-1,https://www.besoccer.com/match/wigan-athletic/fulham/202017722,2020,46,championship,52,63,3,0,4,0,,2020

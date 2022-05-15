@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Brighton & Hove Albion,Nottingham Forest,1-0,https://www.besoccer.com/match/brighton-amp-hov/nottingham-forest-fc/20165834,2016,1,championship,56,57,4,0,2,0,,2016
+Cardiff City,Fulham,1-1,https://www.besoccer.com/match/cardiff-city-fc/fulham/20165835,2016,1,championship,59,62,1,0,1,0,,2016
+Leeds United,Burnley,1-1,https://www.besoccer.com/match/leeds-united-afc/burnley-fc/20165838,2016,1,championship,55,60,1,0,2,0,,2016
+Birmingham City,Reading,2-1,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/20165830,2016,1,championship,59,59,4,0,5,0,,2016
+Blackburn Rovers,Wolves,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/wolverhampton/20165831,2016,1,championship,63,57,2,0,3,0,,2016
+Bolton Wanderers,Derby County,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/derby-county-fc/20165832,2016,1,championship,61,60,2,0,1,0,,2016
+Brentford,Ipswich Town,2-2,https://www.besoccer.com/match/brentford/ipswich-town-fc/20165833,2016,1,championship,50,57,1,0,0,0,,2016
+Charlton Athletic,Queens Park Rangers,2-0,https://www.besoccer.com/match/charlton-athletic-fc/queens-park-rangers-fc/20165836,2016,1,championship,54,58,3,0,2,0,,2016
+Hull City,Huddersfield Town,2-0,https://www.besoccer.com/match/hull-city/huddersfield-town-fc/20165837,2016,1,championship,61,51,1,0,3,0,,2016
+Rotherham United,Milton Keynes Dons,1-4,https://www.besoccer.com/match/rotherham-united/milton-keynes-dons/20165840,2016,1,championship,43,53,1,0,3,0,,2016
+Sheffield Wednesday,Bristol City,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/20165841,2016,1,championship,55,52,1,0,3,0,,2016
+Preston North End,Middlesbrough,0-0,https://www.besoccer.com/match/preston-north-end/middlesbrough-fc/20165839,2016,1,championship,57,62,2,0,1,0,,2016
+Burnley,Birmingham City,2-2,https://www.besoccer.com/match/burnley-fc/birmingham-city-fc/20165843,2016,2,championship,59,60,3,0,1,0,,2016
+Bristol City,Brentford,2-4,https://www.besoccer.com/match/bristol-city-fc/brentford/20165842,2016,2,championship,51,49,1,1,2,1,,2016
+Derby County,Charlton Athletic,1-1,https://www.besoccer.com/match/derby-county-fc/charlton-athletic-fc/20165844,2016,2,championship,59,55,0,0,2,0,,2016
+Fulham,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/fulham/brighton-amp-hov/20165845,2016,2,championship,62,56,2,0,2,0,,2016
+Huddersfield Town,Blackburn Rovers,1-1,https://www.besoccer.com/match/huddersfield-town-fc/blackburn-rovers-fc/20165846,2016,2,championship,51,63,2,0,0,0,,2016
+Ipswich Town,Sheffield Wednesday,2-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/20165847,2016,2,championship,57,56,2,0,2,0,,2016
+Middlesbrough,Bolton Wanderers,3-0,https://www.besoccer.com/match/middlesbrough-fc/bolton-wanderers-fc/20165848,2016,2,championship,63,61,0,0,0,0,,2016
+Milton Keynes Dons,Preston North End,0-1,https://www.besoccer.com/match/milton-keynes-dons/preston-north-end/20165849,2016,2,championship,53,57,1,0,4,0,,2016
+Nottingham Forest,Rotherham United,2-1,https://www.besoccer.com/match/nottingham-forest-fc/rotherham-united/20165850,2016,2,championship,56,43,2,0,3,0,,2016
+Queens Park Rangers,Cardiff City,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/20165851,2016,2,championship,59,59,0,0,0,0,,2016
+Wolves,Hull City,1-1,https://www.besoccer.com/match/wolverhampton/hull-city/20165853,2016,2,championship,57,61,0,0,1,0,,2016
+Reading,Leeds United,0-0,https://www.besoccer.com/match/reading-fc/leeds-united-afc/20165852,2016,2,championship,59,55,1,0,3,0,,2016
+Blackburn Rovers,Cardiff City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/cardiff-city-fc/20165854,2016,3,championship,63,59,2,0,3,0,,2016
+Derby County,Middlesbrough,1-1,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/20165857,2016,3,championship,59,63,1,0,2,0,,2016
+Huddersfield Town,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/huddersfield-town-fc/brighton-amp-hov/20165858,2016,3,championship,51,57,2,0,3,0,,2016
+Ipswich Town,Burnley,2-0,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/20165860,2016,3,championship,57,59,0,0,1,0,,2016
+Milton Keynes Dons,Bolton Wanderers,1-0,https://www.besoccer.com/match/milton-keynes-dons/bolton-wanderers-fc/20165861,2016,3,championship,53,61,2,0,3,0,,2016
+Nottingham Forest,Charlton Athletic,0-0,https://www.besoccer.com/match/nottingham-forest-fc/charlton-athletic-fc/20165862,2016,3,championship,56,55,3,0,1,0,,2016
+Rotherham United,Preston North End,0-0,https://www.besoccer.com/match/rotherham-united/preston-north-end/20165863,2016,3,championship,43,57,4,0,2,0,,2016
+Bristol City,Leeds United,2-2,https://www.besoccer.com/match/bristol-city-fc/leeds-united-afc/20165856,2016,3,championship,51,55,2,0,5,0,,2016
+Hull City,Fulham,2-1,https://www.besoccer.com/match/hull-city/fulham/20165859,2016,3,championship,61,62,0,0,3,0,,2016
+Sheffield Wednesday,Reading,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/20165864,2016,3,championship,55,59,2,0,2,0,,2016
+Wolves,Queens Park Rangers,2-3,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/20165865,2016,3,championship,57,58,3,0,2,0,,2016
+Brentford,Birmingham City,0-2,https://www.besoccer.com/match/brentford/birmingham-city-fc/20165855,2016,3,championship,49,60,2,0,1,0,,2016
+Birmingham City,Derby County,1-1,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/20165866,2016,4,championship,60,59,0,0,2,0,,2016
+Leeds United,Sheffield Wednesday,1-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/20165873,2016,4,championship,55,55,2,0,4,0,,2016
+Bolton Wanderers,Nottingham Forest,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/nottingham-forest-fc/20165867,2016,4,championship,60,56,1,0,4,0,,2016
+Burnley,Brentford,1-0,https://www.besoccer.com/match/burnley-fc/brentford/20165869,2016,4,championship,59,50,1,0,2,0,,2016
+Charlton Athletic,Hull City,2-1,https://www.besoccer.com/match/charlton-athletic-fc/hull-city/20165871,2016,4,championship,55,62,2,0,1,0,,2016
+Fulham,Huddersfield Town,1-1,https://www.besoccer.com/match/fulham/huddersfield-town-fc/20165872,2016,4,championship,62,51,1,0,2,0,,2016
+Middlesbrough,Bristol City,0-1,https://www.besoccer.com/match/middlesbrough-fc/bristol-city-fc/20165874,2016,4,championship,63,51,1,0,1,0,,2016
+Preston North End,Ipswich Town,1-2,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/20165875,2016,4,championship,57,58,3,0,0,0,,2016
+Queens Park Rangers,Rotherham United,4-2,https://www.besoccer.com/match/queens-park-rangers-fc/rotherham-united/20165876,2016,4,championship,59,43,1,0,2,0,,2016
+Reading,Milton Keynes Dons,0-0,https://www.besoccer.com/match/reading-fc/milton-keynes-dons/20165877,2016,4,championship,59,53,1,0,3,0,,2016
+Brighton & Hove Albion,Blackburn Rovers,1-0,https://www.besoccer.com/match/brighton-amp-hov/blackburn-rovers-fc/20165868,2016,4,championship,57,63,4,0,3,0,,2016
+Cardiff City,Wolves,2-0,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/20165870,2016,4,championship,59,57,2,0,1,0,,2016
+Blackburn Rovers,Bolton Wanderers,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/bolton-wanderers-fc/20165878,2016,5,championship,63,60,3,0,5,0,,2016
+Derby County,Leeds United,1-2,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/20165881,2016,5,championship,59,55,1,0,0,0,,2016
+Brentford,Reading,1-3,https://www.besoccer.com/match/brentford/reading-fc/20165879,2016,5,championship,50,60,5,0,3,0,,2016
+Bristol City,Burnley,1-2,https://www.besoccer.com/match/bristol-city-fc/burnley-fc/20165880,2016,5,championship,51,59,0,0,0,0,,2016
+Huddersfield Town,Queens Park Rangers,0-1,https://www.besoccer.com/match/huddersfield-town-fc/queens-park-rangers-fc/20165882,2016,5,championship,51,58,1,0,3,0,,2016
+Hull City,Preston North End,2-0,https://www.besoccer.com/match/hull-city/preston-north-end/20165883,2016,5,championship,61,57,2,0,3,0,,2016
+Ipswich Town,Brighton & Hove Albion,2-3,https://www.besoccer.com/match/ipswich-town-fc/brighton-amp-hov/20165884,2016,5,championship,58,56,4,0,3,0,,2016
+Milton Keynes Dons,Birmingham City,0-2,https://www.besoccer.com/match/milton-keynes-dons/birmingham-city-fc/20165885,2016,5,championship,54,60,2,0,2,0,,2016
+Nottingham Forest,Cardiff City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/20165886,2016,5,championship,56,59,0,0,4,0,,2016
+Rotherham United,Fulham,1-3,https://www.besoccer.com/match/rotherham-united/fulham/20165887,2016,5,championship,43,62,1,0,2,0,,2016
+Sheffield Wednesday,Middlesbrough,1-3,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/20165888,2016,5,championship,56,63,2,0,3,0,,2016
+Wolves,Charlton Athletic,2-1,https://www.besoccer.com/match/wolverhampton/charlton-athletic-fc/20165889,2016,5,championship,57,55,0,0,1,0,,2016
+Reading,Ipswich Town,5-1,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/20165901,2016,6,championship,60,58,0,0,4,0,,2016
+Queens Park Rangers,Nottingham Forest,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/20165900,2016,6,championship,58,56,1,1,2,1,,2016
+Birmingham City,Bristol City,4-2,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/20165890,2016,6,championship,60,51,2,0,3,0,,2016
+Bolton Wanderers,Wolves,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/wolverhampton/20165891,2016,6,championship,60,57,1,0,1,0,,2016
+Brighton & Hove Albion,Hull City,1-0,https://www.besoccer.com/match/brighton-amp-hov/hull-city/20165892,2016,6,championship,57,62,3,0,2,0,,2016
+Burnley,Sheffield Wednesday,3-1,https://www.besoccer.com/match/burnley-fc/sheffield-wednesday-fc/20165893,2016,6,championship,59,55,0,0,2,0,,2016
+Cardiff City,Huddersfield Town,2-0,https://www.besoccer.com/match/cardiff-city-fc/huddersfield-town-fc/20165894,2016,6,championship,59,51,1,0,1,0,,2016
+Charlton Athletic,Rotherham United,1-1,https://www.besoccer.com/match/charlton-athletic-fc/rotherham-united/20165895,2016,6,championship,55,43,2,0,2,0,,2016
+Leeds United,Brentford,1-1,https://www.besoccer.com/match/leeds-united-afc/brentford/20165897,2016,6,championship,56,49,2,0,3,0,,2016
+Middlesbrough,Milton Keynes Dons,2-0,https://www.besoccer.com/match/middlesbrough-fc/milton-keynes-dons/20165898,2016,6,championship,63,54,1,0,2,0,,2016
+Preston North End,Derby County,1-2,https://www.besoccer.com/match/preston-north-end/derby-county-fc/20165899,2016,6,championship,57,59,2,0,2,0,,2016
+Fulham,Blackburn Rovers,2-1,https://www.besoccer.com/match/fulham/blackburn-rovers-fc/20165896,2016,6,championship,62,63,1,0,4,0,,2016
+Birmingham City,Nottingham Forest,0-1,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/20165902,2016,7,championship,60,56,4,0,2,0,,2016
+Brighton & Hove Albion,Rotherham United,2-1,https://www.besoccer.com/match/brighton-amp-hov/rotherham-united/20165903,2016,7,championship,57,43,1,0,1,0,,2016
+Burnley,Milton Keynes Dons,2-1,https://www.besoccer.com/match/burnley-fc/milton-keynes-dons/20165904,2016,7,championship,59,54,0,0,3,0,,2016
+Cardiff City,Hull City,0-2,https://www.besoccer.com/match/cardiff-city-fc/hull-city/20165905,2016,7,championship,59,62,4,0,3,0,,2016
+Charlton Athletic,Huddersfield Town,1-2,https://www.besoccer.com/match/charlton-athletic-fc/huddersfield-town-fc/20165906,2016,7,championship,55,51,1,0,4,0,,2016
+Leeds United,Ipswich Town,0-1,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/20165908,2016,7,championship,56,58,3,0,1,0,,2016
+Middlesbrough,Brentford,3-1,https://www.besoccer.com/match/middlesbrough-fc/brentford/20165909,2016,7,championship,63,49,3,0,3,0,,2016
+Preston North End,Bristol City,1-1,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/20165910,2016,7,championship,57,51,0,0,0,0,,2016
+Bolton Wanderers,Sheffield Wednesday,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-wednesday-fc/20165912,2016,7,championship,60,55,2,0,4,0,,2016
+Reading,Derby County,0-1,https://www.besoccer.com/match/reading-fc/derby-county-fc/20165913,2016,7,championship,60,59,2,1,2,1,,2016
+Queens Park Rangers,Blackburn Rovers,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/20165911,2016,7,championship,58,63,2,0,2,0,,2016
+Fulham,Wolves,0-3,https://www.besoccer.com/match/fulham/wolverhampton/20165907,2016,7,championship,62,57,0,1,0,1,,2016
+Ipswich Town,Birmingham City,1-1,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/20165920,2016,8,championship,58,60,2,0,2,0,,2016
+Nottingham Forest,Middlesbrough,1-2,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/20165922,2016,8,championship,56,63,2,0,6,0,,2016
+Blackburn Rovers,Charlton Athletic,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/charlton-athletic-fc/20165914,2016,8,championship,63,55,1,0,0,0,,2016
+Brentford,Preston North End,2-1,https://www.besoccer.com/match/brentford/preston-north-end/20165915,2016,8,championship,49,57,3,0,4,0,,2016
+Bristol City,Reading,0-2,https://www.besoccer.com/match/bristol-city-fc/reading-fc/20165916,2016,8,championship,51,60,2,0,1,0,,2016
+Huddersfield Town,Bolton Wanderers,4-1,https://www.besoccer.com/match/huddersfield-town-fc/bolton-wanderers-fc/20165918,2016,8,championship,51,60,0,0,3,0,,2016
+Hull City,Queens Park Rangers,1-1,https://www.besoccer.com/match/hull-city/queens-park-rangers-fc/20165919,2016,8,championship,62,58,0,0,0,0,,2016
+Milton Keynes Dons,Leeds United,1-2,https://www.besoccer.com/match/milton-keynes-dons/leeds-united-afc/20165921,2016,8,championship,53,55,1,1,2,1,,2016
+Rotherham United,Cardiff City,2-1,https://www.besoccer.com/match/rotherham-united/cardiff-city-fc/20165923,2016,8,championship,43,59,2,0,2,0,,2016
+Sheffield Wednesday,Fulham,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/fulham/20165924,2016,8,championship,55,62,1,0,2,0,,2016
+Wolves,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/wolverhampton/brighton-amp-hov/20165925,2016,8,championship,57,57,1,1,2,1,,2016
+Derby County,Burnley,0-0,https://www.besoccer.com/match/derby-county-fc/burnley-fc/20165917,2016,8,championship,60,60,0,0,0,0,,2016
+Huddersfield Town,Nottingham Forest,1-1,https://www.besoccer.com/match/huddersfield-town-fc/nottingham-forest-fc/20165932,2016,9,championship,51,56,1,0,1,0,,2016
+Fulham,Queens Park Rangers,4-0,https://www.besoccer.com/match/fulham/queens-park-rangers-fc/20165931,2016,9,championship,62,58,0,0,1,0,,2016
+Milton Keynes Dons,Derby County,1-3,https://www.besoccer.com/match/milton-keynes-dons/derby-county-fc/20165936,2016,9,championship,53,59,1,0,3,0,,2016
+Birmingham City,Rotherham United,0-2,https://www.besoccer.com/match/birmingham-city-fc/rotherham-united/20165926,2016,9,championship,60,43,0,0,0,0,,2016
+Bolton Wanderers,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/brighton-amp-hov/20165927,2016,9,championship,60,57,1,0,2,0,,2016
+Brentford,Sheffield Wednesday,1-2,https://www.besoccer.com/match/brentford/sheffield-wednesday-fc/20165928,2016,9,championship,50,56,2,1,2,1,,2016
+Burnley,Reading,1-2,https://www.besoccer.com/match/burnley-fc/reading-fc/20165929,2016,9,championship,60,60,1,0,2,0,,2016
+Cardiff City,Charlton Athletic,2-1,https://www.besoccer.com/match/cardiff-city-fc/charlton-athletic-fc/20165930,2016,9,championship,59,55,1,0,1,0,,2016
+Hull City,Blackburn Rovers,1-1,https://www.besoccer.com/match/hull-city/blackburn-rovers-fc/20165933,2016,9,championship,62,63,2,0,3,0,,2016
+Ipswich Town,Bristol City,2-2,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/20165934,2016,9,championship,58,51,0,0,3,0,,2016
+Preston North End,Wolves,1-1,https://www.besoccer.com/match/preston-north-end/wolverhampton/20165937,2016,9,championship,57,57,4,1,2,1,,2016
+Middlesbrough,Leeds United,3-0,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/20165935,2016,9,championship,63,56,3,0,0,0,,2016
+Rotherham United,Burnley,1-2,https://www.besoccer.com/match/rotherham-united/burnley-fc/20165947,2016,10,championship,44,59,3,0,1,0,,2016
+Wolves,Huddersfield Town,3-0,https://www.besoccer.com/match/wolverhampton/huddersfield-town-fc/20165949,2016,10,championship,57,51,3,0,2,0,,2016
+Blackburn Rovers,Ipswich Town,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/20165938,2016,10,championship,63,58,2,0,3,0,,2016
+Brighton & Hove Albion,Cardiff City,1-1,https://www.besoccer.com/match/brighton-amp-hov/cardiff-city-fc/20165939,2016,10,championship,57,59,0,0,4,0,,2016
+Bristol City,Milton Keynes Dons,1-1,https://www.besoccer.com/match/bristol-city-fc/milton-keynes-dons/20165940,2016,10,championship,51,53,3,0,5,0,,2016
+Derby County,Brentford,2-0,https://www.besoccer.com/match/derby-county-fc/brentford/20165942,2016,10,championship,60,49,3,0,3,0,,2016
+Leeds United,Birmingham City,0-2,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/20165943,2016,10,championship,55,60,3,0,1,0,,2016
+Nottingham Forest,Hull City,0-1,https://www.besoccer.com/match/nottingham-forest-fc/hull-city/20165944,2016,10,championship,56,62,3,1,3,1,,2016
+Queens Park Rangers,Bolton Wanderers,4-3,https://www.besoccer.com/match/queens-park-rangers-fc/bolton-wanderers-fc/20165945,2016,10,championship,58,60,3,0,0,0,,2016
+Reading,Middlesbrough,2-0,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/20165946,2016,10,championship,60,64,1,0,2,0,,2016
+Sheffield Wednesday,Preston North End,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/20165948,2016,10,championship,56,57,0,0,1,0,,2016
+Charlton Athletic,Fulham,2-2,https://www.besoccer.com/match/charlton-athletic-fc/fulham/20165941,2016,10,championship,55,62,1,0,1,0,,2016
+Bristol City,Nottingham Forest,2-0,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/20165952,2016,11,championship,51,56,1,0,2,0,,2016
+Sheffield Wednesday,Hull City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/hull-city/20165961,2016,11,championship,56,62,2,0,2,0,,2016
+Birmingham City,Queens Park Rangers,2-1,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/20165950,2016,11,championship,60,58,1,0,2,0,,2016
+Brentford,Rotherham United,2-1,https://www.besoccer.com/match/brentford/rotherham-united/20165951,2016,11,championship,49,44,2,0,2,0,,2016
+Burnley,Bolton Wanderers,2-0,https://www.besoccer.com/match/burnley-fc/bolton-wanderers-fc/20165953,2016,11,championship,59,60,2,0,3,0,,2016
+Ipswich Town,Huddersfield Town,0-0,https://www.besoccer.com/match/ipswich-town-fc/huddersfield-town-fc/20165955,2016,11,championship,58,51,3,0,1,0,,2016
+Leeds United,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/leeds-united-afc/brighton-amp-hov/20165956,2016,11,championship,55,57,0,0,2,0,,2016
+Middlesbrough,Fulham,0-0,https://www.besoccer.com/match/middlesbrough-fc/fulham/20165957,2016,11,championship,63,62,3,0,3,0,,2016
+Milton Keynes Dons,Blackburn Rovers,3-0,https://www.besoccer.com/match/milton-keynes-dons/blackburn-rovers-fc/20165958,2016,11,championship,53,63,2,0,2,0,,2016
+Preston North End,Cardiff City,0-0,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/20165959,2016,11,championship,57,59,0,0,1,0,,2016
+Reading,Charlton Athletic,1-0,https://www.besoccer.com/match/reading-fc/charlton-athletic-fc/20165960,2016,11,championship,60,55,0,0,3,0,,2016
+Derby County,Wolves,4-2,https://www.besoccer.com/match/derby-county-fc/wolverhampton/20165954,2016,11,championship,60,57,1,0,2,0,,2016
+Brighton & Hove Albion,Bristol City,2-1,https://www.besoccer.com/match/brighton-amp-hov/bristol-city-fc/20165963,2016,12,championship,57,51,3,0,3,0,,2016
+Cardiff City,Middlesbrough,1-0,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/20165964,2016,12,championship,59,63,2,0,2,0,,2016
+Charlton Athletic,Preston North End,0-3,https://www.besoccer.com/match/charlton-athletic-fc/preston-north-end/20165965,2016,12,championship,55,57,2,0,3,0,,2016
+Huddersfield Town,Milton Keynes Dons,2-0,https://www.besoccer.com/match/huddersfield-town-fc/milton-keynes-dons/20165967,2016,12,championship,51,53,4,0,2,0,,2016
+Hull City,Ipswich Town,3-0,https://www.besoccer.com/match/hull-city/ipswich-town-fc/20165968,2016,12,championship,62,58,2,0,1,0,,2016
+Nottingham Forest,Burnley,1-1,https://www.besoccer.com/match/nottingham-forest-fc/burnley-fc/20165969,2016,12,championship,56,60,3,1,2,1,,2016
+Queens Park Rangers,Sheffield Wednesday,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/20165970,2016,12,championship,58,56,1,0,0,0,,2016
+Rotherham United,Reading,1-1,https://www.besoccer.com/match/rotherham-united/reading-fc/20165971,2016,12,championship,43,60,2,0,1,0,,2016
+Bolton Wanderers,Birmingham City,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/20165973,2016,12,championship,60,60,4,0,3,0,,2016
+Blackburn Rovers,Derby County,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/20165962,2016,12,championship,63,60,4,0,2,0,,2016
+Fulham,Leeds United,1-1,https://www.besoccer.com/match/fulham/leeds-united-afc/20165966,2016,12,championship,62,55,4,0,1,0,,2016
+Wolves,Brentford,0-2,https://www.besoccer.com/match/wolverhampton/brentford/20165972,2016,12,championship,57,49,1,0,2,0,,2016
+Rotherham United,Sheffield Wednesday,1-2,https://www.besoccer.com/match/rotherham-united/sheffield-wednesday-fc/20165984,2016,13,championship,43,56,2,0,4,0,,2016
+Blackburn Rovers,Burnley,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/burnley-fc/20165974,2016,13,championship,63,60,0,0,0,0,,2016
+Fulham,Reading,4-2,https://www.besoccer.com/match/fulham/reading-fc/20165979,2016,13,championship,62,60,2,0,3,0,,2016
+Bolton Wanderers,Leeds United,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/leeds-united-afc/20165975,2016,13,championship,60,55,0,1,1,1,,2016
+Brighton & Hove Albion,Preston North End,0-0,https://www.besoccer.com/match/brighton-amp-hov/preston-north-end/20165976,2016,13,championship,57,57,1,0,3,0,,2016
+Charlton Athletic,Brentford,0-3,https://www.besoccer.com/match/charlton-athletic-fc/brentford/20165978,2016,13,championship,54,50,1,0,0,0,,2016
+Huddersfield Town,Derby County,1-2,https://www.besoccer.com/match/huddersfield-town-fc/derby-county-fc/20165980,2016,13,championship,51,60,2,0,0,0,,2016
+Hull City,Birmingham City,2-0,https://www.besoccer.com/match/hull-city/birmingham-city-fc/20165981,2016,13,championship,62,60,2,0,2,0,,2016
+Nottingham Forest,Ipswich Town,1-1,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/20165982,2016,13,championship,56,58,0,0,4,0,,2016
+Queens Park Rangers,Milton Keynes Dons,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/milton-keynes-dons/20165983,2016,13,championship,58,53,1,0,1,0,,2016
+Wolves,Middlesbrough,1-3,https://www.besoccer.com/match/wolverhampton/middlesbrough-fc/20165985,2016,13,championship,57,63,2,0,5,0,,2016
+Cardiff City,Bristol City,0-0,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/20165977,2016,13,championship,59,51,1,0,0,0,,2016
+Leeds United,Blackburn Rovers,0-2,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/20165992,2016,14,championship,55,62,1,0,2,0,,2016
+Brentford,Queens Park Rangers,1-0,https://www.besoccer.com/match/brentford/queens-park-rangers-fc/20165987,2016,14,championship,50,58,2,0,3,0,,2016
+Birmingham City,Wolves,0-2,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/20165986,2016,14,championship,60,57,0,0,1,0,,2016
+Bristol City,Fulham,1-4,https://www.besoccer.com/match/bristol-city-fc/fulham/20165988,2016,14,championship,51,62,2,0,1,0,,2016
+Burnley,Huddersfield Town,2-1,https://www.besoccer.com/match/burnley-fc/huddersfield-town-fc/20165989,2016,14,championship,60,51,1,0,2,0,,2016
+Derby County,Rotherham United,3-0,https://www.besoccer.com/match/derby-county-fc/rotherham-united/20165990,2016,14,championship,60,43,1,0,2,0,,2016
+Ipswich Town,Cardiff City,0-0,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/20165991,2016,14,championship,58,59,3,0,5,0,,2016
+Middlesbrough,Charlton Athletic,3-0,https://www.besoccer.com/match/middlesbrough-fc/charlton-athletic-fc/20165993,2016,14,championship,64,54,1,0,5,0,,2016
+Milton Keynes Dons,Hull City,0-2,https://www.besoccer.com/match/milton-keynes-dons/hull-city/20165994,2016,14,championship,53,63,3,0,2,0,,2016
+Reading,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/reading-fc/brighton-amp-hov/20165996,2016,14,championship,60,57,0,0,0,0,,2016
+Sheffield Wednesday,Nottingham Forest,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/20165997,2016,14,championship,57,56,3,0,4,0,,2016
+Preston North End,Bolton Wanderers,0-0,https://www.besoccer.com/match/preston-north-end/bolton-wanderers-fc/20165995,2016,14,championship,57,60,1,0,1,0,,2016
+Birmingham City,Blackburn Rovers,0-0,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/20165998,2016,15,championship,60,63,2,0,2,0,,2016
+Brentford,Hull City,0-2,https://www.besoccer.com/match/brentford/hull-city/20165999,2016,15,championship,50,63,0,0,2,0,,2016
+Bristol City,Wolves,1-0,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/20166000,2016,15,championship,51,57,1,0,0,0,,2016
+Burnley,Fulham,3-1,https://www.besoccer.com/match/burnley-fc/fulham/20166001,2016,15,championship,60,62,0,0,0,0,,2016
+Derby County,Queens Park Rangers,1-0,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/20166002,2016,15,championship,60,58,4,0,4,0,,2016
+Ipswich Town,Bolton Wanderers,2-0,https://www.besoccer.com/match/ipswich-town-fc/bolton-wanderers-fc/20166003,2016,15,championship,58,60,2,0,2,0,,2016
+Leeds United,Cardiff City,1-0,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/20166004,2016,15,championship,55,59,1,0,1,0,,2016
+Middlesbrough,Rotherham United,1-0,https://www.besoccer.com/match/middlesbrough-fc/rotherham-united/20166005,2016,15,championship,64,43,0,0,1,0,,2016
+Milton Keynes Dons,Charlton Athletic,1-0,https://www.besoccer.com/match/milton-keynes-dons/charlton-athletic-fc/20166006,2016,15,championship,53,54,2,0,5,0,,2016
+Preston North End,Nottingham Forest,1-0,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/20166007,2016,15,championship,57,56,2,0,1,0,,2016
+Sheffield Wednesday,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/brighton-amp-hov/20166008,2016,15,championship,58,57,0,0,0,0,,2016
+Reading,Huddersfield Town,2-2,https://www.besoccer.com/match/reading-fc/huddersfield-town-fc/20166009,2016,15,championship,60,51,1,0,3,0,,2016
+Nottingham Forest,Derby County,1-0,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/20166018,2016,16,championship,56,60,3,0,1,0,,2016
+Huddersfield Town,Leeds United,0-3,https://www.besoccer.com/match/huddersfield-town-fc/leeds-united-afc/20166016,2016,16,championship,51,55,1,0,2,0,,2016
+Blackburn Rovers,Brentford,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/brentford/20166010,2016,16,championship,63,50,1,0,3,0,,2016
+Bolton Wanderers,Bristol City,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/bristol-city-fc/20166011,2016,16,championship,59,51,3,0,2,0,,2016
+Brighton & Hove Albion,Milton Keynes Dons,2-1,https://www.besoccer.com/match/brighton-amp-hov/milton-keynes-dons/20166012,2016,16,championship,57,53,2,0,2,0,,2016
+Cardiff City,Reading,2-0,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/20166013,2016,16,championship,59,60,3,0,1,0,,2016
+Charlton Athletic,Sheffield Wednesday,3-1,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-wednesday-fc/20166014,2016,16,championship,54,58,2,0,3,0,,2016
+Fulham,Birmingham City,2-5,https://www.besoccer.com/match/fulham/birmingham-city-fc/20166015,2016,16,championship,62,60,3,0,0,0,,2016
+Hull City,Middlesbrough,3-0,https://www.besoccer.com/match/hull-city/middlesbrough-fc/20166017,2016,16,championship,63,64,1,0,0,0,,2016
+Queens Park Rangers,Preston North End,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/20166019,2016,16,championship,58,57,2,0,0,0,,2016
+Rotherham United,Ipswich Town,2-5,https://www.besoccer.com/match/rotherham-united/ipswich-town-fc/20166020,2016,16,championship,43,58,1,0,0,0,,2016
+Wolves,Burnley,0-0,https://www.besoccer.com/match/wolverhampton/burnley-fc/20166021,2016,16,championship,57,60,2,0,2,0,,2016
+Middlesbrough,Queens Park Rangers,1-0,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/20166029,2016,17,championship,64,58,1,0,3,0,,2016
+Bristol City,Hull City,1-1,https://www.besoccer.com/match/bristol-city-fc/hull-city/20166024,2016,17,championship,51,63,1,0,4,0,,2016
+Birmingham City,Charlton Athletic,0-1,https://www.besoccer.com/match/birmingham-city-fc/charlton-athletic-fc/20166022,2016,17,championship,60,54,0,0,0,0,,2016
+Brentford,Nottingham Forest,2-1,https://www.besoccer.com/match/brentford/nottingham-forest-fc/20166023,2016,17,championship,50,56,1,1,0,1,,2016
+Derby County,Cardiff City,2-0,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/20166026,2016,17,championship,60,59,1,0,2,0,,2016
+Ipswich Town,Wolves,2-2,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/20166027,2016,17,championship,58,57,1,0,2,0,,2016
+Leeds United,Rotherham United,0-1,https://www.besoccer.com/match/leeds-united-afc/rotherham-united/20166028,2016,17,championship,55,43,3,1,4,1,,2016
+Milton Keynes Dons,Fulham,1-1,https://www.besoccer.com/match/milton-keynes-dons/fulham/20166030,2016,17,championship,53,62,0,0,2,0,,2016
+Preston North End,Blackburn Rovers,1-2,https://www.besoccer.com/match/preston-north-end/blackburn-rovers-fc/20166031,2016,17,championship,57,62,3,1,2,1,,2016
+Reading,Bolton Wanderers,2-1,https://www.besoccer.com/match/reading-fc/bolton-wanderers-fc/20166032,2016,17,championship,60,59,1,0,1,0,,2016
+Sheffield Wednesday,Huddersfield Town,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/huddersfield-town-fc/20166033,2016,17,championship,57,51,2,0,3,0,,2016
+Burnley,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/burnley-fc/brighton-amp-hov/20166025,2016,17,championship,60,57,1,0,3,0,,2016
+Hull City,Derby County,0-2,https://www.besoccer.com/match/hull-city/derby-county-fc/20166041,2016,18,championship,63,60,0,0,0,0,,2016
+Charlton Athletic,Ipswich Town,0-3,https://www.besoccer.com/match/charlton-athletic-fc/ipswich-town-fc/20166038,2016,18,championship,54,58,2,0,0,0,,2016
+Blackburn Rovers,Sheffield Wednesday,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/20166034,2016,18,championship,63,58,1,0,2,0,,2016
+Brighton & Hove Albion,Birmingham City,2-1,https://www.besoccer.com/match/brighton-amp-hov/birmingham-city-fc/20166036,2016,18,championship,57,60,4,0,4,0,,2016
+Cardiff City,Burnley,2-2,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/20166037,2016,18,championship,59,60,1,0,0,0,,2016
+Fulham,Preston North End,1-1,https://www.besoccer.com/match/fulham/preston-north-end/20166039,2016,18,championship,62,57,2,0,2,0,,2016
+Huddersfield Town,Middlesbrough,0-2,https://www.besoccer.com/match/huddersfield-town-fc/middlesbrough-fc/20166040,2016,18,championship,51,64,3,0,1,0,,2016
+Nottingham Forest,Reading,3-1,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/20166042,2016,18,championship,56,60,2,0,3,0,,2016
+Queens Park Rangers,Leeds United,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/20166043,2016,18,championship,58,55,0,0,3,0,,2016
+Rotherham United,Bristol City,3-0,https://www.besoccer.com/match/rotherham-united/bristol-city-fc/20166044,2016,18,championship,43,51,1,0,4,0,,2016
+Wolves,Milton Keynes Dons,0-0,https://www.besoccer.com/match/wolverhampton/milton-keynes-dons/20166045,2016,18,championship,57,53,0,0,5,0,,2016
+Bolton Wanderers,Brentford,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/brentford/20166035,2016,18,championship,59,50,3,0,2,0,,2016
+Reading,Queens Park Rangers,0-1,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/20166055,2016,19,championship,60,58,1,0,2,0,,2016
+Ipswich Town,Middlesbrough,0-2,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/20166052,2016,19,championship,58,64,1,0,2,0,,2016
+Birmingham City,Huddersfield Town,0-2,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/20166046,2016,19,championship,60,50,1,0,2,0,,2016
+Bolton Wanderers,Cardiff City,2-3,https://www.besoccer.com/match/bolton-wanderers-fc/cardiff-city-fc/20166047,2016,19,championship,59,59,2,0,2,0,,2016
+Brentford,Milton Keynes Dons,2-0,https://www.besoccer.com/match/brentford/milton-keynes-dons/20166048,2016,19,championship,50,53,1,0,1,0,,2016
+Brighton & Hove Albion,Charlton Athletic,3-2,https://www.besoccer.com/match/brighton-amp-hov/charlton-athletic-fc/20166049,2016,19,championship,57,54,3,0,4,0,,2016
+Bristol City,Blackburn Rovers,0-2,https://www.besoccer.com/match/bristol-city-fc/blackburn-rovers-fc/20166050,2016,19,championship,51,63,1,0,1,0,,2016
+Burnley,Preston North End,0-2,https://www.besoccer.com/match/burnley-fc/preston-north-end/20166051,2016,19,championship,60,57,2,0,2,0,,2016
+Leeds United,Hull City,2-1,https://www.besoccer.com/match/leeds-united-afc/hull-city/20166053,2016,19,championship,55,63,3,0,0,0,,2016
+Nottingham Forest,Fulham,3-0,https://www.besoccer.com/match/nottingham-forest-fc/fulham/20166054,2016,19,championship,56,62,0,0,0,0,,2016
+Rotherham United,Wolves,1-2,https://www.besoccer.com/match/rotherham-united/wolverhampton/20166056,2016,19,championship,44,57,0,0,1,0,,2016
+Sheffield Wednesday,Derby County,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/20166057,2016,19,championship,58,61,4,0,2,0,,2016
+Blackburn Rovers,Rotherham United,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/rotherham-united/20166058,2016,20,championship,63,43,0,0,1,0,,2016
+Wolves,Nottingham Forest,1-1,https://www.besoccer.com/match/wolverhampton/nottingham-forest-fc/20166069,2016,20,championship,57,56,2,0,4,0,,2016
+Milton Keynes Dons,Ipswich Town,0-1,https://www.besoccer.com/match/milton-keynes-dons/ipswich-town-fc/20166066,2016,20,championship,52,58,0,0,3,0,,2016
+Cardiff City,Sheffield Wednesday,2-2,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/20166059,2016,20,championship,59,58,3,0,1,0,,2016
+Charlton Athletic,Leeds United,0-0,https://www.besoccer.com/match/charlton-athletic-fc/leeds-united-afc/20166060,2016,20,championship,54,55,3,0,5,0,,2016
+Derby County,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/derby-county-fc/brighton-amp-hov/20166061,2016,20,championship,61,58,1,0,1,0,,2016
+Fulham,Brentford,2-2,https://www.besoccer.com/match/fulham/brentford/20166062,2016,20,championship,62,50,2,0,2,0,,2016
+Huddersfield Town,Bristol City,1-2,https://www.besoccer.com/match/huddersfield-town-fc/bristol-city-fc/20166063,2016,20,championship,51,51,1,0,2,0,,2016
+Hull City,Bolton Wanderers,1-0,https://www.besoccer.com/match/hull-city/bolton-wanderers-fc/20166064,2016,20,championship,63,59,2,0,2,0,,2016
+Middlesbrough,Birmingham City,0-0,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/20166065,2016,20,championship,64,60,2,1,2,1,,2016
+Preston North End,Reading,1-0,https://www.besoccer.com/match/preston-north-end/reading-fc/20166067,2016,20,championship,57,60,0,0,3,0,,2016
+Queens Park Rangers,Burnley,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/burnley-fc/20166068,2016,20,championship,58,60,0,0,0,0,,2016
+Blackburn Rovers,Nottingham Forest,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/20166070,2016,21,championship,63,56,3,0,2,0,,2016
+Cardiff City,Brentford,3-2,https://www.besoccer.com/match/cardiff-city-fc/brentford/20166071,2016,21,championship,59,51,1,0,1,0,,2016
+Charlton Athletic,Bolton Wanderers,2-2,https://www.besoccer.com/match/charlton-athletic-fc/bolton-wanderers-fc/20166072,2016,21,championship,54,59,3,0,1,0,,2016
+Derby County,Bristol City,4-0,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/20166073,2016,21,championship,60,51,1,0,1,0,,2016
+Fulham,Ipswich Town,1-2,https://www.besoccer.com/match/fulham/ipswich-town-fc/20166074,2016,21,championship,61,58,0,0,0,0,,2016
+Huddersfield Town,Rotherham United,2-0,https://www.besoccer.com/match/huddersfield-town-fc/rotherham-united/20166075,2016,21,championship,51,43,1,0,1,0,,2016
+Middlesbrough,Burnley,1-0,https://www.besoccer.com/match/middlesbrough-fc/burnley-fc/20166077,2016,21,championship,64,60,0,0,2,0,,2016
+Milton Keynes Dons,Sheffield Wednesday,2-1,https://www.besoccer.com/match/milton-keynes-dons/sheffield-wednesday-fc/20166078,2016,21,championship,52,58,0,0,2,0,,2016
+Preston North End,Birmingham City,1-1,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/20166079,2016,21,championship,57,60,2,0,3,0,,2016
+Queens Park Rangers,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/brighton-amp-hov/20166080,2016,21,championship,58,58,3,0,1,0,,2016
+Hull City,Reading,2-1,https://www.besoccer.com/match/hull-city/reading-fc/20166076,2016,21,championship,63,59,1,0,1,0,,2016
+Wolves,Leeds United,2-3,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/20166081,2016,21,championship,57,55,0,0,1,0,,2016
+Birmingham City,Cardiff City,1-0,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/20166082,2016,22,championship,60,59,3,0,1,0,,2016
+Brighton & Hove Albion,Middlesbrough,0-3,https://www.besoccer.com/match/brighton-amp-hov/middlesbrough-fc/20166085,2016,22,championship,58,64,0,0,1,0,,2016
+Bolton Wanderers,Fulham,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/fulham/20166083,2016,22,championship,59,61,0,0,1,0,,2016
+Brentford,Huddersfield Town,4-2,https://www.besoccer.com/match/brentford/huddersfield-town-fc/20166084,2016,22,championship,50,51,1,0,2,0,,2016
+Bristol City,Queens Park Rangers,1-1,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/20166086,2016,22,championship,51,58,0,0,0,0,,2016
+Burnley,Charlton Athletic,4-0,https://www.besoccer.com/match/burnley-fc/charlton-athletic-fc/20166087,2016,22,championship,60,54,0,0,0,0,,2016
+Ipswich Town,Derby County,0-1,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/20166088,2016,22,championship,58,61,2,0,2,0,,2016
+Nottingham Forest,Milton Keynes Dons,2-1,https://www.besoccer.com/match/nottingham-forest-fc/milton-keynes-dons/20166090,2016,22,championship,56,52,1,0,1,0,,2016
+Rotherham United,Hull City,2-0,https://www.besoccer.com/match/rotherham-united/hull-city/20166092,2016,22,championship,43,63,2,0,1,0,,2016
+Sheffield Wednesday,Wolves,4-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/20166093,2016,22,championship,58,57,0,0,2,0,,2016
+Leeds United,Preston North End,1-0,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/20166089,2016,22,championship,55,57,1,0,5,0,,2016
+Reading,Blackburn Rovers,1-0,https://www.besoccer.com/match/reading-fc/blackburn-rovers-fc/20166091,2016,22,championship,59,63,1,0,4,0,,2016
+Brentford,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/brentford/brighton-amp-hov/20166095,2016,23,championship,51,57,1,0,3,0,,2016
+Bristol City,Charlton Athletic,1-1,https://www.besoccer.com/match/bristol-city-fc/charlton-athletic-fc/20166096,2016,23,championship,51,54,2,0,1,0,,2016
+Derby County,Fulham,2-0,https://www.besoccer.com/match/derby-county-fc/fulham/20166097,2016,23,championship,61,61,1,0,1,0,,2016
+Huddersfield Town,Preston North End,3-1,https://www.besoccer.com/match/huddersfield-town-fc/preston-north-end/20166098,2016,23,championship,51,57,4,0,3,0,,2016
+Hull City,Burnley,3-0,https://www.besoccer.com/match/hull-city/burnley-fc/20166099,2016,23,championship,63,60,0,0,0,0,,2016
+Ipswich Town,Queens Park Rangers,2-1,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/20166100,2016,23,championship,58,58,1,0,2,0,,2016
+Milton Keynes Dons,Cardiff City,2-1,https://www.besoccer.com/match/milton-keynes-dons/cardiff-city-fc/20166101,2016,23,championship,52,59,3,0,2,0,,2016
+Rotherham United,Bolton Wanderers,4-0,https://www.besoccer.com/match/rotherham-united/bolton-wanderers-fc/20166103,2016,23,championship,44,59,1,0,1,0,,2016
+Sheffield Wednesday,Birmingham City,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/20166104,2016,23,championship,58,60,0,0,2,0,,2016
+Wolves,Reading,1-0,https://www.besoccer.com/match/wolverhampton/reading-fc/20166105,2016,23,championship,56,59,2,0,1,0,,2016
+Nottingham Forest,Leeds United,1-1,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/20166102,2016,23,championship,56,55,3,0,2,0,,2016
+Blackburn Rovers,Middlesbrough,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/20166094,2016,23,championship,62,64,3,0,1,0,,2016
+Bolton Wanderers,Blackburn Rovers,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/blackburn-rovers-fc/20166107,2016,24,championship,59,63,4,0,3,0,,2016
+Birmingham City,Milton Keynes Dons,1-0,https://www.besoccer.com/match/birmingham-city-fc/milton-keynes-dons/20166106,2016,24,championship,59,53,1,0,4,0,,2016
+Burnley,Bristol City,4-0,https://www.besoccer.com/match/burnley-fc/bristol-city-fc/20166109,2016,24,championship,60,51,1,0,1,0,,2016
+Charlton Athletic,Wolves,0-2,https://www.besoccer.com/match/charlton-athletic-fc/wolverhampton/20166111,2016,24,championship,54,57,2,0,0,0,,2016
+Preston North End,Hull City,1-0,https://www.besoccer.com/match/preston-north-end/hull-city/20166115,2016,24,championship,57,63,0,0,4,0,,2016
+Queens Park Rangers,Huddersfield Town,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/huddersfield-town-fc/20166116,2016,24,championship,58,51,0,0,2,0,,2016
+Reading,Brentford,1-2,https://www.besoccer.com/match/reading-fc/brentford/20166117,2016,24,championship,59,51,2,1,4,1,,2016
+Middlesbrough,Sheffield Wednesday,1-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/20166114,2016,24,championship,64,58,1,0,4,0,,2016
+Brighton & Hove Albion,Ipswich Town,0-1,https://www.besoccer.com/match/brighton-amp-hov/ipswich-town-fc/20166108,2016,24,championship,57,58,1,0,1,0,,2016
+Cardiff City,Nottingham Forest,1-1,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/20166110,2016,24,championship,59,56,1,0,1,0,,2016
+Fulham,Rotherham United,4-1,https://www.besoccer.com/match/fulham/rotherham-united/20166112,2016,24,championship,61,44,0,0,0,0,,2016
+Leeds United,Derby County,2-2,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/20166113,2016,24,championship,56,61,3,0,2,0,,2016
+Brighton & Hove Albion,Wolves,0-1,https://www.besoccer.com/match/brighton-amp-hov/wolverhampton/20166120,2016,25,championship,57,57,1,0,1,0,,2016
+Queens Park Rangers,Hull City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/hull-city/20166128,2016,25,championship,58,63,2,0,1,0,,2016
+Birmingham City,Brentford,2-1,https://www.besoccer.com/match/birmingham-city-fc/brentford/20166118,2016,25,championship,60,51,4,0,2,0,,2016
+Bolton Wanderers,Huddersfield Town,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/huddersfield-town-fc/20166119,2016,25,championship,59,51,2,0,1,0,,2016
+Burnley,Ipswich Town,0-0,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/20166121,2016,25,championship,60,58,2,0,0,0,,2016
+Cardiff City,Blackburn Rovers,1-0,https://www.besoccer.com/match/cardiff-city-fc/blackburn-rovers-fc/20166122,2016,25,championship,59,62,1,0,2,0,,2016
+Charlton Athletic,Nottingham Forest,1-1,https://www.besoccer.com/match/charlton-athletic-fc/nottingham-forest-fc/20166123,2016,25,championship,53,56,1,1,1,1,,2016
+Fulham,Sheffield Wednesday,0-1,https://www.besoccer.com/match/fulham/sheffield-wednesday-fc/20166124,2016,25,championship,61,58,2,0,1,0,,2016
+Leeds United,Milton Keynes Dons,1-1,https://www.besoccer.com/match/leeds-united-afc/milton-keynes-dons/20166125,2016,25,championship,56,52,2,0,5,0,,2016
+Middlesbrough,Derby County,2-0,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/20166126,2016,25,championship,64,61,0,0,2,0,,2016
+Preston North End,Rotherham United,2-1,https://www.besoccer.com/match/preston-north-end/rotherham-united/20166127,2016,25,championship,57,44,0,0,1,0,,2016
+Reading,Bristol City,1-0,https://www.besoccer.com/match/reading-fc/bristol-city-fc/20166129,2016,25,championship,59,50,3,0,0,0,,2016
+Blackburn Rovers,Queens Park Rangers,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/20166130,2016,26,championship,62,58,0,0,0,0,,2016
+Brentford,Middlesbrough,0-1,https://www.besoccer.com/match/brentford/middlesbrough-fc/20166131,2016,26,championship,50,64,1,0,3,0,,2016
+Bristol City,Preston North End,1-2,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/20166132,2016,26,championship,51,57,2,0,0,0,,2016
+Derby County,Reading,1-1,https://www.besoccer.com/match/derby-county-fc/reading-fc/20166133,2016,26,championship,61,59,3,0,2,0,,2016
+Huddersfield Town,Charlton Athletic,5-0,https://www.besoccer.com/match/huddersfield-town-fc/charlton-athletic-fc/20166134,2016,26,championship,51,53,0,0,4,0,,2016
+Ipswich Town,Leeds United,2-1,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/20166136,2016,26,championship,58,56,2,0,1,0,,2016
+Milton Keynes Dons,Burnley,0-5,https://www.besoccer.com/match/milton-keynes-dons/burnley-fc/20166137,2016,26,championship,52,60,0,1,2,1,,2016
+Nottingham Forest,Birmingham City,1-1,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/20166138,2016,26,championship,57,59,4,1,2,1,,2016
+Rotherham United,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/rotherham-united/brighton-amp-hov/20166139,2016,26,championship,44,57,0,0,0,0,,2016
+Sheffield Wednesday,Bolton Wanderers,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/bolton-wanderers-fc/20166140,2016,26,championship,58,59,2,0,1,0,,2016
+Wolves,Fulham,3-2,https://www.besoccer.com/match/wolverhampton/fulham/20166141,2016,26,championship,57,61,0,0,3,0,,2016
+Hull City,Cardiff City,2-0,https://www.besoccer.com/match/hull-city/cardiff-city-fc/20166135,2016,26,championship,63,59,1,0,0,0,,2016
+Brentford,Burnley,1-3,https://www.besoccer.com/match/brentford/burnley-fc/20166143,2016,27,championship,50,60,0,0,0,0,,2016
+Sheffield Wednesday,Leeds United,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/20166152,2016,27,championship,58,56,2,0,2,0,,2016
+Blackburn Rovers,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/brighton-amp-hov/20166142,2016,27,championship,62,57,2,0,1,0,,2016
+Bristol City,Middlesbrough,1-0,https://www.besoccer.com/match/bristol-city-fc/middlesbrough-fc/20166144,2016,27,championship,51,64,2,0,2,0,,2016
+Derby County,Birmingham City,0-3,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/20166145,2016,27,championship,61,59,2,0,1,0,,2016
+Huddersfield Town,Fulham,1-1,https://www.besoccer.com/match/huddersfield-town-fc/fulham/20166146,2016,27,championship,52,61,2,0,1,0,,2016
+Hull City,Charlton Athletic,6-0,https://www.besoccer.com/match/hull-city/charlton-athletic-fc/20166147,2016,27,championship,63,53,0,0,2,0,,2016
+Ipswich Town,Preston North End,1-1,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/20166148,2016,27,championship,58,57,1,0,3,0,,2016
+Milton Keynes Dons,Reading,1-0,https://www.besoccer.com/match/milton-keynes-dons/reading-fc/20166149,2016,27,championship,52,59,2,0,3,0,,2016
+Nottingham Forest,Bolton Wanderers,3-0,https://www.besoccer.com/match/nottingham-forest-fc/bolton-wanderers-fc/20166150,2016,27,championship,57,58,0,0,1,0,,2016
+Rotherham United,Queens Park Rangers,0-3,https://www.besoccer.com/match/rotherham-united/queens-park-rangers-fc/20166151,2016,27,championship,44,58,1,0,0,0,,2016
+Wolves,Cardiff City,1-3,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/20166153,2016,27,championship,57,58,1,0,2,0,,2016
+Queens Park Rangers,Wolves,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/20166164,2016,28,championship,58,57,0,0,0,0,,2016
+Birmingham City,Ipswich Town,3-0,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/20166154,2016,28,championship,60,58,2,0,1,0,,2016
+Bolton Wanderers,Milton Keynes Dons,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/milton-keynes-dons/20166155,2016,28,championship,58,53,2,0,2,0,,2016
+Brighton & Hove Albion,Huddersfield Town,2-1,https://www.besoccer.com/match/brighton-amp-hov/huddersfield-town-fc/20166156,2016,28,championship,57,51,1,0,4,0,,2016
+Cardiff City,Rotherham United,2-2,https://www.besoccer.com/match/cardiff-city-fc/rotherham-united/20166158,2016,28,championship,59,44,2,1,0,1,,2016
+Charlton Athletic,Blackburn Rovers,1-1,https://www.besoccer.com/match/charlton-athletic-fc/blackburn-rovers-fc/20166159,2016,28,championship,53,62,0,0,1,0,,2016
+Fulham,Hull City,0-1,https://www.besoccer.com/match/fulham/hull-city/20166160,2016,28,championship,61,63,1,0,3,0,,2016
+Leeds United,Bristol City,1-0,https://www.besoccer.com/match/leeds-united-afc/bristol-city-fc/20166161,2016,28,championship,55,51,4,0,2,0,,2016
+Middlesbrough,Nottingham Forest,0-1,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/20166162,2016,28,championship,64,57,2,0,3,0,,2016
+Preston North End,Brentford,1-3,https://www.besoccer.com/match/preston-north-end/brentford/20166163,2016,28,championship,57,50,4,0,2,0,,2016
+Reading,Sheffield Wednesday,1-1,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/20166165,2016,28,championship,59,59,0,0,2,0,,2016
+Burnley,Derby County,4-1,https://www.besoccer.com/match/burnley-fc/derby-county-fc/20166157,2016,28,championship,61,61,0,0,2,0,,2016
+Nottingham Forest,Queens Park Rangers,0-0,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/20166174,2016,29,championship,57,58,1,0,2,0,,2016
+Brentford,Leeds United,1-1,https://www.besoccer.com/match/brentford/leeds-united-afc/20166167,2016,29,championship,50,56,1,0,4,0,,2016
+Bristol City,Birmingham City,0-0,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/20166168,2016,29,championship,51,60,3,0,1,0,,2016
+Huddersfield Town,Cardiff City,2-3,https://www.besoccer.com/match/huddersfield-town-fc/cardiff-city-fc/20166170,2016,29,championship,51,59,2,0,3,0,,2016
+Rotherham United,Charlton Athletic,1-4,https://www.besoccer.com/match/rotherham-united/charlton-athletic-fc/20166175,2016,29,championship,44,53,1,0,3,0,,2016
+Derby County,Preston North End,0-0,https://www.besoccer.com/match/derby-county-fc/preston-north-end/20166169,2016,29,championship,60,57,1,0,2,0,,2016
+Ipswich Town,Reading,2-1,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/20166172,2016,29,championship,58,60,1,0,2,0,,2016
+Sheffield Wednesday,Burnley,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/burnley-fc/20166176,2016,29,championship,58,61,1,0,2,0,,2016
+Wolves,Bolton Wanderers,2-2,https://www.besoccer.com/match/wolverhampton/bolton-wanderers-fc/20166177,2016,29,championship,57,58,0,0,0,0,,2016
+Milton Keynes Dons,Middlesbrough,1-1,https://www.besoccer.com/match/milton-keynes-dons/middlesbrough-fc/20166173,2016,29,championship,53,64,1,0,1,0,,2016
+Blackburn Rovers,Fulham,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/fulham/20166166,2016,29,championship,62,61,1,0,3,0,,2016
+Hull City,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/hull-city/brighton-amp-hov/20166171,2016,29,championship,64,57,1,0,0,0,,2016
+Brighton & Hove Albion,Brentford,3-0,https://www.besoccer.com/match/brighton-amp-hov/brentford/20166180,2016,30,championship,57,50,1,0,1,0,,2016
+Birmingham City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/20166178,2016,30,championship,60,58,2,0,3,0,,2016
+Bolton Wanderers,Rotherham United,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/rotherham-united/20166179,2016,30,championship,58,44,0,0,2,0,,2016
+Burnley,Hull City,1-0,https://www.besoccer.com/match/burnley-fc/hull-city/20166181,2016,30,championship,61,64,1,0,1,0,,2016
+Cardiff City,Milton Keynes Dons,0-0,https://www.besoccer.com/match/cardiff-city-fc/milton-keynes-dons/20166182,2016,30,championship,59,52,0,0,0,0,,2016
+Charlton Athletic,Bristol City,0-1,https://www.besoccer.com/match/charlton-athletic-fc/bristol-city-fc/20166183,2016,30,championship,53,51,3,0,3,0,,2016
+Fulham,Derby County,1-1,https://www.besoccer.com/match/fulham/derby-county-fc/20166184,2016,30,championship,61,60,2,0,1,0,,2016
+Leeds United,Nottingham Forest,0-1,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/20166185,2016,30,championship,56,57,1,0,0,0,,2016
+Middlesbrough,Blackburn Rovers,1-1,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/20166186,2016,30,championship,64,63,2,0,5,0,,2016
+Preston North End,Huddersfield Town,2-1,https://www.besoccer.com/match/preston-north-end/huddersfield-town-fc/20166187,2016,30,championship,57,51,0,0,2,0,,2016
+Queens Park Rangers,Ipswich Town,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/20166188,2016,30,championship,58,58,2,0,1,0,,2016
+Reading,Wolves,0-0,https://www.besoccer.com/match/reading-fc/wolverhampton/20166189,2016,30,championship,60,57,1,0,2,0,,2016
+Queens Park Rangers,Fulham,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/fulham/20166197,2016,31,championship,58,61,2,0,2,0,,2016
+Blackburn Rovers,Hull City,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/hull-city/20166190,2016,31,championship,63,64,0,0,0,0,,2016
+Brighton & Hove Albion,Bolton Wanderers,3-2,https://www.besoccer.com/match/brighton-amp-hov/bolton-wanderers-fc/20166191,2016,31,championship,57,58,2,0,1,0,,2016
+Bristol City,Ipswich Town,2-1,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/20166192,2016,31,championship,51,58,1,0,1,0,,2016
+Charlton Athletic,Cardiff City,0-0,https://www.besoccer.com/match/charlton-athletic-fc/cardiff-city-fc/20166193,2016,31,championship,53,59,2,0,1,0,,2016
+Derby County,Milton Keynes Dons,0-1,https://www.besoccer.com/match/derby-county-fc/milton-keynes-dons/20166194,2016,31,championship,60,53,2,0,2,0,,2016
+Nottingham Forest,Huddersfield Town,0-2,https://www.besoccer.com/match/nottingham-forest-fc/huddersfield-town-fc/20166196,2016,31,championship,57,51,2,0,2,0,,2016
+Reading,Burnley,0-0,https://www.besoccer.com/match/reading-fc/burnley-fc/20166198,2016,31,championship,60,61,2,0,1,0,,2016
+Rotherham United,Birmingham City,0-0,https://www.besoccer.com/match/rotherham-united/birmingham-city-fc/20166199,2016,31,championship,43,60,2,2,2,2,,2016
+Sheffield Wednesday,Brentford,4-0,https://www.besoccer.com/match/sheffield-wednesday-fc/brentford/20166200,2016,31,championship,58,50,0,0,0,0,,2016
+Wolves,Preston North End,1-2,https://www.besoccer.com/match/wolverhampton/preston-north-end/20166201,2016,31,championship,57,57,0,0,1,0,,2016
+Leeds United,Middlesbrough,0-0,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/20166195,2016,31,championship,56,64,2,0,2,0,,2016
+Cardiff City,Brighton & Hove Albion,4-1,https://www.besoccer.com/match/cardiff-city-fc/brighton-amp-hov/20166206,2016,32,championship,59,57,1,0,1,0,,2016
+Bolton Wanderers,Queens Park Rangers,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/queens-park-rangers-fc/20166203,2016,32,championship,58,58,0,0,2,0,,2016
+Brentford,Derby County,1-3,https://www.besoccer.com/match/brentford/derby-county-fc/20166204,2016,32,championship,50,60,1,0,0,0,,2016
+Burnley,Rotherham United,2-0,https://www.besoccer.com/match/burnley-fc/rotherham-united/20166205,2016,32,championship,61,44,2,0,2,0,,2016
+Fulham,Charlton Athletic,3-0,https://www.besoccer.com/match/fulham/charlton-athletic-fc/20166207,2016,32,championship,61,53,3,0,1,0,,2016
+Huddersfield Town,Wolves,1-0,https://www.besoccer.com/match/huddersfield-town-fc/wolverhampton/20166208,2016,32,championship,51,57,2,0,2,0,,2016
+Milton Keynes Dons,Bristol City,0-2,https://www.besoccer.com/match/milton-keynes-dons/bristol-city-fc/20166212,2016,32,championship,53,51,3,0,2,0,,2016
+Preston North End,Sheffield Wednesday,1-0,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/20166213,2016,32,championship,57,59,3,0,3,0,,2016
+Hull City,Nottingham Forest,1-1,https://www.besoccer.com/match/hull-city/nottingham-forest-fc/20166209,2016,32,championship,64,56,2,0,2,0,,2016
+Ipswich Town,Blackburn Rovers,2-0,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/20166210,2016,32,championship,58,62,2,0,1,0,,2016
+Birmingham City,Leeds United,1-2,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/20166202,2016,32,championship,59,56,1,0,2,0,,2016
+Middlesbrough,Reading,2-1,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/20166211,2016,32,championship,64,60,0,0,2,0,,2016
+Birmingham City,Bolton Wanderers,1-0,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/20166214,2016,33,championship,60,58,2,0,2,0,,2016
+Brentford,Wolves,3-0,https://www.besoccer.com/match/brentford/wolverhampton/20166215,2016,33,championship,50,57,1,0,1,0,,2016
+Bristol City,Brighton & Hove Albion,0-4,https://www.besoccer.com/match/bristol-city-fc/brighton-amp-hov/20166216,2016,33,championship,51,57,0,0,1,0,,2016
+Burnley,Nottingham Forest,1-0,https://www.besoccer.com/match/burnley-fc/nottingham-forest-fc/20166217,2016,33,championship,61,57,0,0,1,0,,2016
+Ipswich Town,Hull City,0-1,https://www.besoccer.com/match/ipswich-town-fc/hull-city/20166219,2016,33,championship,58,64,1,0,0,0,,2016
+Leeds United,Fulham,1-1,https://www.besoccer.com/match/leeds-united-afc/fulham/20166220,2016,33,championship,56,61,2,0,2,0,,2016
+Middlesbrough,Cardiff City,3-1,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/20166221,2016,33,championship,64,59,0,0,0,0,,2016
+Milton Keynes Dons,Huddersfield Town,1-1,https://www.besoccer.com/match/milton-keynes-dons/huddersfield-town-fc/20166222,2016,33,championship,53,52,1,0,2,0,,2016
+Preston North End,Charlton Athletic,2-1,https://www.besoccer.com/match/preston-north-end/charlton-athletic-fc/20166223,2016,33,championship,57,53,2,0,1,0,,2016
+Sheffield Wednesday,Queens Park Rangers,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/20166224,2016,33,championship,59,58,1,0,1,0,,2016
+Reading,Rotherham United,1-0,https://www.besoccer.com/match/reading-fc/rotherham-united/20166225,2016,33,championship,60,43,1,0,5,0,,2016
+Derby County,Blackburn Rovers,1-0,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/20166218,2016,33,championship,60,62,0,0,0,0,,2016
+Hull City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/hull-city/sheffield-wednesday-fc/20166233,2016,34,championship,64,59,0,0,2,0,,2016
+Wolves,Derby County,2-1,https://www.besoccer.com/match/wolverhampton/derby-county-fc/20166237,2016,34,championship,56,61,4,0,1,0,,2016
+Blackburn Rovers,Milton Keynes Dons,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/milton-keynes-dons/20166226,2016,34,championship,62,53,3,0,1,0,,2016
+Bolton Wanderers,Burnley,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/burnley-fc/20166227,2016,34,championship,58,61,0,0,1,0,,2016
+Cardiff City,Preston North End,2-1,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/20166229,2016,34,championship,59,57,2,0,2,0,,2016
+Charlton Athletic,Reading,3-4,https://www.besoccer.com/match/charlton-athletic-fc/reading-fc/20166230,2016,34,championship,52,60,1,0,1,0,,2016
+Fulham,Middlesbrough,0-2,https://www.besoccer.com/match/fulham/middlesbrough-fc/20166231,2016,34,championship,61,64,2,1,0,1,,2016
+Huddersfield Town,Ipswich Town,0-1,https://www.besoccer.com/match/huddersfield-town-fc/ipswich-town-fc/20166232,2016,34,championship,52,58,1,0,3,0,,2016
+Nottingham Forest,Bristol City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/20166234,2016,34,championship,57,51,1,0,0,0,,2016
+Queens Park Rangers,Birmingham City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/20166235,2016,34,championship,58,60,0,0,4,0,,2016
+Rotherham United,Brentford,2-1,https://www.besoccer.com/match/rotherham-united/brentford/20166236,2016,34,championship,43,50,1,0,2,0,,2016
+Brighton & Hove Albion,Leeds United,4-0,https://www.besoccer.com/match/brighton-amp-hov/leeds-united-afc/20166228,2016,34,championship,57,56,3,0,4,0,,2016
+Birmingham City,Hull City,1-0,https://www.besoccer.com/match/birmingham-city-fc/hull-city/20166238,2016,35,championship,60,64,0,0,0,0,,2016
+Middlesbrough,Wolves,2-1,https://www.besoccer.com/match/middlesbrough-fc/wolverhampton/20166245,2016,35,championship,64,56,1,0,2,0,,2016
+Bristol City,Cardiff City,0-2,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/20166240,2016,35,championship,51,59,2,0,1,0,,2016
+Burnley,Blackburn Rovers,1-0,https://www.besoccer.com/match/burnley-fc/blackburn-rovers-fc/20166241,2016,35,championship,61,62,2,0,4,0,,2016
+Brentford,Charlton Athletic,1-2,https://www.besoccer.com/match/brentford/charlton-athletic-fc/20166239,2016,35,championship,50,52,3,0,4,0,,2016
+Derby County,Huddersfield Town,2-0,https://www.besoccer.com/match/derby-county-fc/huddersfield-town-fc/20166242,2016,35,championship,60,51,1,0,2,0,,2016
+Ipswich Town,Nottingham Forest,1-0,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/20166243,2016,35,championship,58,57,1,0,4,0,,2016
+Leeds United,Bolton Wanderers,2-1,https://www.besoccer.com/match/leeds-united-afc/bolton-wanderers-fc/20166244,2016,35,championship,56,58,1,0,0,0,,2016
+Milton Keynes Dons,Queens Park Rangers,2-0,https://www.besoccer.com/match/milton-keynes-dons/queens-park-rangers-fc/20166246,2016,35,championship,52,58,3,0,1,0,,2016
+Preston North End,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/preston-north-end/brighton-amp-hov/20166247,2016,35,championship,57,58,1,0,1,0,,2016
+Reading,Fulham,2-2,https://www.besoccer.com/match/reading-fc/fulham/20166248,2016,35,championship,60,61,0,0,4,0,,2016
+Sheffield Wednesday,Rotherham United,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/rotherham-united/20166249,2016,35,championship,59,44,0,0,0,0,,2016
+Blackburn Rovers,Birmingham City,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/20166250,2016,36,championship,62,60,4,0,1,0,,2016
+Cardiff City,Leeds United,0-2,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/20166252,2016,36,championship,59,56,2,1,4,1,,2016
+Charlton Athletic,Milton Keynes Dons,0-0,https://www.besoccer.com/match/charlton-athletic-fc/milton-keynes-dons/20166253,2016,36,championship,52,53,0,1,3,1,,2016
+Fulham,Burnley,2-3,https://www.besoccer.com/match/fulham/burnley-fc/20166254,2016,36,championship,61,61,1,0,2,0,,2016
+Huddersfield Town,Reading,3-1,https://www.besoccer.com/match/huddersfield-town-fc/reading-fc/20166255,2016,36,championship,51,60,1,0,2,0,,2016
+Nottingham Forest,Preston North End,1-0,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/20166257,2016,36,championship,56,57,3,0,3,0,,2016
+Queens Park Rangers,Derby County,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/20166258,2016,36,championship,58,61,2,0,0,0,,2016
+Rotherham United,Middlesbrough,1-0,https://www.besoccer.com/match/rotherham-united/middlesbrough-fc/20166259,2016,36,championship,44,64,4,1,1,1,,2016
+Wolves,Bristol City,2-1,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/20166260,2016,36,championship,56,51,0,0,0,0,,2016
+Brighton & Hove Albion,Sheffield Wednesday,0-0,https://www.besoccer.com/match/brighton-amp-hov/sheffield-wednesday-fc/20166251,2016,36,championship,58,58,1,0,2,0,,2016
+Bolton Wanderers,Ipswich Town,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/ipswich-town-fc/20166261,2016,36,championship,58,58,2,0,0,0,,2016
+Hull City,Brentford,2-0,https://www.besoccer.com/match/hull-city/brentford/20166256,2016,36,championship,64,51,0,0,3,0,,2016
+Blackburn Rovers,Leeds United,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/20166262,2016,37,championship,62,56,1,0,4,0,,2016
+Bolton Wanderers,Preston North End,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/preston-north-end/20166263,2016,37,championship,58,57,1,0,2,0,,2016
+Cardiff City,Ipswich Town,1-0,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/20166265,2016,37,championship,59,58,0,0,0,0,,2016
+Fulham,Bristol City,1-2,https://www.besoccer.com/match/fulham/bristol-city-fc/20166267,2016,37,championship,60,51,2,0,1,0,,2016
+Huddersfield Town,Burnley,1-3,https://www.besoccer.com/match/huddersfield-town-fc/burnley-fc/20166268,2016,37,championship,52,62,0,0,0,0,,2016
+Hull City,Milton Keynes Dons,1-1,https://www.besoccer.com/match/hull-city/milton-keynes-dons/20166269,2016,37,championship,64,53,2,0,3,0,,2016
+Nottingham Forest,Sheffield Wednesday,0-3,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/20166270,2016,37,championship,57,58,0,0,0,0,,2016
+Queens Park Rangers,Brentford,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/brentford/20166271,2016,37,championship,58,50,4,0,2,0,,2016
+Rotherham United,Derby County,3-3,https://www.besoccer.com/match/rotherham-united/derby-county-fc/20166272,2016,37,championship,44,60,1,0,0,0,,2016
+Wolves,Birmingham City,0-0,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/20166273,2016,37,championship,57,60,1,0,2,0,,2016
+Charlton Athletic,Middlesbrough,2-0,https://www.besoccer.com/match/charlton-athletic-fc/middlesbrough-fc/20166266,2016,37,championship,52,64,4,0,2,0,,2016
+Brighton & Hove Albion,Reading,1-0,https://www.besoccer.com/match/brighton-amp-hov/reading-fc/20166264,2016,37,championship,58,60,1,0,1,0,,2016
+Middlesbrough,Hull City,1-0,https://www.besoccer.com/match/middlesbrough-fc/hull-city/20166281,2016,38,championship,64,64,2,0,1,0,,2016
+Derby County,Nottingham Forest,1-0,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/20166278,2016,38,championship,60,56,2,0,2,0,,2016
+Birmingham City,Fulham,1-1,https://www.besoccer.com/match/birmingham-city-fc/fulham/20166274,2016,38,championship,60,60,0,0,5,0,,2016
+Brentford,Blackburn Rovers,0-1,https://www.besoccer.com/match/brentford/blackburn-rovers-fc/20166275,2016,38,championship,50,62,1,0,6,0,,2016
+Bristol City,Bolton Wanderers,6-0,https://www.besoccer.com/match/bristol-city-fc/bolton-wanderers-fc/20166276,2016,38,championship,51,58,0,0,2,0,,2016
+Burnley,Wolves,1-1,https://www.besoccer.com/match/burnley-fc/wolverhampton/20166277,2016,38,championship,62,57,2,0,1,0,,2016
+Ipswich Town,Rotherham United,0-1,https://www.besoccer.com/match/ipswich-town-fc/rotherham-united/20166279,2016,38,championship,58,44,1,0,1,0,,2016
+Leeds United,Huddersfield Town,1-4,https://www.besoccer.com/match/leeds-united-afc/huddersfield-town-fc/20166280,2016,38,championship,56,51,6,0,2,0,,2016
+Milton Keynes Dons,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/milton-keynes-dons/brighton-amp-hov/20166282,2016,38,championship,53,58,1,1,7,1,,2016
+Preston North End,Queens Park Rangers,1-1,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/20166283,2016,38,championship,57,58,2,0,4,0,,2016
+Reading,Cardiff City,1-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/20166284,2016,38,championship,60,59,1,0,2,0,,2016
+Sheffield Wednesday,Charlton Athletic,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/charlton-athletic-fc/20166285,2016,38,championship,59,53,2,0,3,0,,2016
+Queens Park Rangers,Middlesbrough,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/20166295,2016,39,championship,58,64,1,0,0,0,,2016
+Blackburn Rovers,Preston North End,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/preston-north-end/20166286,2016,39,championship,62,57,3,1,2,1,,2016
+Brighton & Hove Albion,Burnley,2-2,https://www.besoccer.com/match/brighton-amp-hov/burnley-fc/20166288,2016,39,championship,58,62,1,0,0,0,,2016
+Bolton Wanderers,Reading,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/reading-fc/20166287,2016,39,championship,57,60,1,1,4,1,,2016
+Cardiff City,Derby County,2-1,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/20166289,2016,39,championship,59,60,2,0,1,0,,2016
+Charlton Athletic,Birmingham City,2-1,https://www.besoccer.com/match/charlton-athletic-fc/birmingham-city-fc/20166290,2016,39,championship,53,60,2,0,1,0,,2016
+Fulham,Milton Keynes Dons,2-1,https://www.besoccer.com/match/fulham/milton-keynes-dons/20166291,2016,39,championship,60,53,4,0,1,0,,2016
+Huddersfield Town,Sheffield Wednesday,0-1,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-wednesday-fc/20166292,2016,39,championship,52,59,1,0,1,0,,2016
+Hull City,Bristol City,4-0,https://www.besoccer.com/match/hull-city/bristol-city-fc/20166293,2016,39,championship,64,52,0,0,1,0,,2016
+Nottingham Forest,Brentford,0-3,https://www.besoccer.com/match/nottingham-forest-fc/brentford/20166294,2016,39,championship,56,49,3,1,4,1,,2016
+Rotherham United,Leeds United,2-1,https://www.besoccer.com/match/rotherham-united/leeds-united-afc/20166296,2016,39,championship,44,56,1,1,2,1,,2016
+Wolves,Ipswich Town,0-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/20166297,2016,39,championship,57,58,0,0,0,0,,2016
+Birmingham City,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/birmingham-city-fc/brighton-amp-hov/20166298,2016,40,championship,59,58,2,0,0,0,,2016
+Brentford,Bolton Wanderers,3-1,https://www.besoccer.com/match/brentford/bolton-wanderers-fc/20166299,2016,40,championship,50,57,0,0,4,0,,2016
+Bristol City,Rotherham United,1-1,https://www.besoccer.com/match/bristol-city-fc/rotherham-united/20166300,2016,40,championship,51,45,1,0,0,0,,2016
+Burnley,Cardiff City,0-0,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/20166301,2016,40,championship,62,59,0,0,0,0,,2016
+Derby County,Hull City,4-0,https://www.besoccer.com/match/derby-county-fc/hull-city/20166302,2016,40,championship,60,64,0,0,1,0,,2016
+Ipswich Town,Charlton Athletic,0-0,https://www.besoccer.com/match/ipswich-town-fc/charlton-athletic-fc/20166303,2016,40,championship,58,53,1,0,2,0,,2016
+Leeds United,Queens Park Rangers,1-1,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/20166304,2016,40,championship,56,58,0,0,0,0,,2016
+Middlesbrough,Huddersfield Town,3-0,https://www.besoccer.com/match/middlesbrough-fc/huddersfield-town-fc/20166305,2016,40,championship,64,52,0,0,1,0,,2016
+Milton Keynes Dons,Wolves,1-2,https://www.besoccer.com/match/milton-keynes-dons/wolverhampton/20166306,2016,40,championship,53,57,4,0,1,0,,2016
+Preston North End,Fulham,1-2,https://www.besoccer.com/match/preston-north-end/fulham/20166307,2016,40,championship,57,60,3,0,3,0,,2016
+Sheffield Wednesday,Blackburn Rovers,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/20166308,2016,40,championship,59,62,1,0,0,0,,2016
+Reading,Nottingham Forest,2-1,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/20166309,2016,40,championship,60,56,0,0,1,0,,2016
+Burnley,Leeds United,1-0,https://www.besoccer.com/match/burnley-fc/leeds-united-afc/20166311,2016,41,championship,62,56,1,0,1,0,,2016
+Bristol City,Sheffield Wednesday,4-1,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/20166310,2016,41,championship,51,59,1,0,1,0,,2016
+Derby County,Bolton Wanderers,4-1,https://www.besoccer.com/match/derby-county-fc/bolton-wanderers-fc/20166312,2016,41,championship,60,57,1,0,2,0,,2016
+Fulham,Cardiff City,2-1,https://www.besoccer.com/match/fulham/cardiff-city-fc/20166313,2016,41,championship,61,59,1,0,0,0,,2016
+Huddersfield Town,Hull City,2-2,https://www.besoccer.com/match/huddersfield-town-fc/hull-city/20166314,2016,41,championship,51,64,2,0,2,0,,2016
+Ipswich Town,Brentford,1-3,https://www.besoccer.com/match/ipswich-town-fc/brentford/20166315,2016,41,championship,58,50,2,1,1,1,,2016
+Middlesbrough,Preston North End,1-0,https://www.besoccer.com/match/middlesbrough-fc/preston-north-end/20166316,2016,41,championship,64,57,0,0,2,0,,2016
+Milton Keynes Dons,Rotherham United,0-4,https://www.besoccer.com/match/milton-keynes-dons/rotherham-united/20166317,2016,41,championship,52,45,2,0,3,0,,2016
+Queens Park Rangers,Charlton Athletic,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/charlton-athletic-fc/20166319,2016,41,championship,58,53,3,0,0,0,,2016
+Reading,Birmingham City,0-2,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/20166320,2016,41,championship,60,59,3,0,2,0,,2016
+Wolves,Blackburn Rovers,0-0,https://www.besoccer.com/match/wolverhampton/blackburn-rovers-fc/20166321,2016,41,championship,57,62,1,0,3,0,,2016
+Nottingham Forest,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/nottingham-forest-fc/brighton-amp-hov/20166318,2016,41,championship,56,58,3,0,1,0,,2016
+Brighton & Hove Albion,Fulham,5-0,https://www.besoccer.com/match/brighton-amp-hov/fulham/20166326,2016,42,championship,58,61,1,0,3,0,,2016
+Hull City,Wolves,2-1,https://www.besoccer.com/match/hull-city/wolverhampton/20166329,2016,42,championship,64,57,0,0,0,0,,2016
+Bolton Wanderers,Middlesbrough,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/middlesbrough-fc/20166324,2016,42,championship,57,64,3,0,2,0,,2016
+Birmingham City,Burnley,1-2,https://www.besoccer.com/match/birmingham-city-fc/burnley-fc/20166322,2016,42,championship,59,62,1,1,3,1,,2016
+Blackburn Rovers,Huddersfield Town,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/huddersfield-town-fc/20166323,2016,42,championship,62,51,3,0,0,0,,2016
+Brentford,Bristol City,1-1,https://www.besoccer.com/match/brentford/bristol-city-fc/20166325,2016,42,championship,50,52,1,0,3,0,,2016
+Cardiff City,Queens Park Rangers,0-0,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/20166327,2016,42,championship,59,58,2,0,1,0,,2016
+Charlton Athletic,Derby County,0-1,https://www.besoccer.com/match/charlton-athletic-fc/derby-county-fc/20166328,2016,42,championship,53,61,1,0,3,0,,2016
+Leeds United,Reading,3-2,https://www.besoccer.com/match/leeds-united-afc/reading-fc/20166330,2016,42,championship,56,60,2,0,3,0,,2016
+Preston North End,Milton Keynes Dons,1-1,https://www.besoccer.com/match/preston-north-end/milton-keynes-dons/20166331,2016,42,championship,57,52,1,0,1,0,,2016
+Rotherham United,Nottingham Forest,0-0,https://www.besoccer.com/match/rotherham-united/nottingham-forest-fc/20166332,2016,42,championship,45,56,1,0,1,0,,2016
+Sheffield Wednesday,Ipswich Town,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/20166333,2016,42,championship,59,57,1,0,3,0,,2016
+Birmingham City,Preston North End,2-2,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/20166334,2016,43,championship,59,57,2,0,5,0,,2016
+Brentford,Cardiff City,2-1,https://www.besoccer.com/match/brentford/cardiff-city-fc/20166335,2016,43,championship,50,59,2,0,2,0,,2016
+Brighton & Hove Albion,Queens Park Rangers,4-0,https://www.besoccer.com/match/brighton-amp-hov/queens-park-rangers-fc/20166336,2016,43,championship,58,58,1,0,2,0,,2016
+Bristol City,Derby County,2-3,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/20166337,2016,43,championship,52,61,0,0,1,0,,2016
+Burnley,Middlesbrough,1-1,https://www.besoccer.com/match/burnley-fc/middlesbrough-fc/20166338,2016,43,championship,62,64,1,0,2,0,,2016
+Ipswich Town,Fulham,1-1,https://www.besoccer.com/match/ipswich-town-fc/fulham/20166339,2016,43,championship,57,60,1,0,1,0,,2016
+Leeds United,Wolves,2-1,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/20166340,2016,43,championship,56,57,0,0,1,0,,2016
+Nottingham Forest,Blackburn Rovers,1-1,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/20166341,2016,43,championship,56,62,2,0,3,0,,2016
+Rotherham United,Huddersfield Town,1-1,https://www.besoccer.com/match/rotherham-united/huddersfield-town-fc/20166342,2016,43,championship,45,52,0,0,0,0,,2016
+Sheffield Wednesday,Milton Keynes Dons,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/milton-keynes-dons/20166343,2016,43,championship,59,52,4,1,1,1,,2016
+Bolton Wanderers,Charlton Athletic,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/charlton-athletic-fc/20166344,2016,43,championship,57,53,0,0,0,0,,2016
+Reading,Hull City,1-2,https://www.besoccer.com/match/reading-fc/hull-city/20166345,2016,43,championship,59,64,0,0,1,0,,2016
+Preston North End,Burnley,0-1,https://www.besoccer.com/match/preston-north-end/burnley-fc/20166355,2016,44,championship,57,62,3,0,5,0,,2016
+Derby County,Sheffield Wednesday,1-1,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/20166349,2016,44,championship,61,59,5,0,4,0,,2016
+Blackburn Rovers,Bristol City,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/bristol-city-fc/20166346,2016,44,championship,62,52,0,0,0,0,,2016
+Cardiff City,Bolton Wanderers,2-1,https://www.besoccer.com/match/cardiff-city-fc/bolton-wanderers-fc/20166347,2016,44,championship,59,56,1,0,0,0,,2016
+Charlton Athletic,Brighton & Hove Albion,1-3,https://www.besoccer.com/match/charlton-athletic-fc/brighton-amp-hov/20166348,2016,44,championship,53,59,0,0,0,0,,2016
+Fulham,Nottingham Forest,1-3,https://www.besoccer.com/match/fulham/nottingham-forest-fc/20166350,2016,44,championship,60,56,2,0,1,0,,2016
+Huddersfield Town,Birmingham City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/20166351,2016,44,championship,52,59,2,0,3,0,,2016
+Hull City,Leeds United,2-2,https://www.besoccer.com/match/hull-city/leeds-united-afc/20166352,2016,44,championship,64,56,3,0,2,0,,2016
+Middlesbrough,Ipswich Town,0-0,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/20166353,2016,44,championship,64,57,1,0,1,0,,2016
+Milton Keynes Dons,Brentford,1-4,https://www.besoccer.com/match/milton-keynes-dons/brentford/20166354,2016,44,championship,52,51,0,0,0,0,,2016
+Queens Park Rangers,Reading,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/20166356,2016,44,championship,58,59,0,0,1,0,,2016
+Wolves,Rotherham United,0-0,https://www.besoccer.com/match/wolverhampton/rotherham-united/20166357,2016,44,championship,56,45,0,0,2,0,,2016
+Birmingham City,Middlesbrough,2-2,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/20166358,2016,45,championship,59,64,0,0,0,0,,2016
+Bolton Wanderers,Hull City,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/hull-city/20166359,2016,45,championship,56,64,2,0,2,0,,2016
+Brentford,Fulham,3-0,https://www.besoccer.com/match/brentford/fulham/20166360,2016,45,championship,51,60,1,0,0,0,,2016
+Bristol City,Huddersfield Town,4-0,https://www.besoccer.com/match/bristol-city-fc/huddersfield-town-fc/20166362,2016,45,championship,52,52,0,0,3,0,,2016
+Ipswich Town,Milton Keynes Dons,3-2,https://www.besoccer.com/match/ipswich-town-fc/milton-keynes-dons/20166364,2016,45,championship,57,52,1,0,1,0,,2016
+Leeds United,Charlton Athletic,1-2,https://www.besoccer.com/match/leeds-united-afc/charlton-athletic-fc/20166365,2016,45,championship,56,52,0,0,2,0,,2016
+Nottingham Forest,Wolves,1-1,https://www.besoccer.com/match/nottingham-forest-fc/wolverhampton/20166366,2016,45,championship,56,56,3,0,0,0,,2016
+Reading,Preston North End,1-2,https://www.besoccer.com/match/reading-fc/preston-north-end/20166367,2016,45,championship,59,57,0,0,0,0,,2016
+Rotherham United,Blackburn Rovers,0-1,https://www.besoccer.com/match/rotherham-united/blackburn-rovers-fc/20166368,2016,45,championship,45,61,0,0,0,0,,2016
+Sheffield Wednesday,Cardiff City,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/20166369,2016,45,championship,59,59,1,0,3,0,,2016
+Brighton & Hove Albion,Derby County,1-1,https://www.besoccer.com/match/brighton-amp-hov/derby-county-fc/20166361,2016,45,championship,59,61,1,1,3,1,,2016
+Burnley,Queens Park Rangers,1-0,https://www.besoccer.com/match/burnley-fc/queens-park-rangers-fc/20166363,2016,45,championship,62,58,0,0,2,0,,2016
+Blackburn Rovers,Reading,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/reading-fc/20166370,2016,46,championship,62,59,0,0,0,0,,2016
+Cardiff City,Birmingham City,1-1,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/20166371,2016,46,championship,59,59,4,0,2,0,,2016
+Charlton Athletic,Burnley,0-3,https://www.besoccer.com/match/charlton-athletic-fc/burnley-fc/20166372,2016,46,championship,53,62,1,0,1,0,,2016
+Derby County,Ipswich Town,0-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/20166373,2016,46,championship,61,58,2,0,2,0,,2016
+Fulham,Bolton Wanderers,1-0,https://www.besoccer.com/match/fulham/bolton-wanderers-fc/20166374,2016,46,championship,60,57,0,0,0,0,,2016
+Huddersfield Town,Brentford,1-5,https://www.besoccer.com/match/huddersfield-town-fc/brentford/20166375,2016,46,championship,52,51,1,0,3,0,,2016
+Hull City,Rotherham United,5-1,https://www.besoccer.com/match/hull-city/rotherham-united/20166376,2016,46,championship,64,45,0,0,1,0,,2016
+Middlesbrough,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/middlesbrough-fc/brighton-amp-hov/20166377,2016,46,championship,64,59,0,0,3,0,,2016
+Milton Keynes Dons,Nottingham Forest,1-2,https://www.besoccer.com/match/milton-keynes-dons/nottingham-forest-fc/20166378,2016,46,championship,52,56,0,0,2,0,,2016
+Preston North End,Leeds United,1-1,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/20166379,2016,46,championship,57,56,0,0,0,0,,2016
+Queens Park Rangers,Bristol City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/20166380,2016,46,championship,58,52,0,0,0,0,,2016
+Wolves,Sheffield Wednesday,2-1,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/20166381,2016,46,championship,56,59,0,0,0,0,,2016

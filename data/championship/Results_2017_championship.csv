@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Fulham,Newcastle,1-0,https://www.besoccer.com/match/fulham/newcastle-united-fc/201749337,2017,1,championship,60,68,1,0,3,0,,2017
+Birmingham City,Cardiff City,0-0,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/201749338,2017,1,championship,59,59,1,0,0,0,,2017
+Blackburn Rovers,Norwich City,1-4,https://www.besoccer.com/match/blackburn-rovers-fc/norwich-city-fc/201749339,2017,1,championship,62,63,2,0,2,0,,2017
+Bristol City,Wigan Athletic,2-1,https://www.besoccer.com/match/bristol-city-fc/wigan-athletic/201749340,2017,1,championship,52,54,1,0,4,0,,2017
+Derby County,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/derby-county-fc/brighton-amp-hov/201749341,2017,1,championship,61,59,2,0,2,0,,2017
+Huddersfield Town,Brentford,2-1,https://www.besoccer.com/match/huddersfield-town-fc/brentford/201749342,2017,1,championship,52,52,1,0,1,0,,2017
+Ipswich Town,Barnsley,4-2,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/201749343,2017,1,championship,58,49,2,0,3,0,,2017
+Nottingham Forest,Burton Albion,4-3,https://www.besoccer.com/match/nottingham-forest-fc/burton-albion/201749344,2017,1,championship,56,42,2,0,2,0,,2017
+Reading,Preston North End,1-0,https://www.besoccer.com/match/reading-fc/preston-north-end/201749345,2017,1,championship,59,57,2,0,3,0,,2017
+Rotherham United,Wolves,2-2,https://www.besoccer.com/match/rotherham-united/wolverhampton/201749346,2017,1,championship,45,57,2,0,1,0,,2017
+Queens Park Rangers,Leeds United,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/201749347,2017,1,championship,58,56,2,0,1,0,,2017
+Sheffield Wednesday,Aston Villa,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/aston-villa-fc/201749348,2017,1,championship,59,64,3,0,3,0,,2017
+Brighton & Hove Albion,Nottingham Forest,3-0,https://www.besoccer.com/match/brighton-amp-hov/nottingham-forest-fc/201749412,2017,2,championship,59,57,3,0,4,0,,2017
+Aston Villa,Rotherham United,3-0,https://www.besoccer.com/match/aston-villa-fc/rotherham-united/201749409,2017,2,championship,63,45,4,0,2,0,,2017
+Barnsley,Derby County,2-0,https://www.besoccer.com/match/barnsley-fc/derby-county-fc/201749410,2017,2,championship,48,61,3,0,4,0,,2017
+Brentford,Ipswich Town,2-0,https://www.besoccer.com/match/brentford/ipswich-town-fc/201749411,2017,2,championship,51,58,0,0,1,0,,2017
+Burton Albion,Bristol City,1-2,https://www.besoccer.com/match/burton-albion/bristol-city-fc/201749413,2017,2,championship,42,53,1,0,1,0,,2017
+Leeds United,Birmingham City,1-2,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/201749415,2017,2,championship,56,59,1,0,5,0,,2017
+Newcastle,Huddersfield Town,1-2,https://www.besoccer.com/match/newcastle-united-fc/huddersfield-town-fc/201749416,2017,2,championship,67,51,2,0,2,0,,2017
+Preston North End,Fulham,1-2,https://www.besoccer.com/match/preston-north-end/fulham/201749418,2017,2,championship,57,61,1,0,2,0,,2017
+Wigan Athletic,Blackburn Rovers,3-0,https://www.besoccer.com/match/wigan-athletic/blackburn-rovers-fc/201749419,2017,2,championship,54,62,2,0,3,0,,2017
+Wolves,Reading,2-0,https://www.besoccer.com/match/wolverhampton/reading-fc/201749420,2017,2,championship,57,59,2,0,2,0,,2017
+Norwich City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/201749417,2017,2,championship,63,59,1,0,1,0,,2017
+Cardiff City,Queens Park Rangers,0-2,https://www.besoccer.com/match/cardiff-city-fc/queens-park-rangers-fc/201749414,2017,2,championship,58,58,1,0,4,0,,2017
+Aston Villa,Huddersfield Town,1-1,https://www.besoccer.com/match/aston-villa-fc/huddersfield-town-fc/201749421,2017,3,championship,64,52,3,0,1,0,,2017
+Brentford,Nottingham Forest,1-0,https://www.besoccer.com/match/brentford/nottingham-forest-fc/201749423,2017,3,championship,51,56,3,0,4,0,,2017
+Brighton & Hove Albion,Rotherham United,3-0,https://www.besoccer.com/match/brighton-amp-hov/rotherham-united/201749424,2017,3,championship,59,45,1,0,4,0,,2017
+Burton Albion,Sheffield Wednesday,3-1,https://www.besoccer.com/match/burton-albion/sheffield-wednesday-fc/201749425,2017,3,championship,42,59,1,0,1,0,,2017
+Leeds United,Fulham,1-1,https://www.besoccer.com/match/leeds-united-afc/fulham/201749427,2017,3,championship,56,61,1,0,1,0,,2017
+Norwich City,Bristol City,1-0,https://www.besoccer.com/match/norwich-city-fc/bristol-city-fc/201749428,2017,3,championship,63,53,2,0,0,0,,2017
+Preston North End,Derby County,0-1,https://www.besoccer.com/match/preston-north-end/derby-county-fc/201749429,2017,3,championship,57,61,1,0,0,0,,2017
+Wigan Athletic,Birmingham City,1-1,https://www.besoccer.com/match/wigan-athletic/birmingham-city-fc/201749430,2017,3,championship,54,59,3,0,3,0,,2017
+Wolves,Ipswich Town,0-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/201749431,2017,3,championship,57,57,2,0,5,0,,2017
+Barnsley,Queens Park Rangers,3-2,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/201749422,2017,3,championship,48,59,1,0,2,0,,2017
+Cardiff City,Blackburn Rovers,2-1,https://www.besoccer.com/match/cardiff-city-fc/blackburn-rovers-fc/201749426,2017,3,championship,58,62,1,0,2,0,,2017
+Newcastle,Reading,4-1,https://www.besoccer.com/match/newcastle-united-fc/reading-fc/201749432,2017,3,championship,67,59,1,0,5,0,,2017
+Sheffield Wednesday,Leeds United,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/201749444,2017,4,championship,59,56,1,0,2,0,,2017
+Birmingham City,Wolves,1-3,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/201749433,2017,4,championship,59,57,1,1,2,1,,2017
+Blackburn Rovers,Burton Albion,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/burton-albion/201749434,2017,4,championship,61,43,2,0,1,0,,2017
+Bristol City,Newcastle,0-1,https://www.besoccer.com/match/bristol-city-fc/newcastle-united-fc/201749435,2017,4,championship,53,67,3,0,1,0,,2017
+Fulham,Cardiff City,2-2,https://www.besoccer.com/match/fulham/cardiff-city-fc/201749437,2017,4,championship,61,58,1,0,3,0,,2017
+Huddersfield Town,Barnsley,2-1,https://www.besoccer.com/match/huddersfield-town-fc/barnsley-fc/201749438,2017,4,championship,52,48,4,0,2,0,,2017
+Nottingham Forest,Wigan Athletic,4-3,https://www.besoccer.com/match/nottingham-forest-fc/wigan-athletic/201749440,2017,4,championship,56,54,4,0,4,0,,2017
+Queens Park Rangers,Preston North End,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/preston-north-end/201749441,2017,4,championship,58,57,1,0,2,0,,2017
+Reading,Brighton & Hove Albion,2-2,https://www.besoccer.com/match/reading-fc/brighton-amp-hov/201749442,2017,4,championship,59,59,3,1,2,1,,2017
+Rotherham United,Brentford,1-0,https://www.besoccer.com/match/rotherham-united/brentford/201749443,2017,4,championship,44,52,1,0,1,0,,2017
+Derby County,Aston Villa,0-0,https://www.besoccer.com/match/derby-county-fc/aston-villa-fc/201749436,2017,4,championship,61,63,3,0,3,0,,2017
+Ipswich Town,Norwich City,1-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/201749439,2017,4,championship,57,63,0,0,1,0,,2017
+Burton Albion,Derby County,1-0,https://www.besoccer.com/match/burton-albion/derby-county-fc/201749450,2017,5,championship,43,61,1,0,1,0,,2017
+Barnsley,Rotherham United,4-0,https://www.besoccer.com/match/barnsley-fc/rotherham-united/201749445,2017,5,championship,48,45,1,0,1,0,,2017
+Birmingham City,Norwich City,3-0,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/201749446,2017,5,championship,59,63,0,0,0,0,,2017
+Blackburn Rovers,Fulham,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/fulham/201749447,2017,5,championship,61,61,2,0,1,0,,2017
+Brentford,Sheffield Wednesday,1-1,https://www.besoccer.com/match/brentford/sheffield-wednesday-fc/201749448,2017,5,championship,51,59,3,1,1,1,,2017
+Bristol City,Aston Villa,3-1,https://www.besoccer.com/match/bristol-city-fc/aston-villa-fc/201749449,2017,5,championship,53,63,1,0,7,0,,2017
+Cardiff City,Reading,0-1,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/201749451,2017,5,championship,58,59,0,0,0,0,,2017
+Huddersfield Town,Wolves,1-0,https://www.besoccer.com/match/huddersfield-town-fc/wolverhampton/201749452,2017,5,championship,52,57,3,0,2,0,,2017
+Ipswich Town,Preston North End,1-0,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/201749453,2017,5,championship,57,57,1,0,1,0,,2017
+Nottingham Forest,Leeds United,3-1,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/201749455,2017,5,championship,57,57,0,0,2,0,,2017
+Wigan Athletic,Queens Park Rangers,0-1,https://www.besoccer.com/match/wigan-athletic/queens-park-rangers-fc/201749456,2017,5,championship,54,58,4,0,3,0,,2017
+Newcastle,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/newcastle-united-fc/brighton-amp-hov/201749454,2017,5,championship,68,60,4,0,2,0,,2017
+Reading,Ipswich Town,2-1,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/201749465,2017,6,championship,59,57,5,0,4,0,,2017
+Brighton & Hove Albion,Brentford,0-2,https://www.besoccer.com/match/brighton-amp-hov/brentford/201749458,2017,6,championship,59,51,5,0,2,0,,2017
+Fulham,Birmingham City,0-1,https://www.besoccer.com/match/fulham/birmingham-city-fc/201749460,2017,6,championship,61,59,2,1,3,1,,2017
+Leeds United,Huddersfield Town,0-1,https://www.besoccer.com/match/leeds-united-afc/huddersfield-town-fc/201749461,2017,6,championship,56,52,1,0,5,0,,2017
+Norwich City,Cardiff City,3-2,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/201749462,2017,6,championship,63,58,2,0,2,0,,2017
+Preston North End,Barnsley,1-2,https://www.besoccer.com/match/preston-north-end/barnsley-fc/201749463,2017,6,championship,57,49,3,0,3,0,,2017
+Queens Park Rangers,Blackburn Rovers,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/201749464,2017,6,championship,58,61,2,0,2,0,,2017
+Rotherham United,Bristol City,2-2,https://www.besoccer.com/match/rotherham-united/bristol-city-fc/201749466,2017,6,championship,44,53,2,0,1,0,,2017
+Sheffield Wednesday,Wigan Athletic,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wigan-athletic/201749467,2017,6,championship,59,54,1,0,3,0,,2017
+Wolves,Burton Albion,1-1,https://www.besoccer.com/match/wolverhampton/burton-albion/201749468,2017,6,championship,57,43,3,0,3,0,,2017
+Derby County,Newcastle,0-2,https://www.besoccer.com/match/derby-county-fc/newcastle-united-fc/201749459,2017,6,championship,61,68,0,0,3,0,,2017
+Aston Villa,Nottingham Forest,2-2,https://www.besoccer.com/match/aston-villa-fc/nottingham-forest-fc/201749457,2017,6,championship,63,57,3,0,6,0,,2017
+Brighton & Hove Albion,Huddersfield Town,1-0,https://www.besoccer.com/match/brighton-amp-hov/huddersfield-town-fc/201749470,2017,7,championship,59,52,1,0,1,0,,2017
+Derby County,Ipswich Town,0-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/201749471,2017,7,championship,60,57,0,0,4,0,,2017
+Fulham,Burton Albion,1-1,https://www.besoccer.com/match/fulham/burton-albion/201749472,2017,7,championship,61,43,2,0,4,0,,2017
+Leeds United,Blackburn Rovers,2-1,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/201749473,2017,7,championship,56,61,3,0,3,0,,2017
+Norwich City,Wigan Athletic,2-1,https://www.besoccer.com/match/norwich-city-fc/wigan-athletic/201749474,2017,7,championship,63,54,2,0,3,0,,2017
+Preston North End,Cardiff City,3-0,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/201749475,2017,7,championship,57,58,1,0,4,0,,2017
+Queens Park Rangers,Newcastle,0-6,https://www.besoccer.com/match/queens-park-rangers-fc/newcastle-united-fc/201749476,2017,7,championship,58,68,0,0,0,0,,2017
+Wolves,Barnsley,0-4,https://www.besoccer.com/match/wolverhampton/barnsley-fc/201749479,2017,7,championship,57,49,0,0,3,0,,2017
+Sheffield Wednesday,Bristol City,3-2,https://www.besoccer.com/match/sheffield-wednesday-fc/bristol-city-fc/201749478,2017,7,championship,59,53,1,1,2,1,,2017
+Reading,Birmingham City,0-0,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/201749480,2017,7,championship,59,59,0,0,0,0,,2017
+Aston Villa,Brentford,1-1,https://www.besoccer.com/match/aston-villa-fc/brentford/201749469,2017,7,championship,63,52,2,0,2,0,,2017
+Rotherham United,Nottingham Forest,2-2,https://www.besoccer.com/match/rotherham-united/nottingham-forest-fc/201749477,2017,7,championship,44,57,3,1,3,1,,2017
+Cardiff City,Leeds United,0-2,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/201749487,2017,8,championship,58,56,0,0,3,0,,2017
+Barnsley,Reading,1-2,https://www.besoccer.com/match/barnsley-fc/reading-fc/201749481,2017,8,championship,49,59,3,0,4,0,,2017
+Blackburn Rovers,Rotherham United,4-2,https://www.besoccer.com/match/blackburn-rovers-fc/rotherham-united/201749483,2017,8,championship,61,44,1,0,4,0,,2017
+Brentford,Preston North End,5-0,https://www.besoccer.com/match/brentford/preston-north-end/201749484,2017,8,championship,52,57,0,0,2,0,,2017
+Bristol City,Derby County,1-1,https://www.besoccer.com/match/bristol-city-fc/derby-county-fc/201749485,2017,8,championship,53,60,0,0,2,0,,2017
+Burton Albion,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/burton-albion/brighton-amp-hov/201749486,2017,8,championship,43,59,1,0,2,0,,2017
+Huddersfield Town,Queens Park Rangers,2-1,https://www.besoccer.com/match/huddersfield-town-fc/queens-park-rangers-fc/201749488,2017,8,championship,52,58,2,0,4,0,,2017
+Ipswich Town,Aston Villa,0-0,https://www.besoccer.com/match/ipswich-town-fc/aston-villa-fc/201749489,2017,8,championship,57,63,1,0,1,0,,2017
+Newcastle,Wolves,0-2,https://www.besoccer.com/match/newcastle-united-fc/wolverhampton/201749490,2017,8,championship,68,57,3,1,5,1,,2017
+Nottingham Forest,Norwich City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/201749491,2017,8,championship,57,63,2,0,1,0,,2017
+Wigan Athletic,Fulham,0-0,https://www.besoccer.com/match/wigan-athletic/fulham/201749492,2017,8,championship,54,61,1,0,1,0,,2017
+Birmingham City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/201749482,2017,8,championship,59,59,1,0,3,0,,2017
+Preston North End,Wigan Athletic,1-0,https://www.besoccer.com/match/preston-north-end/wigan-athletic/201749499,2017,9,championship,58,54,2,0,2,0,,2017
+Brighton & Hove Albion,Barnsley,2-0,https://www.besoccer.com/match/brighton-amp-hov/barnsley-fc/201749494,2017,9,championship,59,49,3,0,2,0,,2017
+Derby County,Blackburn Rovers,1-2,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/201749495,2017,9,championship,60,61,1,0,2,0,,2017
+Fulham,Bristol City,0-4,https://www.besoccer.com/match/fulham/bristol-city-fc/201749496,2017,9,championship,61,54,2,1,2,1,,2017
+Leeds United,Ipswich Town,1-0,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/201749497,2017,9,championship,57,58,0,0,2,0,,2017
+Norwich City,Burton Albion,3-1,https://www.besoccer.com/match/norwich-city-fc/burton-albion/201749498,2017,9,championship,64,43,2,0,3,0,,2017
+Queens Park Rangers,Birmingham City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/201749500,2017,9,championship,58,59,2,0,1,0,,2017
+Reading,Huddersfield Town,1-0,https://www.besoccer.com/match/reading-fc/huddersfield-town-fc/201749501,2017,9,championship,60,52,2,0,5,0,,2017
+Rotherham United,Cardiff City,1-2,https://www.besoccer.com/match/rotherham-united/cardiff-city-fc/201749502,2017,9,championship,44,58,1,0,2,0,,2017
+Sheffield Wednesday,Nottingham Forest,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/201749503,2017,9,championship,59,57,1,0,3,0,,2017
+Wolves,Brentford,3-1,https://www.besoccer.com/match/wolverhampton/brentford/201749504,2017,9,championship,57,52,1,0,4,0,,2017
+Aston Villa,Newcastle,1-1,https://www.besoccer.com/match/aston-villa-fc/newcastle-united-fc/201749493,2017,9,championship,63,68,3,0,1,0,,2017
+Barnsley,Aston Villa,1-1,https://www.besoccer.com/match/barnsley-fc/aston-villa-fc/201749505,2017,10,championship,49,63,4,0,3,0,,2017
+Birmingham City,Preston North End,2-2,https://www.besoccer.com/match/birmingham-city-fc/preston-north-end/201749506,2017,10,championship,59,58,1,0,1,0,,2017
+Blackburn Rovers,Sheffield Wednesday,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/201749507,2017,10,championship,61,59,0,0,0,0,,2017
+Brentford,Reading,4-1,https://www.besoccer.com/match/brentford/reading-fc/201749508,2017,10,championship,52,60,4,0,2,0,,2017
+Bristol City,Leeds United,1-0,https://www.besoccer.com/match/bristol-city-fc/leeds-united-afc/201749509,2017,10,championship,54,57,2,0,4,0,,2017
+Burton Albion,Queens Park Rangers,1-1,https://www.besoccer.com/match/burton-albion/queens-park-rangers-fc/201749510,2017,10,championship,43,58,2,0,1,0,,2017
+Cardiff City,Derby County,0-2,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/201749511,2017,10,championship,58,60,1,1,2,1,,2017
+Huddersfield Town,Rotherham United,2-1,https://www.besoccer.com/match/huddersfield-town-fc/rotherham-united/201749512,2017,10,championship,52,44,3,0,1,0,,2017
+Ipswich Town,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/ipswich-town-fc/brighton-amp-hov/201749513,2017,10,championship,57,59,4,0,3,0,,2017
+Nottingham Forest,Fulham,1-1,https://www.besoccer.com/match/nottingham-forest-fc/fulham/201749514,2017,10,championship,57,60,2,0,0,0,,2017
+Wigan Athletic,Wolves,2-1,https://www.besoccer.com/match/wigan-athletic/wolverhampton/201749515,2017,10,championship,53,57,3,0,3,0,,2017
+Newcastle,Norwich City,4-3,https://www.besoccer.com/match/newcastle-united-fc/norwich-city-fc/201749516,2017,10,championship,68,64,5,0,5,0,,2017
+Fulham,Queens Park Rangers,1-2,https://www.besoccer.com/match/fulham/queens-park-rangers-fc/201749521,2017,11,championship,60,58,2,0,3,0,,2017
+Birmingham City,Blackburn Rovers,1-0,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/201749517,2017,11,championship,59,61,1,0,6,0,,2017
+Brentford,Wigan Athletic,0-0,https://www.besoccer.com/match/brentford/wigan-athletic/201749518,2017,11,championship,52,54,3,0,3,0,,2017
+Bristol City,Nottingham Forest,2-1,https://www.besoccer.com/match/bristol-city-fc/nottingham-forest-fc/201749519,2017,11,championship,54,57,3,0,2,0,,2017
+Burton Albion,Cardiff City,2-0,https://www.besoccer.com/match/burton-albion/cardiff-city-fc/201749520,2017,11,championship,43,58,1,0,0,0,,2017
+Ipswich Town,Huddersfield Town,0-1,https://www.besoccer.com/match/ipswich-town-fc/huddersfield-town-fc/201749522,2017,11,championship,57,52,1,0,1,0,,2017
+Leeds United,Barnsley,2-1,https://www.besoccer.com/match/leeds-united-afc/barnsley-fc/201749523,2017,11,championship,57,49,1,0,0,0,,2017
+Preston North End,Aston Villa,2-0,https://www.besoccer.com/match/preston-north-end/aston-villa-fc/201749524,2017,11,championship,58,63,4,0,4,0,,2017
+Reading,Derby County,1-1,https://www.besoccer.com/match/reading-fc/derby-county-fc/201749525,2017,11,championship,59,60,2,0,4,0,,2017
+Rotherham United,Newcastle,0-1,https://www.besoccer.com/match/rotherham-united/newcastle-united-fc/201749526,2017,11,championship,44,68,2,0,1,0,,2017
+Sheffield Wednesday,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/brighton-amp-hov/201749527,2017,11,championship,59,59,0,0,4,0,,2017
+Wolves,Norwich City,1-2,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/201749528,2017,11,championship,57,64,3,0,3,0,,2017
+Cardiff City,Bristol City,2-1,https://www.besoccer.com/match/cardiff-city-fc/bristol-city-fc/201749533,2017,12,championship,57,54,4,0,3,0,,2017
+Nottingham Forest,Birmingham City,3-1,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/201749538,2017,12,championship,57,59,2,0,3,0,,2017
+Barnsley,Fulham,2-4,https://www.besoccer.com/match/barnsley-fc/fulham/201749530,2017,12,championship,49,60,2,1,4,1,,2017
+Blackburn Rovers,Ipswich Town,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/201749531,2017,12,championship,61,57,1,0,0,0,,2017
+Brighton & Hove Albion,Preston North End,2-2,https://www.besoccer.com/match/brighton-amp-hov/preston-north-end/201749532,2017,12,championship,59,58,0,0,2,0,,2017
+Derby County,Leeds United,1-0,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/201749534,2017,12,championship,60,57,2,0,0,0,,2017
+Newcastle,Brentford,3-1,https://www.besoccer.com/match/newcastle-united-fc/brentford/201749536,2017,12,championship,68,52,3,0,3,0,,2017
+Norwich City,Rotherham United,3-1,https://www.besoccer.com/match/norwich-city-fc/rotherham-united/201749537,2017,12,championship,64,44,0,0,1,0,,2017
+Queens Park Rangers,Reading,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/reading-fc/201749539,2017,12,championship,58,59,1,0,1,0,,2017
+Wigan Athletic,Burton Albion,0-0,https://www.besoccer.com/match/wigan-athletic/burton-albion/201749540,2017,12,championship,54,43,0,0,3,0,,2017
+Aston Villa,Wolves,1-1,https://www.besoccer.com/match/aston-villa-fc/wolverhampton/201749529,2017,12,championship,63,57,3,0,3,0,,2017
+Huddersfield Town,Sheffield Wednesday,0-1,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-wednesday-fc/201749535,2017,12,championship,52,59,1,0,2,0,,2017
+Barnsley,Newcastle,0-2,https://www.besoccer.com/match/barnsley-fc/newcastle-united-fc/201749541,2017,13,championship,49,68,1,0,2,0,,2017
+Birmingham City,Rotherham United,4-2,https://www.besoccer.com/match/birmingham-city-fc/rotherham-united/201749542,2017,13,championship,59,44,1,0,2,0,,2017
+Blackburn Rovers,Nottingham Forest,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/201749543,2017,13,championship,61,57,3,0,2,0,,2017
+Brighton & Hove Albion,Wolves,1-0,https://www.besoccer.com/match/brighton-amp-hov/wolverhampton/201749544,2017,13,championship,59,57,2,0,3,0,,2017
+Derby County,Brentford,0-0,https://www.besoccer.com/match/derby-county-fc/brentford/201749546,2017,13,championship,60,52,1,0,1,0,,2017
+Fulham,Norwich City,2-2,https://www.besoccer.com/match/fulham/norwich-city-fc/201749547,2017,13,championship,60,64,4,0,3,0,,2017
+Ipswich Town,Burton Albion,2-0,https://www.besoccer.com/match/ipswich-town-fc/burton-albion/201749548,2017,13,championship,57,43,1,0,2,0,,2017
+Leeds United,Wigan Athletic,1-1,https://www.besoccer.com/match/leeds-united-afc/wigan-athletic/201749549,2017,13,championship,57,54,0,0,0,0,,2017
+Queens Park Rangers,Bristol City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/201749551,2017,13,championship,58,54,0,0,1,0,,2017
+Reading,Aston Villa,1-2,https://www.besoccer.com/match/reading-fc/aston-villa-fc/201749552,2017,13,championship,59,63,1,0,1,0,,2017
+Cardiff City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/201749545,2017,13,championship,57,59,1,0,1,0,,2017
+Preston North End,Huddersfield Town,3-1,https://www.besoccer.com/match/preston-north-end/huddersfield-town-fc/201749550,2017,13,championship,58,52,1,0,1,0,,2017
+Burton Albion,Birmingham City,2-0,https://www.besoccer.com/match/burton-albion/birmingham-city-fc/201749556,2017,14,championship,43,59,3,0,3,0,,2017
+Aston Villa,Fulham,1-0,https://www.besoccer.com/match/aston-villa-fc/fulham/201749553,2017,14,championship,63,60,0,0,4,0,,2017
+Brentford,Barnsley,0-2,https://www.besoccer.com/match/brentford/barnsley-fc/201749554,2017,14,championship,52,49,2,0,3,0,,2017
+Bristol City,Blackburn Rovers,1-0,https://www.besoccer.com/match/bristol-city-fc/blackburn-rovers-fc/201749555,2017,14,championship,54,61,2,0,1,0,,2017
+Huddersfield Town,Derby County,1-0,https://www.besoccer.com/match/huddersfield-town-fc/derby-county-fc/201749557,2017,14,championship,52,60,1,0,1,0,,2017
+Newcastle,Ipswich Town,3-0,https://www.besoccer.com/match/newcastle-united-fc/ipswich-town-fc/201749558,2017,14,championship,68,57,2,0,1,0,,2017
+Norwich City,Preston North End,0-1,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/201749559,2017,14,championship,64,58,1,0,1,0,,2017
+Rotherham United,Reading,0-1,https://www.besoccer.com/match/rotherham-united/reading-fc/201749561,2017,14,championship,44,59,2,0,2,0,,2017
+Sheffield Wednesday,Queens Park Rangers,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/201749562,2017,14,championship,59,58,1,0,4,0,,2017
+Wigan Athletic,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/wigan-athletic/brighton-amp-hov/201749563,2017,14,championship,54,59,2,0,1,0,,2017
+Wolves,Leeds United,0-1,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/201749564,2017,14,championship,57,57,2,0,2,0,,2017
+Nottingham Forest,Cardiff City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/201749560,2017,14,championship,57,57,1,1,1,1,,2017
+Queens Park Rangers,Brentford,0-2,https://www.besoccer.com/match/queens-park-rangers-fc/brentford/201749575,2017,15,championship,58,52,2,0,1,0,,2017
+Barnsley,Bristol City,2-2,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/201749565,2017,15,championship,49,54,3,0,3,0,,2017
+Brighton & Hove Albion,Norwich City,5-0,https://www.besoccer.com/match/brighton-amp-hov/norwich-city-fc/201749568,2017,15,championship,59,64,1,0,3,0,,2017
+Cardiff City,Wigan Athletic,0-1,https://www.besoccer.com/match/cardiff-city-fc/wigan-athletic/201749569,2017,15,championship,58,53,0,0,0,0,,2017
+Derby County,Sheffield Wednesday,2-0,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/201749570,2017,15,championship,60,59,1,0,3,0,,2017
+Fulham,Huddersfield Town,5-0,https://www.besoccer.com/match/fulham/huddersfield-town-fc/201749571,2017,15,championship,60,52,1,0,2,0,,2017
+Ipswich Town,Rotherham United,2-2,https://www.besoccer.com/match/ipswich-town-fc/rotherham-united/201749572,2017,15,championship,57,44,0,0,0,0,,2017
+Leeds United,Burton Albion,2-0,https://www.besoccer.com/match/leeds-united-afc/burton-albion/201749573,2017,15,championship,57,44,4,0,2,0,,2017
+Preston North End,Newcastle,1-2,https://www.besoccer.com/match/preston-north-end/newcastle-united-fc/201749574,2017,15,championship,58,69,3,0,4,0,,2017
+Reading,Nottingham Forest,2-0,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/201749576,2017,15,championship,60,56,3,0,2,0,,2017
+Blackburn Rovers,Wolves,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/wolverhampton/201749567,2017,15,championship,61,57,2,0,2,0,,2017
+Birmingham City,Aston Villa,1-1,https://www.besoccer.com/match/birmingham-city-fc/aston-villa-fc/201749566,2017,15,championship,59,63,2,0,3,0,,2017
+Brentford,Fulham,0-2,https://www.besoccer.com/match/brentford/fulham/201749578,2017,16,championship,52,60,3,0,1,0,,2017
+Wolves,Derby County,2-3,https://www.besoccer.com/match/wolverhampton/derby-county-fc/201749588,2017,16,championship,57,60,5,0,1,0,,2017
+Aston Villa,Blackburn Rovers,2-1,https://www.besoccer.com/match/aston-villa-fc/blackburn-rovers-fc/201749577,2017,16,championship,63,61,2,0,2,0,,2017
+Burton Albion,Barnsley,0-0,https://www.besoccer.com/match/burton-albion/barnsley-fc/201749580,2017,16,championship,43,49,1,0,1,0,,2017
+Huddersfield Town,Birmingham City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/201749581,2017,16,championship,52,59,0,0,2,0,,2017
+Newcastle,Cardiff City,2-1,https://www.besoccer.com/match/newcastle-united-fc/cardiff-city-fc/201749582,2017,16,championship,69,57,0,0,1,0,,2017
+Norwich City,Leeds United,2-3,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/201749583,2017,16,championship,64,57,2,0,2,0,,2017
+Nottingham Forest,Queens Park Rangers,1-1,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/201749584,2017,16,championship,56,58,5,1,3,1,,2017
+Rotherham United,Preston North End,1-3,https://www.besoccer.com/match/rotherham-united/preston-north-end/201749585,2017,16,championship,44,58,0,0,1,0,,2017
+Sheffield Wednesday,Ipswich Town,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/201749586,2017,16,championship,59,57,1,0,2,0,,2017
+Wigan Athletic,Reading,0-3,https://www.besoccer.com/match/wigan-athletic/reading-fc/201749587,2017,16,championship,54,60,3,0,2,0,,2017
+Bristol City,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/bristol-city-fc/brighton-amp-hov/201749579,2017,16,championship,54,60,1,0,1,0,,2017
+Brighton & Hove Albion,Aston Villa,1-1,https://www.besoccer.com/match/brighton-amp-hov/aston-villa-fc/201749592,2017,17,championship,60,63,1,0,2,0,,2017
+Barnsley,Wigan Athletic,0-0,https://www.besoccer.com/match/barnsley-fc/wigan-athletic/201749589,2017,17,championship,49,53,0,0,2,0,,2017
+Birmingham City,Bristol City,1-0,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/201749590,2017,17,championship,59,54,2,1,1,1,,2017
+Blackburn Rovers,Brentford,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/brentford/201749591,2017,17,championship,61,52,3,0,2,0,,2017
+Cardiff City,Huddersfield Town,3-2,https://www.besoccer.com/match/cardiff-city-fc/huddersfield-town-fc/201749593,2017,17,championship,57,52,2,0,4,0,,2017
+Derby County,Rotherham United,3-0,https://www.besoccer.com/match/derby-county-fc/rotherham-united/201749594,2017,17,championship,60,44,0,0,2,0,,2017
+Fulham,Sheffield Wednesday,1-1,https://www.besoccer.com/match/fulham/sheffield-wednesday-fc/201749595,2017,17,championship,61,59,2,0,4,0,,2017
+Preston North End,Wolves,0-0,https://www.besoccer.com/match/preston-north-end/wolverhampton/201749598,2017,17,championship,58,57,4,0,4,0,,2017
+Queens Park Rangers,Norwich City,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/201749599,2017,17,championship,58,64,1,0,3,0,,2017
+Reading,Burton Albion,3-0,https://www.besoccer.com/match/reading-fc/burton-albion/201749600,2017,17,championship,60,43,3,0,1,0,,2017
+Ipswich Town,Nottingham Forest,0-2,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/201749596,2017,17,championship,57,56,1,0,2,0,,2017
+Leeds United,Newcastle,0-2,https://www.besoccer.com/match/leeds-united-afc/newcastle-united-fc/201749597,2017,17,championship,57,69,1,0,1,0,,2017
+Barnsley,Nottingham Forest,2-5,https://www.besoccer.com/match/barnsley-fc/nottingham-forest-fc/201749602,2017,18,championship,49,57,0,1,1,1,,2017
+Aston Villa,Cardiff City,3-1,https://www.besoccer.com/match/aston-villa-fc/cardiff-city-fc/201749601,2017,18,championship,63,57,3,0,5,0,,2017
+Brentford,Birmingham City,1-2,https://www.besoccer.com/match/brentford/birmingham-city-fc/201749603,2017,18,championship,52,59,2,0,2,0,,2017
+Brighton & Hove Albion,Fulham,2-1,https://www.besoccer.com/match/brighton-amp-hov/fulham/201749604,2017,18,championship,60,61,3,0,5,0,,2017
+Derby County,Norwich City,1-0,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/201749605,2017,18,championship,61,63,2,0,2,0,,2017
+Ipswich Town,Queens Park Rangers,3-0,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/201749607,2017,18,championship,57,58,1,0,2,0,,2017
+Newcastle,Blackburn Rovers,0-1,https://www.besoccer.com/match/newcastle-united-fc/blackburn-rovers-fc/201749608,2017,18,championship,69,61,1,0,3,0,,2017
+Preston North End,Burton Albion,1-1,https://www.besoccer.com/match/preston-north-end/burton-albion/201749609,2017,18,championship,58,43,3,0,2,0,,2017
+Reading,Bristol City,2-1,https://www.besoccer.com/match/reading-fc/bristol-city-fc/201749610,2017,18,championship,60,54,2,0,2,0,,2017
+Wolves,Sheffield Wednesday,0-2,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/201749612,2017,18,championship,57,59,3,0,1,0,,2017
+Rotherham United,Leeds United,1-2,https://www.besoccer.com/match/rotherham-united/leeds-united-afc/201749611,2017,18,championship,43,57,0,1,2,1,,2017
+Huddersfield Town,Wigan Athletic,1-2,https://www.besoccer.com/match/huddersfield-town-fc/wigan-athletic/201749606,2017,18,championship,52,53,2,0,3,0,,2017
+Queens Park Rangers,Wolves,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/201749622,2017,19,championship,58,56,2,1,3,1,,2017
+Nottingham Forest,Newcastle,2-1,https://www.besoccer.com/match/nottingham-forest-fc/newcastle-united-fc/201749621,2017,19,championship,57,69,2,0,3,0,,2017
+Birmingham City,Barnsley,0-3,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/201749613,2017,19,championship,59,49,3,1,2,1,,2017
+Blackburn Rovers,Huddersfield Town,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/huddersfield-town-fc/201749614,2017,19,championship,61,52,3,0,2,0,,2017
+Bristol City,Ipswich Town,2-0,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/201749615,2017,19,championship,54,57,2,0,0,0,,2017
+Burton Albion,Rotherham United,2-1,https://www.besoccer.com/match/burton-albion/rotherham-united/201749616,2017,19,championship,43,43,1,0,1,0,,2017
+Cardiff City,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/cardiff-city-fc/brighton-amp-hov/201749617,2017,19,championship,57,60,3,0,3,0,,2017
+Fulham,Reading,5-0,https://www.besoccer.com/match/fulham/reading-fc/201749618,2017,19,championship,60,60,1,0,4,0,,2017
+Norwich City,Brentford,5-0,https://www.besoccer.com/match/norwich-city-fc/brentford/201749620,2017,19,championship,63,52,1,0,0,0,,2017
+Sheffield Wednesday,Preston North End,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/preston-north-end/201749623,2017,19,championship,59,58,1,1,0,1,,2017
+Wigan Athletic,Derby County,0-1,https://www.besoccer.com/match/wigan-athletic/derby-county-fc/201749624,2017,19,championship,54,61,1,0,3,0,,2017
+Leeds United,Aston Villa,2-0,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/201749619,2017,19,championship,57,63,2,0,2,0,,2017
+Brighton & Hove Albion,Leeds United,2-0,https://www.besoccer.com/match/brighton-amp-hov/leeds-united-afc/201749628,2017,20,championship,60,58,1,0,3,0,,2017
+Aston Villa,Wigan Athletic,1-0,https://www.besoccer.com/match/aston-villa-fc/wigan-athletic/201749625,2017,20,championship,63,53,2,0,4,0,,2017
+Barnsley,Norwich City,2-1,https://www.besoccer.com/match/barnsley-fc/norwich-city-fc/201749626,2017,20,championship,49,64,0,0,0,0,,2017
+Brentford,Burton Albion,2-1,https://www.besoccer.com/match/brentford/burton-albion/201749627,2017,20,championship,52,43,5,0,4,0,,2017
+Huddersfield Town,Bristol City,2-1,https://www.besoccer.com/match/huddersfield-town-fc/bristol-city-fc/201749630,2017,20,championship,52,54,2,0,2,0,,2017
+Ipswich Town,Cardiff City,1-1,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/201749631,2017,20,championship,57,57,2,0,4,0,,2017
+Newcastle,Birmingham City,4-0,https://www.besoccer.com/match/newcastle-united-fc/birmingham-city-fc/201749632,2017,20,championship,69,59,2,0,1,0,,2017
+Reading,Sheffield Wednesday,2-1,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/201749634,2017,20,championship,60,59,3,0,5,0,,2017
+Rotherham United,Queens Park Rangers,1-0,https://www.besoccer.com/match/rotherham-united/queens-park-rangers-fc/201749635,2017,20,championship,43,58,2,0,3,0,,2017
+Wolves,Fulham,4-4,https://www.besoccer.com/match/wolverhampton/fulham/201749636,2017,20,championship,57,61,4,0,3,0,,2017
+Preston North End,Blackburn Rovers,3-2,https://www.besoccer.com/match/preston-north-end/blackburn-rovers-fc/201749633,2017,20,championship,58,61,1,0,2,0,,2017
+Derby County,Nottingham Forest,3-0,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/201749629,2017,20,championship,61,57,3,0,5,0,,2017
+Birmingham City,Ipswich Town,2-1,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/201749637,2017,21,championship,59,57,3,0,2,0,,2017
+Blackburn Rovers,Brighton & Hove Albion,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/brighton-amp-hov/201749638,2017,21,championship,61,60,3,1,3,1,,2017
+Bristol City,Brentford,0-1,https://www.besoccer.com/match/bristol-city-fc/brentford/201749639,2017,21,championship,54,52,2,0,0,0,,2017
+Burton Albion,Huddersfield Town,0-1,https://www.besoccer.com/match/burton-albion/huddersfield-town-fc/201749640,2017,21,championship,43,52,3,0,3,0,,2017
+Cardiff City,Wolves,2-1,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/201749641,2017,21,championship,57,57,2,0,1,0,,2017
+Fulham,Rotherham United,2-1,https://www.besoccer.com/match/fulham/rotherham-united/201749642,2017,21,championship,61,43,0,0,1,0,,2017
+Leeds United,Reading,2-0,https://www.besoccer.com/match/leeds-united-afc/reading-fc/201749643,2017,21,championship,57,60,1,0,1,0,,2017
+Norwich City,Aston Villa,1-0,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/201749644,2017,21,championship,63,63,1,0,0,0,,2017
+Sheffield Wednesday,Barnsley,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/barnsley-fc/201749647,2017,21,championship,59,49,2,0,1,0,,2017
+Nottingham Forest,Preston North End,1-1,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/201749645,2017,21,championship,57,58,2,0,2,0,,2017
+Queens Park Rangers,Derby County,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/derby-county-fc/201749646,2017,21,championship,57,61,0,0,2,0,,2017
+Wigan Athletic,Newcastle,0-2,https://www.besoccer.com/match/wigan-athletic/newcastle-united-fc/201749648,2017,21,championship,53,69,0,0,1,0,,2017
+Norwich City,Huddersfield Town,1-2,https://www.besoccer.com/match/norwich-city-fc/huddersfield-town-fc/201749656,2017,22,championship,63,52,2,0,2,0,,2017
+Blackburn Rovers,Reading,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/reading-fc/201749650,2017,22,championship,61,60,1,0,1,0,,2017
+Bristol City,Preston North End,1-2,https://www.besoccer.com/match/bristol-city-fc/preston-north-end/201749651,2017,22,championship,53,58,0,0,3,0,,2017
+Burton Albion,Newcastle,1-2,https://www.besoccer.com/match/burton-albion/newcastle-united-fc/201749652,2017,22,championship,43,69,2,0,1,0,,2017
+Cardiff City,Barnsley,3-4,https://www.besoccer.com/match/cardiff-city-fc/barnsley-fc/201749653,2017,22,championship,57,49,1,0,4,0,,2017
+Fulham,Derby County,2-2,https://www.besoccer.com/match/fulham/derby-county-fc/201749654,2017,22,championship,61,61,3,0,1,0,,2017
+Leeds United,Brentford,1-0,https://www.besoccer.com/match/leeds-united-afc/brentford/201749655,2017,22,championship,58,52,1,0,1,0,,2017
+Nottingham Forest,Wolves,0-2,https://www.besoccer.com/match/nottingham-forest-fc/wolverhampton/201749657,2017,22,championship,57,56,2,0,3,0,,2017
+Sheffield Wednesday,Rotherham United,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/rotherham-united/201749659,2017,22,championship,59,43,1,0,2,0,,2017
+Wigan Athletic,Ipswich Town,2-3,https://www.besoccer.com/match/wigan-athletic/ipswich-town-fc/201749660,2017,22,championship,53,57,3,0,3,0,,2017
+Birmingham City,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/birmingham-city-fc/brighton-amp-hov/201749649,2017,22,championship,59,60,1,0,0,0,,2017
+Queens Park Rangers,Aston Villa,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/aston-villa-fc/201749658,2017,22,championship,57,63,1,0,3,0,,2017
+Brentford,Cardiff City,2-2,https://www.besoccer.com/match/brentford/cardiff-city-fc/201749663,2017,23,championship,52,57,3,0,2,0,,2017
+Aston Villa,Burton Albion,2-1,https://www.besoccer.com/match/aston-villa-fc/burton-albion/201749661,2017,23,championship,63,43,0,0,2,0,,2017
+Barnsley,Blackburn Rovers,2-0,https://www.besoccer.com/match/barnsley-fc/blackburn-rovers-fc/201749662,2017,23,championship,49,61,1,0,2,0,,2017
+Huddersfield Town,Nottingham Forest,2-1,https://www.besoccer.com/match/huddersfield-town-fc/nottingham-forest-fc/201749666,2017,23,championship,52,57,1,0,4,0,,2017
+Ipswich Town,Fulham,0-2,https://www.besoccer.com/match/ipswich-town-fc/fulham/201749667,2017,23,championship,57,61,2,0,1,0,,2017
+Preston North End,Leeds United,1-4,https://www.besoccer.com/match/preston-north-end/leeds-united-afc/201749669,2017,23,championship,58,58,2,1,3,1,,2017
+Reading,Norwich City,3-1,https://www.besoccer.com/match/reading-fc/norwich-city-fc/201749670,2017,23,championship,60,63,2,0,2,0,,2017
+Rotherham United,Wigan Athletic,3-2,https://www.besoccer.com/match/rotherham-united/wigan-athletic/201749671,2017,23,championship,43,53,4,0,2,0,,2017
+Wolves,Bristol City,3-2,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/201749672,2017,23,championship,57,53,2,0,3,0,,2017
+Newcastle,Sheffield Wednesday,0-1,https://www.besoccer.com/match/newcastle-united-fc/sheffield-wednesday-fc/201749668,2017,23,championship,69,59,1,0,6,0,,2017
+Brighton & Hove Albion,Queens Park Rangers,3-0,https://www.besoccer.com/match/brighton-amp-hov/queens-park-rangers-fc/201749664,2017,23,championship,60,57,0,0,1,0,,2017
+Derby County,Birmingham City,1-0,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/201749665,2017,23,championship,61,59,1,0,2,0,,2017
+Rotherham United,Burton Albion,1-2,https://www.besoccer.com/match/rotherham-united/burton-albion/201749683,2017,24,championship,43,43,3,0,4,0,,2017
+Aston Villa,Leeds United,1-1,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/201749673,2017,24,championship,63,58,3,0,3,0,,2017
+Ipswich Town,Bristol City,2-1,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/201749679,2017,24,championship,57,53,2,0,2,0,,2017
+Newcastle,Nottingham Forest,3-1,https://www.besoccer.com/match/newcastle-united-fc/nottingham-forest-fc/201749680,2017,24,championship,69,56,3,0,3,0,,2017
+Huddersfield Town,Blackburn Rovers,1-1,https://www.besoccer.com/match/huddersfield-town-fc/blackburn-rovers-fc/201749678,2017,24,championship,53,60,1,0,0,0,,2017
+Barnsley,Birmingham City,2-2,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/201749674,2017,24,championship,50,59,2,1,0,1,,2017
+Derby County,Wigan Athletic,0-0,https://www.besoccer.com/match/derby-county-fc/wigan-athletic/201749677,2017,24,championship,61,53,2,0,0,0,,2017
+Preston North End,Sheffield Wednesday,1-1,https://www.besoccer.com/match/preston-north-end/sheffield-wednesday-fc/201749681,2017,24,championship,58,59,1,0,1,0,,2017
+Wolves,Queens Park Rangers,1-2,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/201749684,2017,24,championship,57,57,1,0,3,0,,2017
+Brentford,Norwich City,0-0,https://www.besoccer.com/match/brentford/norwich-city-fc/201749675,2017,24,championship,52,63,3,0,1,0,,2017
+Brighton & Hove Albion,Cardiff City,1-0,https://www.besoccer.com/match/brighton-amp-hov/cardiff-city-fc/201749676,2017,24,championship,61,57,1,0,1,0,,2017
+Reading,Fulham,1-0,https://www.besoccer.com/match/reading-fc/fulham/201749682,2017,24,championship,60,61,2,0,2,0,,2017
+Birmingham City,Brentford,1-3,https://www.besoccer.com/match/birmingham-city-fc/brentford/201749685,2017,25,championship,59,52,2,0,2,0,,2017
+Blackburn Rovers,Newcastle,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/newcastle-united-fc/201749686,2017,25,championship,60,69,1,0,2,0,,2017
+Bristol City,Reading,2-3,https://www.besoccer.com/match/bristol-city-fc/reading-fc/201749687,2017,25,championship,53,60,2,0,3,0,,2017
+Burton Albion,Preston North End,0-1,https://www.besoccer.com/match/burton-albion/preston-north-end/201749688,2017,25,championship,43,58,1,0,0,0,,2017
+Cardiff City,Aston Villa,1-0,https://www.besoccer.com/match/cardiff-city-fc/aston-villa-fc/201749689,2017,25,championship,57,63,4,0,4,0,,2017
+Fulham,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/fulham/brighton-amp-hov/201749690,2017,25,championship,61,61,2,0,3,0,,2017
+Leeds United,Rotherham United,3-0,https://www.besoccer.com/match/leeds-united-afc/rotherham-united/201749691,2017,25,championship,58,43,1,0,1,0,,2017
+Norwich City,Derby County,3-0,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/201749692,2017,25,championship,63,61,1,0,2,0,,2017
+Nottingham Forest,Barnsley,0-1,https://www.besoccer.com/match/nottingham-forest-fc/barnsley-fc/201749693,2017,25,championship,56,50,1,0,0,0,,2017
+Queens Park Rangers,Ipswich Town,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/201749694,2017,25,championship,57,57,0,0,0,0,,2017
+Sheffield Wednesday,Wolves,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/201749695,2017,25,championship,59,57,1,0,0,0,,2017
+Wigan Athletic,Huddersfield Town,0-1,https://www.besoccer.com/match/wigan-athletic/huddersfield-town-fc/201749696,2017,25,championship,53,53,1,0,4,0,,2017
+Reading,Queens Park Rangers,0-1,https://www.besoccer.com/match/reading-fc/queens-park-rangers-fc/201749705,2017,26,championship,60,57,2,0,2,0,,2017
+Leeds United,Derby County,1-0,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/201749703,2017,26,championship,58,61,2,0,3,0,,2017
+Bristol City,Cardiff City,2-3,https://www.besoccer.com/match/bristol-city-fc/cardiff-city-fc/201749699,2017,26,championship,53,57,1,0,2,0,,2017
+Birmingham City,Nottingham Forest,0-0,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/201749697,2017,26,championship,59,56,1,0,1,0,,2017
+Brentford,Newcastle,1-2,https://www.besoccer.com/match/brentford/newcastle-united-fc/201749698,2017,26,championship,53,69,1,0,1,0,,2017
+Burton Albion,Wigan Athletic,0-2,https://www.besoccer.com/match/burton-albion/wigan-athletic/201749700,2017,26,championship,43,53,2,0,3,0,,2017
+Fulham,Barnsley,2-0,https://www.besoccer.com/match/fulham/barnsley-fc/201749701,2017,26,championship,61,50,0,0,2,0,,2017
+Ipswich Town,Blackburn Rovers,3-2,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/201749702,2017,26,championship,57,61,2,0,0,0,,2017
+Preston North End,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/preston-north-end/brighton-amp-hov/201749704,2017,26,championship,58,61,2,0,2,0,,2017
+Rotherham United,Norwich City,2-1,https://www.besoccer.com/match/rotherham-united/norwich-city-fc/201749706,2017,26,championship,43,63,3,0,3,0,,2017
+Sheffield Wednesday,Huddersfield Town,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/huddersfield-town-fc/201749707,2017,26,championship,59,53,2,0,1,0,,2017
+Wolves,Aston Villa,1-0,https://www.besoccer.com/match/wolverhampton/aston-villa-fc/201749708,2017,26,championship,57,63,0,0,1,0,,2017
+Brighton & Hove Albion,Sheffield Wednesday,2-1,https://www.besoccer.com/match/brighton-amp-hov/sheffield-wednesday-fc/201749712,2017,27,championship,61,59,2,1,3,1,,2017
+Queens Park Rangers,Fulham,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/fulham/201749719,2017,27,championship,57,61,5,0,3,0,,2017
+Aston Villa,Preston North End,2-2,https://www.besoccer.com/match/aston-villa-fc/preston-north-end/201749709,2017,27,championship,63,58,2,0,4,0,,2017
+Blackburn Rovers,Birmingham City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/201749711,2017,27,championship,61,58,1,0,3,0,,2017
+Cardiff City,Burton Albion,1-0,https://www.besoccer.com/match/cardiff-city-fc/burton-albion/201749713,2017,27,championship,57,43,0,0,0,0,,2017
+Derby County,Reading,3-2,https://www.besoccer.com/match/derby-county-fc/reading-fc/201749714,2017,27,championship,61,60,3,0,2,0,,2017
+Huddersfield Town,Ipswich Town,2-0,https://www.besoccer.com/match/huddersfield-town-fc/ipswich-town-fc/201749715,2017,27,championship,53,57,0,0,4,0,,2017
+Newcastle,Rotherham United,4-0,https://www.besoccer.com/match/newcastle-united-fc/rotherham-united/201749716,2017,27,championship,69,43,0,0,1,0,,2017
+Norwich City,Wolves,3-1,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/201749717,2017,27,championship,63,58,1,0,2,0,,2017
+Nottingham Forest,Bristol City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/bristol-city-fc/201749718,2017,27,championship,56,53,2,0,2,0,,2017
+Wigan Athletic,Brentford,2-1,https://www.besoccer.com/match/wigan-athletic/brentford/201749720,2017,27,championship,53,52,1,0,0,0,,2017
+Barnsley,Leeds United,3-2,https://www.besoccer.com/match/barnsley-fc/leeds-united-afc/201749710,2017,27,championship,49,59,4,0,3,0,,2017
+Leeds United,Nottingham Forest,2-0,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/201749725,2017,28,championship,58,56,1,0,0,0,,2017
+Norwich City,Birmingham City,2-0,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/201749726,2017,28,championship,63,58,1,0,2,0,,2017
+Preston North End,Ipswich Town,1-1,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/201749727,2017,28,championship,58,56,2,0,0,0,,2017
+Reading,Cardiff City,2-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/201749729,2017,28,championship,60,57,1,0,1,0,,2017
+Rotherham United,Barnsley,0-1,https://www.besoccer.com/match/rotherham-united/barnsley-fc/201749730,2017,28,championship,43,50,1,0,1,0,,2017
+Derby County,Burton Albion,0-0,https://www.besoccer.com/match/derby-county-fc/burton-albion/201749723,2017,28,championship,62,43,1,0,1,0,,2017
+Queens Park Rangers,Wigan Athletic,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/wigan-athletic/201749728,2017,28,championship,57,54,2,0,5,0,,2017
+Sheffield Wednesday,Brentford,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/brentford/201749731,2017,28,championship,59,53,1,0,2,0,,2017
+Aston Villa,Bristol City,2-0,https://www.besoccer.com/match/aston-villa-fc/bristol-city-fc/201749721,2017,28,championship,62,53,2,0,5,0,,2017
+Brighton & Hove Albion,Newcastle,1-2,https://www.besoccer.com/match/brighton-amp-hov/newcastle-united-fc/201749722,2017,28,championship,60,69,3,0,1,0,,2017
+Fulham,Blackburn Rovers,2-2,https://www.besoccer.com/match/fulham/blackburn-rovers-fc/201749724,2017,28,championship,62,61,2,0,4,0,,2017
+Wolves,Huddersfield Town,0-1,https://www.besoccer.com/match/wolverhampton/huddersfield-town-fc/201749732,2017,28,championship,58,54,3,0,0,0,,2017
+Barnsley,Wolves,1-3,https://www.besoccer.com/match/barnsley-fc/wolverhampton/201749733,2017,29,championship,50,58,1,1,4,1,,2017
+Birmingham City,Reading,0-1,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/201749734,2017,29,championship,58,60,1,0,2,0,,2017
+Brentford,Aston Villa,3-0,https://www.besoccer.com/match/brentford/aston-villa-fc/201749736,2017,29,championship,52,63,1,0,1,0,,2017
+Bristol City,Sheffield Wednesday,2-2,https://www.besoccer.com/match/bristol-city-fc/sheffield-wednesday-fc/201749737,2017,29,championship,53,59,0,0,4,0,,2017
+Cardiff City,Preston North End,2-0,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/201749739,2017,29,championship,57,58,1,0,1,0,,2017
+Ipswich Town,Derby County,0-3,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/201749741,2017,29,championship,56,62,0,0,0,0,,2017
+Nottingham Forest,Rotherham United,2-0,https://www.besoccer.com/match/nottingham-forest-fc/rotherham-united/201749742,2017,29,championship,56,43,1,0,4,0,,2017
+Blackburn Rovers,Leeds United,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/201749735,2017,29,championship,61,58,0,0,1,0,,2017
+Burton Albion,Fulham,0-2,https://www.besoccer.com/match/burton-albion/fulham/201749738,2017,29,championship,43,62,1,0,0,0,,2017
+Newcastle,Queens Park Rangers,2-2,https://www.besoccer.com/match/newcastle-united-fc/queens-park-rangers-fc/201749744,2017,29,championship,69,57,1,0,1,0,,2017
+Huddersfield Town,Brighton & Hove Albion,3-1,https://www.besoccer.com/match/huddersfield-town-fc/brighton-amp-hov/201749740,2017,29,championship,54,60,1,0,3,0,,2017
+Wigan Athletic,Norwich City,2-2,https://www.besoccer.com/match/wigan-athletic/norwich-city-fc/201749743,2017,29,championship,54,64,2,0,2,0,,2017
+Wigan Athletic,Sheffield Wednesday,0-1,https://www.besoccer.com/match/wigan-athletic/sheffield-wednesday-fc/201749756,2017,30,championship,54,59,1,0,1,0,,2017
+Barnsley,Preston North End,0-0,https://www.besoccer.com/match/barnsley-fc/preston-north-end/201749745,2017,30,championship,49,58,1,0,4,0,,2017
+Birmingham City,Fulham,1-0,https://www.besoccer.com/match/birmingham-city-fc/fulham/201749746,2017,30,championship,58,62,3,0,2,0,,2017
+Blackburn Rovers,Queens Park Rangers,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/201749747,2017,30,championship,61,57,0,0,2,0,,2017
+Bristol City,Rotherham United,1-0,https://www.besoccer.com/match/bristol-city-fc/rotherham-united/201749749,2017,30,championship,53,43,1,0,1,0,,2017
+Burton Albion,Wolves,2-1,https://www.besoccer.com/match/burton-albion/wolverhampton/201749750,2017,30,championship,43,58,1,0,2,0,,2017
+Cardiff City,Norwich City,0-1,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/201749751,2017,30,championship,57,63,2,0,3,0,,2017
+Ipswich Town,Reading,2-2,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/201749753,2017,30,championship,56,60,1,0,2,0,,2017
+Newcastle,Derby County,1-0,https://www.besoccer.com/match/newcastle-united-fc/derby-county-fc/201749754,2017,30,championship,68,62,2,0,1,0,,2017
+Nottingham Forest,Aston Villa,2-1,https://www.besoccer.com/match/nottingham-forest-fc/aston-villa-fc/201749755,2017,30,championship,56,63,1,0,2,0,,2017
+Huddersfield Town,Leeds United,2-1,https://www.besoccer.com/match/huddersfield-town-fc/leeds-united-afc/201749752,2017,30,championship,54,58,2,0,5,0,,2017
+Brentford,Brighton & Hove Albion,3-3,https://www.besoccer.com/match/brentford/brighton-amp-hov/201749748,2017,30,championship,53,60,2,0,2,0,,2017
+Sheffield Wednesday,Birmingham City,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/201749767,2017,31,championship,59,58,0,0,3,0,,2017
+Aston Villa,Ipswich Town,0-1,https://www.besoccer.com/match/aston-villa-fc/ipswich-town-fc/201749757,2017,31,championship,62,56,0,0,2,0,,2017
+Brighton & Hove Albion,Burton Albion,4-1,https://www.besoccer.com/match/brighton-amp-hov/burton-albion/201749758,2017,31,championship,60,43,0,0,0,0,,2017
+Derby County,Bristol City,3-3,https://www.besoccer.com/match/derby-county-fc/bristol-city-fc/201749759,2017,31,championship,62,53,2,0,4,0,,2017
+Fulham,Wigan Athletic,3-2,https://www.besoccer.com/match/fulham/wigan-athletic/201749760,2017,31,championship,62,54,1,0,2,0,,2017
+Leeds United,Cardiff City,0-2,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/201749761,2017,31,championship,58,57,3,1,1,1,,2017
+Norwich City,Nottingham Forest,5-1,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/201749762,2017,31,championship,64,56,1,0,3,0,,2017
+Preston North End,Brentford,4-2,https://www.besoccer.com/match/preston-north-end/brentford/201749763,2017,31,championship,58,53,0,0,2,0,,2017
+Queens Park Rangers,Huddersfield Town,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/huddersfield-town-fc/201749764,2017,31,championship,57,54,3,0,1,0,,2017
+Reading,Barnsley,0-0,https://www.besoccer.com/match/reading-fc/barnsley-fc/201749765,2017,31,championship,60,50,2,0,2,0,,2017
+Rotherham United,Blackburn Rovers,1-1,https://www.besoccer.com/match/rotherham-united/blackburn-rovers-fc/201749766,2017,31,championship,42,61,1,0,1,0,,2017
+Wolves,Newcastle,0-1,https://www.besoccer.com/match/wolverhampton/newcastle-united-fc/201749768,2017,31,championship,58,69,1,0,5,0,,2017
+Queens Park Rangers,Burton Albion,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/burton-albion/201749776,2017,32,championship,57,43,1,0,2,0,,2017
+Aston Villa,Barnsley,1-3,https://www.besoccer.com/match/aston-villa-fc/barnsley-fc/201749769,2017,32,championship,62,50,0,0,2,0,,2017
+Brighton & Hove Albion,Ipswich Town,1-1,https://www.besoccer.com/match/brighton-amp-hov/ipswich-town-fc/201749770,2017,32,championship,60,56,2,0,5,0,,2017
+Derby County,Cardiff City,3-4,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/201749771,2017,32,championship,62,57,0,0,0,0,,2017
+Fulham,Nottingham Forest,3-2,https://www.besoccer.com/match/fulham/nottingham-forest-fc/201749772,2017,32,championship,62,56,2,0,1,0,,2017
+Leeds United,Bristol City,2-1,https://www.besoccer.com/match/leeds-united-afc/bristol-city-fc/201749773,2017,32,championship,58,53,1,0,3,0,,2017
+Norwich City,Newcastle,2-2,https://www.besoccer.com/match/norwich-city-fc/newcastle-united-fc/201749774,2017,32,championship,64,69,2,0,2,0,,2017
+Preston North End,Birmingham City,2-1,https://www.besoccer.com/match/preston-north-end/birmingham-city-fc/201749775,2017,32,championship,58,58,2,0,4,0,,2017
+Rotherham United,Huddersfield Town,2-3,https://www.besoccer.com/match/rotherham-united/huddersfield-town-fc/201749777,2017,32,championship,42,54,0,0,1,0,,2017
+Sheffield Wednesday,Blackburn Rovers,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/201749778,2017,32,championship,59,61,3,0,1,0,,2017
+Wolves,Wigan Athletic,0-1,https://www.besoccer.com/match/wolverhampton/wigan-athletic/201749779,2017,32,championship,58,54,2,0,2,0,,2017
+Reading,Brentford,3-2,https://www.besoccer.com/match/reading-fc/brentford/201749780,2017,32,championship,60,53,2,0,3,0,,2017
+Barnsley,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/barnsley-fc/brighton-amp-hov/201749781,2017,33,championship,50,60,0,0,1,0,,2017
+Birmingham City,Queens Park Rangers,1-4,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/201749782,2017,33,championship,58,57,3,0,3,0,,2017
+Burton Albion,Norwich City,2-1,https://www.besoccer.com/match/burton-albion/norwich-city-fc/201749786,2017,33,championship,43,64,0,0,1,0,,2017
+Cardiff City,Rotherham United,5-0,https://www.besoccer.com/match/cardiff-city-fc/rotherham-united/201749787,2017,33,championship,57,42,0,0,2,0,,2017
+Ipswich Town,Leeds United,1-1,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/201749789,2017,33,championship,56,58,1,0,0,0,,2017
+Nottingham Forest,Sheffield Wednesday,1-2,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/201749791,2017,33,championship,56,59,3,0,4,0,,2017
+Wigan Athletic,Preston North End,0-0,https://www.besoccer.com/match/wigan-athletic/preston-north-end/201749792,2017,33,championship,54,58,0,0,2,0,,2017
+Newcastle,Aston Villa,2-0,https://www.besoccer.com/match/newcastle-united-fc/aston-villa-fc/201749790,2017,33,championship,69,62,2,0,0,0,,2017
+Huddersfield Town,Reading,1-0,https://www.besoccer.com/match/huddersfield-town-fc/reading-fc/201749788,2017,33,championship,54,60,1,0,1,0,,2017
+Bristol City,Fulham,0-2,https://www.besoccer.com/match/bristol-city-fc/fulham/201749785,2017,33,championship,53,62,1,0,2,0,,2017
+Blackburn Rovers,Derby County,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/201749783,2017,33,championship,61,62,4,0,2,0,,2017
+Brentford,Wolves,1-2,https://www.besoccer.com/match/brentford/wolverhampton/201749784,2017,33,championship,53,58,2,0,1,0,,2017
+Burton Albion,Blackburn Rovers,1-1,https://www.besoccer.com/match/burton-albion/blackburn-rovers-fc/201749797,2017,34,championship,43,61,2,0,0,0,,2017
+Wolves,Birmingham City,1-2,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/201749804,2017,34,championship,58,58,2,0,5,0,,2017
+Leeds United,Sheffield Wednesday,1-0,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/201749799,2017,34,championship,58,59,5,0,2,0,,2017
+Aston Villa,Derby County,1-0,https://www.besoccer.com/match/aston-villa-fc/derby-county-fc/201749793,2017,34,championship,62,62,1,1,2,1,,2017
+Barnsley,Huddersfield Town,1-1,https://www.besoccer.com/match/barnsley-fc/huddersfield-town-fc/201749794,2017,34,championship,50,54,2,0,5,0,,2017
+Brentford,Rotherham United,4-2,https://www.besoccer.com/match/brentford/rotherham-united/201749795,2017,34,championship,53,42,1,0,1,0,,2017
+Cardiff City,Fulham,2-2,https://www.besoccer.com/match/cardiff-city-fc/fulham/201749798,2017,34,championship,57,62,2,0,1,0,,2017
+Newcastle,Bristol City,2-2,https://www.besoccer.com/match/newcastle-united-fc/bristol-city-fc/201749800,2017,34,championship,69,53,0,0,1,0,,2017
+Preston North End,Queens Park Rangers,2-1,https://www.besoccer.com/match/preston-north-end/queens-park-rangers-fc/201749802,2017,34,championship,58,57,1,0,3,0,,2017
+Wigan Athletic,Nottingham Forest,0-0,https://www.besoccer.com/match/wigan-athletic/nottingham-forest-fc/201749803,2017,34,championship,54,56,1,0,1,0,,2017
+Brighton & Hove Albion,Reading,3-0,https://www.besoccer.com/match/brighton-amp-hov/reading-fc/201749796,2017,34,championship,60,60,2,0,1,0,,2017
+Norwich City,Ipswich Town,1-1,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/201749801,2017,34,championship,64,56,0,0,2,0,,2017
+Birmingham City,Leeds United,1-3,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/201749805,2017,35,championship,58,58,2,0,0,0,,2017
+Blackburn Rovers,Wigan Athletic,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/wigan-athletic/201749806,2017,35,championship,61,54,1,0,1,0,,2017
+Bristol City,Burton Albion,0-0,https://www.besoccer.com/match/bristol-city-fc/burton-albion/201749807,2017,35,championship,53,43,1,0,5,0,,2017
+Derby County,Barnsley,2-1,https://www.besoccer.com/match/derby-county-fc/barnsley-fc/201749808,2017,35,championship,62,50,1,0,2,0,,2017
+Fulham,Preston North End,3-1,https://www.besoccer.com/match/fulham/preston-north-end/201749809,2017,35,championship,62,58,0,0,2,0,,2017
+Ipswich Town,Brentford,1-1,https://www.besoccer.com/match/ipswich-town-fc/brentford/201749811,2017,35,championship,56,53,0,0,0,0,,2017
+Nottingham Forest,Brighton & Hove Albion,3-0,https://www.besoccer.com/match/nottingham-forest-fc/brighton-amp-hov/201749812,2017,35,championship,56,60,0,0,3,0,,2017
+Queens Park Rangers,Cardiff City,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/cardiff-city-fc/201749813,2017,35,championship,57,57,2,0,1,0,,2017
+Reading,Wolves,2-1,https://www.besoccer.com/match/reading-fc/wolverhampton/201749814,2017,35,championship,60,58,2,0,2,0,,2017
+Rotherham United,Aston Villa,0-2,https://www.besoccer.com/match/rotherham-united/aston-villa-fc/201749815,2017,35,championship,42,62,2,0,0,0,,2017
+Sheffield Wednesday,Norwich City,5-1,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/201749816,2017,35,championship,59,64,0,0,3,0,,2017
+Huddersfield Town,Newcastle,1-3,https://www.besoccer.com/match/huddersfield-town-fc/newcastle-united-fc/201749810,2017,35,championship,54,69,1,0,4,0,,2017
+Birmingham City,Wigan Athletic,0-1,https://www.besoccer.com/match/birmingham-city-fc/wigan-athletic/201749817,2017,36,championship,58,54,1,0,1,0,,2017
+Blackburn Rovers,Cardiff City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/cardiff-city-fc/201749818,2017,36,championship,61,57,0,0,2,0,,2017
+Bristol City,Norwich City,1-1,https://www.besoccer.com/match/bristol-city-fc/norwich-city-fc/201749819,2017,36,championship,53,64,1,0,2,0,,2017
+Derby County,Preston North End,1-1,https://www.besoccer.com/match/derby-county-fc/preston-north-end/201749820,2017,36,championship,62,58,1,0,1,0,,2017
+Fulham,Leeds United,1-1,https://www.besoccer.com/match/fulham/leeds-united-afc/201749821,2017,36,championship,62,58,3,0,3,0,,2017
+Huddersfield Town,Aston Villa,1-0,https://www.besoccer.com/match/huddersfield-town-fc/aston-villa-fc/201749822,2017,36,championship,54,62,3,0,4,0,,2017
+Ipswich Town,Wolves,0-0,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/201749823,2017,36,championship,56,58,1,0,1,0,,2017
+Nottingham Forest,Brentford,2-3,https://www.besoccer.com/match/nottingham-forest-fc/brentford/201749824,2017,36,championship,56,53,2,0,1,0,,2017
+Queens Park Rangers,Barnsley,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/201749825,2017,36,championship,57,50,3,0,1,0,,2017
+Rotherham United,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/rotherham-united/brighton-amp-hov/201749826,2017,36,championship,42,60,1,0,0,0,,2017
+Sheffield Wednesday,Burton Albion,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/burton-albion/201749827,2017,36,championship,59,43,0,0,1,0,,2017
+Reading,Newcastle,0-0,https://www.besoccer.com/match/reading-fc/newcastle-united-fc/201749828,2017,36,championship,60,69,1,0,0,0,,2017
+Brighton & Hove Albion,Derby County,3-0,https://www.besoccer.com/match/brighton-amp-hov/derby-county-fc/201749832,2017,37,championship,61,61,0,0,0,0,,2017
+Aston Villa,Sheffield Wednesday,2-0,https://www.besoccer.com/match/aston-villa-fc/sheffield-wednesday-fc/201749829,2017,37,championship,63,59,3,0,1,0,,2017
+Barnsley,Ipswich Town,1-1,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/201749830,2017,37,championship,50,57,0,0,1,0,,2017
+Brentford,Huddersfield Town,0-1,https://www.besoccer.com/match/brentford/huddersfield-town-fc/201749831,2017,37,championship,53,53,1,0,0,0,,2017
+Burton Albion,Nottingham Forest,1-0,https://www.besoccer.com/match/burton-albion/nottingham-forest-fc/201749833,2017,37,championship,43,56,0,0,1,0,,2017
+Cardiff City,Birmingham City,1-1,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/201749834,2017,37,championship,57,59,1,0,4,0,,2017
+Leeds United,Queens Park Rangers,0-0,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/201749835,2017,37,championship,58,57,4,0,2,0,,2017
+Newcastle,Fulham,1-3,https://www.besoccer.com/match/newcastle-united-fc/fulham/201749836,2017,37,championship,69,61,4,0,2,0,,2017
+Norwich City,Blackburn Rovers,2-2,https://www.besoccer.com/match/norwich-city-fc/blackburn-rovers-fc/201749837,2017,37,championship,63,61,3,1,3,1,,2017
+Preston North End,Reading,3-0,https://www.besoccer.com/match/preston-north-end/reading-fc/201749838,2017,37,championship,58,60,1,0,1,0,,2017
+Wigan Athletic,Bristol City,0-1,https://www.besoccer.com/match/wigan-athletic/bristol-city-fc/201749839,2017,37,championship,53,53,2,0,1,0,,2017
+Wolves,Rotherham United,1-0,https://www.besoccer.com/match/wolverhampton/rotherham-united/201749840,2017,37,championship,57,43,1,0,1,0,,2017
+Sheffield Wednesday,Reading,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/201749851,2017,38,championship,60,60,0,0,2,0,,2017
+Bristol City,Huddersfield Town,4-0,https://www.besoccer.com/match/bristol-city-fc/huddersfield-town-fc/201749843,2017,38,championship,53,54,0,0,1,0,,2017
+Blackburn Rovers,Preston North End,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/preston-north-end/201749842,2017,38,championship,61,58,1,0,2,0,,2017
+Nottingham Forest,Derby County,2-2,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/201749849,2017,38,championship,56,61,1,0,1,0,,2017
+Birmingham City,Newcastle,0-0,https://www.besoccer.com/match/birmingham-city-fc/newcastle-united-fc/201749841,2017,38,championship,58,69,1,0,0,0,,2017
+Burton Albion,Brentford,3-5,https://www.besoccer.com/match/burton-albion/brentford/201749844,2017,38,championship,43,52,0,0,1,0,,2017
+Cardiff City,Ipswich Town,3-1,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/201749845,2017,38,championship,58,56,0,0,2,0,,2017
+Fulham,Wolves,1-3,https://www.besoccer.com/match/fulham/wolverhampton/201749846,2017,38,championship,62,58,0,0,3,0,,2017
+Norwich City,Barnsley,2-0,https://www.besoccer.com/match/norwich-city-fc/barnsley-fc/201749848,2017,38,championship,64,50,1,0,0,0,,2017
+Queens Park Rangers,Rotherham United,5-1,https://www.besoccer.com/match/queens-park-rangers-fc/rotherham-united/201749850,2017,38,championship,57,42,0,0,1,0,,2017
+Wigan Athletic,Aston Villa,0-2,https://www.besoccer.com/match/wigan-athletic/aston-villa-fc/201749852,2017,38,championship,54,62,1,0,2,0,,2017
+Leeds United,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/leeds-united-afc/brighton-amp-hov/201749847,2017,38,championship,58,60,0,0,2,0,,2017
+Derby County,Queens Park Rangers,1-0,https://www.besoccer.com/match/derby-county-fc/queens-park-rangers-fc/201749857,2017,39,championship,61,57,0,0,1,0,,2017
+Barnsley,Sheffield Wednesday,1-1,https://www.besoccer.com/match/barnsley-fc/sheffield-wednesday-fc/201749854,2017,39,championship,50,59,3,0,3,0,,2017
+Aston Villa,Norwich City,2-0,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/201749853,2017,39,championship,62,63,1,0,1,0,,2017
+Brentford,Bristol City,2-0,https://www.besoccer.com/match/brentford/bristol-city-fc/201749855,2017,39,championship,53,53,0,0,2,0,,2017
+Brighton & Hove Albion,Blackburn Rovers,1-0,https://www.besoccer.com/match/brighton-amp-hov/blackburn-rovers-fc/201749856,2017,39,championship,61,61,1,0,1,0,,2017
+Huddersfield Town,Burton Albion,0-1,https://www.besoccer.com/match/huddersfield-town-fc/burton-albion/201749858,2017,39,championship,55,44,2,1,6,1,,2017
+Ipswich Town,Birmingham City,1-1,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/201749859,2017,39,championship,56,58,0,0,1,0,,2017
+Newcastle,Wigan Athletic,2-1,https://www.besoccer.com/match/newcastle-united-fc/wigan-athletic/201749860,2017,39,championship,69,54,1,0,2,0,,2017
+Preston North End,Nottingham Forest,1-1,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/201749861,2017,39,championship,58,56,3,0,3,0,,2017
+Rotherham United,Fulham,0-1,https://www.besoccer.com/match/rotherham-united/fulham/201749863,2017,39,championship,42,62,1,0,1,0,,2017
+Wolves,Cardiff City,3-1,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/201749864,2017,39,championship,58,58,1,0,3,0,,2017
+Reading,Leeds United,1-0,https://www.besoccer.com/match/reading-fc/leeds-united-afc/201749862,2017,39,championship,60,58,3,0,0,0,,2017
+Aston Villa,Queens Park Rangers,1-0,https://www.besoccer.com/match/aston-villa-fc/queens-park-rangers-fc/201749865,2017,40,championship,62,57,1,0,1,0,,2017
+Barnsley,Cardiff City,0-0,https://www.besoccer.com/match/barnsley-fc/cardiff-city-fc/201749866,2017,40,championship,50,58,1,0,3,0,,2017
+Brentford,Leeds United,2-0,https://www.besoccer.com/match/brentford/leeds-united-afc/201749867,2017,40,championship,53,58,2,0,0,0,,2017
+Brighton & Hove Albion,Birmingham City,3-1,https://www.besoccer.com/match/brighton-amp-hov/birmingham-city-fc/201749868,2017,40,championship,60,58,2,0,1,0,,2017
+Derby County,Fulham,4-2,https://www.besoccer.com/match/derby-county-fc/fulham/201749869,2017,40,championship,61,62,1,0,3,0,,2017
+Ipswich Town,Wigan Athletic,3-0,https://www.besoccer.com/match/ipswich-town-fc/wigan-athletic/201749871,2017,40,championship,56,53,3,0,2,0,,2017
+Preston North End,Bristol City,5-0,https://www.besoccer.com/match/preston-north-end/bristol-city-fc/201749872,2017,40,championship,58,53,2,0,2,0,,2017
+Rotherham United,Sheffield Wednesday,0-2,https://www.besoccer.com/match/rotherham-united/sheffield-wednesday-fc/201749873,2017,40,championship,42,60,2,0,0,0,,2017
+Wolves,Nottingham Forest,1-0,https://www.besoccer.com/match/wolverhampton/nottingham-forest-fc/201749874,2017,40,championship,58,56,2,0,1,0,,2017
+Reading,Blackburn Rovers,3-1,https://www.besoccer.com/match/reading-fc/blackburn-rovers-fc/201749875,2017,40,championship,60,61,1,0,0,0,,2017
+Huddersfield Town,Norwich City,3-0,https://www.besoccer.com/match/huddersfield-town-fc/norwich-city-fc/201749870,2017,40,championship,55,63,1,0,3,0,,2017
+Newcastle,Burton Albion,1-0,https://www.besoccer.com/match/newcastle-united-fc/burton-albion/201749876,2017,40,championship,69,44,1,0,0,0,,2017
+Queens Park Rangers,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/brighton-amp-hov/201749886,2017,41,championship,57,60,0,0,1,0,,2017
+Birmingham City,Derby County,1-2,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/201749877,2017,41,championship,57,61,0,0,2,0,,2017
+Blackburn Rovers,Barnsley,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/barnsley-fc/201749878,2017,41,championship,61,50,2,0,1,0,,2017
+Bristol City,Wolves,3-1,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/201749879,2017,41,championship,53,58,1,0,1,0,,2017
+Burton Albion,Aston Villa,1-1,https://www.besoccer.com/match/burton-albion/aston-villa-fc/201749880,2017,41,championship,44,62,3,0,1,0,,2017
+Cardiff City,Brentford,2-1,https://www.besoccer.com/match/cardiff-city-fc/brentford/201749881,2017,41,championship,58,53,2,0,0,0,,2017
+Fulham,Ipswich Town,3-1,https://www.besoccer.com/match/fulham/ipswich-town-fc/201749882,2017,41,championship,62,56,3,0,1,0,,2017
+Leeds United,Preston North End,3-0,https://www.besoccer.com/match/leeds-united-afc/preston-north-end/201749883,2017,41,championship,59,58,1,0,0,0,,2017
+Norwich City,Reading,7-1,https://www.besoccer.com/match/norwich-city-fc/reading-fc/201749884,2017,41,championship,63,60,1,0,2,0,,2017
+Nottingham Forest,Huddersfield Town,2-0,https://www.besoccer.com/match/nottingham-forest-fc/huddersfield-town-fc/201749885,2017,41,championship,56,55,1,0,2,0,,2017
+Wigan Athletic,Rotherham United,3-2,https://www.besoccer.com/match/wigan-athletic/rotherham-united/201749888,2017,41,championship,54,42,1,0,2,0,,2017
+Sheffield Wednesday,Newcastle,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/newcastle-united-fc/201749887,2017,41,championship,60,69,2,0,1,0,,2017
+Wigan Athletic,Barnsley,3-2,https://www.besoccer.com/match/wigan-athletic/barnsley-fc/201749899,2017,42,championship,53,50,3,0,4,0,,2017
+Brentford,Derby County,4-0,https://www.besoccer.com/match/brentford/derby-county-fc/201749890,2017,42,championship,53,61,2,0,3,0,,2017
+Bristol City,Queens Park Rangers,2-1,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/201749891,2017,42,championship,53,57,1,0,4,0,,2017
+Huddersfield Town,Preston North End,3-2,https://www.besoccer.com/match/huddersfield-town-fc/preston-north-end/201749893,2017,42,championship,55,58,1,0,5,0,,2017
+Norwich City,Fulham,1-3,https://www.besoccer.com/match/norwich-city-fc/fulham/201749895,2017,42,championship,63,62,4,0,3,0,,2017
+Nottingham Forest,Blackburn Rovers,0-1,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/201749896,2017,42,championship,56,61,3,0,4,0,,2017
+Rotherham United,Birmingham City,1-1,https://www.besoccer.com/match/rotherham-united/birmingham-city-fc/201749897,2017,42,championship,42,57,2,0,3,0,,2017
+Sheffield Wednesday,Cardiff City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/201749898,2017,42,championship,59,58,0,0,1,0,,2017
+Wolves,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/wolverhampton/brighton-amp-hov/201749900,2017,42,championship,58,61,1,0,0,0,,2017
+Burton Albion,Ipswich Town,1-2,https://www.besoccer.com/match/burton-albion/ipswich-town-fc/201749892,2017,42,championship,44,56,0,0,1,0,,2017
+Newcastle,Leeds United,1-1,https://www.besoccer.com/match/newcastle-united-fc/leeds-united-afc/201749894,2017,42,championship,69,58,2,0,3,0,,2017
+Aston Villa,Reading,1-3,https://www.besoccer.com/match/aston-villa-fc/reading-fc/201749889,2017,42,championship,62,60,0,0,3,0,,2017
+Fulham,Aston Villa,3-1,https://www.besoccer.com/match/fulham/aston-villa-fc/201749907,2017,43,championship,62,62,0,0,3,0,,2017
+Barnsley,Brentford,1-1,https://www.besoccer.com/match/barnsley-fc/brentford/201749901,2017,43,championship,49,53,1,0,0,0,,2017
+Birmingham City,Burton Albion,0-2,https://www.besoccer.com/match/birmingham-city-fc/burton-albion/201749902,2017,43,championship,58,44,2,0,1,0,,2017
+Blackburn Rovers,Bristol City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/bristol-city-fc/201749903,2017,43,championship,61,53,2,0,3,0,,2017
+Brighton & Hove Albion,Wigan Athletic,2-1,https://www.besoccer.com/match/brighton-amp-hov/wigan-athletic/201749904,2017,43,championship,60,53,1,0,0,0,,2017
+Cardiff City,Nottingham Forest,1-0,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/201749905,2017,43,championship,58,56,0,0,0,0,,2017
+Ipswich Town,Newcastle,3-1,https://www.besoccer.com/match/ipswich-town-fc/newcastle-united-fc/201749908,2017,43,championship,56,69,2,0,1,0,,2017
+Leeds United,Wolves,0-1,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/201749909,2017,43,championship,59,58,2,0,2,0,,2017
+Preston North End,Norwich City,1-3,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/201749910,2017,43,championship,59,63,0,0,1,0,,2017
+Queens Park Rangers,Sheffield Wednesday,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/201749911,2017,43,championship,57,59,1,0,1,0,,2017
+Reading,Rotherham United,2-1,https://www.besoccer.com/match/reading-fc/rotherham-united/201749912,2017,43,championship,60,41,0,0,2,0,,2017
+Derby County,Huddersfield Town,1-1,https://www.besoccer.com/match/derby-county-fc/huddersfield-town-fc/201749906,2017,43,championship,61,55,1,0,2,0,,2017
+Norwich City,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/norwich-city-fc/brighton-amp-hov/201749919,2017,44,championship,63,60,1,0,1,0,,2017
+Brentford,Queens Park Rangers,3-1,https://www.besoccer.com/match/brentford/queens-park-rangers-fc/201749914,2017,44,championship,53,57,1,0,3,0,,2017
+Bristol City,Barnsley,3-2,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/201749915,2017,44,championship,53,49,1,0,1,0,,2017
+Burton Albion,Leeds United,2-1,https://www.besoccer.com/match/burton-albion/leeds-united-afc/201749916,2017,44,championship,44,59,1,0,0,0,,2017
+Huddersfield Town,Fulham,1-4,https://www.besoccer.com/match/huddersfield-town-fc/fulham/201749917,2017,44,championship,55,62,1,0,2,0,,2017
+Nottingham Forest,Reading,3-2,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/201749920,2017,44,championship,56,60,2,0,2,0,,2017
+Rotherham United,Ipswich Town,1-0,https://www.besoccer.com/match/rotherham-united/ipswich-town-fc/201749921,2017,44,championship,41,56,2,0,1,0,,2017
+Sheffield Wednesday,Derby County,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/201749922,2017,44,championship,59,61,1,0,1,0,,2017
+Wigan Athletic,Cardiff City,0-0,https://www.besoccer.com/match/wigan-athletic/cardiff-city-fc/201749923,2017,44,championship,53,58,0,0,1,0,,2017
+Wolves,Blackburn Rovers,0-0,https://www.besoccer.com/match/wolverhampton/blackburn-rovers-fc/201749924,2017,44,championship,58,61,1,0,3,0,,2017
+Aston Villa,Birmingham City,1-0,https://www.besoccer.com/match/aston-villa-fc/birmingham-city-fc/201749913,2017,44,championship,62,58,1,0,2,0,,2017
+Newcastle,Preston North End,4-1,https://www.besoccer.com/match/newcastle-united-fc/preston-north-end/201749918,2017,44,championship,69,59,2,0,1,0,,2017
+Cardiff City,Newcastle,0-2,https://www.besoccer.com/match/cardiff-city-fc/newcastle-united-fc/201749389,2017,45,championship,58,69,1,0,0,0,,2017
+Barnsley,Burton Albion,1-1,https://www.besoccer.com/match/barnsley-fc/burton-albion/201749385,2017,45,championship,49,44,1,0,2,0,,2017
+Birmingham City,Huddersfield Town,2-0,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/201749386,2017,45,championship,58,55,2,1,2,1,,2017
+Blackburn Rovers,Aston Villa,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/aston-villa-fc/201749387,2017,45,championship,61,62,0,0,0,0,,2017
+Derby County,Wolves,3-1,https://www.besoccer.com/match/derby-county-fc/wolverhampton/201749390,2017,45,championship,61,58,1,0,1,0,,2017
+Fulham,Brentford,1-1,https://www.besoccer.com/match/fulham/brentford/201749391,2017,45,championship,62,53,1,0,0,0,,2017
+Ipswich Town,Sheffield Wednesday,0-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/201749392,2017,45,championship,56,59,1,0,0,0,,2017
+Leeds United,Norwich City,3-3,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/201749393,2017,45,championship,59,63,2,0,1,0,,2017
+Preston North End,Rotherham United,1-1,https://www.besoccer.com/match/preston-north-end/rotherham-united/201749394,2017,45,championship,59,41,0,0,1,0,,2017
+Queens Park Rangers,Nottingham Forest,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/201749395,2017,45,championship,57,56,3,0,3,0,,2017
+Reading,Wigan Athletic,1-0,https://www.besoccer.com/match/reading-fc/wigan-athletic/201749396,2017,45,championship,60,53,5,0,1,0,,2017
+Brighton & Hove Albion,Bristol City,0-1,https://www.besoccer.com/match/brighton-amp-hov/bristol-city-fc/201749388,2017,45,championship,60,53,1,0,2,0,,2017
+Aston Villa,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/aston-villa-fc/brighton-amp-hov/201749373,2017,46,championship,63,61,0,1,1,1,,2017
+Brentford,Blackburn Rovers,1-3,https://www.besoccer.com/match/brentford/blackburn-rovers-fc/201749374,2017,46,championship,53,60,1,1,1,1,,2017
+Bristol City,Birmingham City,0-1,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/201749375,2017,46,championship,53,57,1,0,7,0,,2017
+Burton Albion,Reading,2-4,https://www.besoccer.com/match/burton-albion/reading-fc/201749376,2017,46,championship,44,60,1,0,0,0,,2017
+Huddersfield Town,Cardiff City,0-3,https://www.besoccer.com/match/huddersfield-town-fc/cardiff-city-fc/201749377,2017,46,championship,55,58,0,1,1,1,,2017
+Newcastle,Barnsley,3-0,https://www.besoccer.com/match/newcastle-united-fc/barnsley-fc/201749378,2017,46,championship,69,50,1,0,0,0,,2017
+Norwich City,Queens Park Rangers,4-0,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/201749379,2017,46,championship,63,57,0,0,0,0,,2017
+Nottingham Forest,Ipswich Town,3-0,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/201749380,2017,46,championship,55,56,0,0,2,0,,2017
+Rotherham United,Derby County,1-1,https://www.besoccer.com/match/rotherham-united/derby-county-fc/201749381,2017,46,championship,41,61,0,0,0,0,,2017
+Sheffield Wednesday,Fulham,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/fulham/201749382,2017,46,championship,59,62,0,1,1,1,,2017
+Wigan Athletic,Leeds United,1-1,https://www.besoccer.com/match/wigan-athletic/leeds-united-afc/201749383,2017,46,championship,53,58,1,0,2,0,,2017
+Wolves,Preston North End,1-0,https://www.besoccer.com/match/wolverhampton/preston-north-end/201749384,2017,46,championship,58,59,1,0,2,0,,2017

@@ -1,1 +1,553 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Blackburn Rovers,Cardiff City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/cardiff-city-fc/20151341,2015,1,championship,63,60,1,0,3,0,,2015
+Brentford,Charlton Athletic,1-1,https://www.besoccer.com/match/brentford/charlton-athletic-fc/20151342,2015,1,championship,46,54,1,0,1,0,,2015
+Brighton & Hove Albion,Sheffield Wednesday,0-1,https://www.besoccer.com/match/brighton-amp-hov/sheffield-wednesday-fc/20151343,2015,1,championship,56,54,3,1,1,1,,2015
+Derby County,Rotherham United,1-0,https://www.besoccer.com/match/derby-county-fc/rotherham-united/20151344,2015,1,championship,57,42,0,0,1,0,,2015
+Huddersfield Town,AFC Bournemouth,0-4,https://www.besoccer.com/match/huddersfield-town-fc/afc-bournemouth/20151345,2015,1,championship,52,49,2,0,1,0,,2015
+Middlesbrough,Birmingham City,2-0,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/20151347,2015,1,championship,59,61,1,0,1,0,,2015
+Millwall,Leeds United,2-0,https://www.besoccer.com/match/millwall-fc/leeds-united-afc/20151348,2015,1,championship,53,57,0,0,0,0,,2015
+Nottingham Forest,Blackpool,2-0,https://www.besoccer.com/match/nottingham-forest-fc/blackpool-fc/20151349,2015,1,championship,57,54,1,0,2,0,,2015
+Watford,Bolton Wanderers,3-0,https://www.besoccer.com/match/watford-fc/bolton-wanderers-fc/20151350,2015,1,championship,58,63,0,0,0,0,,2015
+Wigan Athletic,Reading,2-2,https://www.besoccer.com/match/wigan-athletic/reading-fc/20151351,2015,1,championship,67,61,1,0,1,0,,2015
+Ipswich Town,Fulham,2-1,https://www.besoccer.com/match/ipswich-town-fc/fulham/20151352,2015,1,championship,56,66,3,0,0,0,,2015
+Wolves,Norwich City,1-0,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/201540650,2015,1,championship,55,62,0,0,4,0,,2015
+Leeds United,Middlesbrough,1-0,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/20151363,2015,2,championship,56,60,1,0,3,0,,2015
+AFC Bournemouth,Brentford,1-0,https://www.besoccer.com/match/afc-bournemouth/brentford/20151356,2015,2,championship,50,47,1,0,3,0,,2015
+Birmingham City,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/birmingham-city-fc/brighton-amp-hov/20151357,2015,2,championship,61,56,0,0,0,0,,2015
+Blackpool,Blackburn Rovers,1-2,https://www.besoccer.com/match/blackpool-fc/blackburn-rovers-fc/20151358,2015,2,championship,53,63,2,0,3,0,,2015
+Bolton Wanderers,Nottingham Forest,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/nottingham-forest-fc/20151359,2015,2,championship,63,57,3,0,0,0,,2015
+Cardiff City,Huddersfield Town,3-1,https://www.besoccer.com/match/cardiff-city-fc/huddersfield-town-fc/20151360,2015,2,championship,60,52,0,0,3,0,,2015
+Charlton Athletic,Wigan Athletic,2-1,https://www.besoccer.com/match/charlton-athletic-fc/wigan-athletic/20151361,2015,2,championship,55,66,0,0,1,0,,2015
+Fulham,Millwall,0-1,https://www.besoccer.com/match/fulham/millwall-fc/20151362,2015,2,championship,66,53,3,0,0,0,,2015
+Norwich City,Watford,3-0,https://www.besoccer.com/match/norwich-city-fc/watford-fc/20151364,2015,2,championship,62,58,1,0,1,0,,2015
+Reading,Ipswich Town,1-0,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/20151365,2015,2,championship,61,56,2,0,3,0,,2015
+Sheffield Wednesday,Derby County,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/derby-county-fc/20151369,2015,2,championship,55,57,3,0,2,0,,2015
+Rotherham United,Wolves,1-0,https://www.besoccer.com/match/rotherham-united/wolverhampton/201540651,2015,2,championship,42,55,3,0,2,0,,2015
+Sheffield Wednesday,Millwall,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/millwall-fc/201511842,2015,3,championship,55,53,2,0,1,0,,2015
+Norwich City,Blackburn Rovers,3-1,https://www.besoccer.com/match/norwich-city-fc/blackburn-rovers-fc/201511843,2015,3,championship,62,63,1,0,3,0,,2015
+Charlton Athletic,Derby County,3-2,https://www.besoccer.com/match/charlton-athletic-fc/derby-county-fc/201511844,2015,3,championship,55,57,2,0,1,0,,2015
+Blackpool,Brentford,1-2,https://www.besoccer.com/match/blackpool-fc/brentford/201511845,2015,3,championship,53,47,2,0,1,0,,2015
+AFC Bournemouth,Nottingham Forest,1-2,https://www.besoccer.com/match/afc-bournemouth/nottingham-forest-fc/201511846,2015,3,championship,50,57,2,0,3,0,,2015
+Rotherham United,Watford,0-2,https://www.besoccer.com/match/rotherham-united/watford-fc/201511849,2015,3,championship,42,58,2,0,2,0,,2015
+Leeds United,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/leeds-united-afc/brighton-amp-hov/201511850,2015,3,championship,57,56,5,0,1,0,,2015
+Cardiff City,Wigan Athletic,1-0,https://www.besoccer.com/match/cardiff-city-fc/wigan-athletic/201511851,2015,3,championship,61,66,1,0,0,0,,2015
+Birmingham City,Ipswich Town,2-2,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/201511852,2015,3,championship,61,55,1,0,0,0,,2015
+Reading,Huddersfield Town,1-2,https://www.besoccer.com/match/reading-fc/huddersfield-town-fc/201511841,2015,3,championship,61,52,3,0,2,0,,2015
+Bolton Wanderers,Middlesbrough,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/middlesbrough-fc/201511848,2015,3,championship,63,60,2,0,3,0,,2015
+Fulham,Wolves,0-1,https://www.besoccer.com/match/fulham/wolverhampton/201540652,2015,3,championship,66,55,4,0,0,0,,2015
+Ipswich Town,Norwich City,0-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/201511863,2015,4,championship,56,62,2,0,1,0,,2015
+Brentford,Birmingham City,1-1,https://www.besoccer.com/match/brentford/birmingham-city-fc/201511853,2015,4,championship,47,61,0,1,0,1,,2015
+Watford,Leeds United,4-1,https://www.besoccer.com/match/watford-fc/leeds-united-afc/201511854,2015,4,championship,58,56,2,0,2,0,,2015
+Nottingham Forest,Reading,4-0,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/201511856,2015,4,championship,57,61,1,0,1,0,,2015
+Middlesbrough,Sheffield Wednesday,2-3,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/201511857,2015,4,championship,60,55,3,0,3,0,,2015
+Huddersfield Town,Charlton Athletic,1-1,https://www.besoccer.com/match/huddersfield-town-fc/charlton-athletic-fc/201511858,2015,4,championship,52,55,3,1,1,1,,2015
+Brighton & Hove Albion,Bolton Wanderers,2-1,https://www.besoccer.com/match/brighton-amp-hov/bolton-wanderers-fc/201511859,2015,4,championship,56,63,2,0,1,0,,2015
+Blackburn Rovers,AFC Bournemouth,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/afc-bournemouth/201511860,2015,4,championship,63,50,3,0,1,0,,2015
+Wigan Athletic,Blackpool,1-0,https://www.besoccer.com/match/wigan-athletic/blackpool-fc/201511861,2015,4,championship,66,53,2,0,3,0,,2015
+Millwall,Rotherham United,0-1,https://www.besoccer.com/match/millwall-fc/rotherham-united/201511862,2015,4,championship,53,42,1,0,2,0,,2015
+Derby County,Fulham,5-1,https://www.besoccer.com/match/derby-county-fc/fulham/201511864,2015,4,championship,57,66,0,0,0,0,,2015
+Wolves,Cardiff City,1-0,https://www.besoccer.com/match/wolverhampton/cardiff-city-fc/201540653,2015,4,championship,55,61,2,0,2,0,,2015
+Sheffield Wednesday,Nottingham Forest,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/201511873,2015,5,championship,55,58,4,0,3,0,,2015
+Middlesbrough,Reading,0-1,https://www.besoccer.com/match/middlesbrough-fc/reading-fc/201511865,2015,5,championship,60,61,2,0,1,0,,2015
+Fulham,Cardiff City,1-1,https://www.besoccer.com/match/fulham/cardiff-city-fc/201511866,2015,5,championship,65,61,1,0,1,0,,2015
+Brighton & Hove Albion,Charlton Athletic,2-2,https://www.besoccer.com/match/brighton-amp-hov/charlton-athletic-fc/201511867,2015,5,championship,57,55,2,0,1,0,,2015
+Wigan Athletic,Birmingham City,4-0,https://www.besoccer.com/match/wigan-athletic/birmingham-city-fc/201511868,2015,5,championship,66,61,1,0,2,0,,2015
+Rotherham United,Brentford,0-2,https://www.besoccer.com/match/rotherham-united/brentford/201511869,2015,5,championship,43,47,0,0,1,0,,2015
+Millwall,Blackpool,2-1,https://www.besoccer.com/match/millwall-fc/blackpool-fc/201511870,2015,5,championship,53,53,3,0,3,0,,2015
+Leeds United,Bolton Wanderers,1-0,https://www.besoccer.com/match/leeds-united-afc/bolton-wanderers-fc/201511871,2015,5,championship,56,63,2,0,0,0,,2015
+Derby County,Ipswich Town,1-1,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/201511872,2015,5,championship,58,55,1,0,3,0,,2015
+Watford,Huddersfield Town,4-2,https://www.besoccer.com/match/watford-fc/huddersfield-town-fc/201511875,2015,5,championship,58,52,3,1,5,1,,2015
+Norwich City,AFC Bournemouth,1-1,https://www.besoccer.com/match/norwich-city-fc/afc-bournemouth/201511876,2015,5,championship,62,50,4,0,1,0,,2015
+Wolves,Blackburn Rovers,3-1,https://www.besoccer.com/match/wolverhampton/blackburn-rovers-fc/201540654,2015,5,championship,55,63,2,0,5,0,,2015
+Birmingham City,Leeds United,1-1,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/201511881,2015,6,championship,60,56,2,0,0,0,,2015
+Huddersfield Town,Middlesbrough,1-2,https://www.besoccer.com/match/huddersfield-town-fc/middlesbrough-fc/201511878,2015,6,championship,51,60,2,0,2,0,,2015
+Brentford,Brighton & Hove Albion,3-2,https://www.besoccer.com/match/brentford/brighton-amp-hov/201511879,2015,6,championship,47,57,1,0,2,0,,2015
+Charlton Athletic,Watford,1-0,https://www.besoccer.com/match/charlton-athletic-fc/watford-fc/201511882,2015,6,championship,55,58,3,0,4,0,,2015
+Reading,Fulham,3-0,https://www.besoccer.com/match/reading-fc/fulham/201511883,2015,6,championship,61,65,1,0,3,0,,2015
+Ipswich Town,Millwall,2-0,https://www.besoccer.com/match/ipswich-town-fc/millwall-fc/201511884,2015,6,championship,55,53,1,0,0,0,,2015
+Cardiff City,Norwich City,2-4,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/201511885,2015,6,championship,61,62,1,0,2,0,,2015
+Bolton Wanderers,Sheffield Wednesday,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-wednesday-fc/201511886,2015,6,championship,63,55,2,0,0,0,,2015
+Blackburn Rovers,Wigan Athletic,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/wigan-athletic/201511887,2015,6,championship,63,66,1,0,2,0,,2015
+AFC Bournemouth,Rotherham United,1-1,https://www.besoccer.com/match/afc-bournemouth/rotherham-united/201511888,2015,6,championship,50,42,1,0,2,0,,2015
+Blackpool,Wolves,0-0,https://www.besoccer.com/match/blackpool-fc/wolverhampton/201540655,2015,6,championship,53,56,0,0,0,0,,2015
+Nottingham Forest,Derby County,1-1,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/201511877,2015,6,championship,58,58,4,0,2,0,,2015
+Huddersfield Town,Wigan Athletic,0-0,https://www.besoccer.com/match/huddersfield-town-fc/wigan-athletic/201511891,2015,7,championship,51,66,1,0,2,0,,2015
+Cardiff City,Middlesbrough,0-1,https://www.besoccer.com/match/cardiff-city-fc/middlesbrough-fc/201511892,2015,7,championship,61,60,1,0,2,0,,2015
+Blackpool,Watford,0-1,https://www.besoccer.com/match/blackpool-fc/watford-fc/201511893,2015,7,championship,53,58,2,0,1,0,,2015
+Birmingham City,Sheffield Wednesday,0-2,https://www.besoccer.com/match/birmingham-city-fc/sheffield-wednesday-fc/201511894,2015,7,championship,60,55,2,0,1,0,,2015
+Ipswich Town,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/ipswich-town-fc/brighton-amp-hov/201511896,2015,7,championship,56,56,3,0,3,0,,2015
+Brentford,Norwich City,0-3,https://www.besoccer.com/match/brentford/norwich-city-fc/201511898,2015,7,championship,47,63,2,0,2,0,,2015
+AFC Bournemouth,Leeds United,1-3,https://www.besoccer.com/match/afc-bournemouth/leeds-united-afc/201511900,2015,7,championship,50,56,1,0,1,0,,2015
+Charlton Athletic,Wolves,1-1,https://www.besoccer.com/match/charlton-athletic-fc/wolverhampton/201540656,2015,7,championship,55,56,1,0,0,0,,2015
+Bolton Wanderers,Rotherham United,3-2,https://www.besoccer.com/match/bolton-wanderers-fc/rotherham-united/201511890,2015,7,championship,63,42,1,0,1,0,,2015
+Reading,Millwall,3-2,https://www.besoccer.com/match/reading-fc/millwall-fc/201511895,2015,7,championship,61,53,0,0,2,0,,2015
+Nottingham Forest,Fulham,5-3,https://www.besoccer.com/match/nottingham-forest-fc/fulham/201511889,2015,7,championship,58,65,2,0,6,0,,2015
+Blackburn Rovers,Derby County,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/derby-county-fc/201511899,2015,7,championship,63,58,0,0,2,0,,2015
+Watford,AFC Bournemouth,1-1,https://www.besoccer.com/match/watford-fc/afc-bournemouth/201511909,2015,8,championship,58,50,2,0,5,0,,2015
+Derby County,Cardiff City,2-2,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/201511901,2015,8,championship,58,60,0,0,2,0,,2015
+Sheffield Wednesday,Reading,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/reading-fc/201511903,2015,8,championship,56,61,3,0,3,0,,2015
+Norwich City,Birmingham City,2-2,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/201511904,2015,8,championship,63,60,3,0,1,0,,2015
+Middlesbrough,Brentford,4-0,https://www.besoccer.com/match/middlesbrough-fc/brentford/201511905,2015,8,championship,60,47,2,1,1,1,,2015
+Fulham,Blackburn Rovers,0-1,https://www.besoccer.com/match/fulham/blackburn-rovers-fc/201511906,2015,8,championship,65,63,3,1,2,1,,2015
+Brighton & Hove Albion,Blackpool,0-0,https://www.besoccer.com/match/brighton-amp-hov/blackpool-fc/201511907,2015,8,championship,56,52,3,0,5,0,,2015
+Rotherham United,Charlton Athletic,1-1,https://www.besoccer.com/match/rotherham-united/charlton-athletic-fc/201511910,2015,8,championship,42,55,2,0,2,0,,2015
+Millwall,Nottingham Forest,0-0,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/201511911,2015,8,championship,53,59,2,0,3,0,,2015
+Leeds United,Huddersfield Town,3-0,https://www.besoccer.com/match/leeds-united-afc/huddersfield-town-fc/201511912,2015,8,championship,56,51,3,1,1,1,,2015
+Wolves,Bolton Wanderers,1-0,https://www.besoccer.com/match/wolverhampton/bolton-wanderers-fc/201540657,2015,8,championship,56,63,1,0,1,0,,2015
+Wigan Athletic,Ipswich Town,1-2,https://www.besoccer.com/match/wigan-athletic/ipswich-town-fc/201511902,2015,8,championship,66,56,0,0,2,0,,2015
+Cardiff City,Sheffield Wednesday,2-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-wednesday-fc/201511913,2015,9,championship,60,56,0,0,2,0,,2015
+Bolton Wanderers,Derby County,0-2,https://www.besoccer.com/match/bolton-wanderers-fc/derby-county-fc/201511914,2015,9,championship,63,58,2,0,1,0,,2015
+Blackburn Rovers,Watford,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/watford-fc/201511915,2015,9,championship,63,58,1,0,3,0,,2015
+Birmingham City,Fulham,1-2,https://www.besoccer.com/match/birmingham-city-fc/fulham/201511916,2015,9,championship,60,65,1,0,1,0,,2015
+Ipswich Town,Rotherham United,2-0,https://www.besoccer.com/match/ipswich-town-fc/rotherham-united/201511918,2015,9,championship,56,42,0,0,2,0,,2015
+Charlton Athletic,Middlesbrough,0-0,https://www.besoccer.com/match/charlton-athletic-fc/middlesbrough-fc/201511919,2015,9,championship,55,60,2,0,1,0,,2015
+Brentford,Leeds United,2-0,https://www.besoccer.com/match/brentford/leeds-united-afc/201511920,2015,9,championship,47,56,0,0,1,0,,2015
+Blackpool,Norwich City,1-3,https://www.besoccer.com/match/blackpool-fc/norwich-city-fc/201511921,2015,9,championship,53,62,2,0,2,0,,2015
+AFC Bournemouth,Wigan Athletic,2-0,https://www.besoccer.com/match/afc-bournemouth/wigan-athletic/201511922,2015,9,championship,51,66,2,0,1,0,,2015
+Nottingham Forest,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/nottingham-forest-fc/brighton-amp-hov/201511923,2015,9,championship,59,56,2,0,3,0,,2015
+Huddersfield Town,Millwall,2-1,https://www.besoccer.com/match/huddersfield-town-fc/millwall-fc/201511924,2015,9,championship,51,53,2,0,5,0,,2015
+Reading,Wolves,3-3,https://www.besoccer.com/match/reading-fc/wolverhampton/201540658,2015,9,championship,61,56,2,0,2,0,,2015
+Watford,Brentford,2-1,https://www.besoccer.com/match/watford-fc/brentford/201511926,2015,10,championship,58,47,4,2,2,2,,2015
+Brighton & Hove Albion,Cardiff City,1-1,https://www.besoccer.com/match/brighton-amp-hov/cardiff-city-fc/201511927,2015,10,championship,57,60,3,0,3,0,,2015
+Rotherham United,Blackburn Rovers,2-0,https://www.besoccer.com/match/rotherham-united/blackburn-rovers-fc/201511928,2015,10,championship,42,63,1,0,3,0,,2015
+Millwall,Birmingham City,1-3,https://www.besoccer.com/match/millwall-fc/birmingham-city-fc/201511929,2015,10,championship,53,60,1,0,3,0,,2015
+Wigan Athletic,Nottingham Forest,0-0,https://www.besoccer.com/match/wigan-athletic/nottingham-forest-fc/201511931,2015,10,championship,66,59,1,0,3,0,,2015
+Derby County,AFC Bournemouth,2-0,https://www.besoccer.com/match/derby-county-fc/afc-bournemouth/201511932,2015,10,championship,58,51,0,0,1,0,,2015
+Sheffield Wednesday,Ipswich Town,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/201511933,2015,10,championship,56,56,2,0,0,0,,2015
+Norwich City,Charlton Athletic,0-1,https://www.besoccer.com/match/norwich-city-fc/charlton-athletic-fc/201511935,2015,10,championship,62,55,0,0,3,0,,2015
+Middlesbrough,Blackpool,1-1,https://www.besoccer.com/match/middlesbrough-fc/blackpool-fc/201511936,2015,10,championship,60,52,2,0,2,0,,2015
+Leeds United,Reading,0-0,https://www.besoccer.com/match/leeds-united-afc/reading-fc/201511930,2015,10,championship,56,61,3,0,4,0,,2015
+Wolves,Huddersfield Town,1-3,https://www.besoccer.com/match/wolverhampton/huddersfield-town-fc/201540659,2015,10,championship,56,51,1,0,0,0,,2015
+Fulham,Bolton Wanderers,4-0,https://www.besoccer.com/match/fulham/bolton-wanderers-fc/201511925,2015,10,championship,65,62,0,0,2,0,,2015
+Blackpool,Cardiff City,1-0,https://www.besoccer.com/match/blackpool-fc/cardiff-city-fc/201511939,2015,11,championship,52,60,2,0,2,0,,2015
+Leeds United,Sheffield Wednesday,1-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/201511942,2015,11,championship,56,56,3,0,4,0,,2015
+Derby County,Millwall,0-0,https://www.besoccer.com/match/derby-county-fc/millwall-fc/201511937,2015,11,championship,59,53,4,0,4,0,,2015
+Brentford,Reading,3-1,https://www.besoccer.com/match/brentford/reading-fc/201511938,2015,11,championship,47,61,2,0,3,0,,2015
+Watford,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/watford-fc/brighton-amp-hov/201511940,2015,11,championship,58,57,4,0,2,0,,2015
+Norwich City,Rotherham United,1-1,https://www.besoccer.com/match/norwich-city-fc/rotherham-united/201511941,2015,11,championship,62,43,1,0,1,0,,2015
+Charlton Athletic,Birmingham City,1-1,https://www.besoccer.com/match/charlton-athletic-fc/birmingham-city-fc/201511943,2015,11,championship,55,60,0,0,1,0,,2015
+Bolton Wanderers,AFC Bournemouth,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/afc-bournemouth/201511944,2015,11,championship,62,51,3,0,1,0,,2015
+Blackburn Rovers,Huddersfield Town,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/huddersfield-town-fc/201511945,2015,11,championship,62,52,2,0,1,0,,2015
+Middlesbrough,Fulham,2-0,https://www.besoccer.com/match/middlesbrough-fc/fulham/201511948,2015,11,championship,60,65,1,0,1,0,,2015
+Wolves,Wigan Athletic,2-2,https://www.besoccer.com/match/wolverhampton/wigan-athletic/201540660,2015,11,championship,56,66,2,0,4,0,,2015
+Nottingham Forest,Ipswich Town,2-2,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/201511947,2015,11,championship,59,56,1,0,0,0,,2015
+Rotherham United,Leeds United,2-1,https://www.besoccer.com/match/rotherham-united/leeds-united-afc/201511955,2015,12,championship,43,56,3,0,4,0,,2015
+Cardiff City,Nottingham Forest,2-1,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/201511951,2015,12,championship,60,59,1,0,3,0,,2015
+Reading,Derby County,0-3,https://www.besoccer.com/match/reading-fc/derby-county-fc/201511949,2015,12,championship,61,59,2,0,4,0,,2015
+Ipswich Town,Blackburn Rovers,1-1,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/201511950,2015,12,championship,56,62,1,0,2,0,,2015
+Birmingham City,Bolton Wanderers,0-1,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/201511952,2015,12,championship,60,62,1,1,1,1,,2015
+Fulham,Norwich City,1-0,https://www.besoccer.com/match/fulham/norwich-city-fc/201511953,2015,12,championship,65,62,2,0,0,0,,2015
+Wigan Athletic,Brentford,0-0,https://www.besoccer.com/match/wigan-athletic/brentford/201511954,2015,12,championship,65,47,2,0,5,0,,2015
+Huddersfield Town,Blackpool,4-2,https://www.besoccer.com/match/huddersfield-town-fc/blackpool-fc/201511957,2015,12,championship,52,53,2,0,3,0,,2015
+Brighton & Hove Albion,Middlesbrough,1-2,https://www.besoccer.com/match/brighton-amp-hov/middlesbrough-fc/201511958,2015,12,championship,57,60,2,0,4,0,,2015
+AFC Bournemouth,Charlton Athletic,1-0,https://www.besoccer.com/match/afc-bournemouth/charlton-athletic-fc/201511959,2015,12,championship,51,55,1,0,3,0,,2015
+Sheffield Wednesday,Watford,0-3,https://www.besoccer.com/match/sheffield-wednesday-fc/watford-fc/201511960,2015,12,championship,56,58,1,0,2,0,,2015
+Millwall,Wolves,3-3,https://www.besoccer.com/match/millwall-fc/wolverhampton/201540661,2015,12,championship,53,56,1,1,6,1,,2015
+Watford,Nottingham Forest,2-2,https://www.besoccer.com/match/watford-fc/nottingham-forest-fc/201511962,2015,13,championship,58,58,0,0,1,0,,2015
+Blackpool,Derby County,0-1,https://www.besoccer.com/match/blackpool-fc/derby-county-fc/201511963,2015,13,championship,52,59,3,0,1,0,,2015
+AFC Bournemouth,Reading,3-0,https://www.besoccer.com/match/afc-bournemouth/reading-fc/201511964,2015,13,championship,51,60,0,0,0,0,,2015
+Norwich City,Leeds United,1-1,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/201511965,2015,13,championship,62,56,2,0,2,0,,2015
+Charlton Athletic,Bolton Wanderers,2-1,https://www.besoccer.com/match/charlton-athletic-fc/bolton-wanderers-fc/201511966,2015,13,championship,55,62,2,0,1,0,,2015
+Wigan Athletic,Millwall,0-0,https://www.besoccer.com/match/wigan-athletic/millwall-fc/201511967,2015,13,championship,65,53,0,0,3,0,,2015
+Brentford,Sheffield Wednesday,0-0,https://www.besoccer.com/match/brentford/sheffield-wednesday-fc/201511968,2015,13,championship,48,56,1,0,2,0,,2015
+Blackburn Rovers,Birmingham City,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/201511969,2015,13,championship,62,60,2,0,2,0,,2015
+Rotherham United,Fulham,3-3,https://www.besoccer.com/match/rotherham-united/fulham/201511970,2015,13,championship,43,65,0,0,1,0,,2015
+Huddersfield Town,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/huddersfield-town-fc/brighton-amp-hov/201511971,2015,13,championship,52,56,0,0,4,0,,2015
+Cardiff City,Ipswich Town,3-1,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/201511972,2015,13,championship,60,56,2,0,1,0,,2015
+Wolves,Middlesbrough,2-0,https://www.besoccer.com/match/wolverhampton/middlesbrough-fc/201540662,2015,13,championship,56,61,2,0,1,0,,2015
+Fulham,Charlton Athletic,3-0,https://www.besoccer.com/match/fulham/charlton-athletic-fc/201511977,2015,14,championship,65,55,0,0,0,0,,2015
+Millwall,Cardiff City,1-0,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/201511975,2015,14,championship,53,60,2,0,0,0,,2015
+Bolton Wanderers,Brentford,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/brentford/201511973,2015,14,championship,62,48,6,0,0,0,,2015
+Reading,Blackpool,3-0,https://www.besoccer.com/match/reading-fc/blackpool-fc/201511974,2015,14,championship,60,52,2,0,2,0,,2015
+Brighton & Hove Albion,Rotherham United,1-1,https://www.besoccer.com/match/brighton-amp-hov/rotherham-united/201511978,2015,14,championship,56,43,1,0,2,0,,2015
+Birmingham City,AFC Bournemouth,0-8,https://www.besoccer.com/match/birmingham-city-fc/afc-bournemouth/201511979,2015,14,championship,60,52,1,1,4,1,,2015
+Sheffield Wednesday,Norwich City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/201511980,2015,14,championship,56,62,4,0,3,0,,2015
+Nottingham Forest,Blackburn Rovers,1-3,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/201511981,2015,14,championship,58,62,0,0,2,0,,2015
+Middlesbrough,Watford,1-1,https://www.besoccer.com/match/middlesbrough-fc/watford-fc/201511982,2015,14,championship,60,58,4,0,1,0,,2015
+Ipswich Town,Huddersfield Town,2-2,https://www.besoccer.com/match/ipswich-town-fc/huddersfield-town-fc/201511983,2015,14,championship,56,52,3,0,0,0,,2015
+Derby County,Wigan Athletic,1-2,https://www.besoccer.com/match/derby-county-fc/wigan-athletic/201511984,2015,14,championship,59,65,1,0,5,0,,2015
+Leeds United,Wolves,1-2,https://www.besoccer.com/match/leeds-united-afc/wolverhampton/201540663,2015,14,championship,56,56,0,0,1,0,,2015
+Norwich City,Bolton Wanderers,2-1,https://www.besoccer.com/match/norwich-city-fc/bolton-wanderers-fc/201511990,2015,15,championship,62,62,1,0,2,0,,2015
+Wolves,Birmingham City,0-0,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/201540664,2015,15,championship,56,60,1,0,3,0,,2015
+Cardiff City,Leeds United,3-1,https://www.besoccer.com/match/cardiff-city-fc/leeds-united-afc/201511985,2015,15,championship,60,56,2,0,3,0,,2015
+Blackpool,Ipswich Town,0-2,https://www.besoccer.com/match/blackpool-fc/ipswich-town-fc/201511986,2015,15,championship,52,56,0,0,1,0,,2015
+Watford,Millwall,3-1,https://www.besoccer.com/match/watford-fc/millwall-fc/201511989,2015,15,championship,58,53,1,0,5,0,,2015
+Charlton Athletic,Sheffield Wednesday,1-1,https://www.besoccer.com/match/charlton-athletic-fc/sheffield-wednesday-fc/201511991,2015,15,championship,55,56,0,0,0,0,,2015
+Brentford,Derby County,2-1,https://www.besoccer.com/match/brentford/derby-county-fc/201511992,2015,15,championship,47,60,3,0,4,0,,2015
+Blackburn Rovers,Reading,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/reading-fc/201511993,2015,15,championship,63,60,2,0,3,0,,2015
+Wigan Athletic,Fulham,3-3,https://www.besoccer.com/match/wigan-athletic/fulham/201511994,2015,15,championship,65,65,2,1,2,1,,2015
+Rotherham United,Middlesbrough,0-3,https://www.besoccer.com/match/rotherham-united/middlesbrough-fc/201511995,2015,15,championship,43,60,2,1,0,1,,2015
+Huddersfield Town,Nottingham Forest,3-0,https://www.besoccer.com/match/huddersfield-town-fc/nottingham-forest-fc/201511996,2015,15,championship,52,58,1,0,2,0,,2015
+AFC Bournemouth,Brighton & Hove Albion,3-2,https://www.besoccer.com/match/afc-bournemouth/brighton-amp-hov/201511987,2015,15,championship,53,56,3,0,5,0,,2015
+Leeds United,Charlton Athletic,2-2,https://www.besoccer.com/match/leeds-united-afc/charlton-athletic-fc/201511997,2015,16,championship,56,55,2,0,2,0,,2015
+Derby County,Huddersfield Town,3-2,https://www.besoccer.com/match/derby-county-fc/huddersfield-town-fc/201511998,2015,16,championship,59,52,2,0,2,0,,2015
+Birmingham City,Watford,2-1,https://www.besoccer.com/match/birmingham-city-fc/watford-fc/201511999,2015,16,championship,60,58,1,0,2,0,,2015
+Sheffield Wednesday,AFC Bournemouth,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/afc-bournemouth/201512000,2015,16,championship,56,53,2,1,0,1,,2015
+Millwall,Blackburn Rovers,2-2,https://www.besoccer.com/match/millwall-fc/blackburn-rovers-fc/201512001,2015,16,championship,53,63,2,1,1,1,,2015
+Brighton & Hove Albion,Wigan Athletic,1-0,https://www.besoccer.com/match/brighton-amp-hov/wigan-athletic/201512004,2015,16,championship,56,65,0,0,2,0,,2015
+Middlesbrough,Norwich City,4-0,https://www.besoccer.com/match/middlesbrough-fc/norwich-city-fc/201512007,2015,16,championship,60,62,2,0,3,0,,2015
+Ipswich Town,Wolves,2-1,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/201540665,2015,16,championship,56,56,3,0,2,0,,2015
+Bolton Wanderers,Cardiff City,3-0,https://www.besoccer.com/match/bolton-wanderers-fc/cardiff-city-fc/201512002,2015,16,championship,62,60,1,0,1,0,,2015
+Reading,Rotherham United,3-0,https://www.besoccer.com/match/reading-fc/rotherham-united/201512006,2015,16,championship,60,43,2,0,2,0,,2015
+Nottingham Forest,Brentford,1-3,https://www.besoccer.com/match/nottingham-forest-fc/brentford/201512008,2015,16,championship,58,48,1,0,2,0,,2015
+Fulham,Blackpool,2-2,https://www.besoccer.com/match/fulham/blackpool-fc/201512005,2015,16,championship,65,52,2,0,3,0,,2015
+Bolton Wanderers,Wigan Athletic,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/wigan-athletic/201512012,2015,17,championship,62,65,1,0,3,0,,2015
+Derby County,Wolves,5-0,https://www.besoccer.com/match/derby-county-fc/wolverhampton/201540666,2015,17,championship,60,56,1,0,4,0,,2015
+Nottingham Forest,Norwich City,2-1,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/201512009,2015,17,championship,58,62,2,0,3,0,,2015
+Middlesbrough,AFC Bournemouth,0-0,https://www.besoccer.com/match/middlesbrough-fc/afc-bournemouth/201512010,2015,17,championship,61,53,2,0,3,0,,2015
+Ipswich Town,Watford,1-0,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/201512011,2015,17,championship,56,58,1,0,3,0,,2015
+Sheffield Wednesday,Rotherham United,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/rotherham-united/201512013,2015,17,championship,55,43,0,0,1,0,,2015
+Brighton & Hove Albion,Blackburn Rovers,1-1,https://www.besoccer.com/match/brighton-amp-hov/blackburn-rovers-fc/201512014,2015,17,championship,56,63,2,0,4,0,,2015
+Reading,Charlton Athletic,0-1,https://www.besoccer.com/match/reading-fc/charlton-athletic-fc/201512015,2015,17,championship,60,55,2,0,2,0,,2015
+Millwall,Brentford,2-3,https://www.besoccer.com/match/millwall-fc/brentford/201512016,2015,17,championship,53,48,3,0,2,0,,2015
+Leeds United,Blackpool,3-1,https://www.besoccer.com/match/leeds-united-afc/blackpool-fc/201512017,2015,17,championship,56,52,1,0,0,0,,2015
+Fulham,Huddersfield Town,3-1,https://www.besoccer.com/match/fulham/huddersfield-town-fc/201512018,2015,17,championship,65,52,3,0,0,0,,2015
+Birmingham City,Cardiff City,0-0,https://www.besoccer.com/match/birmingham-city-fc/cardiff-city-fc/201512019,2015,17,championship,60,60,1,1,4,1,,2015
+Cardiff City,Reading,2-1,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/201512024,2015,18,championship,60,60,1,0,2,0,,2015
+Brentford,Fulham,2-1,https://www.besoccer.com/match/brentford/fulham/201512030,2015,18,championship,48,65,2,0,2,0,,2015
+Huddersfield Town,Sheffield Wednesday,0-0,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-wednesday-fc/201512023,2015,18,championship,52,55,1,0,4,0,,2015
+Watford,Derby County,1-2,https://www.besoccer.com/match/watford-fc/derby-county-fc/201512021,2015,18,championship,58,60,4,0,1,0,,2015
+Rotherham United,Birmingham City,0-1,https://www.besoccer.com/match/rotherham-united/birmingham-city-fc/201512022,2015,18,championship,43,60,2,0,1,0,,2015
+Blackburn Rovers,Leeds United,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/201512025,2015,18,championship,63,56,2,1,2,1,,2015
+Blackpool,Bolton Wanderers,1-1,https://www.besoccer.com/match/blackpool-fc/bolton-wanderers-fc/201512026,2015,18,championship,52,62,2,0,1,0,,2015
+Wigan Athletic,Middlesbrough,1-1,https://www.besoccer.com/match/wigan-athletic/middlesbrough-fc/201512027,2015,18,championship,65,61,2,0,2,0,,2015
+Norwich City,Brighton & Hove Albion,3-3,https://www.besoccer.com/match/norwich-city-fc/brighton-amp-hov/201512028,2015,18,championship,62,57,3,1,2,1,,2015
+Charlton Athletic,Millwall,0-0,https://www.besoccer.com/match/charlton-athletic-fc/millwall-fc/201512029,2015,18,championship,55,53,1,0,2,0,,2015
+AFC Bournemouth,Ipswich Town,2-2,https://www.besoccer.com/match/afc-bournemouth/ipswich-town-fc/201512031,2015,18,championship,53,56,2,0,3,0,,2015
+Wolves,Nottingham Forest,0-3,https://www.besoccer.com/match/wolverhampton/nottingham-forest-fc/201540667,2015,18,championship,56,58,2,0,3,0,,2015
+Charlton Athletic,Ipswich Town,0-1,https://www.besoccer.com/match/charlton-athletic-fc/ipswich-town-fc/201512040,2015,19,championship,55,56,0,0,0,0,,2015
+Brighton & Hove Albion,Fulham,1-2,https://www.besoccer.com/match/brighton-amp-hov/fulham/201512033,2015,19,championship,57,65,2,1,3,1,,2015
+Bolton Wanderers,Huddersfield Town,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/huddersfield-town-fc/201512034,2015,19,championship,62,52,2,0,2,0,,2015
+Birmingham City,Nottingham Forest,2-1,https://www.besoccer.com/match/birmingham-city-fc/nottingham-forest-fc/201512035,2015,19,championship,60,58,1,0,4,0,,2015
+Sheffield Wednesday,Wigan Athletic,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wigan-athletic/201512036,2015,19,championship,55,65,3,0,2,0,,2015
+Norwich City,Reading,1-2,https://www.besoccer.com/match/norwich-city-fc/reading-fc/201512037,2015,19,championship,62,60,2,0,2,0,,2015
+Leeds United,Derby County,2-0,https://www.besoccer.com/match/leeds-united-afc/derby-county-fc/201512038,2015,19,championship,56,60,4,0,5,0,,2015
+AFC Bournemouth,Millwall,2-2,https://www.besoccer.com/match/afc-bournemouth/millwall-fc/201512041,2015,19,championship,53,53,1,0,3,0,,2015
+Watford,Cardiff City,0-1,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/201512042,2015,19,championship,58,60,0,0,2,0,,2015
+Rotherham United,Blackpool,1-1,https://www.besoccer.com/match/rotherham-united/blackpool-fc/201512043,2015,19,championship,43,52,3,0,0,0,,2015
+Middlesbrough,Blackburn Rovers,1-1,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/201512044,2015,19,championship,61,63,1,0,1,0,,2015
+Brentford,Wolves,4-0,https://www.besoccer.com/match/brentford/wolverhampton/201540668,2015,19,championship,48,55,1,0,4,0,,2015
+Fulham,Watford,0-5,https://www.besoccer.com/match/fulham/watford-fc/201512047,2015,20,championship,65,58,0,1,1,1,,2015
+Nottingham Forest,Charlton Athletic,1-1,https://www.besoccer.com/match/nottingham-forest-fc/charlton-athletic-fc/201512045,2015,20,championship,58,55,2,0,1,0,,2015
+Ipswich Town,Leeds United,4-1,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/201512046,2015,20,championship,57,56,2,0,2,0,,2015
+Cardiff City,Rotherham United,0-0,https://www.besoccer.com/match/cardiff-city-fc/rotherham-united/201512049,2015,20,championship,60,43,0,0,0,0,,2015
+Blackburn Rovers,Sheffield Wednesday,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/201512050,2015,20,championship,63,55,0,0,1,0,,2015
+Reading,Bolton Wanderers,0-0,https://www.besoccer.com/match/reading-fc/bolton-wanderers-fc/201512051,2015,20,championship,60,62,3,0,0,0,,2015
+Millwall,Middlesbrough,1-5,https://www.besoccer.com/match/millwall-fc/middlesbrough-fc/201512052,2015,20,championship,53,61,1,0,0,0,,2015
+Huddersfield Town,Brentford,2-1,https://www.besoccer.com/match/huddersfield-town-fc/brentford/201512053,2015,20,championship,52,49,3,0,3,0,,2015
+Derby County,Brighton & Hove Albion,3-0,https://www.besoccer.com/match/derby-county-fc/brighton-amp-hov/201512054,2015,20,championship,60,56,2,0,2,0,,2015
+Blackpool,Birmingham City,1-0,https://www.besoccer.com/match/blackpool-fc/birmingham-city-fc/201512055,2015,20,championship,52,60,5,0,2,0,,2015
+Wigan Athletic,Norwich City,0-1,https://www.besoccer.com/match/wigan-athletic/norwich-city-fc/201512056,2015,20,championship,65,62,0,0,0,0,,2015
+Wolves,AFC Bournemouth,1-2,https://www.besoccer.com/match/wolverhampton/afc-bournemouth/201540669,2015,20,championship,55,53,3,2,2,2,,2015
+Brighton & Hove Albion,Millwall,0-1,https://www.besoccer.com/match/brighton-amp-hov/millwall-fc/201512058,2015,21,championship,56,52,2,0,4,0,,2015
+Middlesbrough,Derby County,2-0,https://www.besoccer.com/match/middlesbrough-fc/derby-county-fc/201512057,2015,21,championship,61,60,2,0,3,0,,2015
+Bolton Wanderers,Ipswich Town,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/ipswich-town-fc/201512059,2015,21,championship,62,57,2,0,3,0,,2015
+AFC Bournemouth,Cardiff City,5-3,https://www.besoccer.com/match/afc-bournemouth/cardiff-city-fc/201512060,2015,21,championship,53,60,0,0,0,0,,2015
+Norwich City,Huddersfield Town,5-0,https://www.besoccer.com/match/norwich-city-fc/huddersfield-town-fc/201512062,2015,21,championship,62,52,0,0,0,0,,2015
+Leeds United,Fulham,0-1,https://www.besoccer.com/match/leeds-united-afc/fulham/201512063,2015,21,championship,56,64,1,0,0,0,,2015
+Brentford,Blackburn Rovers,3-1,https://www.besoccer.com/match/brentford/blackburn-rovers-fc/201512064,2015,21,championship,49,63,1,0,2,0,,2015
+Birmingham City,Reading,6-1,https://www.besoccer.com/match/birmingham-city-fc/reading-fc/201512065,2015,21,championship,60,60,0,0,2,0,,2015
+Charlton Athletic,Blackpool,2-2,https://www.besoccer.com/match/charlton-athletic-fc/blackpool-fc/201512066,2015,21,championship,55,52,1,0,1,0,,2015
+Watford,Wigan Athletic,2-1,https://www.besoccer.com/match/watford-fc/wigan-athletic/201512067,2015,21,championship,58,65,2,0,1,0,,2015
+Rotherham United,Nottingham Forest,0-0,https://www.besoccer.com/match/rotherham-united/nottingham-forest-fc/201512068,2015,21,championship,43,58,2,0,1,0,,2015
+Sheffield Wednesday,Wolves,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wolverhampton/201540670,2015,21,championship,56,55,2,0,0,0,,2015
+Millwall,Bolton Wanderers,0-1,https://www.besoccer.com/match/millwall-fc/bolton-wanderers-fc/201512077,2015,22,championship,53,62,2,0,3,0,,2015
+Derby County,Norwich City,2-2,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/201512079,2015,22,championship,60,62,1,0,2,0,,2015
+Wigan Athletic,Rotherham United,1-2,https://www.besoccer.com/match/wigan-athletic/rotherham-united/201512069,2015,22,championship,65,43,2,0,4,0,,2015
+Ipswich Town,Middlesbrough,2-0,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/201512071,2015,22,championship,57,61,1,0,3,0,,2015
+Fulham,Sheffield Wednesday,4-0,https://www.besoccer.com/match/fulham/sheffield-wednesday-fc/201512072,2015,22,championship,64,55,2,0,3,0,,2015
+Cardiff City,Brentford,2-3,https://www.besoccer.com/match/cardiff-city-fc/brentford/201512073,2015,22,championship,60,49,1,0,4,0,,2015
+Blackburn Rovers,Charlton Athletic,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/charlton-athletic-fc/201512074,2015,22,championship,62,55,0,0,1,0,,2015
+Reading,Watford,0-1,https://www.besoccer.com/match/reading-fc/watford-fc/201512076,2015,22,championship,60,58,2,0,2,0,,2015
+Huddersfield Town,Birmingham City,0-1,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/201512078,2015,22,championship,52,60,1,0,1,0,,2015
+Blackpool,AFC Bournemouth,1-6,https://www.besoccer.com/match/blackpool-fc/afc-bournemouth/201512080,2015,22,championship,52,53,2,0,1,0,,2015
+Wolves,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/wolverhampton/brighton-amp-hov/201540671,2015,22,championship,55,56,3,0,4,0,,2015
+Nottingham Forest,Leeds United,1-1,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/201512070,2015,22,championship,58,56,3,0,1,0,,2015
+Charlton Athletic,Cardiff City,1-1,https://www.besoccer.com/match/charlton-athletic-fc/cardiff-city-fc/201512085,2015,23,championship,55,60,1,1,2,1,,2015
+Brentford,Ipswich Town,2-4,https://www.besoccer.com/match/brentford/ipswich-town-fc/201512086,2015,23,championship,49,57,2,0,1,0,,2015
+AFC Bournemouth,Fulham,2-0,https://www.besoccer.com/match/afc-bournemouth/fulham/201512081,2015,23,championship,54,65,2,0,1,0,,2015
+Rotherham United,Huddersfield Town,2-2,https://www.besoccer.com/match/rotherham-united/huddersfield-town-fc/201512083,2015,23,championship,43,52,2,0,3,0,,2015
+Middlesbrough,Nottingham Forest,3-0,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/201512084,2015,23,championship,61,58,0,0,2,0,,2015
+Birmingham City,Derby County,0-4,https://www.besoccer.com/match/birmingham-city-fc/derby-county-fc/201512087,2015,23,championship,60,60,1,0,2,0,,2015
+Sheffield Wednesday,Blackpool,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/blackpool-fc/201512088,2015,23,championship,55,52,0,0,3,0,,2015
+Norwich City,Millwall,6-1,https://www.besoccer.com/match/norwich-city-fc/millwall-fc/201512089,2015,23,championship,62,52,0,0,1,0,,2015
+Leeds United,Wigan Athletic,0-2,https://www.besoccer.com/match/leeds-united-afc/wigan-athletic/201512090,2015,23,championship,56,64,1,0,1,0,,2015
+Brighton & Hove Albion,Reading,2-2,https://www.besoccer.com/match/brighton-amp-hov/reading-fc/201512091,2015,23,championship,56,60,1,0,4,0,,2015
+Bolton Wanderers,Blackburn Rovers,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/blackburn-rovers-fc/201512092,2015,23,championship,63,62,1,0,2,0,,2015
+Watford,Wolves,0-1,https://www.besoccer.com/match/watford-fc/wolverhampton/201540672,2015,23,championship,59,55,2,0,2,0,,2015
+Nottingham Forest,Birmingham City,1-3,https://www.besoccer.com/match/nottingham-forest-fc/birmingham-city-fc/201512096,2015,24,championship,58,60,1,0,1,0,,2015
+Blackpool,Rotherham United,1-1,https://www.besoccer.com/match/blackpool-fc/rotherham-united/201512094,2015,24,championship,51,43,0,0,2,0,,2015
+Cardiff City,Watford,2-4,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/201512099,2015,24,championship,60,58,0,0,0,0,,2015
+Blackburn Rovers,Middlesbrough,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/201512100,2015,24,championship,62,61,2,0,3,0,,2015
+Reading,Norwich City,2-1,https://www.besoccer.com/match/reading-fc/norwich-city-fc/201512102,2015,24,championship,60,62,0,0,3,0,,2015
+Millwall,AFC Bournemouth,0-2,https://www.besoccer.com/match/millwall-fc/afc-bournemouth/201512103,2015,24,championship,52,54,4,1,3,1,,2015
+Huddersfield Town,Bolton Wanderers,2-1,https://www.besoccer.com/match/huddersfield-town-fc/bolton-wanderers-fc/201512104,2015,24,championship,52,63,1,0,2,0,,2015
+Wolves,Brentford,2-1,https://www.besoccer.com/match/wolverhampton/brentford/201540673,2015,24,championship,55,49,1,1,2,1,,2015
+Fulham,Brighton & Hove Albion,0-2,https://www.besoccer.com/match/fulham/brighton-amp-hov/201512098,2015,24,championship,64,56,1,0,1,0,,2015
+Derby County,Leeds United,2-0,https://www.besoccer.com/match/derby-county-fc/leeds-united-afc/201512093,2015,24,championship,60,56,1,0,4,0,,2015
+Wigan Athletic,Sheffield Wednesday,0-1,https://www.besoccer.com/match/wigan-athletic/sheffield-wednesday-fc/201512095,2015,24,championship,65,55,1,1,3,1,,2015
+Ipswich Town,Charlton Athletic,3-0,https://www.besoccer.com/match/ipswich-town-fc/charlton-athletic-fc/201512097,2015,24,championship,57,55,2,0,1,0,,2015
+Ipswich Town,Derby County,0-1,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/201512111,2015,25,championship,58,60,3,0,1,0,,2015
+Huddersfield Town,Watford,3-1,https://www.besoccer.com/match/huddersfield-town-fc/watford-fc/201512105,2015,25,championship,52,59,2,0,2,0,,2015
+Cardiff City,Fulham,1-0,https://www.besoccer.com/match/cardiff-city-fc/fulham/201512106,2015,25,championship,60,64,0,0,1,0,,2015
+Bolton Wanderers,Leeds United,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/leeds-united-afc/201512107,2015,25,championship,63,55,2,0,1,0,,2015
+AFC Bournemouth,Norwich City,1-2,https://www.besoccer.com/match/afc-bournemouth/norwich-city-fc/201512109,2015,25,championship,55,62,2,0,2,0,,2015
+Reading,Middlesbrough,0-0,https://www.besoccer.com/match/reading-fc/middlesbrough-fc/201512110,2015,25,championship,60,61,2,0,1,0,,2015
+Charlton Athletic,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/charlton-athletic-fc/brighton-amp-hov/201512112,2015,25,championship,55,57,0,0,1,0,,2015
+Brentford,Rotherham United,1-0,https://www.besoccer.com/match/brentford/rotherham-united/201512113,2015,25,championship,48,43,0,0,2,0,,2015
+Blackpool,Millwall,1-0,https://www.besoccer.com/match/blackpool-fc/millwall-fc/201512114,2015,25,championship,51,52,1,0,0,0,,2015
+Birmingham City,Wigan Athletic,3-1,https://www.besoccer.com/match/birmingham-city-fc/wigan-athletic/201512115,2015,25,championship,60,64,0,0,1,0,,2015
+Nottingham Forest,Sheffield Wednesday,0-2,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/201512116,2015,25,championship,57,56,1,0,0,0,,2015
+Blackburn Rovers,Wolves,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/wolverhampton/201540674,2015,25,championship,63,56,2,0,1,0,,2015
+Derby County,Nottingham Forest,1-2,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/201512122,2015,26,championship,60,57,2,0,2,0,,2015
+Watford,Charlton Athletic,5-0,https://www.besoccer.com/match/watford-fc/charlton-athletic-fc/201512118,2015,26,championship,58,54,0,0,2,0,,2015
+Rotherham United,AFC Bournemouth,0-2,https://www.besoccer.com/match/rotherham-united/afc-bournemouth/201512119,2015,26,championship,43,55,4,0,2,0,,2015
+Millwall,Ipswich Town,1-3,https://www.besoccer.com/match/millwall-fc/ipswich-town-fc/201512120,2015,26,championship,51,58,0,0,0,0,,2015
+Leeds United,Birmingham City,1-1,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/201512121,2015,26,championship,55,60,1,0,3,0,,2015
+Wigan Athletic,Blackburn Rovers,1-1,https://www.besoccer.com/match/wigan-athletic/blackburn-rovers-fc/201512123,2015,26,championship,64,62,3,0,4,0,,2015
+Sheffield Wednesday,Bolton Wanderers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/bolton-wanderers-fc/201512124,2015,26,championship,56,63,4,1,2,1,,2015
+Norwich City,Cardiff City,3-2,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/201512125,2015,26,championship,62,60,1,0,3,0,,2015
+Middlesbrough,Huddersfield Town,2-0,https://www.besoccer.com/match/middlesbrough-fc/huddersfield-town-fc/201512126,2015,26,championship,61,52,3,0,1,0,,2015
+Fulham,Reading,2-1,https://www.besoccer.com/match/fulham/reading-fc/201512127,2015,26,championship,64,60,3,0,4,0,,2015
+Brighton & Hove Albion,Brentford,0-1,https://www.besoccer.com/match/brighton-amp-hov/brentford/201512128,2015,26,championship,57,49,1,2,2,2,,2015
+Wolves,Blackpool,2-0,https://www.besoccer.com/match/wolverhampton/blackpool-fc/201540675,2015,26,championship,56,52,0,0,1,0,,2015
+Middlesbrough,Cardiff City,2-1,https://www.besoccer.com/match/middlesbrough-fc/cardiff-city-fc/201512132,2015,27,championship,61,60,3,0,1,0,,2015
+Leeds United,AFC Bournemouth,1-0,https://www.besoccer.com/match/leeds-united-afc/afc-bournemouth/201512139,2015,27,championship,55,55,2,1,1,1,,2015
+Fulham,Nottingham Forest,3-2,https://www.besoccer.com/match/fulham/nottingham-forest-fc/201512133,2015,27,championship,64,57,2,0,0,0,,2015
+Brighton & Hove Albion,Ipswich Town,3-2,https://www.besoccer.com/match/brighton-amp-hov/ipswich-town-fc/201512134,2015,27,championship,57,58,0,0,2,0,,2015
+Wigan Athletic,Huddersfield Town,0-1,https://www.besoccer.com/match/wigan-athletic/huddersfield-town-fc/201512129,2015,27,championship,64,52,3,0,0,0,,2015
+Norwich City,Brentford,1-2,https://www.besoccer.com/match/norwich-city-fc/brentford/201512131,2015,27,championship,62,49,4,0,1,0,,2015
+Watford,Blackpool,7-2,https://www.besoccer.com/match/watford-fc/blackpool-fc/201512136,2015,27,championship,59,51,0,0,1,0,,2015
+Wolves,Charlton Athletic,0-0,https://www.besoccer.com/match/wolverhampton/charlton-athletic-fc/201540676,2015,27,championship,56,54,3,0,2,0,,2015
+Sheffield Wednesday,Birmingham City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/birmingham-city-fc/201512130,2015,27,championship,56,60,1,0,2,0,,2015
+Rotherham United,Bolton Wanderers,4-2,https://www.besoccer.com/match/rotherham-united/bolton-wanderers-fc/201512137,2015,27,championship,42,63,1,0,1,0,,2015
+Millwall,Reading,0-0,https://www.besoccer.com/match/millwall-fc/reading-fc/201512138,2015,27,championship,51,60,0,1,1,1,,2015
+Derby County,Blackburn Rovers,2-0,https://www.besoccer.com/match/derby-county-fc/blackburn-rovers-fc/201512140,2015,27,championship,60,63,2,0,2,0,,2015
+AFC Bournemouth,Watford,2-0,https://www.besoccer.com/match/afc-bournemouth/watford-fc/201512144,2015,28,championship,55,59,3,0,0,0,,2015
+Brentford,Middlesbrough,0-1,https://www.besoccer.com/match/brentford/middlesbrough-fc/201512146,2015,28,championship,49,62,3,0,3,0,,2015
+Huddersfield Town,Leeds United,1-2,https://www.besoccer.com/match/huddersfield-town-fc/leeds-united-afc/201512151,2015,28,championship,52,56,2,0,3,0,,2015
+Blackburn Rovers,Fulham,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/fulham/201512142,2015,28,championship,63,64,0,0,0,0,,2015
+Nottingham Forest,Millwall,0-1,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/201512143,2015,28,championship,57,51,2,0,2,0,,2015
+Charlton Athletic,Rotherham United,1-1,https://www.besoccer.com/match/charlton-athletic-fc/rotherham-united/201512145,2015,28,championship,54,43,0,0,0,0,,2015
+Blackpool,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/blackpool-fc/brighton-amp-hov/201512147,2015,28,championship,51,57,3,0,2,0,,2015
+Reading,Sheffield Wednesday,2-0,https://www.besoccer.com/match/reading-fc/sheffield-wednesday-fc/201512148,2015,28,championship,60,56,1,0,1,0,,2015
+Birmingham City,Norwich City,0-0,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/201512149,2015,28,championship,60,62,0,0,2,0,,2015
+Ipswich Town,Wigan Athletic,0-0,https://www.besoccer.com/match/ipswich-town-fc/wigan-athletic/201512150,2015,28,championship,58,64,1,0,3,0,,2015
+Cardiff City,Derby County,0-2,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/201512152,2015,28,championship,59,60,3,0,2,0,,2015
+Bolton Wanderers,Wolves,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/wolverhampton/201540677,2015,28,championship,63,56,1,0,4,0,,2015
+Brighton & Hove Albion,Nottingham Forest,2-3,https://www.besoccer.com/match/brighton-amp-hov/nottingham-forest-fc/201512153,2015,29,championship,57,57,1,0,0,0,,2015
+Watford,Blackburn Rovers,1-0,https://www.besoccer.com/match/watford-fc/blackburn-rovers-fc/201512155,2015,29,championship,59,63,3,0,2,0,,2015
+Rotherham United,Ipswich Town,2-0,https://www.besoccer.com/match/rotherham-united/ipswich-town-fc/201512156,2015,29,championship,43,58,1,0,1,0,,2015
+Millwall,Huddersfield Town,1-3,https://www.besoccer.com/match/millwall-fc/huddersfield-town-fc/201512157,2015,29,championship,51,52,3,0,3,0,,2015
+Leeds United,Brentford,0-1,https://www.besoccer.com/match/leeds-united-afc/brentford/201512158,2015,29,championship,56,49,3,0,3,0,,2015
+Derby County,Bolton Wanderers,4-1,https://www.besoccer.com/match/derby-county-fc/bolton-wanderers-fc/201512159,2015,29,championship,61,63,0,0,2,0,,2015
+Wigan Athletic,AFC Bournemouth,1-3,https://www.besoccer.com/match/wigan-athletic/afc-bournemouth/201512160,2015,29,championship,64,55,3,0,2,0,,2015
+Sheffield Wednesday,Cardiff City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/cardiff-city-fc/201512161,2015,29,championship,56,59,2,0,5,0,,2015
+Norwich City,Blackpool,4-0,https://www.besoccer.com/match/norwich-city-fc/blackpool-fc/201512162,2015,29,championship,62,51,0,0,3,0,,2015
+Middlesbrough,Charlton Athletic,3-1,https://www.besoccer.com/match/middlesbrough-fc/charlton-athletic-fc/201512163,2015,29,championship,62,54,1,0,0,0,,2015
+Fulham,Birmingham City,1-1,https://www.besoccer.com/match/fulham/birmingham-city-fc/201512164,2015,29,championship,64,60,0,0,1,0,,2015
+Wolves,Reading,1-2,https://www.besoccer.com/match/wolverhampton/reading-fc/201540678,2015,29,championship,56,60,1,0,4,0,,2015
+Cardiff City,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/cardiff-city-fc/brighton-amp-hov/201512165,2015,30,championship,59,57,2,0,2,0,,2015
+Blackpool,Middlesbrough,1-2,https://www.besoccer.com/match/blackpool-fc/middlesbrough-fc/201512166,2015,30,championship,51,63,1,0,0,0,,2015
+Birmingham City,Millwall,0-1,https://www.besoccer.com/match/birmingham-city-fc/millwall-fc/201512167,2015,30,championship,60,51,1,0,3,0,,2015
+Ipswich Town,Sheffield Wednesday,2-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/201512169,2015,30,championship,57,56,0,0,1,0,,2015
+Charlton Athletic,Norwich City,2-3,https://www.besoccer.com/match/charlton-athletic-fc/norwich-city-fc/201512170,2015,30,championship,54,62,3,0,2,0,,2015
+Brentford,Watford,1-2,https://www.besoccer.com/match/brentford/watford-fc/201512171,2015,30,championship,49,59,2,1,1,1,,2015
+Blackburn Rovers,Rotherham United,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/rotherham-united/201512172,2015,30,championship,63,43,2,0,0,0,,2015
+AFC Bournemouth,Derby County,2-2,https://www.besoccer.com/match/afc-bournemouth/derby-county-fc/201512173,2015,30,championship,55,61,0,0,1,0,,2015
+Huddersfield Town,Wolves,1-4,https://www.besoccer.com/match/huddersfield-town-fc/wolverhampton/201540679,2015,30,championship,52,56,3,0,2,0,,2015
+Reading,Leeds United,0-2,https://www.besoccer.com/match/reading-fc/leeds-united-afc/201512168,2015,30,championship,61,56,0,0,2,0,,2015
+Bolton Wanderers,Fulham,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/fulham/201512175,2015,30,championship,62,64,0,0,0,0,,2015
+Nottingham Forest,Wigan Athletic,3-0,https://www.besoccer.com/match/nottingham-forest-fc/wigan-athletic/201512174,2015,30,championship,57,64,0,0,0,0,,2015
+Fulham,Ipswich Town,1-2,https://www.besoccer.com/match/fulham/ipswich-town-fc/201512178,2015,31,championship,64,57,1,0,3,0,,2015
+Blackpool,Nottingham Forest,4-4,https://www.besoccer.com/match/blackpool-fc/nottingham-forest-fc/201512180,2015,31,championship,51,57,5,1,0,1,,2015
+AFC Bournemouth,Huddersfield Town,1-1,https://www.besoccer.com/match/afc-bournemouth/huddersfield-town-fc/201512181,2015,31,championship,55,52,1,0,0,0,,2015
+Sheffield Wednesday,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/brighton-amp-hov/201512182,2015,31,championship,56,57,2,0,3,0,,2015
+Leeds United,Millwall,1-0,https://www.besoccer.com/match/leeds-united-afc/millwall-fc/201512184,2015,31,championship,56,51,3,0,2,0,,2015
+Charlton Athletic,Brentford,3-0,https://www.besoccer.com/match/charlton-athletic-fc/brentford/201512185,2015,31,championship,54,49,1,0,1,0,,2015
+Bolton Wanderers,Watford,3-4,https://www.besoccer.com/match/bolton-wanderers-fc/watford-fc/201512186,2015,31,championship,63,59,1,0,2,0,,2015
+Norwich City,Wolves,2-0,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/201540680,2015,31,championship,62,56,1,0,1,0,,2015
+Cardiff City,Blackburn Rovers,1-1,https://www.besoccer.com/match/cardiff-city-fc/blackburn-rovers-fc/201512179,2015,31,championship,59,64,0,0,0,0,,2015
+Rotherham United,Derby County,3-3,https://www.besoccer.com/match/rotherham-united/derby-county-fc/201512188,2015,31,championship,43,61,1,0,0,0,,2015
+Reading,Wigan Athletic,0-1,https://www.besoccer.com/match/reading-fc/wigan-athletic/201512183,2015,31,championship,61,63,1,0,6,0,,2015
+Birmingham City,Middlesbrough,1-1,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/201512187,2015,31,championship,60,63,1,0,3,0,,2015
+Wigan Athletic,Charlton Athletic,0-3,https://www.besoccer.com/match/wigan-athletic/charlton-athletic-fc/201512195,2015,32,championship,64,54,1,0,2,0,,2015
+Middlesbrough,Leeds United,0-1,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/201512197,2015,32,championship,63,56,1,0,3,0,,2015
+Watford,Norwich City,0-3,https://www.besoccer.com/match/watford-fc/norwich-city-fc/201512190,2015,32,championship,59,62,2,0,2,0,,2015
+Millwall,Fulham,0-0,https://www.besoccer.com/match/millwall-fc/fulham/201512191,2015,32,championship,51,64,1,0,0,0,,2015
+Ipswich Town,Reading,0-1,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/201512192,2015,32,championship,58,61,1,0,1,0,,2015
+Derby County,Sheffield Wednesday,3-2,https://www.besoccer.com/match/derby-county-fc/sheffield-wednesday-fc/201512193,2015,32,championship,60,56,1,0,3,0,,2015
+Brentford,AFC Bournemouth,3-1,https://www.besoccer.com/match/brentford/afc-bournemouth/201512194,2015,32,championship,49,55,3,0,4,0,,2015
+Nottingham Forest,Bolton Wanderers,4-1,https://www.besoccer.com/match/nottingham-forest-fc/bolton-wanderers-fc/201512196,2015,32,championship,57,63,0,0,3,0,,2015
+Huddersfield Town,Cardiff City,0-0,https://www.besoccer.com/match/huddersfield-town-fc/cardiff-city-fc/201512198,2015,32,championship,52,59,1,0,2,0,,2015
+Brighton & Hove Albion,Birmingham City,4-3,https://www.besoccer.com/match/brighton-amp-hov/birmingham-city-fc/201512199,2015,32,championship,57,60,1,0,1,0,,2015
+Blackburn Rovers,Blackpool,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/blackpool-fc/201512200,2015,32,championship,63,51,0,0,1,0,,2015
+Wolves,Rotherham United,5-0,https://www.besoccer.com/match/wolverhampton/rotherham-united/201540681,2015,32,championship,56,43,0,0,3,0,,2015
+Brentford,Blackpool,4-0,https://www.besoccer.com/match/brentford/blackpool-fc/201512201,2015,33,championship,49,51,0,0,0,0,,2015
+Watford,Rotherham United,3-0,https://www.besoccer.com/match/watford-fc/rotherham-united/201512203,2015,33,championship,59,43,0,0,2,0,,2015
+Middlesbrough,Bolton Wanderers,1-0,https://www.besoccer.com/match/middlesbrough-fc/bolton-wanderers-fc/201512204,2015,33,championship,63,62,1,0,5,0,,2015
+Huddersfield Town,Reading,3-0,https://www.besoccer.com/match/huddersfield-town-fc/reading-fc/201512205,2015,33,championship,52,61,0,0,2,0,,2015
+Brighton & Hove Albion,Leeds United,2-0,https://www.besoccer.com/match/brighton-amp-hov/leeds-united-afc/201512206,2015,33,championship,57,56,2,0,1,0,,2015
+Blackburn Rovers,Norwich City,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/norwich-city-fc/201512207,2015,33,championship,63,62,1,0,0,0,,2015
+Wigan Athletic,Cardiff City,0-1,https://www.besoccer.com/match/wigan-athletic/cardiff-city-fc/201512209,2015,33,championship,63,59,2,0,2,0,,2015
+Millwall,Sheffield Wednesday,1-3,https://www.besoccer.com/match/millwall-fc/sheffield-wednesday-fc/201512210,2015,33,championship,51,55,0,0,2,0,,2015
+Ipswich Town,Birmingham City,4-2,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/201512211,2015,33,championship,57,60,0,0,1,0,,2015
+Derby County,Charlton Athletic,2-0,https://www.besoccer.com/match/derby-county-fc/charlton-athletic-fc/201512212,2015,33,championship,61,54,0,0,0,0,,2015
+Wolves,Fulham,3-0,https://www.besoccer.com/match/wolverhampton/fulham/201540682,2015,33,championship,56,64,0,0,0,0,,2015
+Nottingham Forest,AFC Bournemouth,2-1,https://www.besoccer.com/match/nottingham-forest-fc/afc-bournemouth/201512208,2015,33,championship,58,55,1,0,0,0,,2015
+Blackpool,Wigan Athletic,1-3,https://www.besoccer.com/match/blackpool-fc/wigan-athletic/201512214,2015,34,championship,51,63,3,0,2,0,,2015
+Sheffield Wednesday,Middlesbrough,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/201512216,2015,34,championship,56,63,2,0,1,0,,2015
+Reading,Nottingham Forest,0-3,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/201512217,2015,34,championship,60,58,1,0,0,0,,2015
+Leeds United,Watford,2-3,https://www.besoccer.com/match/leeds-united-afc/watford-fc/201512218,2015,34,championship,56,59,1,0,2,0,,2015
+Charlton Athletic,Huddersfield Town,3-0,https://www.besoccer.com/match/charlton-athletic-fc/huddersfield-town-fc/201512219,2015,34,championship,54,52,2,0,1,0,,2015
+Bolton Wanderers,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/brighton-amp-hov/201512220,2015,34,championship,62,57,1,0,2,0,,2015
+Birmingham City,Brentford,1-0,https://www.besoccer.com/match/birmingham-city-fc/brentford/201512221,2015,34,championship,60,49,1,1,0,1,,2015
+Rotherham United,Millwall,2-1,https://www.besoccer.com/match/rotherham-united/millwall-fc/201512222,2015,34,championship,43,51,1,0,1,0,,2015
+Fulham,Derby County,2-0,https://www.besoccer.com/match/fulham/derby-county-fc/201512224,2015,34,championship,63,61,1,0,1,0,,2015
+Cardiff City,Wolves,0-1,https://www.besoccer.com/match/cardiff-city-fc/wolverhampton/201540683,2015,34,championship,59,56,1,1,2,1,,2015
+AFC Bournemouth,Blackburn Rovers,0-0,https://www.besoccer.com/match/afc-bournemouth/blackburn-rovers-fc/201512215,2015,34,championship,55,63,1,0,0,0,,2015
+Norwich City,Ipswich Town,2-0,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/201512223,2015,34,championship,62,58,2,0,2,0,,2015
+Brighton & Hove Albion,Derby County,2-0,https://www.besoccer.com/match/brighton-amp-hov/derby-county-fc/201512228,2015,35,championship,57,61,2,0,4,0,,2015
+Watford,Fulham,1-0,https://www.besoccer.com/match/watford-fc/fulham/201512230,2015,35,championship,59,63,1,0,2,0,,2015
+Rotherham United,Cardiff City,1-3,https://www.besoccer.com/match/rotherham-united/cardiff-city-fc/201512231,2015,35,championship,43,59,1,0,0,0,,2015
+Middlesbrough,Millwall,3-0,https://www.besoccer.com/match/middlesbrough-fc/millwall-fc/201512232,2015,35,championship,63,51,0,0,1,0,,2015
+Charlton Athletic,Nottingham Forest,2-1,https://www.besoccer.com/match/charlton-athletic-fc/nottingham-forest-fc/201512233,2015,35,championship,54,58,0,0,4,0,,2015
+Brentford,Huddersfield Town,4-1,https://www.besoccer.com/match/brentford/huddersfield-town-fc/201512234,2015,35,championship,49,52,0,0,3,0,,2015
+AFC Bournemouth,Wolves,2-1,https://www.besoccer.com/match/afc-bournemouth/wolverhampton/201540684,2015,35,championship,55,57,4,0,2,0,,2015
+Bolton Wanderers,Reading,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/reading-fc/201512236,2015,35,championship,62,60,1,0,2,0,,2015
+Sheffield Wednesday,Blackburn Rovers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/201512225,2015,35,championship,56,63,0,0,3,0,,2015
+Norwich City,Wigan Athletic,0-1,https://www.besoccer.com/match/norwich-city-fc/wigan-athletic/201512226,2015,35,championship,62,63,4,0,3,0,,2015
+Leeds United,Ipswich Town,2-1,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/201512227,2015,35,championship,56,58,0,0,2,0,,2015
+Birmingham City,Blackpool,1-0,https://www.besoccer.com/match/birmingham-city-fc/blackpool-fc/201512229,2015,35,championship,60,51,1,0,1,0,,2015
+Fulham,AFC Bournemouth,1-5,https://www.besoccer.com/match/fulham/afc-bournemouth/201512240,2015,36,championship,63,55,1,1,0,1,,2015
+Wigan Athletic,Leeds United,0-1,https://www.besoccer.com/match/wigan-athletic/leeds-united-afc/201512237,2015,36,championship,63,56,1,0,4,0,,2015
+Nottingham Forest,Middlesbrough,2-1,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/201512238,2015,36,championship,58,63,0,0,2,0,,2015
+Ipswich Town,Brentford,1-1,https://www.besoccer.com/match/ipswich-town-fc/brentford/201512239,2015,36,championship,57,50,1,0,4,0,,2015
+Cardiff City,Charlton Athletic,1-2,https://www.besoccer.com/match/cardiff-city-fc/charlton-athletic-fc/201512241,2015,36,championship,59,55,1,0,2,0,,2015
+Millwall,Norwich City,1-4,https://www.besoccer.com/match/millwall-fc/norwich-city-fc/201512245,2015,36,championship,50,62,1,0,1,0,,2015
+Huddersfield Town,Rotherham United,0-2,https://www.besoccer.com/match/huddersfield-town-fc/rotherham-united/201512246,2015,36,championship,52,43,1,0,3,0,,2015
+Derby County,Birmingham City,2-2,https://www.besoccer.com/match/derby-county-fc/birmingham-city-fc/201512247,2015,36,championship,60,60,3,0,2,0,,2015
+Blackpool,Sheffield Wednesday,0-1,https://www.besoccer.com/match/blackpool-fc/sheffield-wednesday-fc/201512248,2015,36,championship,51,56,3,0,4,0,,2015
+Wolves,Watford,2-2,https://www.besoccer.com/match/wolverhampton/watford-fc/201540685,2015,36,championship,56,59,1,1,2,1,,2015
+Reading,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/reading-fc/brighton-amp-hov/201512244,2015,36,championship,60,57,2,0,4,0,,2015
+Blackburn Rovers,Bolton Wanderers,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/bolton-wanderers-fc/201512242,2015,36,championship,64,62,1,0,3,0,,2015
+Middlesbrough,Ipswich Town,4-1,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/201512252,2015,37,championship,63,57,3,0,2,0,,2015
+AFC Bournemouth,Blackpool,4-0,https://www.besoccer.com/match/afc-bournemouth/blackpool-fc/201512249,2015,37,championship,55,50,2,0,2,0,,2015
+Watford,Reading,4-1,https://www.besoccer.com/match/watford-fc/reading-fc/201512250,2015,37,championship,59,60,0,0,0,0,,2015
+Rotherham United,Wigan Athletic,1-2,https://www.besoccer.com/match/rotherham-united/wigan-athletic/201512251,2015,37,championship,43,63,1,0,1,0,,2015
+Charlton Athletic,Blackburn Rovers,1-3,https://www.besoccer.com/match/charlton-athletic-fc/blackburn-rovers-fc/201512253,2015,37,championship,55,64,1,0,2,0,,2015
+Brentford,Cardiff City,1-2,https://www.besoccer.com/match/brentford/cardiff-city-fc/201512254,2015,37,championship,50,59,0,0,3,0,,2015
+Birmingham City,Huddersfield Town,1-1,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/201512255,2015,37,championship,60,51,1,0,2,0,,2015
+Sheffield Wednesday,Fulham,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/fulham/201512256,2015,37,championship,56,63,2,0,1,0,,2015
+Norwich City,Derby County,1-1,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/201512257,2015,37,championship,62,60,2,0,2,0,,2015
+Leeds United,Nottingham Forest,0-0,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/201512258,2015,37,championship,56,58,4,0,0,0,,2015
+Bolton Wanderers,Millwall,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/millwall-fc/201512260,2015,37,championship,62,50,1,0,1,0,,2015
+Brighton & Hove Albion,Wolves,1-1,https://www.besoccer.com/match/brighton-amp-hov/wolverhampton/201540686,2015,37,championship,57,56,2,0,1,0,,2015
+Wigan Athletic,Watford,0-2,https://www.besoccer.com/match/wigan-athletic/watford-fc/201512263,2015,38,championship,63,59,1,0,2,0,,2015
+Ipswich Town,Bolton Wanderers,1-0,https://www.besoccer.com/match/ipswich-town-fc/bolton-wanderers-fc/201512264,2015,38,championship,57,62,2,0,0,0,,2015
+Derby County,Middlesbrough,0-1,https://www.besoccer.com/match/derby-county-fc/middlesbrough-fc/201512265,2015,38,championship,60,63,3,0,3,0,,2015
+Blackpool,Charlton Athletic,0-3,https://www.besoccer.com/match/blackpool-fc/charlton-athletic-fc/201512266,2015,38,championship,50,55,1,0,2,0,,2015
+Millwall,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/millwall-fc/brighton-amp-hov/201512269,2015,38,championship,50,57,2,0,0,0,,2015
+Huddersfield Town,Norwich City,2-2,https://www.besoccer.com/match/huddersfield-town-fc/norwich-city-fc/201512270,2015,38,championship,51,62,2,1,3,1,,2015
+Cardiff City,AFC Bournemouth,1-1,https://www.besoccer.com/match/cardiff-city-fc/afc-bournemouth/201512271,2015,38,championship,59,56,2,0,2,0,,2015
+Blackburn Rovers,Brentford,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/brentford/201512272,2015,38,championship,64,49,0,0,2,0,,2015
+Wolves,Sheffield Wednesday,3-0,https://www.besoccer.com/match/wolverhampton/sheffield-wednesday-fc/201540687,2015,38,championship,56,56,0,0,2,0,,2015
+Nottingham Forest,Rotherham United,2-0,https://www.besoccer.com/match/nottingham-forest-fc/rotherham-united/201512267,2015,38,championship,58,43,1,0,2,0,,2015
+Fulham,Leeds United,0-3,https://www.besoccer.com/match/fulham/leeds-united-afc/201512261,2015,38,championship,63,56,1,1,2,1,,2015
+Reading,Birmingham City,0-1,https://www.besoccer.com/match/reading-fc/birmingham-city-fc/201512262,2015,38,championship,60,59,1,0,0,0,,2015
+Wolves,Derby County,2-0,https://www.besoccer.com/match/wolverhampton/derby-county-fc/201540688,2015,39,championship,57,60,0,0,1,0,,2015
+AFC Bournemouth,Middlesbrough,3-0,https://www.besoccer.com/match/afc-bournemouth/middlesbrough-fc/201512278,2015,39,championship,56,63,1,0,2,0,,2015
+Brentford,Millwall,2-2,https://www.besoccer.com/match/brentford/millwall-fc/201512283,2015,39,championship,50,50,2,0,4,0,,2015
+Wigan Athletic,Bolton Wanderers,1-1,https://www.besoccer.com/match/wigan-athletic/bolton-wanderers-fc/201512273,2015,39,championship,63,62,1,0,1,0,,2015
+Rotherham United,Sheffield Wednesday,2-3,https://www.besoccer.com/match/rotherham-united/sheffield-wednesday-fc/201512274,2015,39,championship,43,56,2,0,2,0,,2015
+Huddersfield Town,Fulham,0-2,https://www.besoccer.com/match/huddersfield-town-fc/fulham/201512275,2015,39,championship,52,63,0,0,5,0,,2015
+Cardiff City,Birmingham City,2-0,https://www.besoccer.com/match/cardiff-city-fc/birmingham-city-fc/201512276,2015,39,championship,59,60,0,0,2,0,,2015
+Blackpool,Leeds United,1-1,https://www.besoccer.com/match/blackpool-fc/leeds-united-afc/201512277,2015,39,championship,50,56,2,0,2,0,,2015
+Watford,Ipswich Town,0-1,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/201512280,2015,39,championship,60,57,1,0,3,0,,2015
+Norwich City,Nottingham Forest,3-1,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/201512281,2015,39,championship,62,58,1,0,1,0,,2015
+Charlton Athletic,Reading,3-2,https://www.besoccer.com/match/charlton-athletic-fc/reading-fc/201512282,2015,39,championship,55,60,3,0,3,0,,2015
+Blackburn Rovers,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/brighton-amp-hov/201512284,2015,39,championship,64,57,0,0,1,0,,2015
+Fulham,Brentford,1-4,https://www.besoccer.com/match/fulham/brentford/201512285,2015,40,championship,63,50,0,0,3,0,,2015
+Brighton & Hove Albion,Norwich City,0-1,https://www.besoccer.com/match/brighton-amp-hov/norwich-city-fc/201512286,2015,40,championship,57,63,2,0,2,0,,2015
+Birmingham City,Rotherham United,2-1,https://www.besoccer.com/match/birmingham-city-fc/rotherham-united/201512287,2015,40,championship,60,43,2,0,1,0,,2015
+Middlesbrough,Wigan Athletic,1-0,https://www.besoccer.com/match/middlesbrough-fc/wigan-athletic/201512290,2015,40,championship,63,63,3,0,4,0,,2015
+Millwall,Charlton Athletic,2-1,https://www.besoccer.com/match/millwall-fc/charlton-athletic-fc/201512295,2015,40,championship,50,55,3,0,1,0,,2015
+Nottingham Forest,Wolves,1-2,https://www.besoccer.com/match/nottingham-forest-fc/wolverhampton/201540689,2015,40,championship,58,57,2,0,1,0,,2015
+Ipswich Town,AFC Bournemouth,1-1,https://www.besoccer.com/match/ipswich-town-fc/afc-bournemouth/201512291,2015,40,championship,57,56,1,0,1,0,,2015
+Derby County,Watford,2-2,https://www.besoccer.com/match/derby-county-fc/watford-fc/201512292,2015,40,championship,60,59,2,0,4,0,,2015
+Sheffield Wednesday,Huddersfield Town,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/huddersfield-town-fc/201512288,2015,40,championship,56,51,0,0,3,0,,2015
+Bolton Wanderers,Blackpool,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/blackpool-fc/201512293,2015,40,championship,62,50,2,0,3,0,,2015
+Reading,Cardiff City,1-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/201512294,2015,40,championship,60,59,0,0,0,0,,2015
+Leeds United,Blackburn Rovers,0-3,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/201512296,2015,40,championship,56,64,3,1,2,1,,2015
+Watford,Middlesbrough,2-0,https://www.besoccer.com/match/watford-fc/middlesbrough-fc/201512308,2015,41,championship,59,63,2,0,2,0,,2015
+Norwich City,Sheffield Wednesday,2-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/201512297,2015,41,championship,63,56,3,0,2,0,,2015
+Brentford,Nottingham Forest,2-2,https://www.besoccer.com/match/brentford/nottingham-forest-fc/201512299,2015,41,championship,50,58,0,0,2,0,,2015
+Wigan Athletic,Derby County,0-2,https://www.besoccer.com/match/wigan-athletic/derby-county-fc/201512301,2015,41,championship,63,60,2,0,2,0,,2015
+Rotherham United,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/rotherham-united/brighton-amp-hov/201512302,2015,41,championship,43,57,2,0,2,0,,2015
+Huddersfield Town,Ipswich Town,2-1,https://www.besoccer.com/match/huddersfield-town-fc/ipswich-town-fc/201512303,2015,41,championship,51,57,1,0,2,0,,2015
+Cardiff City,Bolton Wanderers,0-3,https://www.besoccer.com/match/cardiff-city-fc/bolton-wanderers-fc/201512304,2015,41,championship,59,62,0,0,1,0,,2015
+AFC Bournemouth,Birmingham City,4-2,https://www.besoccer.com/match/afc-bournemouth/birmingham-city-fc/201512306,2015,41,championship,56,60,3,0,2,0,,2015
+Wolves,Leeds United,4-3,https://www.besoccer.com/match/wolverhampton/leeds-united-afc/201540690,2015,41,championship,57,56,2,0,3,0,,2015
+Charlton Athletic,Fulham,1-1,https://www.besoccer.com/match/charlton-athletic-fc/fulham/201512298,2015,41,championship,55,63,1,0,2,0,,2015
+Blackpool,Reading,1-1,https://www.besoccer.com/match/blackpool-fc/reading-fc/201512305,2015,41,championship,50,60,1,0,2,0,,2015
+Blackburn Rovers,Millwall,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/millwall-fc/201512300,2015,41,championship,64,51,0,0,1,0,,2015
+Brighton & Hove Albion,AFC Bournemouth,0-2,https://www.besoccer.com/match/brighton-amp-hov/afc-bournemouth/201512319,2015,42,championship,57,56,2,0,1,0,,2015
+Fulham,Wigan Athletic,2-2,https://www.besoccer.com/match/fulham/wigan-athletic/201512318,2015,42,championship,62,63,2,0,0,0,,2015
+Derby County,Brentford,1-1,https://www.besoccer.com/match/derby-county-fc/brentford/201512312,2015,42,championship,60,50,3,0,1,0,,2015
+Reading,Blackburn Rovers,0-0,https://www.besoccer.com/match/reading-fc/blackburn-rovers-fc/201512309,2015,42,championship,60,64,1,0,1,0,,2015
+Middlesbrough,Rotherham United,2-0,https://www.besoccer.com/match/middlesbrough-fc/rotherham-united/201512310,2015,42,championship,62,43,0,0,2,0,,2015
+Ipswich Town,Blackpool,3-2,https://www.besoccer.com/match/ipswich-town-fc/blackpool-fc/201512311,2015,42,championship,57,50,0,0,0,0,,2015
+Bolton Wanderers,Norwich City,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/norwich-city-fc/201512313,2015,42,championship,62,63,2,0,1,0,,2015
+Nottingham Forest,Huddersfield Town,0-1,https://www.besoccer.com/match/nottingham-forest-fc/huddersfield-town-fc/201512314,2015,42,championship,58,52,0,0,1,0,,2015
+Sheffield Wednesday,Charlton Athletic,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/charlton-athletic-fc/201512315,2015,42,championship,56,55,2,0,2,0,,2015
+Millwall,Watford,0-2,https://www.besoccer.com/match/millwall-fc/watford-fc/201512316,2015,42,championship,50,60,3,0,0,0,,2015
+Leeds United,Cardiff City,1-2,https://www.besoccer.com/match/leeds-united-afc/cardiff-city-fc/201512317,2015,42,championship,56,59,2,0,4,0,,2015
+Birmingham City,Wolves,2-1,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/201540691,2015,42,championship,59,57,1,0,3,0,,2015
+Birmingham City,Blackburn Rovers,2-2,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/201512321,2015,43,championship,60,64,0,0,1,0,,2015
+Sheffield Wednesday,Brentford,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/brentford/201512324,2015,43,championship,56,50,1,0,1,0,,2015
+Ipswich Town,Cardiff City,3-1,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/201512326,2015,43,championship,57,59,3,0,2,0,,2015
+Brighton & Hove Albion,Huddersfield Town,0-0,https://www.besoccer.com/match/brighton-amp-hov/huddersfield-town-fc/201512327,2015,43,championship,57,52,4,0,3,0,,2015
+Millwall,Wigan Athletic,2-0,https://www.besoccer.com/match/millwall-fc/wigan-athletic/201512330,2015,43,championship,50,63,4,1,2,1,,2015
+Leeds United,Norwich City,0-2,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/201512331,2015,43,championship,56,63,0,0,4,0,,2015
+Derby County,Blackpool,4-0,https://www.besoccer.com/match/derby-county-fc/blackpool-fc/201512332,2015,43,championship,60,50,0,0,0,0,,2015
+Middlesbrough,Wolves,2-1,https://www.besoccer.com/match/middlesbrough-fc/wolverhampton/201540692,2015,43,championship,63,57,1,0,4,0,,2015
+Reading,AFC Bournemouth,0-1,https://www.besoccer.com/match/reading-fc/afc-bournemouth/201512323,2015,43,championship,60,56,2,0,4,0,,2015
+Bolton Wanderers,Charlton Athletic,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/charlton-athletic-fc/201512329,2015,43,championship,62,55,0,0,0,0,,2015
+Nottingham Forest,Watford,1-3,https://www.besoccer.com/match/nottingham-forest-fc/watford-fc/201512328,2015,43,championship,58,60,0,1,3,1,,2015
+Fulham,Rotherham United,1-1,https://www.besoccer.com/match/fulham/rotherham-united/201512322,2015,43,championship,62,43,3,0,1,0,,2015
+Norwich City,Middlesbrough,0-1,https://www.besoccer.com/match/norwich-city-fc/middlesbrough-fc/201512343,2015,44,championship,63,63,2,0,2,0,,2015
+Wolves,Ipswich Town,1-1,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/201540693,2015,44,championship,57,58,1,0,2,0,,2015
+Brentford,Bolton Wanderers,2-2,https://www.besoccer.com/match/brentford/bolton-wanderers-fc/201512333,2015,44,championship,50,62,1,0,4,0,,2015
+Blackburn Rovers,Nottingham Forest,3-3,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/201512334,2015,44,championship,64,57,1,0,1,0,,2015
+Wigan Athletic,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/wigan-athletic/brighton-amp-hov/201512335,2015,44,championship,62,57,0,0,3,0,,2015
+Huddersfield Town,Derby County,4-4,https://www.besoccer.com/match/huddersfield-town-fc/derby-county-fc/201512337,2015,44,championship,52,60,2,0,1,0,,2015
+Cardiff City,Millwall,0-0,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/201512338,2015,44,championship,59,51,2,0,1,0,,2015
+Blackpool,Fulham,0-1,https://www.besoccer.com/match/blackpool-fc/fulham/201512339,2015,44,championship,50,62,0,0,2,0,,2015
+AFC Bournemouth,Sheffield Wednesday,2-2,https://www.besoccer.com/match/afc-bournemouth/sheffield-wednesday-fc/201512340,2015,44,championship,57,56,2,1,3,1,,2015
+Watford,Birmingham City,1-0,https://www.besoccer.com/match/watford-fc/birmingham-city-fc/201512342,2015,44,championship,60,60,1,0,1,0,,2015
+Charlton Athletic,Leeds United,2-1,https://www.besoccer.com/match/charlton-athletic-fc/leeds-united-afc/201512344,2015,44,championship,55,56,2,0,0,0,,2015
+Rotherham United,Reading,2-1,https://www.besoccer.com/match/rotherham-united/reading-fc/201512336,2015,44,championship,43,60,1,0,0,0,,2015
+Brighton & Hove Albion,Watford,0-2,https://www.besoccer.com/match/brighton-amp-hov/watford-fc/201512348,2015,45,championship,56,60,3,0,4,0,,2015
+Sheffield Wednesday,Leeds United,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/201512356,2015,45,championship,56,56,2,0,2,0,,2015
+Reading,Brentford,0-2,https://www.besoccer.com/match/reading-fc/brentford/201512345,2015,45,championship,60,50,3,0,1,0,,2015
+Ipswich Town,Nottingham Forest,2-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/201512346,2015,45,championship,58,57,1,0,0,0,,2015
+Fulham,Middlesbrough,4-3,https://www.besoccer.com/match/fulham/middlesbrough-fc/201512347,2015,45,championship,62,63,2,0,2,0,,2015
+Rotherham United,Norwich City,1-1,https://www.besoccer.com/match/rotherham-united/norwich-city-fc/201512351,2015,45,championship,43,63,0,0,4,0,,2015
+Millwall,Derby County,3-3,https://www.besoccer.com/match/millwall-fc/derby-county-fc/201512352,2015,45,championship,50,60,2,0,2,0,,2015
+Huddersfield Town,Blackburn Rovers,2-2,https://www.besoccer.com/match/huddersfield-town-fc/blackburn-rovers-fc/201512353,2015,45,championship,52,64,1,0,1,0,,2015
+Cardiff City,Blackpool,3-2,https://www.besoccer.com/match/cardiff-city-fc/blackpool-fc/201512354,2015,45,championship,59,50,2,0,2,0,,2015
+Birmingham City,Charlton Athletic,1-0,https://www.besoccer.com/match/birmingham-city-fc/charlton-athletic-fc/201512355,2015,45,championship,60,55,1,0,1,0,,2015
+Wigan Athletic,Wolves,0-1,https://www.besoccer.com/match/wigan-athletic/wolverhampton/201540694,2015,45,championship,63,57,4,2,3,2,,2015
+AFC Bournemouth,Bolton Wanderers,3-0,https://www.besoccer.com/match/afc-bournemouth/bolton-wanderers-fc/201512349,2015,45,championship,57,62,1,0,2,0,,2015
+Nottingham Forest,Cardiff City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/201512358,2015,46,championship,57,59,4,0,2,0,,2015
+Middlesbrough,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/middlesbrough-fc/brighton-amp-hov/201512359,2015,46,championship,63,56,1,0,1,0,,2015
+Derby County,Reading,0-3,https://www.besoccer.com/match/derby-county-fc/reading-fc/201512360,2015,46,championship,60,59,3,0,2,0,,2015
+Brentford,Wigan Athletic,3-0,https://www.besoccer.com/match/brentford/wigan-athletic/201512361,2015,46,championship,50,62,0,0,2,0,,2015
+Blackpool,Huddersfield Town,0-0,https://www.besoccer.com/match/blackpool-fc/huddersfield-town-fc/201512362,2015,46,championship,50,52,2,0,0,0,,2015
+Watford,Sheffield Wednesday,1-1,https://www.besoccer.com/match/watford-fc/sheffield-wednesday-fc/201512363,2015,46,championship,60,56,0,0,1,0,,2015
+Norwich City,Fulham,4-2,https://www.besoccer.com/match/norwich-city-fc/fulham/201512364,2015,46,championship,63,63,2,0,1,0,,2015
+Leeds United,Rotherham United,0-0,https://www.besoccer.com/match/leeds-united-afc/rotherham-united/201512365,2015,46,championship,56,43,1,0,0,0,,2015
+Charlton Athletic,AFC Bournemouth,0-3,https://www.besoccer.com/match/charlton-athletic-fc/afc-bournemouth/201512366,2015,46,championship,55,57,2,0,1,0,,2015
+Bolton Wanderers,Birmingham City,0-1,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/201512367,2015,46,championship,62,60,4,0,1,0,,2015
+Blackburn Rovers,Ipswich Town,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/201512368,2015,46,championship,64,58,0,0,2,0,,2015
+Wolves,Millwall,4-2,https://www.besoccer.com/match/wolverhampton/millwall-fc/201540695,2015,46,championship,57,50,0,0,2,0,,2015
