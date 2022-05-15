@@ -478,7 +478,11 @@ class WebScraper:
             attrs={'itemprop': 'homeTeam'}).text.replace('\n', '')
         away_team = page.find(
             attrs={'itemprop': 'awayTeam'}).text.replace('\n', '')
-        date = page.find(attrs={'class': 'date header-match-date'}).text
+        try:
+            date = page.find(attrs={'class': 'date header-match-date'}).text
+        except AttributeError:
+            date = page.find(
+                attrs={'class': 'date header-match-date no-hour'}).text
         date = clean_date(date)
         referee = None
         try:

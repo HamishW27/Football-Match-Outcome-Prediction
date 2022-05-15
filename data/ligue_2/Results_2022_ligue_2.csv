@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
-Bastia,Nîmes,1-1,https://www.besoccer.com/match/bastia/nimes-olympique/202215978,2022,1,ligue_2
-Amiens SC,Auxerre,1-2,https://www.besoccer.com/match/amiens-sc/auxerre/202215977,2022,1,ligue_2
-Caen,Rodez,4-0,https://www.besoccer.com/match/caen/rodez/202215979,2022,1,ligue_2
-Dunkerque,Quevilly-Rouen,1-1,https://www.besoccer.com/match/dunkerque/quevilly/202215981,2022,1,ligue_2
-Grenoble,Paris FC,0-4,https://www.besoccer.com/match/grenoble-foot-38/paris-sg/202215982,2022,1,ligue_2
-Le Havre,Guingamp,0-0,https://www.besoccer.com/match/havre-ac/guingamp/202215983,2022,1,ligue_2
-Pau FC,Nancy,2-1,https://www.besoccer.com/match/pau/nancy/202215984,2022,1,ligue_2
-Toulouse,Ajaccio,2-2,https://www.besoccer.com/match/toulouse-fc/ajaccio/202215985,2022,1,ligue_2
-Valenciennes,Niort,0-0,https://www.besoccer.com/match/valenciennes-afc/chamois-niortais/202215986,2022,1,ligue_2
-Dijon FCO,Sochaux,1-3,https://www.besoccer.com/match/dijon-fco/sochaux/202215980,2022,1,ligue_2
-Nîmes,Dijon FCO,2-1,https://www.besoccer.com/match/nimes-olympique/dijon-fco/202215991,2022,2,ligue_2
-Ajaccio,Amiens SC,3-1,https://www.besoccer.com/match/ajaccio/amiens-sc/202215987,2022,2,ligue_2
-Guingamp,Valenciennes,1-1,https://www.besoccer.com/match/guingamp/valenciennes-afc/202215989,2022,2,ligue_2
-Nancy,Toulouse,0-4,https://www.besoccer.com/match/nancy/toulouse-fc/202215990,2022,2,ligue_2
-Niort,Caen,0-1,https://www.besoccer.com/match/chamois-niortais/caen/202215992,2022,2,ligue_2
-Paris FC,Dunkerque,2-1,https://www.besoccer.com/match/paris-sg/dunkerque/202215993,2022,2,ligue_2
-Rodez,Pau FC,1-0,https://www.besoccer.com/match/rodez/pau/202215995,2022,2,ligue_2
-Sochaux,Le Havre,0-2,https://www.besoccer.com/match/sochaux/havre-ac/202215996,2022,2,ligue_2
-Auxerre,Grenoble,3-0,https://www.besoccer.com/match/auxerre/grenoble-foot-38/202215988,2022,2,ligue_2
-Quevilly-Rouen,Bastia,1-2,https://www.besoccer.com/match/quevilly/bastia/202215994,2022,2,ligue_2
-Caen,Sochaux,1-2,https://www.besoccer.com/match/caen/sochaux/202216000,2022,3,ligue_2
-Amiens SC,Quevilly-Rouen,1-3,https://www.besoccer.com/match/amiens-sc/quevilly/202215997,2022,3,ligue_2
-Auxerre,Ajaccio,0-0,https://www.besoccer.com/match/auxerre/ajaccio/202215998,2022,3,ligue_2
-Dijon FCO,Rodez,1-1,https://www.besoccer.com/match/dijon-fco/rodez/202216001,2022,3,ligue_2
-Dunkerque,Niort,1-2,https://www.besoccer.com/match/dunkerque/chamois-niortais/202216002,2022,3,ligue_2
-Grenoble,Guingamp,0-0,https://www.besoccer.com/match/grenoble-foot-38/guingamp/202216003,2022,3,ligue_2
-Le Havre,Paris FC,1-2,https://www.besoccer.com/match/havre-ac/paris-sg/202216004,2022,3,ligue_2
-Pau FC,Toulouse,0-1,https://www.besoccer.com/match/pau/toulouse-fc/202216005,2022,3,ligue_2
-Valenciennes,Nîmes,0-3,https://www.besoccer.com/match/valenciennes-afc/nimes-olympique/202216006,2022,3,ligue_2
-Bastia,Nancy,1-1,https://www.besoccer.com/match/bastia/nancy/202215999,2022,3,ligue_2
-Toulouse,Bastia,1-0,https://www.besoccer.com/match/toulouse-fc/bastia/202216016,2022,4,ligue_2
-Guingamp,Amiens SC,0-2,https://www.besoccer.com/match/guingamp/amiens-sc/202216008,2022,4,ligue_2
-Nancy,Valenciennes,0-1,https://www.besoccer.com/match/nancy/valenciennes-afc/202216009,2022,4,ligue_2
-Nîmes,Pau FC,0-0,https://www.besoccer.com/match/nimes-olympique/pau/202216010,2022,4,ligue_2
-Niort,Grenoble,1-0,https://www.besoccer.com/match/chamois-niortais/grenoble-foot-38/202216011,2022,4,ligue_2
-Quevilly-Rouen,Dijon FCO,2-1,https://www.besoccer.com/match/quevilly/dijon-fco/202216013,2022,4,ligue_2
-Rodez,Le Havre,0-0,https://www.besoccer.com/match/rodez/havre-ac/202216014,2022,4,ligue_2
-Sochaux,Dunkerque,1-0,https://www.besoccer.com/match/sochaux/dunkerque/202216015,2022,4,ligue_2
-Paris FC,Auxerre,1-1,https://www.besoccer.com/match/paris-sg/auxerre/202216012,2022,4,ligue_2
-Ajaccio,Caen,2-0,https://www.besoccer.com/match/ajaccio/caen/202216007,2022,4,ligue_2
-Dijon FCO,Toulouse,2-4,https://www.besoccer.com/match/dijon-fco/toulouse-fc/202216021,2022,5,ligue_2
-Amiens SC,Sochaux,0-0,https://www.besoccer.com/match/amiens-sc/sochaux/202216018,2022,5,ligue_2
-Caen,Nancy,1-0,https://www.besoccer.com/match/caen/nancy/202216020,2022,5,ligue_2
-Dunkerque,Nîmes,0-2,https://www.besoccer.com/match/dunkerque/nimes-olympique/202216022,2022,5,ligue_2
-Grenoble,Quevilly-Rouen,2-0,https://www.besoccer.com/match/grenoble-foot-38/quevilly/202216023,2022,5,ligue_2
-Le Havre,Niort,2-1,https://www.besoccer.com/match/havre-ac/chamois-niortais/202216024,2022,5,ligue_2
-Pau FC,Bastia,2-0,https://www.besoccer.com/match/pau/bastia/202216025,2022,5,ligue_2
-Valenciennes,Rodez,1-4,https://www.besoccer.com/match/valenciennes-afc/rodez/202216026,2022,5,ligue_2
-Auxerre,Guingamp,1-2,https://www.besoccer.com/match/auxerre/guingamp/202216019,2022,5,ligue_2
-Ajaccio,Paris FC,1-0,https://www.besoccer.com/match/ajaccio/paris-sg/202216017,2022,5,ligue_2
-Nîmes,Caen,0-0,https://www.besoccer.com/match/nimes-olympique/caen/202216030,2022,6,ligue_2
-Toulouse,Valenciennes,1-0,https://www.besoccer.com/match/toulouse-fc/valenciennes-afc/202216036,2022,6,ligue_2
-Bastia,Le Havre,0-0,https://www.besoccer.com/match/bastia/havre-ac/202216027,2022,6,ligue_2
-Guingamp,Ajaccio,1-1,https://www.besoccer.com/match/guingamp/ajaccio/202216028,2022,6,ligue_2
-Nancy,Auxerre,1-4,https://www.besoccer.com/match/nancy/auxerre/202216029,2022,6,ligue_2
-Niort,Amiens SC,0-0,https://www.besoccer.com/match/chamois-niortais/amiens-sc/202216031,2022,6,ligue_2
-Pau FC,Dijon FCO,2-0,https://www.besoccer.com/match/pau/dijon-fco/202216032,2022,6,ligue_2
-Quevilly-Rouen,Paris FC,0-1,https://www.besoccer.com/match/quevilly/paris-sg/202216033,2022,6,ligue_2
-Rodez,Dunkerque,2-2,https://www.besoccer.com/match/rodez/dunkerque/202216034,2022,6,ligue_2
-Sochaux,Grenoble,1-0,https://www.besoccer.com/match/sochaux/grenoble-foot-38/202216035,2022,6,ligue_2
-Paris FC,Guingamp,0-1,https://www.besoccer.com/match/paris-sg/guingamp/202216612,2022,7,ligue_2
-Ajaccio,Sochaux,1-0,https://www.besoccer.com/match/ajaccio/sochaux/202216604,2022,7,ligue_2
-Amiens SC,Rodez,0-1,https://www.besoccer.com/match/amiens-sc/rodez/202216605,2022,7,ligue_2
-Auxerre,Niort,4-0,https://www.besoccer.com/match/auxerre/chamois-niortais/202216606,2022,7,ligue_2
-Caen,Pau FC,1-2,https://www.besoccer.com/match/caen/pau/202216607,2022,7,ligue_2
-Dijon FCO,Bastia,2-1,https://www.besoccer.com/match/dijon-fco/bastia/202216608,2022,7,ligue_2
-Dunkerque,Nancy,0-0,https://www.besoccer.com/match/dunkerque/nancy/202216609,2022,7,ligue_2
-Grenoble,Nîmes,2-1,https://www.besoccer.com/match/grenoble-foot-38/nimes-olympique/202216610,2022,7,ligue_2
-Valenciennes,Quevilly-Rouen,1-2,https://www.besoccer.com/match/valenciennes-afc/quevilly/202216613,2022,7,ligue_2
-Le Havre,Toulouse,1-1,https://www.besoccer.com/match/havre-ac/toulouse-fc/202216611,2022,7,ligue_2
-Sochaux,Paris FC,2-0,https://www.besoccer.com/match/sochaux/paris-sg/202216622,2022,8,ligue_2
-Toulouse,Grenoble,4-1,https://www.besoccer.com/match/toulouse-fc/grenoble-foot-38/202216623,2022,8,ligue_2
-Bastia,Caen,1-1,https://www.besoccer.com/match/bastia/caen/202216614,2022,8,ligue_2
-Dijon FCO,Dunkerque,2-0,https://www.besoccer.com/match/dijon-fco/dunkerque/202216615,2022,8,ligue_2
-Nancy,Le Havre,1-1,https://www.besoccer.com/match/nancy/havre-ac/202216616,2022,8,ligue_2
-Nîmes,Amiens SC,3-3,https://www.besoccer.com/match/nimes-olympique/amiens-sc/202216617,2022,8,ligue_2
-Niort,Guingamp,2-0,https://www.besoccer.com/match/chamois-niortais/guingamp/202216618,2022,8,ligue_2
-Pau FC,Valenciennes,1-1,https://www.besoccer.com/match/pau/valenciennes-afc/202216619,2022,8,ligue_2
-Quevilly-Rouen,Auxerre,0-0,https://www.besoccer.com/match/quevilly/auxerre/202216620,2022,8,ligue_2
-Rodez,Ajaccio,0-2,https://www.besoccer.com/match/rodez/ajaccio/202216621,2022,8,ligue_2
-Ajaccio,Niort,0-0,https://www.besoccer.com/match/ajaccio/chamois-niortais/202216624,2022,9,ligue_2
-Amiens SC,Pau FC,2-2,https://www.besoccer.com/match/amiens-sc/pau/202216625,2022,9,ligue_2
-Auxerre,Rodez,1-0,https://www.besoccer.com/match/auxerre/rodez/202216626,2022,9,ligue_2
-Caen,Dijon FCO,0-1,https://www.besoccer.com/match/caen/dijon-fco/202216627,2022,9,ligue_2
-Dunkerque,Toulouse,0-2,https://www.besoccer.com/match/dunkerque/toulouse-fc/202216628,2022,9,ligue_2
-Grenoble,Nancy,4-1,https://www.besoccer.com/match/grenoble-foot-38/nancy/202216629,2022,9,ligue_2
-Guingamp,Sochaux,1-2,https://www.besoccer.com/match/guingamp/sochaux/202216630,2022,9,ligue_2
-Le Havre,Quevilly-Rouen,1-0,https://www.besoccer.com/match/havre-ac/quevilly/202216631,2022,9,ligue_2
-Paris FC,Nîmes,2-0,https://www.besoccer.com/match/paris-sg/nimes-olympique/202216632,2022,9,ligue_2
-Valenciennes,Bastia,2-1,https://www.besoccer.com/match/valenciennes-afc/bastia/202216633,2022,9,ligue_2
-Dijon FCO,Valenciennes,0-1,https://www.besoccer.com/match/dijon-fco/valenciennes-afc/202216635,2022,10,ligue_2
-Nancy,Amiens SC,1-1,https://www.besoccer.com/match/nancy/amiens-sc/202216636,2022,10,ligue_2
-Nîmes,Le Havre,0-1,https://www.besoccer.com/match/nimes-olympique/havre-ac/202216637,2022,10,ligue_2
-Niort,Paris FC,4-1,https://www.besoccer.com/match/chamois-niortais/paris-sg/202216638,2022,10,ligue_2
-Pau FC,Dunkerque,1-2,https://www.besoccer.com/match/pau/dunkerque/202216639,2022,10,ligue_2
-Quevilly-Rouen,Guingamp,2-2,https://www.besoccer.com/match/quevilly/guingamp/202216640,2022,10,ligue_2
-Rodez,Grenoble,1-1,https://www.besoccer.com/match/rodez/grenoble-foot-38/202216641,2022,10,ligue_2
-Sochaux,Auxerre,0-0,https://www.besoccer.com/match/sochaux/auxerre/202216642,2022,10,ligue_2
-Bastia,Ajaccio,2-0,https://www.besoccer.com/match/bastia/ajaccio/202216634,2022,10,ligue_2
-Toulouse,Caen,2-3,https://www.besoccer.com/match/toulouse-fc/caen/202216643,2022,10,ligue_2
-Amiens SC,Toulouse,0-0,https://www.besoccer.com/match/amiens-sc/toulouse-fc/202216645,2022,11,ligue_2
-Auxerre,Nîmes,2-2,https://www.besoccer.com/match/auxerre/nimes-olympique/202216646,2022,11,ligue_2
-Ajaccio,Quevilly-Rouen,0-1,https://www.besoccer.com/match/ajaccio/quevilly/202216644,2022,11,ligue_2
-Caen,Valenciennes,1-2,https://www.besoccer.com/match/caen/valenciennes-afc/202216647,2022,11,ligue_2
-Dunkerque,Bastia,2-0,https://www.besoccer.com/match/dunkerque/bastia/202216648,2022,11,ligue_2
-Grenoble,Pau FC,2-0,https://www.besoccer.com/match/grenoble-foot-38/pau/202216649,2022,11,ligue_2
-Guingamp,Rodez,2-1,https://www.besoccer.com/match/guingamp/rodez/202216650,2022,11,ligue_2
-Le Havre,Dijon FCO,2-0,https://www.besoccer.com/match/havre-ac/dijon-fco/202216651,2022,11,ligue_2
-Paris FC,Nancy,1-1,https://www.besoccer.com/match/paris-sg/nancy/202216652,2022,11,ligue_2
-Sochaux,Niort,1-0,https://www.besoccer.com/match/sochaux/chamois-niortais/202216653,2022,11,ligue_2
-Toulouse,Auxerre,6-0,https://www.besoccer.com/match/toulouse-fc/auxerre/202216662,2022,12,ligue_2
-Bastia,Grenoble,0-0,https://www.besoccer.com/match/bastia/grenoble-foot-38/202216654,2022,12,ligue_2
-Caen,Le Havre,2-2,https://www.besoccer.com/match/caen/havre-ac/202216655,2022,12,ligue_2
-Dijon FCO,Amiens SC,1-0,https://www.besoccer.com/match/dijon-fco/amiens-sc/202216656,2022,12,ligue_2
-Nancy,Guingamp,2-1,https://www.besoccer.com/match/nancy/guingamp/202216657,2022,12,ligue_2
-Pau FC,Paris FC,1-0,https://www.besoccer.com/match/pau/paris-sg/202216659,2022,12,ligue_2
-Quevilly-Rouen,Niort,0-3,https://www.besoccer.com/match/quevilly/chamois-niortais/202216660,2022,12,ligue_2
-Rodez,Sochaux,0-1,https://www.besoccer.com/match/rodez/sochaux/202216661,2022,12,ligue_2
-Valenciennes,Dunkerque,1-3,https://www.besoccer.com/match/valenciennes-afc/dunkerque/202216663,2022,12,ligue_2
-Nîmes,Ajaccio,0-2,https://www.besoccer.com/match/nimes-olympique/ajaccio/202216658,2022,12,ligue_2
-Paris FC,Toulouse,2-2,https://www.besoccer.com/match/paris-sg/toulouse-fc/202216672,2022,13,ligue_2
-Ajaccio,Nancy,2-0,https://www.besoccer.com/match/ajaccio/nancy/202216664,2022,13,ligue_2
-Amiens SC,Valenciennes,3-0,https://www.besoccer.com/match/amiens-sc/valenciennes-afc/202216665,2022,13,ligue_2
-Dunkerque,Caen,1-1,https://www.besoccer.com/match/dunkerque/caen/202216667,2022,13,ligue_2
-Grenoble,Dijon FCO,1-2,https://www.besoccer.com/match/grenoble-foot-38/dijon-fco/202216668,2022,13,ligue_2
-Guingamp,Nîmes,3-1,https://www.besoccer.com/match/guingamp/nimes-olympique/202216669,2022,13,ligue_2
-Le Havre,Pau FC,1-0,https://www.besoccer.com/match/havre-ac/pau/202216670,2022,13,ligue_2
-Niort,Rodez,0-2,https://www.besoccer.com/match/chamois-niortais/rodez/202216671,2022,13,ligue_2
-Sochaux,Quevilly-Rouen,1-1,https://www.besoccer.com/match/sochaux/quevilly/202216673,2022,13,ligue_2
-Auxerre,Bastia,1-0,https://www.besoccer.com/match/auxerre/bastia/202216666,2022,13,ligue_2
-Toulouse,Guingamp,2-2,https://www.besoccer.com/match/toulouse-fc/guingamp/202216682,2022,14,ligue_2
-Bastia,Amiens SC,0-0,https://www.besoccer.com/match/bastia/amiens-sc/202216674,2022,14,ligue_2
-Caen,Grenoble,0-1,https://www.besoccer.com/match/caen/grenoble-foot-38/202216675,2022,14,ligue_2
-Dijon FCO,Paris FC,0-1,https://www.besoccer.com/match/dijon-fco/paris-sg/202216676,2022,14,ligue_2
-Dunkerque,Le Havre,1-0,https://www.besoccer.com/match/dunkerque/havre-ac/202216677,2022,14,ligue_2
-Nancy,Sochaux,0-0,https://www.besoccer.com/match/nancy/sochaux/202216678,2022,14,ligue_2
-Nîmes,Niort,1-2,https://www.besoccer.com/match/nimes-olympique/chamois-niortais/202216679,2022,14,ligue_2
-Pau FC,Ajaccio,1-0,https://www.besoccer.com/match/pau/ajaccio/202216680,2022,14,ligue_2
-Rodez,Quevilly-Rouen,3-0,https://www.besoccer.com/match/rodez/quevilly/202216681,2022,14,ligue_2
-Valenciennes,Auxerre,1-2,https://www.besoccer.com/match/valenciennes-afc/auxerre/202216683,2022,14,ligue_2
-Auxerre,Pau FC,4-1,https://www.besoccer.com/match/auxerre/pau/202216686,2022,15,ligue_2
-Sochaux,Nîmes,0-1,https://www.besoccer.com/match/sochaux/nimes-olympique/202216693,2022,15,ligue_2
-Ajaccio,Dijon FCO,1-0,https://www.besoccer.com/match/ajaccio/dijon-fco/202216684,2022,15,ligue_2
-Amiens SC,Caen,0-0,https://www.besoccer.com/match/amiens-sc/caen/202216685,2022,15,ligue_2
-Grenoble,Dunkerque,1-0,https://www.besoccer.com/match/grenoble-foot-38/dunkerque/202216687,2022,15,ligue_2
-Guingamp,Bastia,2-3,https://www.besoccer.com/match/guingamp/bastia/202216688,2022,15,ligue_2
-Le Havre,Valenciennes,0-0,https://www.besoccer.com/match/havre-ac/valenciennes-afc/202216689,2022,15,ligue_2
-Niort,Nancy,1-3,https://www.besoccer.com/match/chamois-niortais/nancy/202216690,2022,15,ligue_2
-Paris FC,Rodez,1-0,https://www.besoccer.com/match/paris-sg/rodez/202216691,2022,15,ligue_2
-Quevilly-Rouen,Toulouse,0-0,https://www.besoccer.com/match/quevilly/toulouse-fc/202216692,2022,15,ligue_2
-Toulouse,Sochaux,4-1,https://www.besoccer.com/match/toulouse-fc/sochaux/202216702,2022,16,ligue_2
-Bastia,Niort,2-0,https://www.besoccer.com/match/bastia/chamois-niortais/202216694,2022,16,ligue_2
-Caen,Paris FC,0-1,https://www.besoccer.com/match/caen/paris-sg/202216695,2022,16,ligue_2
-Dunkerque,Ajaccio,0-1,https://www.besoccer.com/match/dunkerque/ajaccio/202216697,2022,16,ligue_2
-Le Havre,Amiens SC,1-1,https://www.besoccer.com/match/havre-ac/amiens-sc/202216698,2022,16,ligue_2
-Nancy,Rodez,0-2,https://www.besoccer.com/match/nancy/rodez/202216699,2022,16,ligue_2
-Nîmes,Quevilly-Rouen,2-1,https://www.besoccer.com/match/nimes-olympique/quevilly/202216700,2022,16,ligue_2
-Pau FC,Guingamp,2-0,https://www.besoccer.com/match/pau/guingamp/202216701,2022,16,ligue_2
-Valenciennes,Grenoble,1-0,https://www.besoccer.com/match/valenciennes-afc/grenoble-foot-38/202216703,2022,16,ligue_2
-Dijon FCO,Auxerre,3-1,https://www.besoccer.com/match/dijon-fco/auxerre/202216696,2022,16,ligue_2
-Ajaccio,Valenciennes,0-0,https://www.besoccer.com/match/ajaccio/valenciennes-afc/202216704,2022,17,ligue_2
-Amiens SC,Dunkerque,3-0,https://www.besoccer.com/match/amiens-sc/dunkerque/202216705,2022,17,ligue_2
-Grenoble,Le Havre,1-2,https://www.besoccer.com/match/grenoble-foot-38/havre-ac/202216707,2022,17,ligue_2
-Guingamp,Dijon FCO,3-2,https://www.besoccer.com/match/guingamp/dijon-fco/202216708,2022,17,ligue_2
-Paris FC,Bastia,1-0,https://www.besoccer.com/match/paris-sg/bastia/202216710,2022,17,ligue_2
-Quevilly-Rouen,Nancy,2-1,https://www.besoccer.com/match/quevilly/nancy/202216711,2022,17,ligue_2
-Rodez,Nîmes,1-0,https://www.besoccer.com/match/rodez/nimes-olympique/202216712,2022,17,ligue_2
-Sochaux,Pau FC,2-1,https://www.besoccer.com/match/sochaux/pau/202216713,2022,17,ligue_2
-Auxerre,Caen,2-2,https://www.besoccer.com/match/auxerre/caen/202216706,2022,17,ligue_2
-Niort,Toulouse,2-1,https://www.besoccer.com/match/chamois-niortais/toulouse-fc/202216709,2022,17,ligue_2
-Le Havre,Ajaccio,0-1,https://www.besoccer.com/match/havre-ac/ajaccio/202216719,2022,18,ligue_2
-Amiens SC,Grenoble,4-1,https://www.besoccer.com/match/amiens-sc/grenoble-foot-38/202216714,2022,18,ligue_2
-Bastia,Sochaux,2-2,https://www.besoccer.com/match/bastia/sochaux/202216715,2022,18,ligue_2
-Caen,Guingamp,2-0,https://www.besoccer.com/match/caen/guingamp/202216716,2022,18,ligue_2
-Dijon FCO,Niort,2-2,https://www.besoccer.com/match/dijon-fco/chamois-niortais/202216717,2022,18,ligue_2
-Dunkerque,Auxerre,0-2,https://www.besoccer.com/match/dunkerque/auxerre/202216718,2022,18,ligue_2
-Nîmes,Nancy,2-1,https://www.besoccer.com/match/nimes-olympique/nancy/202216720,2022,18,ligue_2
-Pau FC,Quevilly-Rouen,1-2,https://www.besoccer.com/match/pau/quevilly/202216721,2022,18,ligue_2
-Valenciennes,Paris FC,1-4,https://www.besoccer.com/match/valenciennes-afc/paris-sg/202216723,2022,18,ligue_2
-Toulouse,Rodez,1-1,https://www.besoccer.com/match/toulouse-fc/rodez/202216722,2022,18,ligue_2
-Ajaccio,Grenoble,1-0,https://www.besoccer.com/match/ajaccio/grenoble-foot-38/202216724,2022,19,ligue_2
-Auxerre,Le Havre,2-3,https://www.besoccer.com/match/auxerre/havre-ac/202216725,2022,19,ligue_2
-Guingamp,Dunkerque,2-1,https://www.besoccer.com/match/guingamp/dunkerque/202216726,2022,19,ligue_2
-Nancy,Dijon FCO,0-3,https://www.besoccer.com/match/nancy/dijon-fco/202216727,2022,19,ligue_2
-Nîmes,Toulouse,1-2,https://www.besoccer.com/match/nimes-olympique/toulouse-fc/202216728,2022,19,ligue_2
-Niort,Pau FC,3-0,https://www.besoccer.com/match/chamois-niortais/pau/202216729,2022,19,ligue_2
-Paris FC,Amiens SC,1-0,https://www.besoccer.com/match/paris-sg/amiens-sc/202216730,2022,19,ligue_2
-Quevilly-Rouen,Caen,2-2,https://www.besoccer.com/match/quevilly/caen/202216731,2022,19,ligue_2
-Rodez,Bastia,0-0,https://www.besoccer.com/match/rodez/bastia/202216732,2022,19,ligue_2
-Sochaux,Valenciennes,1-1,https://www.besoccer.com/match/sochaux/valenciennes-afc/202216733,2022,19,ligue_2
-Le Havre,Sochaux,0-1,https://www.besoccer.com/match/havre-ac/sochaux/202216740,2022,20,ligue_2
-Bastia,Quevilly-Rouen,3-0,https://www.besoccer.com/match/bastia/quevilly/202216735,2022,20,ligue_2
-Dijon FCO,Nîmes,1-2,https://www.besoccer.com/match/dijon-fco/nimes-olympique/202216737,2022,20,ligue_2
-Grenoble,Auxerre,0-1,https://www.besoccer.com/match/grenoble-foot-38/auxerre/202216739,2022,20,ligue_2
-Pau FC,Rodez,4-0,https://www.besoccer.com/match/pau/rodez/202216741,2022,20,ligue_2
-Valenciennes,Guingamp,1-1,https://www.besoccer.com/match/valenciennes-afc/guingamp/202216743,2022,20,ligue_2
-Amiens SC,Ajaccio,0-1,https://www.besoccer.com/match/amiens-sc/ajaccio/202216734,2022,20,ligue_2
-Toulouse,Nancy,4-0,https://www.besoccer.com/match/toulouse-fc/nancy/202216742,2022,20,ligue_2
-Caen,Niort,0-2,https://www.besoccer.com/match/caen/chamois-niortais/202216736,2022,20,ligue_2
-Dunkerque,Paris FC,1-1,https://www.besoccer.com/match/dunkerque/paris-sg/202216738,2022,20,ligue_2
-Guingamp,Grenoble,0-0,https://www.besoccer.com/match/guingamp/grenoble-foot-38/202216745,2022,21,ligue_2
-Nancy,Bastia,2-1,https://www.besoccer.com/match/nancy/bastia/202216746,2022,21,ligue_2
-Rodez,Dijon FCO,0-2,https://www.besoccer.com/match/rodez/dijon-fco/202216751,2022,21,ligue_2
-Toulouse,Pau FC,1-1,https://www.besoccer.com/match/toulouse-fc/pau/202216753,2022,21,ligue_2
-Sochaux,Caen,3-2,https://www.besoccer.com/match/sochaux/caen/202216752,2022,21,ligue_2
-Paris FC,Le Havre,2-2,https://www.besoccer.com/match/paris-sg/havre-ac/202216749,2022,21,ligue_2
-Quevilly-Rouen,Amiens SC,1-1,https://www.besoccer.com/match/quevilly/amiens-sc/202216750,2022,21,ligue_2
-Ajaccio,Auxerre,0-0,https://www.besoccer.com/match/ajaccio/auxerre/202216744,2022,21,ligue_2
-Nîmes,Valenciennes,2-1,https://www.besoccer.com/match/nimes-olympique/valenciennes-afc/202216747,2022,21,ligue_2
-Niort,Dunkerque,2-0,https://www.besoccer.com/match/chamois-niortais/dunkerque/202216748,2022,21,ligue_2
-Amiens SC,Guingamp,3-0,https://www.besoccer.com/match/amiens-sc/guingamp/202216974,2022,22,ligue_2
-Bastia,Toulouse,0-0,https://www.besoccer.com/match/bastia/toulouse-fc/202216976,2022,22,ligue_2
-Dijon FCO,Quevilly-Rouen,1-0,https://www.besoccer.com/match/dijon-fco/quevilly/202216978,2022,22,ligue_2
-Dunkerque,Sochaux,0-0,https://www.besoccer.com/match/dunkerque/sochaux/202216979,2022,22,ligue_2
-Le Havre,Rodez,0-0,https://www.besoccer.com/match/havre-ac/rodez/202216981,2022,22,ligue_2
-Caen,Ajaccio,2-0,https://www.besoccer.com/match/caen/ajaccio/202216977,2022,22,ligue_2
-Auxerre,Paris FC,1-2,https://www.besoccer.com/match/auxerre/paris-sg/202216975,2022,22,ligue_2
-Pau FC,Nîmes,0-3,https://www.besoccer.com/match/pau/nimes-olympique/202216982,2022,22,ligue_2
-Valenciennes,Nancy,6-1,https://www.besoccer.com/match/valenciennes-afc/nancy/202216983,2022,22,ligue_2
-Grenoble,Niort,1-0,https://www.besoccer.com/match/grenoble-foot-38/chamois-niortais/202216980,2022,22,ligue_2
-Toulouse,Dijon FCO,4-1,https://www.besoccer.com/match/toulouse-fc/dijon-fco/202216993,2022,23,ligue_2
-Bastia,Pau FC,1-1,https://www.besoccer.com/match/bastia/pau/202216984,2022,23,ligue_2
-Guingamp,Auxerre,1-1,https://www.besoccer.com/match/guingamp/auxerre/202216985,2022,23,ligue_2
-Nancy,Caen,1-1,https://www.besoccer.com/match/nancy/caen/202216986,2022,23,ligue_2
-Nîmes,Dunkerque,0-1,https://www.besoccer.com/match/nimes-olympique/dunkerque/202216987,2022,23,ligue_2
-Niort,Le Havre,0-0,https://www.besoccer.com/match/chamois-niortais/havre-ac/202216988,2022,23,ligue_2
-Quevilly-Rouen,Grenoble,1-0,https://www.besoccer.com/match/quevilly/grenoble-foot-38/202216990,2022,23,ligue_2
-Rodez,Valenciennes,0-0,https://www.besoccer.com/match/rodez/valenciennes-afc/202216991,2022,23,ligue_2
-Sochaux,Amiens SC,1-1,https://www.besoccer.com/match/sochaux/amiens-sc/202216992,2022,23,ligue_2
-Paris FC,Ajaccio,2-0,https://www.besoccer.com/match/paris-sg/ajaccio/202216989,2022,23,ligue_2
-Valenciennes,Toulouse,1-3,https://www.besoccer.com/match/valenciennes-afc/toulouse-fc/202217003,2022,24,ligue_2
-Ajaccio,Guingamp,0-1,https://www.besoccer.com/match/ajaccio/guingamp/202216994,2022,24,ligue_2
-Amiens SC,Niort,3-1,https://www.besoccer.com/match/amiens-sc/chamois-niortais/202216995,2022,24,ligue_2
-Auxerre,Nancy,1-1,https://www.besoccer.com/match/auxerre/nancy/202216996,2022,24,ligue_2
-Caen,Nîmes,4-0,https://www.besoccer.com/match/caen/nimes-olympique/202216997,2022,24,ligue_2
-Dijon FCO,Pau FC,0-1,https://www.besoccer.com/match/dijon-fco/pau/202216998,2022,24,ligue_2
-Dunkerque,Rodez,2-0,https://www.besoccer.com/match/dunkerque/rodez/202216999,2022,24,ligue_2
-Grenoble,Sochaux,1-3,https://www.besoccer.com/match/grenoble-foot-38/sochaux/202217000,2022,24,ligue_2
-Paris FC,Quevilly-Rouen,3-0,https://www.besoccer.com/match/paris-sg/quevilly/202217002,2022,24,ligue_2
-Le Havre,Bastia,2-4,https://www.besoccer.com/match/havre-ac/bastia/202217001,2022,24,ligue_2
-Sochaux,Ajaccio,0-1,https://www.besoccer.com/match/sochaux/ajaccio/202217012,2022,25,ligue_2
-Bastia,Dijon FCO,0-0,https://www.besoccer.com/match/bastia/dijon-fco/202217004,2022,25,ligue_2
-Guingamp,Paris FC,1-1,https://www.besoccer.com/match/guingamp/paris-sg/202217005,2022,25,ligue_2
-Nancy,Dunkerque,2-0,https://www.besoccer.com/match/nancy/dunkerque/202217006,2022,25,ligue_2
-Nîmes,Grenoble,3-1,https://www.besoccer.com/match/nimes-olympique/grenoble-foot-38/202217007,2022,25,ligue_2
-Niort,Auxerre,0-1,https://www.besoccer.com/match/chamois-niortais/auxerre/202217008,2022,25,ligue_2
-Pau FC,Caen,1-0,https://www.besoccer.com/match/pau/caen/202217009,2022,25,ligue_2
-Quevilly-Rouen,Valenciennes,1-1,https://www.besoccer.com/match/quevilly/valenciennes-afc/202217010,2022,25,ligue_2
-Rodez,Amiens SC,1-1,https://www.besoccer.com/match/rodez/amiens-sc/202217011,2022,25,ligue_2
-Toulouse,Le Havre,4-0,https://www.besoccer.com/match/toulouse-fc/havre-ac/202217013,2022,25,ligue_2
-Paris FC,Sochaux,3-1,https://www.besoccer.com/match/paris-sg/sochaux/202217022,2022,26,ligue_2
-Ajaccio,Rodez,2-1,https://www.besoccer.com/match/ajaccio/rodez/202217014,2022,26,ligue_2
-Amiens SC,Nîmes,3-0,https://www.besoccer.com/match/amiens-sc/nimes-olympique/202217015,2022,26,ligue_2
-Auxerre,Quevilly-Rouen,1-0,https://www.besoccer.com/match/auxerre/quevilly/202217016,2022,26,ligue_2
-Caen,Bastia,2-1,https://www.besoccer.com/match/caen/bastia/202217017,2022,26,ligue_2
-Dunkerque,Dijon FCO,2-1,https://www.besoccer.com/match/dunkerque/dijon-fco/202217018,2022,26,ligue_2
-Guingamp,Niort,1-0,https://www.besoccer.com/match/guingamp/chamois-niortais/202217020,2022,26,ligue_2
-Le Havre,Nancy,1-0,https://www.besoccer.com/match/havre-ac/nancy/202217021,2022,26,ligue_2
-Valenciennes,Pau FC,1-0,https://www.besoccer.com/match/valenciennes-afc/pau/202217023,2022,26,ligue_2
-Grenoble,Toulouse,0-2,https://www.besoccer.com/match/grenoble-foot-38/toulouse-fc/202217019,2022,26,ligue_2
-Nîmes,Paris FC,1-1,https://www.besoccer.com/match/nimes-olympique/paris-sg/202217027,2022,27,ligue_2
-Bastia,Valenciennes,1-1,https://www.besoccer.com/match/bastia/valenciennes-afc/202217024,2022,27,ligue_2
-Dijon FCO,Caen,1-0,https://www.besoccer.com/match/dijon-fco/caen/202217025,2022,27,ligue_2
-Nancy,Grenoble,0-1,https://www.besoccer.com/match/nancy/grenoble-foot-38/202217026,2022,27,ligue_2
-Niort,Ajaccio,0-1,https://www.besoccer.com/match/chamois-niortais/ajaccio/202217028,2022,27,ligue_2
-Pau FC,Amiens SC,2-1,https://www.besoccer.com/match/pau/amiens-sc/202217029,2022,27,ligue_2
-Quevilly-Rouen,Le Havre,0-2,https://www.besoccer.com/match/quevilly/havre-ac/202217030,2022,27,ligue_2
-Rodez,Auxerre,1-3,https://www.besoccer.com/match/rodez/auxerre/202217031,2022,27,ligue_2
-Sochaux,Guingamp,1-0,https://www.besoccer.com/match/sochaux/guingamp/202217032,2022,27,ligue_2
-Toulouse,Dunkerque,2-0,https://www.besoccer.com/match/toulouse-fc/dunkerque/202217033,2022,27,ligue_2
-Ajaccio,Bastia,0-1,https://www.besoccer.com/match/ajaccio/bastia/202217034,2022,28,ligue_2
-Auxerre,Sochaux,3-2,https://www.besoccer.com/match/auxerre/sochaux/202217036,2022,28,ligue_2
-Amiens SC,Nancy,1-0,https://www.besoccer.com/match/amiens-sc/nancy/202217035,2022,28,ligue_2
-Caen,Toulouse,4-1,https://www.besoccer.com/match/caen/toulouse-fc/202217037,2022,28,ligue_2
-Dunkerque,Pau FC,1-0,https://www.besoccer.com/match/dunkerque/pau/202217038,2022,28,ligue_2
-Grenoble,Rodez,0-0,https://www.besoccer.com/match/grenoble-foot-38/rodez/202217039,2022,28,ligue_2
-Guingamp,Quevilly-Rouen,1-1,https://www.besoccer.com/match/guingamp/quevilly/202217040,2022,28,ligue_2
-Le Havre,Nîmes,0-1,https://www.besoccer.com/match/havre-ac/nimes-olympique/202217041,2022,28,ligue_2
-Paris FC,Niort,2-0,https://www.besoccer.com/match/paris-sg/chamois-niortais/202217042,2022,28,ligue_2
-Valenciennes,Dijon FCO,0-0,https://www.besoccer.com/match/valenciennes-afc/dijon-fco/202217043,2022,28,ligue_2
-Bastia,Dunkerque,1-0,https://www.besoccer.com/match/bastia/dunkerque/202217044,2022,29,ligue_2
-Dijon FCO,Le Havre,2-0,https://www.besoccer.com/match/dijon-fco/havre-ac/202217045,2022,29,ligue_2
-Nancy,Paris FC,3-0,https://www.besoccer.com/match/nancy/paris-sg/202217046,2022,29,ligue_2
-Nîmes,Auxerre,1-2,https://www.besoccer.com/match/nimes-olympique/auxerre/202217047,2022,29,ligue_2
-Niort,Sochaux,1-1,https://www.besoccer.com/match/chamois-niortais/sochaux/202217048,2022,29,ligue_2
-Pau FC,Grenoble,0-1,https://www.besoccer.com/match/pau/grenoble-foot-38/202217049,2022,29,ligue_2
-Quevilly-Rouen,Ajaccio,0-0,https://www.besoccer.com/match/quevilly/ajaccio/202217050,2022,29,ligue_2
-Rodez,Guingamp,1-1,https://www.besoccer.com/match/rodez/guingamp/202217051,2022,29,ligue_2
-Toulouse,Amiens SC,6-0,https://www.besoccer.com/match/toulouse-fc/amiens-sc/202217052,2022,29,ligue_2
-Valenciennes,Caen,1-1,https://www.besoccer.com/match/valenciennes-afc/caen/202217053,2022,29,ligue_2
-Le Havre,Caen,2-4,https://www.besoccer.com/match/havre-ac/caen/202217060,2022,30,ligue_2
-Auxerre,Toulouse,1-2,https://www.besoccer.com/match/auxerre/toulouse-fc/202217056,2022,30,ligue_2
-Ajaccio,Nîmes,1-0,https://www.besoccer.com/match/ajaccio/nimes-olympique/202217054,2022,30,ligue_2
-Amiens SC,Dijon FCO,1-1,https://www.besoccer.com/match/amiens-sc/dijon-fco/202217055,2022,30,ligue_2
-Dunkerque,Valenciennes,1-2,https://www.besoccer.com/match/dunkerque/valenciennes-afc/202217057,2022,30,ligue_2
-Grenoble,Bastia,1-1,https://www.besoccer.com/match/grenoble-foot-38/bastia/202217058,2022,30,ligue_2
-Guingamp,Nancy,3-1,https://www.besoccer.com/match/guingamp/nancy/202217059,2022,30,ligue_2
-Niort,Quevilly-Rouen,2-0,https://www.besoccer.com/match/chamois-niortais/quevilly/202217061,2022,30,ligue_2
-Paris FC,Pau FC,1-1,https://www.besoccer.com/match/paris-sg/pau/202217062,2022,30,ligue_2
-Sochaux,Rodez,2-0,https://www.besoccer.com/match/sochaux/rodez/202217063,2022,30,ligue_2
-Toulouse,Paris FC,2-1,https://www.besoccer.com/match/toulouse-fc/paris-sg/202217072,2022,31,ligue_2
-Bastia,Auxerre,1-1,https://www.besoccer.com/match/bastia/auxerre/202217064,2022,31,ligue_2
-Caen,Dunkerque,2-1,https://www.besoccer.com/match/caen/dunkerque/202217065,2022,31,ligue_2
-Dijon FCO,Grenoble,1-0,https://www.besoccer.com/match/dijon-fco/grenoble-foot-38/202217066,2022,31,ligue_2
-Nîmes,Guingamp,0-2,https://www.besoccer.com/match/nimes-olympique/guingamp/202217068,2022,31,ligue_2
-Pau FC,Le Havre,2-1,https://www.besoccer.com/match/pau/havre-ac/202217069,2022,31,ligue_2
-Quevilly-Rouen,Sochaux,0-2,https://www.besoccer.com/match/quevilly/sochaux/202217070,2022,31,ligue_2
-Rodez,Niort,1-1,https://www.besoccer.com/match/rodez/chamois-niortais/202217071,2022,31,ligue_2
-Valenciennes,Amiens SC,0-2,https://www.besoccer.com/match/valenciennes-afc/amiens-sc/202217073,2022,31,ligue_2
-Nancy,Ajaccio,0-2,https://www.besoccer.com/match/nancy/ajaccio/202217067,2022,31,ligue_2
-Guingamp,Toulouse,2-4,https://www.besoccer.com/match/guingamp/toulouse-fc/202217078,2022,32,ligue_2
-Ajaccio,Pau FC,2-1,https://www.besoccer.com/match/ajaccio/pau/202217074,2022,32,ligue_2
-Amiens SC,Bastia,0-0,https://www.besoccer.com/match/amiens-sc/bastia/202217075,2022,32,ligue_2
-Auxerre,Valenciennes,1-0,https://www.besoccer.com/match/auxerre/valenciennes-afc/202217076,2022,32,ligue_2
-Grenoble,Caen,0-2,https://www.besoccer.com/match/grenoble-foot-38/caen/202217077,2022,32,ligue_2
-Le Havre,Dunkerque,2-1,https://www.besoccer.com/match/havre-ac/dunkerque/202217079,2022,32,ligue_2
-Niort,Nîmes,0-0,https://www.besoccer.com/match/chamois-niortais/nimes-olympique/202217080,2022,32,ligue_2
-Quevilly-Rouen,Rodez,2-0,https://www.besoccer.com/match/quevilly/rodez/202217082,2022,32,ligue_2
-Sochaux,Nancy,1-0,https://www.besoccer.com/match/sochaux/nancy/202217083,2022,32,ligue_2
-Paris FC,Dijon FCO,2-2,https://www.besoccer.com/match/paris-sg/dijon-fco/202217081,2022,32,ligue_2
-Toulouse,Quevilly-Rouen,2-0,https://www.besoccer.com/match/toulouse-fc/quevilly/202217092,2022,33,ligue_2
-Pau FC,Auxerre,1-4,https://www.besoccer.com/match/pau/auxerre/202217090,2022,33,ligue_2
-Bastia,Guingamp,1-2,https://www.besoccer.com/match/bastia/guingamp/202217084,2022,33,ligue_2
-Caen,Amiens SC,1-1,https://www.besoccer.com/match/caen/amiens-sc/202217085,2022,33,ligue_2
-Dijon FCO,Ajaccio,0-3,https://www.besoccer.com/match/dijon-fco/ajaccio/202217086,2022,33,ligue_2
-Dunkerque,Grenoble,0-3,https://www.besoccer.com/match/dunkerque/grenoble-foot-38/202217087,2022,33,ligue_2
-Nancy,Niort,0-2,https://www.besoccer.com/match/nancy/chamois-niortais/202217088,2022,33,ligue_2
-Nîmes,Sochaux,1-3,https://www.besoccer.com/match/nimes-olympique/sochaux/202217089,2022,33,ligue_2
-Rodez,Paris FC,0-1,https://www.besoccer.com/match/rodez/paris-sg/202217091,2022,33,ligue_2
-Valenciennes,Le Havre,0-1,https://www.besoccer.com/match/valenciennes-afc/havre-ac/202217093,2022,33,ligue_2
-Ajaccio,Dunkerque,2-1,https://www.besoccer.com/match/ajaccio/dunkerque/202217094,2022,34,ligue_2
-Amiens SC,Le Havre,0-2,https://www.besoccer.com/match/amiens-sc/havre-ac/202217095,2022,34,ligue_2
-Auxerre,Dijon FCO,2-1,https://www.besoccer.com/match/auxerre/dijon-fco/202217096,2022,34,ligue_2
-Grenoble,Valenciennes,3-0,https://www.besoccer.com/match/grenoble-foot-38/valenciennes-afc/202217097,2022,34,ligue_2
-Guingamp,Pau FC,3-0,https://www.besoccer.com/match/guingamp/pau/202217098,2022,34,ligue_2
-Niort,Bastia,1-1,https://www.besoccer.com/match/chamois-niortais/bastia/202217099,2022,34,ligue_2
-Paris FC,Caen,1-0,https://www.besoccer.com/match/paris-sg/caen/202217100,2022,34,ligue_2
-Quevilly-Rouen,Nîmes,0-1,https://www.besoccer.com/match/quevilly/nimes-olympique/202217101,2022,34,ligue_2
-Rodez,Nancy,1-1,https://www.besoccer.com/match/rodez/nancy/202217102,2022,34,ligue_2
-Sochaux,Toulouse,1-1,https://www.besoccer.com/match/sochaux/toulouse-fc/202217103,2022,34,ligue_2
-Bastia,Paris FC,2-1,https://www.besoccer.com/match/bastia/paris-sg/202217104,2022,35,ligue_2
-Dijon FCO,Guingamp,3-3,https://www.besoccer.com/match/dijon-fco/guingamp/202217106,2022,35,ligue_2
-Dunkerque,Amiens SC,0-0,https://www.besoccer.com/match/dunkerque/amiens-sc/202217107,2022,35,ligue_2
-Le Havre,Grenoble,0-1,https://www.besoccer.com/match/havre-ac/grenoble-foot-38/202217108,2022,35,ligue_2
-Nancy,Quevilly-Rouen,0-3,https://www.besoccer.com/match/nancy/quevilly/202217109,2022,35,ligue_2
-Nîmes,Rodez,3-2,https://www.besoccer.com/match/nimes-olympique/rodez/202217110,2022,35,ligue_2
-Pau FC,Sochaux,0-1,https://www.besoccer.com/match/pau/sochaux/202217111,2022,35,ligue_2
-Valenciennes,Ajaccio,0-0,https://www.besoccer.com/match/valenciennes-afc/ajaccio/202217113,2022,35,ligue_2
-Caen,Auxerre,1-1,https://www.besoccer.com/match/caen/auxerre/202217105,2022,35,ligue_2
-Toulouse,Niort,2-0,https://www.besoccer.com/match/toulouse-fc/chamois-niortais/202217112,2022,35,ligue_2
-Auxerre,Dunkerque,1-0,https://www.besoccer.com/match/auxerre/dunkerque/202217115,2022,36,ligue_2
-Ajaccio,Le Havre,2-1,https://www.besoccer.com/match/ajaccio/havre-ac/202217114,2022,36,ligue_2
-Grenoble,Amiens SC,1-1,https://www.besoccer.com/match/grenoble-foot-38/amiens-sc/202217116,2022,36,ligue_2
-Guingamp,Caen,2-1,https://www.besoccer.com/match/guingamp/caen/202217117,2022,36,ligue_2
-Nancy,Nîmes,1-3,https://www.besoccer.com/match/nancy/nimes-olympique/202217118,2022,36,ligue_2
-Niort,Dijon FCO,1-3,https://www.besoccer.com/match/chamois-niortais/dijon-fco/202217119,2022,36,ligue_2
-Paris FC,Valenciennes,1-1,https://www.besoccer.com/match/paris-sg/valenciennes-afc/202217120,2022,36,ligue_2
-Quevilly-Rouen,Pau FC,1-2,https://www.besoccer.com/match/quevilly/pau/202217121,2022,36,ligue_2
-Sochaux,Bastia,2-1,https://www.besoccer.com/match/sochaux/bastia/202217123,2022,36,ligue_2
-Rodez,Toulouse,1-0,https://www.besoccer.com/match/rodez/toulouse-fc/202217122,2022,36,ligue_2
-Amiens SC,Paris FC,1-2,https://www.besoccer.com/match/amiens-sc/paris-sg/202217124,2022,37,ligue_2
-Bastia,Rodez,0-1,https://www.besoccer.com/match/bastia/rodez/202217125,2022,37,ligue_2
-Caen,Quevilly-Rouen,2-0,https://www.besoccer.com/match/caen/quevilly/202217126,2022,37,ligue_2
-Dijon FCO,Nancy,2-3,https://www.besoccer.com/match/dijon-fco/nancy/202217127,2022,37,ligue_2
-Dunkerque,Guingamp,1-3,https://www.besoccer.com/match/dunkerque/guingamp/202217128,2022,37,ligue_2
-Grenoble,Ajaccio,1-1,https://www.besoccer.com/match/grenoble-foot-38/ajaccio/202217129,2022,37,ligue_2
-Le Havre,Auxerre,1-2,https://www.besoccer.com/match/havre-ac/auxerre/202217130,2022,37,ligue_2
-Pau FC,Niort,2-2,https://www.besoccer.com/match/pau/chamois-niortais/202217131,2022,37,ligue_2
-Toulouse,Nîmes,2-1,https://www.besoccer.com/match/toulouse-fc/nimes-olympique/202217132,2022,37,ligue_2
-Valenciennes,Sochaux,1-0,https://www.besoccer.com/match/valenciennes-afc/sochaux/202217133,2022,37,ligue_2
-Ajaccio,Toulouse,2-2,https://www.besoccer.com/match/ajaccio/toulouse-fc/202216754,2022,38,ligue_2
-Auxerre,Amiens SC,1-2,https://www.besoccer.com/match/auxerre/amiens-sc/202216755,2022,38,ligue_2
-Guingamp,Le Havre,0-0,https://www.besoccer.com/match/guingamp/havre-ac/202216756,2022,38,ligue_2
-Nancy,Pau FC,2-1,https://www.besoccer.com/match/nancy/pau/202216757,2022,38,ligue_2
-Nîmes,Bastia,1-1,https://www.besoccer.com/match/nimes-olympique/bastia/202216758,2022,38,ligue_2
-Niort,Valenciennes,0-0,https://www.besoccer.com/match/chamois-niortais/valenciennes-afc/202216759,2022,38,ligue_2
-Paris FC,Grenoble,0-4,https://www.besoccer.com/match/paris-sg/grenoble-foot-38/202216760,2022,38,ligue_2
-Quevilly-Rouen,Dunkerque,1-1,https://www.besoccer.com/match/quevilly/dunkerque/202216761,2022,38,ligue_2
-Rodez,Caen,4-0,https://www.besoccer.com/match/rodez/caen/202216762,2022,38,ligue_2
-Sochaux,Dijon FCO,1-3,https://www.besoccer.com/match/sochaux/dijon-fco/202216763,2022,38,ligue_2
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Date_New,Referee,Year
+Bastia,Nîmes,1-1,https://www.besoccer.com/match/bastia/nimes-olympique/202215978,2022,1,ligue_2,39,56,2,0,2,0,2021-07-24 15:00:00,,2022
+Amiens SC,Auxerre,1-2,https://www.besoccer.com/match/amiens-sc/auxerre/202215977,2022,1,ligue_2,53,58,2,0,3,0,2021-07-24 19:00:00,,2022
+Caen,Rodez,4-0,https://www.besoccer.com/match/caen/rodez/202215979,2022,1,ligue_2,58,47,1,0,2,0,2021-07-24 19:00:00,,2022
+Dunkerque,Quevilly-Rouen,1-1,https://www.besoccer.com/match/dunkerque/quevilly/202215981,2022,1,ligue_2,51,46,3,0,1,0,2021-07-24 19:00:00,,2022
+Grenoble,Paris FC,0-4,https://www.besoccer.com/match/grenoble-foot-38/paris-sg/202215982,2022,1,ligue_2,53,54,2,0,0,0,2021-07-24 19:00:00,,2022
+Le Havre,Guingamp,0-0,https://www.besoccer.com/match/havre-ac/guingamp/202215983,2022,1,ligue_2,58,60,1,0,2,0,2021-07-24 19:00:00,,2022
+Pau FC,Nancy,2-1,https://www.besoccer.com/match/pau/nancy/202215984,2022,1,ligue_2,49,59,2,0,2,0,2021-07-24 19:00:00,,2022
+Toulouse,Ajaccio,2-2,https://www.besoccer.com/match/toulouse-fc/ajaccio/202215985,2022,1,ligue_2,62,55,1,1,5,1,2021-07-24 19:00:00,,2022
+Valenciennes,Niort,0-0,https://www.besoccer.com/match/valenciennes-afc/chamois-niortais/202215986,2022,1,ligue_2,57,51,2,0,3,0,2021-07-24 19:00:00,,2022
+Dijon FCO,Sochaux,1-3,https://www.besoccer.com/match/dijon-fco/sochaux/202215980,2022,1,ligue_2,58,58,2,0,2,0,2021-07-26 20:45:00,,2022
+Nîmes,Dijon FCO,2-1,https://www.besoccer.com/match/nimes-olympique/dijon-fco/202215991,2022,2,ligue_2,56,58,2,0,2,0,2021-07-31 15:00:00,,2022
+Ajaccio,Amiens SC,3-1,https://www.besoccer.com/match/ajaccio/amiens-sc/202215987,2022,2,ligue_2,55,53,2,0,4,0,2021-07-31 19:00:00,,2022
+Guingamp,Valenciennes,1-1,https://www.besoccer.com/match/guingamp/valenciennes-afc/202215989,2022,2,ligue_2,60,57,4,0,2,0,2021-07-31 19:00:00,,2022
+Nancy,Toulouse,0-4,https://www.besoccer.com/match/nancy/toulouse-fc/202215990,2022,2,ligue_2,59,62,0,0,2,0,2021-07-31 19:00:00,,2022
+Niort,Caen,0-1,https://www.besoccer.com/match/chamois-niortais/caen/202215992,2022,2,ligue_2,51,58,1,1,2,1,2021-07-31 19:00:00,,2022
+Paris FC,Dunkerque,2-1,https://www.besoccer.com/match/paris-sg/dunkerque/202215993,2022,2,ligue_2,54,51,0,0,1,0,2021-07-31 19:00:00,,2022
+Rodez,Pau FC,1-0,https://www.besoccer.com/match/rodez/pau/202215995,2022,2,ligue_2,47,49,1,1,2,1,2021-07-31 19:00:00,,2022
+Sochaux,Le Havre,0-2,https://www.besoccer.com/match/sochaux/havre-ac/202215996,2022,2,ligue_2,58,58,3,0,0,0,2021-07-31 19:00:00,,2022
+Auxerre,Grenoble,3-0,https://www.besoccer.com/match/auxerre/grenoble-foot-38/202215988,2022,2,ligue_2,58,53,0,0,1,0,2021-08-02 20:45:00,,2022
+Quevilly-Rouen,Bastia,1-2,https://www.besoccer.com/match/quevilly/bastia/202215994,2022,2,ligue_2,46,39,2,0,2,0,2021-08-18 19:00:00,,2022
+Caen,Sochaux,1-2,https://www.besoccer.com/match/caen/sochaux/202216000,2022,3,ligue_2,58,59,0,1,1,1,2021-08-07 15:00:00,,2022
+Amiens SC,Quevilly-Rouen,1-3,https://www.besoccer.com/match/amiens-sc/quevilly/202215997,2022,3,ligue_2,54,44,0,0,2,0,2021-08-07 19:00:00,,2022
+Auxerre,Ajaccio,0-0,https://www.besoccer.com/match/auxerre/ajaccio/202215998,2022,3,ligue_2,58,56,3,0,4,0,2021-08-07 19:00:00,,2022
+Dijon FCO,Rodez,1-1,https://www.besoccer.com/match/dijon-fco/rodez/202216001,2022,3,ligue_2,57,47,3,0,1,0,2021-08-07 19:00:00,,2022
+Dunkerque,Niort,1-2,https://www.besoccer.com/match/dunkerque/chamois-niortais/202216002,2022,3,ligue_2,51,51,1,0,0,0,2021-08-07 19:00:00,,2022
+Grenoble,Guingamp,0-0,https://www.besoccer.com/match/grenoble-foot-38/guingamp/202216003,2022,3,ligue_2,52,59,2,0,3,0,2021-08-07 19:00:00,,2022
+Le Havre,Paris FC,1-2,https://www.besoccer.com/match/havre-ac/paris-sg/202216004,2022,3,ligue_2,57,55,0,1,1,1,2021-08-07 19:00:00,,2022
+Pau FC,Toulouse,0-1,https://www.besoccer.com/match/pau/toulouse-fc/202216005,2022,3,ligue_2,50,61,1,0,1,0,2021-08-07 19:00:00,,2022
+Valenciennes,Nîmes,0-3,https://www.besoccer.com/match/valenciennes-afc/nimes-olympique/202216006,2022,3,ligue_2,57,56,2,0,2,0,2021-08-07 19:00:00,,2022
+Bastia,Nancy,1-1,https://www.besoccer.com/match/bastia/nancy/202215999,2022,3,ligue_2,39,59,2,0,1,0,2021-08-11 19:00:00,,2022
+Toulouse,Bastia,1-0,https://www.besoccer.com/match/toulouse-fc/bastia/202216016,2022,4,ligue_2,60,40,0,0,2,0,2021-08-14 15:00:00,,2022
+Guingamp,Amiens SC,0-2,https://www.besoccer.com/match/guingamp/amiens-sc/202216008,2022,4,ligue_2,59,55,3,0,2,0,2021-08-14 19:00:00,,2022
+Nancy,Valenciennes,0-1,https://www.besoccer.com/match/nancy/valenciennes-afc/202216009,2022,4,ligue_2,60,57,2,1,3,1,2021-08-14 19:00:00,,2022
+Nîmes,Pau FC,0-0,https://www.besoccer.com/match/nimes-olympique/pau/202216010,2022,4,ligue_2,56,50,0,0,0,0,2021-08-14 19:00:00,,2022
+Niort,Grenoble,1-0,https://www.besoccer.com/match/chamois-niortais/grenoble-foot-38/202216011,2022,4,ligue_2,51,53,3,0,3,0,2021-08-14 19:00:00,,2022
+Quevilly-Rouen,Dijon FCO,2-1,https://www.besoccer.com/match/quevilly/dijon-fco/202216013,2022,4,ligue_2,43,55,1,0,3,0,2021-08-14 19:00:00,,2022
+Rodez,Le Havre,0-0,https://www.besoccer.com/match/rodez/havre-ac/202216014,2022,4,ligue_2,47,57,1,0,1,0,2021-08-14 19:00:00,,2022
+Sochaux,Dunkerque,1-0,https://www.besoccer.com/match/sochaux/dunkerque/202216015,2022,4,ligue_2,58,53,2,0,3,0,2021-08-14 19:00:00,,2022
+Paris FC,Auxerre,1-1,https://www.besoccer.com/match/paris-sg/auxerre/202216012,2022,4,ligue_2,55,57,2,0,2,0,2021-08-16 20:45:00,,2022
+Ajaccio,Caen,2-0,https://www.besoccer.com/match/ajaccio/caen/202216007,2022,4,ligue_2,56,59,2,0,2,0,2021-08-25 19:00:00,,2022
+Dijon FCO,Toulouse,2-4,https://www.besoccer.com/match/dijon-fco/toulouse-fc/202216021,2022,5,ligue_2,54,60,3,0,3,0,2021-08-21 15:00:00,,2022
+Amiens SC,Sochaux,0-0,https://www.besoccer.com/match/amiens-sc/sochaux/202216018,2022,5,ligue_2,54,58,1,1,4,1,2021-08-21 19:00:00,,2022
+Caen,Nancy,1-0,https://www.besoccer.com/match/caen/nancy/202216020,2022,5,ligue_2,59,60,0,0,1,0,2021-08-21 19:00:00,,2022
+Dunkerque,Nîmes,0-2,https://www.besoccer.com/match/dunkerque/nimes-olympique/202216022,2022,5,ligue_2,53,56,1,0,2,0,2021-08-21 19:00:00,,2022
+Grenoble,Quevilly-Rouen,2-0,https://www.besoccer.com/match/grenoble-foot-38/quevilly/202216023,2022,5,ligue_2,53,42,0,0,1,0,2021-08-21 19:00:00,,2022
+Le Havre,Niort,2-1,https://www.besoccer.com/match/havre-ac/chamois-niortais/202216024,2022,5,ligue_2,57,53,3,0,3,0,2021-08-21 19:00:00,,2022
+Pau FC,Bastia,2-0,https://www.besoccer.com/match/pau/bastia/202216025,2022,5,ligue_2,50,41,2,0,2,0,2021-08-21 19:00:00,,2022
+Valenciennes,Rodez,1-4,https://www.besoccer.com/match/valenciennes-afc/rodez/202216026,2022,5,ligue_2,56,46,2,1,3,1,2021-08-21 19:00:00,,2022
+Auxerre,Guingamp,1-2,https://www.besoccer.com/match/auxerre/guingamp/202216019,2022,5,ligue_2,56,59,2,0,1,0,2021-08-23 20:45:00,,2022
+Ajaccio,Paris FC,1-0,https://www.besoccer.com/match/ajaccio/paris-sg/202216017,2022,5,ligue_2,56,54,0,0,1,0,2021-09-14 19:00:00,,2022
+Nîmes,Caen,0-0,https://www.besoccer.com/match/nimes-olympique/caen/202216030,2022,6,ligue_2,56,59,2,0,2,0,2021-08-28 15:00:00,,2022
+Toulouse,Valenciennes,1-0,https://www.besoccer.com/match/toulouse-fc/valenciennes-afc/202216036,2022,6,ligue_2,60,56,3,0,0,0,2021-08-28 15:00:00,,2022
+Bastia,Le Havre,0-0,https://www.besoccer.com/match/bastia/havre-ac/202216027,2022,6,ligue_2,41,57,2,0,2,0,2021-08-28 19:00:00,,2022
+Guingamp,Ajaccio,1-1,https://www.besoccer.com/match/guingamp/ajaccio/202216028,2022,6,ligue_2,59,56,0,0,0,0,2021-08-28 19:00:00,,2022
+Nancy,Auxerre,1-4,https://www.besoccer.com/match/nancy/auxerre/202216029,2022,6,ligue_2,60,56,1,0,2,0,2021-08-28 19:00:00,,2022
+Niort,Amiens SC,0-0,https://www.besoccer.com/match/chamois-niortais/amiens-sc/202216031,2022,6,ligue_2,53,54,2,0,1,0,2021-08-28 19:00:00,,2022
+Pau FC,Dijon FCO,2-0,https://www.besoccer.com/match/pau/dijon-fco/202216032,2022,6,ligue_2,50,54,1,0,1,0,2021-08-28 19:00:00,,2022
+Quevilly-Rouen,Paris FC,0-1,https://www.besoccer.com/match/quevilly/paris-sg/202216033,2022,6,ligue_2,42,55,3,1,2,1,2021-08-28 19:00:00,,2022
+Rodez,Dunkerque,2-2,https://www.besoccer.com/match/rodez/dunkerque/202216034,2022,6,ligue_2,46,53,2,0,3,0,2021-08-28 19:00:00,,2022
+Sochaux,Grenoble,1-0,https://www.besoccer.com/match/sochaux/grenoble-foot-38/202216035,2022,6,ligue_2,58,52,2,0,1,0,2021-08-28 19:00:00,,2022
+Paris FC,Guingamp,0-1,https://www.besoccer.com/match/paris-sg/guingamp/202216612,2022,7,ligue_2,55,59,0,0,0,0,2021-09-11 15:00:00,,2022
+Ajaccio,Sochaux,1-0,https://www.besoccer.com/match/ajaccio/sochaux/202216604,2022,7,ligue_2,56,58,5,0,2,0,2021-09-11 19:00:00,,2022
+Amiens SC,Rodez,0-1,https://www.besoccer.com/match/amiens-sc/rodez/202216605,2022,7,ligue_2,53,46,2,0,2,0,2021-09-11 19:00:00,,2022
+Auxerre,Niort,4-0,https://www.besoccer.com/match/auxerre/chamois-niortais/202216606,2022,7,ligue_2,57,53,0,0,0,0,2021-09-11 19:00:00,,2022
+Caen,Pau FC,1-2,https://www.besoccer.com/match/caen/pau/202216607,2022,7,ligue_2,59,50,1,0,2,0,2021-09-11 19:00:00,,2022
+Dijon FCO,Bastia,2-1,https://www.besoccer.com/match/dijon-fco/bastia/202216608,2022,7,ligue_2,54,41,3,0,3,0,2021-09-11 19:00:00,,2022
+Dunkerque,Nancy,0-0,https://www.besoccer.com/match/dunkerque/nancy/202216609,2022,7,ligue_2,53,59,3,0,2,0,2021-09-11 19:00:00,,2022
+Grenoble,Nîmes,2-1,https://www.besoccer.com/match/grenoble-foot-38/nimes-olympique/202216610,2022,7,ligue_2,52,56,4,0,4,0,2021-09-11 19:00:00,,2022
+Valenciennes,Quevilly-Rouen,1-2,https://www.besoccer.com/match/valenciennes-afc/quevilly/202216613,2022,7,ligue_2,57,42,2,0,3,0,2021-09-11 19:00:00,,2022
+Le Havre,Toulouse,1-1,https://www.besoccer.com/match/havre-ac/toulouse-fc/202216611,2022,7,ligue_2,57,60,1,1,4,1,2021-09-13 20:45:00,,2022
+Sochaux,Paris FC,2-0,https://www.besoccer.com/match/sochaux/paris-sg/202216622,2022,8,ligue_2,58,55,1,0,2,0,2021-09-18 15:00:00,,2022
+Toulouse,Grenoble,4-1,https://www.besoccer.com/match/toulouse-fc/grenoble-foot-38/202216623,2022,8,ligue_2,60,52,2,0,0,0,2021-09-18 15:00:00,,2022
+Bastia,Caen,1-1,https://www.besoccer.com/match/bastia/caen/202216614,2022,8,ligue_2,42,59,2,0,1,0,2021-09-18 19:00:00,,2022
+Dijon FCO,Dunkerque,2-0,https://www.besoccer.com/match/dijon-fco/dunkerque/202216615,2022,8,ligue_2,55,53,2,0,3,0,2021-09-18 19:00:00,,2022
+Nancy,Le Havre,1-1,https://www.besoccer.com/match/nancy/havre-ac/202216616,2022,8,ligue_2,59,57,3,1,2,1,2021-09-18 19:00:00,,2022
+Nîmes,Amiens SC,3-3,https://www.besoccer.com/match/nimes-olympique/amiens-sc/202216617,2022,8,ligue_2,56,54,4,0,3,0,2021-09-18 19:00:00,,2022
+Niort,Guingamp,2-0,https://www.besoccer.com/match/chamois-niortais/guingamp/202216618,2022,8,ligue_2,53,59,2,0,3,0,2021-09-18 19:00:00,,2022
+Pau FC,Valenciennes,1-1,https://www.besoccer.com/match/pau/valenciennes-afc/202216619,2022,8,ligue_2,50,57,4,0,2,0,2021-09-18 19:00:00,,2022
+Quevilly-Rouen,Auxerre,0-0,https://www.besoccer.com/match/quevilly/auxerre/202216620,2022,8,ligue_2,42,56,2,0,1,0,2021-09-18 19:00:00,,2022
+Rodez,Ajaccio,0-2,https://www.besoccer.com/match/rodez/ajaccio/202216621,2022,8,ligue_2,46,56,0,0,3,0,2021-09-18 19:00:00,,2022
+Ajaccio,Niort,0-0,https://www.besoccer.com/match/ajaccio/chamois-niortais/202216624,2022,9,ligue_2,56,53,3,0,3,0,2021-09-21 20:00:00,,2022
+Amiens SC,Pau FC,2-2,https://www.besoccer.com/match/amiens-sc/pau/202216625,2022,9,ligue_2,54,50,0,0,2,0,2021-09-21 20:00:00,,2022
+Auxerre,Rodez,1-0,https://www.besoccer.com/match/auxerre/rodez/202216626,2022,9,ligue_2,56,47,0,0,0,0,2021-09-21 20:00:00,,2022
+Caen,Dijon FCO,0-1,https://www.besoccer.com/match/caen/dijon-fco/202216627,2022,9,ligue_2,59,55,1,1,3,1,2021-09-21 20:00:00,,2022
+Dunkerque,Toulouse,0-2,https://www.besoccer.com/match/dunkerque/toulouse-fc/202216628,2022,9,ligue_2,52,61,2,0,2,0,2021-09-21 20:00:00,,2022
+Grenoble,Nancy,4-1,https://www.besoccer.com/match/grenoble-foot-38/nancy/202216629,2022,9,ligue_2,52,59,1,1,3,1,2021-09-21 20:00:00,,2022
+Guingamp,Sochaux,1-2,https://www.besoccer.com/match/guingamp/sochaux/202216630,2022,9,ligue_2,59,58,5,0,5,0,2021-09-21 20:00:00,,2022
+Le Havre,Quevilly-Rouen,1-0,https://www.besoccer.com/match/havre-ac/quevilly/202216631,2022,9,ligue_2,57,42,1,0,2,0,2021-09-21 20:00:00,,2022
+Paris FC,Nîmes,2-0,https://www.besoccer.com/match/paris-sg/nimes-olympique/202216632,2022,9,ligue_2,55,56,1,0,1,0,2021-09-21 20:00:00,,2022
+Valenciennes,Bastia,2-1,https://www.besoccer.com/match/valenciennes-afc/bastia/202216633,2022,9,ligue_2,56,41,3,0,2,0,2021-09-21 20:00:00,,2022
+Dijon FCO,Valenciennes,0-1,https://www.besoccer.com/match/dijon-fco/valenciennes-afc/202216635,2022,10,ligue_2,61,56,2,0,4,0,2021-09-24 21:00:00,,2022
+Nancy,Amiens SC,1-1,https://www.besoccer.com/match/nancy/amiens-sc/202216636,2022,10,ligue_2,59,54,1,0,2,0,2021-09-24 21:00:00,,2022
+Nîmes,Le Havre,0-1,https://www.besoccer.com/match/nimes-olympique/havre-ac/202216637,2022,10,ligue_2,56,57,1,0,2,0,2021-09-24 21:00:00,,2022
+Niort,Paris FC,4-1,https://www.besoccer.com/match/chamois-niortais/paris-sg/202216638,2022,10,ligue_2,53,55,1,0,2,0,2021-09-24 21:00:00,,2022
+Pau FC,Dunkerque,1-2,https://www.besoccer.com/match/pau/dunkerque/202216639,2022,10,ligue_2,50,52,2,1,3,1,2021-09-24 21:00:00,,2022
+Quevilly-Rouen,Guingamp,2-2,https://www.besoccer.com/match/quevilly/guingamp/202216640,2022,10,ligue_2,42,59,3,0,3,0,2021-09-24 21:00:00,,2022
+Rodez,Grenoble,1-1,https://www.besoccer.com/match/rodez/grenoble-foot-38/202216641,2022,10,ligue_2,47,52,2,0,1,0,2021-09-24 21:00:00,,2022
+Sochaux,Auxerre,0-0,https://www.besoccer.com/match/sochaux/auxerre/202216642,2022,10,ligue_2,58,56,0,0,2,0,2021-09-24 21:00:00,,2022
+Bastia,Ajaccio,2-0,https://www.besoccer.com/match/bastia/ajaccio/202216634,2022,10,ligue_2,41,56,1,0,3,0,2021-09-25 15:00:00,,2022
+Toulouse,Caen,2-3,https://www.besoccer.com/match/toulouse-fc/caen/202216643,2022,10,ligue_2,61,59,3,0,1,0,2021-09-27 20:45:00,,2022
+Amiens SC,Toulouse,0-0,https://www.besoccer.com/match/amiens-sc/toulouse-fc/202216645,2022,11,ligue_2,54,61,1,0,2,0,2021-10-02 15:00:00,,2022
+Auxerre,Nîmes,2-2,https://www.besoccer.com/match/auxerre/nimes-olympique/202216646,2022,11,ligue_2,57,56,2,0,3,0,2021-10-02 15:00:00,,2022
+Ajaccio,Quevilly-Rouen,0-1,https://www.besoccer.com/match/ajaccio/quevilly/202216644,2022,11,ligue_2,56,42,2,0,5,0,2021-10-02 19:00:00,,2022
+Caen,Valenciennes,1-2,https://www.besoccer.com/match/caen/valenciennes-afc/202216647,2022,11,ligue_2,59,56,1,0,2,0,2021-10-02 19:00:00,,2022
+Dunkerque,Bastia,2-0,https://www.besoccer.com/match/dunkerque/bastia/202216648,2022,11,ligue_2,52,41,1,0,1,0,2021-10-02 19:00:00,,2022
+Grenoble,Pau FC,2-0,https://www.besoccer.com/match/grenoble-foot-38/pau/202216649,2022,11,ligue_2,52,50,0,0,2,0,2021-10-02 19:00:00,,2022
+Guingamp,Rodez,2-1,https://www.besoccer.com/match/guingamp/rodez/202216650,2022,11,ligue_2,59,47,3,0,1,0,2021-10-02 19:00:00,,2022
+Le Havre,Dijon FCO,2-0,https://www.besoccer.com/match/havre-ac/dijon-fco/202216651,2022,11,ligue_2,57,60,2,0,0,0,2021-10-02 19:00:00,,2022
+Paris FC,Nancy,1-1,https://www.besoccer.com/match/paris-sg/nancy/202216652,2022,11,ligue_2,55,59,1,0,2,0,2021-10-02 19:00:00,,2022
+Sochaux,Niort,1-0,https://www.besoccer.com/match/sochaux/chamois-niortais/202216653,2022,11,ligue_2,58,53,3,0,1,0,2021-10-02 19:00:00,,2022
+Toulouse,Auxerre,6-0,https://www.besoccer.com/match/toulouse-fc/auxerre/202216662,2022,12,ligue_2,60,58,1,0,0,0,2021-10-16 15:00:00,,2022
+Bastia,Grenoble,0-0,https://www.besoccer.com/match/bastia/grenoble-foot-38/202216654,2022,12,ligue_2,41,52,0,0,2,0,2021-10-16 19:00:00,,2022
+Caen,Le Havre,2-2,https://www.besoccer.com/match/caen/havre-ac/202216655,2022,12,ligue_2,59,57,1,0,3,0,2021-10-16 19:00:00,,2022
+Dijon FCO,Amiens SC,1-0,https://www.besoccer.com/match/dijon-fco/amiens-sc/202216656,2022,12,ligue_2,60,53,1,1,0,1,2021-10-16 19:00:00,,2022
+Nancy,Guingamp,2-1,https://www.besoccer.com/match/nancy/guingamp/202216657,2022,12,ligue_2,59,60,1,1,4,1,2021-10-16 19:00:00,,2022
+Pau FC,Paris FC,1-0,https://www.besoccer.com/match/pau/paris-sg/202216659,2022,12,ligue_2,51,55,0,0,0,0,2021-10-16 19:00:00,,2022
+Quevilly-Rouen,Niort,0-3,https://www.besoccer.com/match/quevilly/chamois-niortais/202216660,2022,12,ligue_2,42,53,1,0,3,0,2021-10-16 19:00:00,,2022
+Rodez,Sochaux,0-1,https://www.besoccer.com/match/rodez/sochaux/202216661,2022,12,ligue_2,47,58,3,0,1,0,2021-10-16 19:00:00,,2022
+Valenciennes,Dunkerque,1-3,https://www.besoccer.com/match/valenciennes-afc/dunkerque/202216663,2022,12,ligue_2,56,52,3,0,4,0,2021-10-16 19:00:00,,2022
+Nîmes,Ajaccio,0-2,https://www.besoccer.com/match/nimes-olympique/ajaccio/202216658,2022,12,ligue_2,56,56,2,0,2,0,2021-10-18 20:45:00,,2022
+Paris FC,Toulouse,2-2,https://www.besoccer.com/match/paris-sg/toulouse-fc/202216672,2022,13,ligue_2,55,60,2,0,1,0,2021-10-23 15:00:00,,2022
+Ajaccio,Nancy,2-0,https://www.besoccer.com/match/ajaccio/nancy/202216664,2022,13,ligue_2,56,58,1,0,1,0,2021-10-23 19:00:00,,2022
+Amiens SC,Valenciennes,3-0,https://www.besoccer.com/match/amiens-sc/valenciennes-afc/202216665,2022,13,ligue_2,53,56,3,0,1,0,2021-10-23 19:00:00,,2022
+Dunkerque,Caen,1-1,https://www.besoccer.com/match/dunkerque/caen/202216667,2022,13,ligue_2,52,59,0,0,0,0,2021-10-23 19:00:00,,2022
+Grenoble,Dijon FCO,1-2,https://www.besoccer.com/match/grenoble-foot-38/dijon-fco/202216668,2022,13,ligue_2,52,61,2,0,2,0,2021-10-23 19:00:00,,2022
+Guingamp,Nîmes,3-1,https://www.besoccer.com/match/guingamp/nimes-olympique/202216669,2022,13,ligue_2,60,56,1,0,4,0,2021-10-23 19:00:00,,2022
+Le Havre,Pau FC,1-0,https://www.besoccer.com/match/havre-ac/pau/202216670,2022,13,ligue_2,57,51,1,0,2,0,2021-10-23 19:00:00,,2022
+Niort,Rodez,0-2,https://www.besoccer.com/match/chamois-niortais/rodez/202216671,2022,13,ligue_2,53,47,0,0,2,0,2021-10-23 19:00:00,,2022
+Sochaux,Quevilly-Rouen,1-1,https://www.besoccer.com/match/sochaux/quevilly/202216673,2022,13,ligue_2,58,42,2,0,2,0,2021-10-23 19:00:00,,2022
+Auxerre,Bastia,1-0,https://www.besoccer.com/match/auxerre/bastia/202216666,2022,13,ligue_2,58,41,2,0,1,0,2021-10-25 20:45:00,,2022
+Toulouse,Guingamp,2-2,https://www.besoccer.com/match/toulouse-fc/guingamp/202216682,2022,14,ligue_2,60,60,2,0,2,0,2021-10-30 15:00:00,,2022
+Bastia,Amiens SC,0-0,https://www.besoccer.com/match/bastia/amiens-sc/202216674,2022,14,ligue_2,42,54,2,0,3,0,2021-10-30 19:00:00,,2022
+Caen,Grenoble,0-1,https://www.besoccer.com/match/caen/grenoble-foot-38/202216675,2022,14,ligue_2,59,52,1,0,2,0,2021-10-30 19:00:00,,2022
+Dijon FCO,Paris FC,0-1,https://www.besoccer.com/match/dijon-fco/paris-sg/202216676,2022,14,ligue_2,61,54,1,0,3,0,2021-10-30 19:00:00,,2022
+Dunkerque,Le Havre,1-0,https://www.besoccer.com/match/dunkerque/havre-ac/202216677,2022,14,ligue_2,52,58,2,0,2,0,2021-10-30 19:00:00,,2022
+Nancy,Sochaux,0-0,https://www.besoccer.com/match/nancy/sochaux/202216678,2022,14,ligue_2,58,58,1,0,2,0,2021-10-30 19:00:00,,2022
+Nîmes,Niort,1-2,https://www.besoccer.com/match/nimes-olympique/chamois-niortais/202216679,2022,14,ligue_2,56,53,2,0,1,0,2021-10-30 19:00:00,,2022
+Pau FC,Ajaccio,1-0,https://www.besoccer.com/match/pau/ajaccio/202216680,2022,14,ligue_2,51,56,2,0,4,0,2021-10-30 19:00:00,,2022
+Rodez,Quevilly-Rouen,3-0,https://www.besoccer.com/match/rodez/quevilly/202216681,2022,14,ligue_2,47,42,3,0,2,0,2021-10-30 19:00:00,,2022
+Valenciennes,Auxerre,1-2,https://www.besoccer.com/match/valenciennes-afc/auxerre/202216683,2022,14,ligue_2,56,58,0,0,0,0,2021-11-01 20:45:00,,2022
+Auxerre,Pau FC,4-1,https://www.besoccer.com/match/auxerre/pau/202216686,2022,15,ligue_2,58,51,2,0,1,0,2021-11-06 15:00:00,,2022
+Sochaux,Nîmes,0-1,https://www.besoccer.com/match/sochaux/nimes-olympique/202216693,2022,15,ligue_2,58,56,0,0,1,0,2021-11-06 15:00:00,,2022
+Ajaccio,Dijon FCO,1-0,https://www.besoccer.com/match/ajaccio/dijon-fco/202216684,2022,15,ligue_2,56,60,5,0,3,0,2021-11-06 19:00:00,,2022
+Amiens SC,Caen,0-0,https://www.besoccer.com/match/amiens-sc/caen/202216685,2022,15,ligue_2,54,59,2,0,4,0,2021-11-06 19:00:00,,2022
+Grenoble,Dunkerque,1-0,https://www.besoccer.com/match/grenoble-foot-38/dunkerque/202216687,2022,15,ligue_2,53,52,3,0,1,0,2021-11-06 19:00:00,,2022
+Guingamp,Bastia,2-3,https://www.besoccer.com/match/guingamp/bastia/202216688,2022,15,ligue_2,60,41,1,0,3,0,2021-11-06 19:00:00,,2022
+Le Havre,Valenciennes,0-0,https://www.besoccer.com/match/havre-ac/valenciennes-afc/202216689,2022,15,ligue_2,58,56,0,0,1,0,2021-11-06 19:00:00,,2022
+Niort,Nancy,1-3,https://www.besoccer.com/match/chamois-niortais/nancy/202216690,2022,15,ligue_2,53,58,1,0,1,0,2021-11-06 19:00:00,,2022
+Paris FC,Rodez,1-0,https://www.besoccer.com/match/paris-sg/rodez/202216691,2022,15,ligue_2,54,47,1,0,2,0,2021-11-06 19:00:00,,2022
+Quevilly-Rouen,Toulouse,0-0,https://www.besoccer.com/match/quevilly/toulouse-fc/202216692,2022,15,ligue_2,42,60,1,0,1,0,2021-11-06 19:00:00,,2022
+Toulouse,Sochaux,4-1,https://www.besoccer.com/match/toulouse-fc/sochaux/202216702,2022,16,ligue_2,60,59,1,0,3,0,2021-11-20 15:00:00,,2022
+Bastia,Niort,2-0,https://www.besoccer.com/match/bastia/chamois-niortais/202216694,2022,16,ligue_2,42,53,3,0,3,0,2021-11-20 19:00:00,,2022
+Caen,Paris FC,0-1,https://www.besoccer.com/match/caen/paris-sg/202216695,2022,16,ligue_2,59,54,2,0,2,0,2021-11-20 19:00:00,,2022
+Dunkerque,Ajaccio,0-1,https://www.besoccer.com/match/dunkerque/ajaccio/202216697,2022,16,ligue_2,53,56,2,0,2,0,2021-11-20 19:00:00,,2022
+Le Havre,Amiens SC,1-1,https://www.besoccer.com/match/havre-ac/amiens-sc/202216698,2022,16,ligue_2,58,53,0,0,3,0,2021-11-20 19:00:00,,2022
+Nancy,Rodez,0-2,https://www.besoccer.com/match/nancy/rodez/202216699,2022,16,ligue_2,59,47,1,0,1,0,2021-11-20 19:00:00,,2022
+Nîmes,Quevilly-Rouen,2-1,https://www.besoccer.com/match/nimes-olympique/quevilly/202216700,2022,16,ligue_2,56,42,4,0,1,0,2021-11-20 19:00:00,,2022
+Pau FC,Guingamp,2-0,https://www.besoccer.com/match/pau/guingamp/202216701,2022,16,ligue_2,51,60,3,0,2,0,2021-11-20 19:00:00,,2022
+Valenciennes,Grenoble,1-0,https://www.besoccer.com/match/valenciennes-afc/grenoble-foot-38/202216703,2022,16,ligue_2,56,53,2,0,1,0,2021-11-20 19:00:00,,2022
+Dijon FCO,Auxerre,3-1,https://www.besoccer.com/match/dijon-fco/auxerre/202216696,2022,16,ligue_2,60,58,1,0,3,0,2021-11-22 20:45:00,,2022
+Ajaccio,Valenciennes,0-0,https://www.besoccer.com/match/ajaccio/valenciennes-afc/202216704,2022,17,ligue_2,56,56,1,0,3,0,2021-12-03 21:00:00,,2022
+Amiens SC,Dunkerque,3-0,https://www.besoccer.com/match/amiens-sc/dunkerque/202216705,2022,17,ligue_2,54,53,2,0,2,0,2021-12-03 21:00:00,,2022
+Grenoble,Le Havre,1-2,https://www.besoccer.com/match/grenoble-foot-38/havre-ac/202216707,2022,17,ligue_2,53,58,2,0,2,0,2021-12-03 21:00:00,,2022
+Guingamp,Dijon FCO,3-2,https://www.besoccer.com/match/guingamp/dijon-fco/202216708,2022,17,ligue_2,60,60,3,0,5,0,2021-12-03 21:00:00,,2022
+Paris FC,Bastia,1-0,https://www.besoccer.com/match/paris-sg/bastia/202216710,2022,17,ligue_2,55,41,1,0,2,0,2021-12-03 21:00:00,,2022
+Quevilly-Rouen,Nancy,2-1,https://www.besoccer.com/match/quevilly/nancy/202216711,2022,17,ligue_2,42,58,2,0,3,0,2021-12-03 21:00:00,,2022
+Rodez,Nîmes,1-0,https://www.besoccer.com/match/rodez/nimes-olympique/202216712,2022,17,ligue_2,47,55,2,0,2,0,2021-12-03 21:00:00,,2022
+Sochaux,Pau FC,2-1,https://www.besoccer.com/match/sochaux/pau/202216713,2022,17,ligue_2,59,51,1,0,2,0,2021-12-03 21:00:00,,2022
+Auxerre,Caen,2-2,https://www.besoccer.com/match/auxerre/caen/202216706,2022,17,ligue_2,58,59,0,1,1,1,2021-12-04 15:00:00,,2022
+Niort,Toulouse,2-1,https://www.besoccer.com/match/chamois-niortais/toulouse-fc/202216709,2022,17,ligue_2,53,60,1,0,1,0,2021-12-06 20:45:00,,2022
+Le Havre,Ajaccio,0-1,https://www.besoccer.com/match/havre-ac/ajaccio/202216719,2022,18,ligue_2,58,56,1,0,0,0,2021-12-11 15:00:00,,2022
+Amiens SC,Grenoble,4-1,https://www.besoccer.com/match/amiens-sc/grenoble-foot-38/202216714,2022,18,ligue_2,54,53,0,0,2,0,2021-12-11 19:00:00,,2022
+Bastia,Sochaux,2-2,https://www.besoccer.com/match/bastia/sochaux/202216715,2022,18,ligue_2,42,58,2,0,1,0,2021-12-11 19:00:00,,2022
+Caen,Guingamp,2-0,https://www.besoccer.com/match/caen/guingamp/202216716,2022,18,ligue_2,59,59,1,0,4,0,2021-12-11 19:00:00,,2022
+Dijon FCO,Niort,2-2,https://www.besoccer.com/match/dijon-fco/chamois-niortais/202216717,2022,18,ligue_2,60,53,4,0,3,0,2021-12-11 19:00:00,,2022
+Dunkerque,Auxerre,0-2,https://www.besoccer.com/match/dunkerque/auxerre/202216718,2022,18,ligue_2,53,58,1,0,0,0,2021-12-11 19:00:00,,2022
+Nîmes,Nancy,2-1,https://www.besoccer.com/match/nimes-olympique/nancy/202216720,2022,18,ligue_2,56,58,3,0,2,0,2021-12-11 19:00:00,,2022
+Pau FC,Quevilly-Rouen,1-2,https://www.besoccer.com/match/pau/quevilly/202216721,2022,18,ligue_2,51,42,1,0,1,0,2021-12-11 19:00:00,,2022
+Valenciennes,Paris FC,1-4,https://www.besoccer.com/match/valenciennes-afc/paris-sg/202216723,2022,18,ligue_2,56,55,4,0,2,0,2021-12-11 19:00:00,,2022
+Toulouse,Rodez,1-1,https://www.besoccer.com/match/toulouse-fc/rodez/202216722,2022,18,ligue_2,60,47,3,0,3,0,2021-12-13 20:45:00,,2022
+Ajaccio,Grenoble,1-0,https://www.besoccer.com/match/ajaccio/grenoble-foot-38/202216724,2022,19,ligue_2,56,53,1,0,4,0,2021-12-21 20:45:00,,2022
+Auxerre,Le Havre,2-3,https://www.besoccer.com/match/auxerre/havre-ac/202216725,2022,19,ligue_2,58,58,4,1,3,1,2021-12-21 20:45:00,,2022
+Guingamp,Dunkerque,2-1,https://www.besoccer.com/match/guingamp/dunkerque/202216726,2022,19,ligue_2,59,53,2,0,3,0,2021-12-21 20:45:00,,2022
+Nancy,Dijon FCO,0-3,https://www.besoccer.com/match/nancy/dijon-fco/202216727,2022,19,ligue_2,58,60,1,0,2,0,2021-12-21 20:45:00,,2022
+Nîmes,Toulouse,1-2,https://www.besoccer.com/match/nimes-olympique/toulouse-fc/202216728,2022,19,ligue_2,56,61,4,0,3,0,2021-12-21 20:45:00,,2022
+Niort,Pau FC,3-0,https://www.besoccer.com/match/chamois-niortais/pau/202216729,2022,19,ligue_2,53,51,0,0,3,0,2021-12-21 20:45:00,,2022
+Paris FC,Amiens SC,1-0,https://www.besoccer.com/match/paris-sg/amiens-sc/202216730,2022,19,ligue_2,55,54,1,0,1,0,2021-12-21 20:45:00,,2022
+Quevilly-Rouen,Caen,2-2,https://www.besoccer.com/match/quevilly/caen/202216731,2022,19,ligue_2,42,58,1,0,1,0,2021-12-21 20:45:00,,2022
+Rodez,Bastia,0-0,https://www.besoccer.com/match/rodez/bastia/202216732,2022,19,ligue_2,47,42,2,0,3,0,2021-12-21 20:45:00,,2022
+Sochaux,Valenciennes,1-1,https://www.besoccer.com/match/sochaux/valenciennes-afc/202216733,2022,19,ligue_2,58,56,2,0,2,0,2021-12-21 20:45:00,,2022
+Le Havre,Sochaux,0-1,https://www.besoccer.com/match/havre-ac/sochaux/202216740,2022,20,ligue_2,56,61,1,0,2,0,1900-01-08 15:00:00,,2022
+Bastia,Quevilly-Rouen,3-0,https://www.besoccer.com/match/bastia/quevilly/202216735,2022,20,ligue_2,71,42,1,0,1,0,1900-01-08 19:00:00,,2022
+Dijon FCO,Nîmes,1-2,https://www.besoccer.com/match/dijon-fco/nimes-olympique/202216737,2022,20,ligue_2,65,52,3,0,2,0,1900-01-08 19:00:00,,2022
+Grenoble,Auxerre,0-1,https://www.besoccer.com/match/grenoble-foot-38/auxerre/202216739,2022,20,ligue_2,33,60,1,0,3,0,1900-01-08 19:00:00,,2022
+Pau FC,Rodez,4-0,https://www.besoccer.com/match/pau/rodez/202216741,2022,20,ligue_2,38,33,3,0,2,0,1900-01-08 19:00:00,,2022
+Valenciennes,Guingamp,1-1,https://www.besoccer.com/match/valenciennes-afc/guingamp/202216743,2022,20,ligue_2,59,72,0,1,3,1,1900-01-08 19:00:00,,2022
+Amiens SC,Ajaccio,0-1,https://www.besoccer.com/match/amiens-sc/ajaccio/202216734,2022,20,ligue_2,53,56,3,0,2,0,1900-01-19 19:00:00,,2022
+Toulouse,Nancy,4-0,https://www.besoccer.com/match/toulouse-fc/nancy/202216742,2022,20,ligue_2,76,69,2,0,2,0,1900-01-19 19:00:00,,2022
+Caen,Niort,0-2,https://www.besoccer.com/match/caen/chamois-niortais/202216736,2022,20,ligue_2,70,50,3,1,2,1,1900-01-28 19:00:00,,2022
+Dunkerque,Paris FC,1-1,https://www.besoccer.com/match/dunkerque/paris-sg/202216738,2022,20,ligue_2,43,44,2,0,3,0,1900-01-28 19:00:00,,2022
+Guingamp,Grenoble,0-0,https://www.besoccer.com/match/guingamp/grenoble-foot-38/202216745,2022,21,ligue_2,72,31,3,0,1,0,1900-01-15 19:00:00,,2022
+Nancy,Bastia,2-1,https://www.besoccer.com/match/nancy/bastia/202216746,2022,21,ligue_2,69,70,2,0,1,0,1900-01-15 19:00:00,,2022
+Rodez,Dijon FCO,0-2,https://www.besoccer.com/match/rodez/dijon-fco/202216751,2022,21,ligue_2,32,64,3,1,1,1,1900-01-15 19:00:00,,2022
+Toulouse,Pau FC,1-1,https://www.besoccer.com/match/toulouse-fc/pau/202216753,2022,21,ligue_2,76,38,3,0,3,0,1900-01-15 19:00:00,,2022
+Sochaux,Caen,3-2,https://www.besoccer.com/match/sochaux/caen/202216752,2022,21,ligue_2,61,71,7,0,4,0,1900-01-15 20:00:00,,2022
+Paris FC,Le Havre,2-2,https://www.besoccer.com/match/paris-sg/havre-ac/202216749,2022,21,ligue_2,44,56,1,0,0,0,1900-01-17 20:45:00,,2022
+Quevilly-Rouen,Amiens SC,1-1,https://www.besoccer.com/match/quevilly/amiens-sc/202216750,2022,21,ligue_2,41,53,3,0,1,0,1900-01-26 19:00:00,,2022
+Ajaccio,Auxerre,0-0,https://www.besoccer.com/match/ajaccio/auxerre/202216744,2022,21,ligue_2,56,60,2,1,3,1,1900-01-28 19:00:00,,2022
+Nîmes,Valenciennes,2-1,https://www.besoccer.com/match/nimes-olympique/valenciennes-afc/202216747,2022,21,ligue_2,52,58,1,0,2,0,1900-01-28 19:00:00,,2022
+Niort,Dunkerque,2-0,https://www.besoccer.com/match/chamois-niortais/dunkerque/202216748,2022,21,ligue_2,50,43,0,0,1,0,1900-02-01 19:00:00,,2022
+Amiens SC,Guingamp,3-0,https://www.besoccer.com/match/amiens-sc/guingamp/202216974,2022,22,ligue_2,53,72,0,0,1,0,1900-01-22 19:00:00,,2022
+Bastia,Toulouse,0-0,https://www.besoccer.com/match/bastia/toulouse-fc/202216976,2022,22,ligue_2,71,76,3,1,3,1,1900-01-22 19:00:00,,2022
+Dijon FCO,Quevilly-Rouen,1-0,https://www.besoccer.com/match/dijon-fco/quevilly/202216978,2022,22,ligue_2,64,42,2,0,1,0,1900-01-22 19:00:00,,2022
+Dunkerque,Sochaux,0-0,https://www.besoccer.com/match/dunkerque/sochaux/202216979,2022,22,ligue_2,43,62,5,0,1,0,1900-01-22 19:00:00,,2022
+Le Havre,Rodez,0-0,https://www.besoccer.com/match/havre-ac/rodez/202216981,2022,22,ligue_2,56,32,4,0,3,0,1900-01-22 19:00:00,,2022
+Caen,Ajaccio,2-0,https://www.besoccer.com/match/caen/ajaccio/202216977,2022,22,ligue_2,71,56,2,0,0,0,1900-01-24 20:45:00,,2022
+Auxerre,Paris FC,1-2,https://www.besoccer.com/match/auxerre/paris-sg/202216975,2022,22,ligue_2,60,44,1,0,2,0,1900-02-01 19:00:00,,2022
+Pau FC,Nîmes,0-3,https://www.besoccer.com/match/pau/nimes-olympique/202216982,2022,22,ligue_2,37,52,1,0,2,0,1900-02-01 19:00:00,,2022
+Valenciennes,Nancy,6-1,https://www.besoccer.com/match/valenciennes-afc/nancy/202216983,2022,22,ligue_2,58,69,2,0,4,0,1900-02-01 19:00:00,,2022
+Grenoble,Niort,1-0,https://www.besoccer.com/match/grenoble-foot-38/chamois-niortais/202216980,2022,22,ligue_2,31,50,4,0,1,0,1900-02-15 19:00:00,,2022
+Toulouse,Dijon FCO,4-1,https://www.besoccer.com/match/toulouse-fc/dijon-fco/202216993,2022,23,ligue_2,76,64,1,0,2,0,1900-02-05 15:00:00,,2022
+Bastia,Pau FC,1-1,https://www.besoccer.com/match/bastia/pau/202216984,2022,23,ligue_2,71,38,3,0,1,0,1900-02-05 19:00:00,,2022
+Guingamp,Auxerre,1-1,https://www.besoccer.com/match/guingamp/auxerre/202216985,2022,23,ligue_2,72,60,1,0,1,0,1900-02-05 19:00:00,,2022
+Nancy,Caen,1-1,https://www.besoccer.com/match/nancy/caen/202216986,2022,23,ligue_2,69,71,1,0,2,0,1900-02-05 19:00:00,,2022
+Nîmes,Dunkerque,0-1,https://www.besoccer.com/match/nimes-olympique/dunkerque/202216987,2022,23,ligue_2,52,43,4,1,4,1,1900-02-05 19:00:00,,2022
+Niort,Le Havre,0-0,https://www.besoccer.com/match/chamois-niortais/havre-ac/202216988,2022,23,ligue_2,50,56,0,0,1,0,1900-02-05 19:00:00,,2022
+Quevilly-Rouen,Grenoble,1-0,https://www.besoccer.com/match/quevilly/grenoble-foot-38/202216990,2022,23,ligue_2,42,33,2,0,4,0,1900-02-05 19:00:00,,2022
+Rodez,Valenciennes,0-0,https://www.besoccer.com/match/rodez/valenciennes-afc/202216991,2022,23,ligue_2,31,57,2,0,0,0,1900-02-05 19:00:00,,2022
+Sochaux,Amiens SC,1-1,https://www.besoccer.com/match/sochaux/amiens-sc/202216992,2022,23,ligue_2,61,52,0,0,4,0,1900-02-05 19:00:00,,2022
+Paris FC,Ajaccio,2-0,https://www.besoccer.com/match/paris-sg/ajaccio/202216989,2022,23,ligue_2,43,56,1,0,2,0,1900-02-07 20:45:00,,2022
+Valenciennes,Toulouse,1-3,https://www.besoccer.com/match/valenciennes-afc/toulouse-fc/202217003,2022,24,ligue_2,58,76,3,0,0,0,1900-02-12 15:00:00,,2022
+Ajaccio,Guingamp,0-1,https://www.besoccer.com/match/ajaccio/guingamp/202216994,2022,24,ligue_2,56,72,1,1,5,1,1900-02-12 19:00:00,,2022
+Amiens SC,Niort,3-1,https://www.besoccer.com/match/amiens-sc/chamois-niortais/202216995,2022,24,ligue_2,52,50,2,0,0,0,1900-02-12 19:00:00,,2022
+Auxerre,Nancy,1-1,https://www.besoccer.com/match/auxerre/nancy/202216996,2022,24,ligue_2,60,70,3,0,1,0,1900-02-12 19:00:00,,2022
+Caen,Nîmes,4-0,https://www.besoccer.com/match/caen/nimes-olympique/202216997,2022,24,ligue_2,71,52,1,0,1,0,1900-02-12 19:00:00,,2022
+Dijon FCO,Pau FC,0-1,https://www.besoccer.com/match/dijon-fco/pau/202216998,2022,24,ligue_2,64,38,2,0,6,0,1900-02-12 19:00:00,,2022
+Dunkerque,Rodez,2-0,https://www.besoccer.com/match/dunkerque/rodez/202216999,2022,24,ligue_2,43,30,1,0,2,0,1900-02-12 19:00:00,,2022
+Grenoble,Sochaux,1-3,https://www.besoccer.com/match/grenoble-foot-38/sochaux/202217000,2022,24,ligue_2,33,62,3,0,2,0,1900-02-12 19:00:00,,2022
+Paris FC,Quevilly-Rouen,3-0,https://www.besoccer.com/match/paris-sg/quevilly/202217002,2022,24,ligue_2,43,42,2,0,0,0,1900-02-12 19:00:00,,2022
+Le Havre,Bastia,2-4,https://www.besoccer.com/match/havre-ac/bastia/202217001,2022,24,ligue_2,56,71,1,0,3,0,1900-02-14 20:45:00,,2022
+Sochaux,Ajaccio,0-1,https://www.besoccer.com/match/sochaux/ajaccio/202217012,2022,25,ligue_2,62,56,3,0,2,0,1900-02-19 15:00:00,,2022
+Bastia,Dijon FCO,0-0,https://www.besoccer.com/match/bastia/dijon-fco/202217004,2022,25,ligue_2,71,65,2,0,0,0,1900-02-19 19:00:00,,2022
+Guingamp,Paris FC,1-1,https://www.besoccer.com/match/guingamp/paris-sg/202217005,2022,25,ligue_2,73,43,2,0,1,0,1900-02-19 19:00:00,,2022
+Nancy,Dunkerque,2-0,https://www.besoccer.com/match/nancy/dunkerque/202217006,2022,25,ligue_2,70,43,1,0,3,0,1900-02-19 19:00:00,,2022
+Nîmes,Grenoble,3-1,https://www.besoccer.com/match/nimes-olympique/grenoble-foot-38/202217007,2022,25,ligue_2,52,34,3,0,1,0,1900-02-19 19:00:00,,2022
+Niort,Auxerre,0-1,https://www.besoccer.com/match/chamois-niortais/auxerre/202217008,2022,25,ligue_2,50,61,1,0,2,0,1900-02-19 19:00:00,,2022
+Pau FC,Caen,1-0,https://www.besoccer.com/match/pau/caen/202217009,2022,25,ligue_2,38,70,1,0,4,0,1900-02-19 19:00:00,,2022
+Quevilly-Rouen,Valenciennes,1-1,https://www.besoccer.com/match/quevilly/valenciennes-afc/202217010,2022,25,ligue_2,41,58,2,0,4,0,1900-02-19 19:00:00,,2022
+Rodez,Amiens SC,1-1,https://www.besoccer.com/match/rodez/amiens-sc/202217011,2022,25,ligue_2,30,52,1,0,5,0,1900-02-19 19:00:00,,2022
+Toulouse,Le Havre,4-0,https://www.besoccer.com/match/toulouse-fc/havre-ac/202217013,2022,25,ligue_2,75,56,2,0,2,0,1900-02-21 20:45:00,,2022
+Paris FC,Sochaux,3-1,https://www.besoccer.com/match/paris-sg/sochaux/202217022,2022,26,ligue_2,42,62,1,0,1,0,1900-02-26 15:00:00,,2022
+Ajaccio,Rodez,2-1,https://www.besoccer.com/match/ajaccio/rodez/202217014,2022,26,ligue_2,56,30,2,0,3,0,1900-02-26 19:00:00,,2022
+Amiens SC,Nîmes,3-0,https://www.besoccer.com/match/amiens-sc/nimes-olympique/202217015,2022,26,ligue_2,52,52,2,0,2,0,1900-02-26 19:00:00,,2022
+Auxerre,Quevilly-Rouen,1-0,https://www.besoccer.com/match/auxerre/quevilly/202217016,2022,26,ligue_2,61,42,1,0,1,0,1900-02-26 19:00:00,,2022
+Caen,Bastia,2-1,https://www.besoccer.com/match/caen/bastia/202217017,2022,26,ligue_2,71,71,1,0,4,0,1900-02-26 19:00:00,,2022
+Dunkerque,Dijon FCO,2-1,https://www.besoccer.com/match/dunkerque/dijon-fco/202217018,2022,26,ligue_2,43,65,1,0,2,0,1900-02-26 19:00:00,,2022
+Guingamp,Niort,1-0,https://www.besoccer.com/match/guingamp/chamois-niortais/202217020,2022,26,ligue_2,73,50,1,0,1,0,1900-02-26 19:00:00,,2022
+Le Havre,Nancy,1-0,https://www.besoccer.com/match/havre-ac/nancy/202217021,2022,26,ligue_2,56,70,1,0,3,0,1900-02-26 19:00:00,,2022
+Valenciennes,Pau FC,1-0,https://www.besoccer.com/match/valenciennes-afc/pau/202217023,2022,26,ligue_2,58,38,3,0,1,0,1900-02-26 19:00:00,,2022
+Grenoble,Toulouse,0-2,https://www.besoccer.com/match/grenoble-foot-38/toulouse-fc/202217019,2022,26,ligue_2,33,75,2,0,2,0,1900-02-28 20:45:00,,2022
+Nîmes,Paris FC,1-1,https://www.besoccer.com/match/nimes-olympique/paris-sg/202217027,2022,27,ligue_2,52,43,1,0,1,0,1900-03-05 15:00:00,,2022
+Bastia,Valenciennes,1-1,https://www.besoccer.com/match/bastia/valenciennes-afc/202217024,2022,27,ligue_2,71,58,4,0,3,0,1900-03-05 19:00:00,,2022
+Dijon FCO,Caen,1-0,https://www.besoccer.com/match/dijon-fco/caen/202217025,2022,27,ligue_2,65,70,1,0,1,0,1900-03-05 19:00:00,,2022
+Nancy,Grenoble,0-1,https://www.besoccer.com/match/nancy/grenoble-foot-38/202217026,2022,27,ligue_2,69,32,3,1,2,1,1900-03-05 19:00:00,,2022
+Niort,Ajaccio,0-1,https://www.besoccer.com/match/chamois-niortais/ajaccio/202217028,2022,27,ligue_2,51,56,0,0,1,0,1900-03-05 19:00:00,,2022
+Pau FC,Amiens SC,2-1,https://www.besoccer.com/match/pau/amiens-sc/202217029,2022,27,ligue_2,38,53,2,0,2,0,1900-03-05 19:00:00,,2022
+Quevilly-Rouen,Le Havre,0-2,https://www.besoccer.com/match/quevilly/havre-ac/202217030,2022,27,ligue_2,42,56,2,0,0,0,1900-03-05 19:00:00,,2022
+Rodez,Auxerre,1-3,https://www.besoccer.com/match/rodez/auxerre/202217031,2022,27,ligue_2,30,61,2,0,1,0,1900-03-05 19:00:00,,2022
+Sochaux,Guingamp,1-0,https://www.besoccer.com/match/sochaux/guingamp/202217032,2022,27,ligue_2,62,73,0,0,0,0,1900-03-05 19:00:00,,2022
+Toulouse,Dunkerque,2-0,https://www.besoccer.com/match/toulouse-fc/dunkerque/202217033,2022,27,ligue_2,75,43,0,0,2,0,1900-03-07 20:45:00,,2022
+Ajaccio,Bastia,0-1,https://www.besoccer.com/match/ajaccio/bastia/202217034,2022,28,ligue_2,56,71,0,0,5,0,1900-03-12 15:00:00,,2022
+Auxerre,Sochaux,3-2,https://www.besoccer.com/match/auxerre/sochaux/202217036,2022,28,ligue_2,60,61,1,0,2,0,1900-03-12 15:00:00,,2022
+Amiens SC,Nancy,1-0,https://www.besoccer.com/match/amiens-sc/nancy/202217035,2022,28,ligue_2,53,70,2,0,1,0,1900-03-12 19:00:00,,2022
+Caen,Toulouse,4-1,https://www.besoccer.com/match/caen/toulouse-fc/202217037,2022,28,ligue_2,71,75,0,0,1,0,1900-03-12 19:00:00,,2022
+Dunkerque,Pau FC,1-0,https://www.besoccer.com/match/dunkerque/pau/202217038,2022,28,ligue_2,43,38,0,0,5,0,1900-03-12 19:00:00,,2022
+Grenoble,Rodez,0-0,https://www.besoccer.com/match/grenoble-foot-38/rodez/202217039,2022,28,ligue_2,32,31,1,0,5,0,1900-03-12 19:00:00,,2022
+Guingamp,Quevilly-Rouen,1-1,https://www.besoccer.com/match/guingamp/quevilly/202217040,2022,28,ligue_2,73,42,3,0,3,0,1900-03-12 19:00:00,,2022
+Le Havre,Nîmes,0-1,https://www.besoccer.com/match/havre-ac/nimes-olympique/202217041,2022,28,ligue_2,56,52,0,0,2,0,1900-03-12 19:00:00,,2022
+Paris FC,Niort,2-0,https://www.besoccer.com/match/paris-sg/chamois-niortais/202217042,2022,28,ligue_2,43,51,0,0,1,0,1900-03-12 19:00:00,,2022
+Valenciennes,Dijon FCO,0-0,https://www.besoccer.com/match/valenciennes-afc/dijon-fco/202217043,2022,28,ligue_2,58,65,5,0,2,0,1900-03-12 19:00:00,,2022
+Bastia,Dunkerque,1-0,https://www.besoccer.com/match/bastia/dunkerque/202217044,2022,29,ligue_2,70,43,4,0,1,0,1900-03-15 19:00:00,,2022
+Dijon FCO,Le Havre,2-0,https://www.besoccer.com/match/dijon-fco/havre-ac/202217045,2022,29,ligue_2,65,56,0,0,1,0,1900-03-15 19:00:00,,2022
+Nancy,Paris FC,3-0,https://www.besoccer.com/match/nancy/paris-sg/202217046,2022,29,ligue_2,70,43,1,0,2,0,1900-03-15 19:00:00,,2022
+Nîmes,Auxerre,1-2,https://www.besoccer.com/match/nimes-olympique/auxerre/202217047,2022,29,ligue_2,52,60,0,0,2,0,1900-03-15 19:00:00,,2022
+Niort,Sochaux,1-1,https://www.besoccer.com/match/chamois-niortais/sochaux/202217048,2022,29,ligue_2,51,62,2,0,4,0,1900-03-15 19:00:00,,2022
+Pau FC,Grenoble,0-1,https://www.besoccer.com/match/pau/grenoble-foot-38/202217049,2022,29,ligue_2,38,31,5,0,5,0,1900-03-15 19:00:00,,2022
+Quevilly-Rouen,Ajaccio,0-0,https://www.besoccer.com/match/quevilly/ajaccio/202217050,2022,29,ligue_2,42,56,1,0,2,0,1900-03-15 19:00:00,,2022
+Rodez,Guingamp,1-1,https://www.besoccer.com/match/rodez/guingamp/202217051,2022,29,ligue_2,30,72,3,1,4,1,1900-03-15 19:00:00,,2022
+Toulouse,Amiens SC,6-0,https://www.besoccer.com/match/toulouse-fc/amiens-sc/202217052,2022,29,ligue_2,75,53,2,0,2,0,1900-03-15 19:00:00,,2022
+Valenciennes,Caen,1-1,https://www.besoccer.com/match/valenciennes-afc/caen/202217053,2022,29,ligue_2,58,71,4,0,2,0,1900-03-15 19:00:00,,2022
+Le Havre,Caen,2-4,https://www.besoccer.com/match/havre-ac/caen/202217060,2022,30,ligue_2,56,71,9,1,5,1,1900-03-19 15:00:00,,2022
+Auxerre,Toulouse,1-2,https://www.besoccer.com/match/auxerre/toulouse-fc/202217056,2022,30,ligue_2,60,75,1,1,1,1,1900-03-19 15:00:00,,2022
+Ajaccio,Nîmes,1-0,https://www.besoccer.com/match/ajaccio/nimes-olympique/202217054,2022,30,ligue_2,56,52,1,0,1,0,1900-03-19 19:00:00,,2022
+Amiens SC,Dijon FCO,1-1,https://www.besoccer.com/match/amiens-sc/dijon-fco/202217055,2022,30,ligue_2,53,65,1,0,1,0,1900-03-19 19:00:00,,2022
+Dunkerque,Valenciennes,1-2,https://www.besoccer.com/match/dunkerque/valenciennes-afc/202217057,2022,30,ligue_2,43,58,0,0,0,0,1900-03-19 19:00:00,,2022
+Grenoble,Bastia,1-1,https://www.besoccer.com/match/grenoble-foot-38/bastia/202217058,2022,30,ligue_2,32,71,1,0,2,0,1900-03-19 19:00:00,,2022
+Guingamp,Nancy,3-1,https://www.besoccer.com/match/guingamp/nancy/202217059,2022,30,ligue_2,72,70,1,0,1,0,1900-03-19 19:00:00,,2022
+Niort,Quevilly-Rouen,2-0,https://www.besoccer.com/match/chamois-niortais/quevilly/202217061,2022,30,ligue_2,51,42,0,0,2,0,1900-03-19 19:00:00,,2022
+Paris FC,Pau FC,1-1,https://www.besoccer.com/match/paris-sg/pau/202217062,2022,30,ligue_2,43,38,2,0,2,0,1900-03-19 19:00:00,,2022
+Sochaux,Rodez,2-0,https://www.besoccer.com/match/sochaux/rodez/202217063,2022,30,ligue_2,61,31,4,0,4,0,1900-03-19 19:00:00,,2022
+Toulouse,Paris FC,2-1,https://www.besoccer.com/match/toulouse-fc/paris-sg/202217072,2022,31,ligue_2,75,44,0,0,0,0,1900-04-02 15:00:00,,2022
+Bastia,Auxerre,1-1,https://www.besoccer.com/match/bastia/auxerre/202217064,2022,31,ligue_2,70,61,1,0,1,0,1900-04-02 19:00:00,,2022
+Caen,Dunkerque,2-1,https://www.besoccer.com/match/caen/dunkerque/202217065,2022,31,ligue_2,71,44,2,0,2,0,1900-04-02 19:00:00,,2022
+Dijon FCO,Grenoble,1-0,https://www.besoccer.com/match/dijon-fco/grenoble-foot-38/202217066,2022,31,ligue_2,65,33,0,0,2,0,1900-04-02 19:00:00,,2022
+Nîmes,Guingamp,0-2,https://www.besoccer.com/match/nimes-olympique/guingamp/202217068,2022,31,ligue_2,52,73,1,0,0,0,1900-04-02 19:00:00,,2022
+Pau FC,Le Havre,2-1,https://www.besoccer.com/match/pau/havre-ac/202217069,2022,31,ligue_2,38,56,1,0,1,0,1900-04-02 19:00:00,,2022
+Quevilly-Rouen,Sochaux,0-2,https://www.besoccer.com/match/quevilly/sochaux/202217070,2022,31,ligue_2,42,61,2,0,0,0,1900-04-02 19:00:00,,2022
+Rodez,Niort,1-1,https://www.besoccer.com/match/rodez/chamois-niortais/202217071,2022,31,ligue_2,31,50,1,0,1,0,1900-04-02 19:00:00,,2022
+Valenciennes,Amiens SC,0-2,https://www.besoccer.com/match/valenciennes-afc/amiens-sc/202217073,2022,31,ligue_2,58,52,2,0,0,0,1900-04-02 19:00:00,,2022
+Nancy,Ajaccio,0-2,https://www.besoccer.com/match/nancy/ajaccio/202217067,2022,31,ligue_2,71,56,1,1,4,1,1900-04-04 20:45:00,,2022
+Guingamp,Toulouse,2-4,https://www.besoccer.com/match/guingamp/toulouse-fc/202217078,2022,32,ligue_2,72,75,3,0,3,0,1900-04-09 15:00:00,,2022
+Ajaccio,Pau FC,2-1,https://www.besoccer.com/match/ajaccio/pau/202217074,2022,32,ligue_2,57,39,1,0,2,0,1900-04-09 19:00:00,,2022
+Amiens SC,Bastia,0-0,https://www.besoccer.com/match/amiens-sc/bastia/202217075,2022,32,ligue_2,53,70,2,0,1,0,1900-04-09 19:00:00,,2022
+Auxerre,Valenciennes,1-0,https://www.besoccer.com/match/auxerre/valenciennes-afc/202217076,2022,32,ligue_2,61,58,1,0,3,0,1900-04-09 19:00:00,,2022
+Grenoble,Caen,0-2,https://www.besoccer.com/match/grenoble-foot-38/caen/202217077,2022,32,ligue_2,34,70,1,0,2,0,1900-04-09 19:00:00,,2022
+Le Havre,Dunkerque,2-1,https://www.besoccer.com/match/havre-ac/dunkerque/202217079,2022,32,ligue_2,56,44,3,0,2,0,1900-04-09 19:00:00,,2022
+Niort,Nîmes,0-0,https://www.besoccer.com/match/chamois-niortais/nimes-olympique/202217080,2022,32,ligue_2,50,52,1,0,2,0,1900-04-09 19:00:00,,2022
+Quevilly-Rouen,Rodez,2-0,https://www.besoccer.com/match/quevilly/rodez/202217082,2022,32,ligue_2,42,30,3,0,3,0,1900-04-09 19:00:00,,2022
+Sochaux,Nancy,1-0,https://www.besoccer.com/match/sochaux/nancy/202217083,2022,32,ligue_2,61,71,2,0,1,0,1900-04-09 19:00:00,,2022
+Paris FC,Dijon FCO,2-2,https://www.besoccer.com/match/paris-sg/dijon-fco/202217081,2022,32,ligue_2,44,65,3,0,1,0,1900-04-11 20:45:00,,2022
+Toulouse,Quevilly-Rouen,2-0,https://www.besoccer.com/match/toulouse-fc/quevilly/202217092,2022,33,ligue_2,75,42,1,0,2,0,1900-04-16 15:00:00,,2022
+Pau FC,Auxerre,1-4,https://www.besoccer.com/match/pau/auxerre/202217090,2022,33,ligue_2,38,61,3,2,1,2,1900-04-16 15:00:00,,2022
+Bastia,Guingamp,1-2,https://www.besoccer.com/match/bastia/guingamp/202217084,2022,33,ligue_2,70,72,2,0,1,0,1900-04-16 19:00:00,,2022
+Caen,Amiens SC,1-1,https://www.besoccer.com/match/caen/amiens-sc/202217085,2022,33,ligue_2,70,53,0,0,3,0,1900-04-16 19:00:00,,2022
+Dijon FCO,Ajaccio,0-3,https://www.besoccer.com/match/dijon-fco/ajaccio/202217086,2022,33,ligue_2,65,56,0,0,2,0,1900-04-16 19:00:00,,2022
+Dunkerque,Grenoble,0-3,https://www.besoccer.com/match/dunkerque/grenoble-foot-38/202217087,2022,33,ligue_2,44,34,0,0,1,0,1900-04-16 19:00:00,,2022
+Nancy,Niort,0-2,https://www.besoccer.com/match/nancy/chamois-niortais/202217088,2022,33,ligue_2,70,50,0,0,1,0,1900-04-16 19:00:00,,2022
+Nîmes,Sochaux,1-3,https://www.besoccer.com/match/nimes-olympique/sochaux/202217089,2022,33,ligue_2,52,61,1,0,2,0,1900-04-16 19:00:00,,2022
+Rodez,Paris FC,0-1,https://www.besoccer.com/match/rodez/paris-sg/202217091,2022,33,ligue_2,31,44,0,0,0,0,1900-04-16 19:00:00,,2022
+Valenciennes,Le Havre,0-1,https://www.besoccer.com/match/valenciennes-afc/havre-ac/202217093,2022,33,ligue_2,58,56,3,0,2,0,1900-04-16 19:00:00,,2022
+Ajaccio,Dunkerque,2-1,https://www.besoccer.com/match/ajaccio/dunkerque/202217094,2022,34,ligue_2,56,44,0,0,2,0,1900-04-19 20:00:00,,2022
+Amiens SC,Le Havre,0-2,https://www.besoccer.com/match/amiens-sc/havre-ac/202217095,2022,34,ligue_2,52,55,3,0,2,0,1900-04-19 20:00:00,,2022
+Auxerre,Dijon FCO,2-1,https://www.besoccer.com/match/auxerre/dijon-fco/202217096,2022,34,ligue_2,61,65,1,0,2,0,1900-04-19 20:00:00,,2022
+Grenoble,Valenciennes,3-0,https://www.besoccer.com/match/grenoble-foot-38/valenciennes-afc/202217097,2022,34,ligue_2,34,58,4,0,2,0,1900-04-19 20:00:00,,2022
+Guingamp,Pau FC,3-0,https://www.besoccer.com/match/guingamp/pau/202217098,2022,34,ligue_2,72,38,3,0,2,0,1900-04-19 20:00:00,,2022
+Niort,Bastia,1-1,https://www.besoccer.com/match/chamois-niortais/bastia/202217099,2022,34,ligue_2,50,70,2,0,4,0,1900-04-19 20:00:00,,2022
+Paris FC,Caen,1-0,https://www.besoccer.com/match/paris-sg/caen/202217100,2022,34,ligue_2,44,70,2,0,3,0,1900-04-19 20:00:00,,2022
+Quevilly-Rouen,Nîmes,0-1,https://www.besoccer.com/match/quevilly/nimes-olympique/202217101,2022,34,ligue_2,42,52,1,0,4,0,1900-04-19 20:00:00,,2022
+Rodez,Nancy,1-1,https://www.besoccer.com/match/rodez/nancy/202217102,2022,34,ligue_2,31,70,1,0,1,0,1900-04-19 20:00:00,,2022
+Sochaux,Toulouse,1-1,https://www.besoccer.com/match/sochaux/toulouse-fc/202217103,2022,34,ligue_2,61,75,4,0,2,0,1900-04-19 20:00:00,,2022
+Bastia,Paris FC,2-1,https://www.besoccer.com/match/bastia/paris-sg/202217104,2022,35,ligue_2,70,43,1,0,2,0,1900-04-22 21:00:00,,2022
+Dijon FCO,Guingamp,3-3,https://www.besoccer.com/match/dijon-fco/guingamp/202217106,2022,35,ligue_2,65,72,1,0,1,0,1900-04-22 21:00:00,,2022
+Dunkerque,Amiens SC,0-0,https://www.besoccer.com/match/dunkerque/amiens-sc/202217107,2022,35,ligue_2,44,52,1,0,0,0,1900-04-22 21:00:00,,2022
+Le Havre,Grenoble,0-1,https://www.besoccer.com/match/havre-ac/grenoble-foot-38/202217108,2022,35,ligue_2,56,35,0,0,0,0,1900-04-22 21:00:00,,2022
+Nancy,Quevilly-Rouen,0-3,https://www.besoccer.com/match/nancy/quevilly/202217109,2022,35,ligue_2,70,42,1,0,0,0,1900-04-22 21:00:00,,2022
+Nîmes,Rodez,3-2,https://www.besoccer.com/match/nimes-olympique/rodez/202217110,2022,35,ligue_2,52,31,0,0,2,0,1900-04-22 21:00:00,,2022
+Pau FC,Sochaux,0-1,https://www.besoccer.com/match/pau/sochaux/202217111,2022,35,ligue_2,38,61,1,0,1,0,1900-04-22 21:00:00,,2022
+Valenciennes,Ajaccio,0-0,https://www.besoccer.com/match/valenciennes-afc/ajaccio/202217113,2022,35,ligue_2,58,56,2,0,3,0,1900-04-22 21:00:00,,2022
+Caen,Auxerre,1-1,https://www.besoccer.com/match/caen/auxerre/202217105,2022,35,ligue_2,71,61,3,0,2,0,1900-04-23 15:00:00,,2022
+Toulouse,Niort,2-0,https://www.besoccer.com/match/toulouse-fc/chamois-niortais/202217112,2022,35,ligue_2,75,50,0,0,2,0,1900-04-25 20:45:00,,2022
+Auxerre,Dunkerque,1-0,https://www.besoccer.com/match/auxerre/dunkerque/202217115,2022,36,ligue_2,61,43,2,0,2,0,1900-04-30 15:00:00,,2022
+Ajaccio,Le Havre,2-1,https://www.besoccer.com/match/ajaccio/havre-ac/202217114,2022,36,ligue_2,56,56,2,0,1,0,1900-04-30 19:00:00,,2022
+Grenoble,Amiens SC,1-1,https://www.besoccer.com/match/grenoble-foot-38/amiens-sc/202217116,2022,36,ligue_2,35,52,1,0,3,0,1900-04-30 19:00:00,,2022
+Guingamp,Caen,2-1,https://www.besoccer.com/match/guingamp/caen/202217117,2022,36,ligue_2,72,71,1,0,3,0,1900-04-30 19:00:00,,2022
+Nancy,Nîmes,1-3,https://www.besoccer.com/match/nancy/nimes-olympique/202217118,2022,36,ligue_2,70,52,1,0,2,0,1900-04-30 19:00:00,,2022
+Niort,Dijon FCO,1-3,https://www.besoccer.com/match/chamois-niortais/dijon-fco/202217119,2022,36,ligue_2,50,65,0,0,1,0,1900-04-30 19:00:00,,2022
+Paris FC,Valenciennes,1-1,https://www.besoccer.com/match/paris-sg/valenciennes-afc/202217120,2022,36,ligue_2,43,58,4,0,1,0,1900-04-30 19:00:00,,2022
+Quevilly-Rouen,Pau FC,1-2,https://www.besoccer.com/match/quevilly/pau/202217121,2022,36,ligue_2,42,38,1,0,0,0,1900-04-30 19:00:00,,2022
+Sochaux,Bastia,2-1,https://www.besoccer.com/match/sochaux/bastia/202217123,2022,36,ligue_2,61,70,2,0,3,0,1900-04-30 19:00:00,,2022
+Rodez,Toulouse,1-0,https://www.besoccer.com/match/rodez/toulouse-fc/202217122,2022,36,ligue_2,31,75,1,0,1,0,1900-05-02 20:45:00,,2022
+Amiens SC,Paris FC,1-2,https://www.besoccer.com/match/amiens-sc/paris-sg/202217124,2022,37,ligue_2,53,44,1,0,3,0,1900-05-07 19:00:00,,2022
+Bastia,Rodez,0-1,https://www.besoccer.com/match/bastia/rodez/202217125,2022,37,ligue_2,70,31,1,0,2,0,1900-05-07 19:00:00,,2022
+Caen,Quevilly-Rouen,2-0,https://www.besoccer.com/match/caen/quevilly/202217126,2022,37,ligue_2,71,42,4,0,2,0,1900-05-07 19:00:00,,2022
+Dijon FCO,Nancy,2-3,https://www.besoccer.com/match/dijon-fco/nancy/202217127,2022,37,ligue_2,65,70,0,0,0,0,1900-05-07 19:00:00,,2022
+Dunkerque,Guingamp,1-3,https://www.besoccer.com/match/dunkerque/guingamp/202217128,2022,37,ligue_2,44,72,2,0,1,0,1900-05-07 19:00:00,,2022
+Grenoble,Ajaccio,1-1,https://www.besoccer.com/match/grenoble-foot-38/ajaccio/202217129,2022,37,ligue_2,35,57,3,1,0,1,1900-05-07 19:00:00,,2022
+Le Havre,Auxerre,1-2,https://www.besoccer.com/match/havre-ac/auxerre/202217130,2022,37,ligue_2,56,61,2,0,2,0,1900-05-07 19:00:00,,2022
+Pau FC,Niort,2-2,https://www.besoccer.com/match/pau/chamois-niortais/202217131,2022,37,ligue_2,38,50,0,0,0,0,1900-05-07 19:00:00,,2022
+Toulouse,Nîmes,2-1,https://www.besoccer.com/match/toulouse-fc/nimes-olympique/202217132,2022,37,ligue_2,75,52,1,0,1,0,1900-05-07 19:00:00,,2022
+Valenciennes,Sochaux,1-0,https://www.besoccer.com/match/valenciennes-afc/sochaux/202217133,2022,37,ligue_2,58,61,3,0,3,0,1900-05-07 19:00:00,,2022
+Ajaccio,Toulouse,1-0,https://www.besoccer.com/match/ajaccio/toulouse-fc/202216754,2022,38,ligue_2,57,75,0,0,1,0,1900-05-14 19:00:00,,2022
+Auxerre,Amiens SC,2-1,https://www.besoccer.com/match/auxerre/amiens-sc/202216755,2022,38,ligue_2,61,53,0,0,1,0,1900-05-14 19:00:00,,2022
+Guingamp,Le Havre,2-1,https://www.besoccer.com/match/guingamp/havre-ac/202216756,2022,38,ligue_2,72,56,0,0,0,0,1900-05-14 19:00:00,,2022
+Nancy,Pau FC,2-3,https://www.besoccer.com/match/nancy/pau/202216757,2022,38,ligue_2,69,38,1,0,1,0,1900-05-14 19:00:00,,2022
+Nîmes,Bastia,0-2,https://www.besoccer.com/match/nimes-olympique/bastia/202216758,2022,38,ligue_2,52,70,1,0,1,0,1900-05-14 19:00:00,,2022
+Niort,Valenciennes,1-2,https://www.besoccer.com/match/chamois-niortais/valenciennes-afc/202216759,2022,38,ligue_2,50,58,0,0,0,0,1900-05-14 19:00:00,,2022
+Paris FC,Grenoble,2-0,https://www.besoccer.com/match/paris-sg/grenoble-foot-38/202216760,2022,38,ligue_2,44,34,0,0,3,0,1900-05-14 19:00:00,,2022
+Quevilly-Rouen,Dunkerque,3-1,https://www.besoccer.com/match/quevilly/dunkerque/202216761,2022,38,ligue_2,42,43,1,0,1,0,1900-05-14 19:00:00,,2022
+Rodez,Caen,2-0,https://www.besoccer.com/match/rodez/caen/202216762,2022,38,ligue_2,30,71,1,0,1,0,1900-05-14 19:00:00,,2022
+Sochaux,Dijon FCO,2-2,https://www.besoccer.com/match/sochaux/dijon-fco/202216763,2022,38,ligue_2,61,65,0,0,1,0,1900-05-14 19:00:00,,2022

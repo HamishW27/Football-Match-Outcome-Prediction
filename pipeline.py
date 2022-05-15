@@ -17,11 +17,6 @@ leagues_and_urls = [['eredivisie', ''],
                     ['serie_b', ''],
                     ['primera_division', '']]
 
-
-def download_data(db_name, columns=None):
-    return pd.read_sql_table(db_name, engine, columns=columns)
-
-
 DATABASE_TYPE = 'postgresql'
 DBAPI = 'psycopg2'
 ENDPOINT = 'kashin.db.elephantsql.com'  # Change it for your AWS endpoint
@@ -32,14 +27,22 @@ DATABASE = 'ndpjaeig'
 engine = create_engine(
     f"{DATABASE_TYPE}+{DBAPI}://{USER}:{PASS}@{ENDPOINT}:{PORT}/{DATABASE}")
 
+
+def download_data(db_name, columns=None):
+    return pd.read_sql_table(db_name, engine, columns=columns)
+
+
+scraper = exploratory.WebScraper(exploratory.leagues)
+
 league_names = [x['Name'] for x in exploratory.leagues]
 
 db_links = download_data('football', columns=['Link'])
+print('Downloaded sql database')
 
-scraper = exploratory.WebScraper(exploratory.leagues)
 new_db_links = scraper.scrape_all_leagues(leagues_and_urls, '2022')
+new_db_links = [link[0] for link in new_db_links]
 
-if set(new_db_links).issubset(db_links):
+if set(new_db_links).issubset(set(db_links['Link'])):
     print('Database is up to date')
 else:
     print('Database out of date')
