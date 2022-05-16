@@ -27,7 +27,7 @@ leagues = [{'Name': 'eredivisie', 'Teams': 20},
            {'Name': 'serie_b', 'Teams': 20},
            {'Name': 'primera_division', 'Teams': 20}]
 
-years = list(range(1990, 2022))
+years = list(range(1990, 2023))
 
 
 class DataCleaner:
@@ -407,7 +407,7 @@ class DataCleaner:
     def merge_data(self, leagues, years):
         team_info = pd.read_csv('Team_Info.csv')
         big_df = pd.DataFrame()
-        for league in tqdm(leagues):
+        for league in leagues:
             for year in (pbar2 := tqdm(years)):
                 pbar2.set_description(f'Processing {league} {year}')
                 df = self.add_cards(league, year)
