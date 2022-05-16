@@ -34,7 +34,7 @@ def download_data(db_name, columns=None):
 
 def join_lists(list_of_lists):
     mylist = [item for sublist in list_of_lists for item in sublist]
-    mylist = [link[0] for link in mylist]
+    mylist = [exploratory.modify_link(link[0]) for link in mylist]
     return mylist
 
 

@@ -470,7 +470,7 @@ class WebScraper:
         for league in leagues_and_exts:
             link = self.scrape_league_links(
                 league[0], year, url_ext=league[1])
-            links.append(modify_link(link))
+            links.append(link)
         return links
 
     def scrape_page_info(self, url, league, year, round):
