@@ -1,1 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Helmond Sport,MVV Maastricht,2-2,https://www.besoccer.com/match/helmond-sport/mvv/201745596,2017,1,eerste_divisie,53,53,3,0,2,0,,2017
+NAC Breda,Jong Utrecht,4-1,https://www.besoccer.com/match/nac-breda/jong-utrecht/201745597,2017,1,eerste_divisie,58,52,1,0,0,0,,2017
+Dordrecht,TOP Oss,1-1,https://www.besoccer.com/match/fc-dordrecht/fc-oss/201745598,2017,1,eerste_divisie,54,45,2,0,4,0,,2017
+Fortuna Sittard,Achilles 29,2-1,https://www.besoccer.com/match/fortuna-sittard/achilles-29/201745599,2017,1,eerste_divisie,45,47,0,1,3,1,,2017
+VVV Venlo,Cambuur,2-1,https://www.besoccer.com/match/vvv/sc-cambuur-leeuwarden/201745600,2017,1,eerste_divisie,58,58,2,0,3,0,,2017
+FC Volendam,Almere City,1-1,https://www.besoccer.com/match/fc-volendam/almere-city/201745601,2017,1,eerste_divisie,57,45,0,0,1,0,,2017
+De Graafschap,FC Eindhoven,4-1,https://www.besoccer.com/match/graafschap/fc-eindhoven/201745602,2017,1,eerste_divisie,56,54,0,0,2,0,,2017
+RKC Waalwijk,SC Telstar,1-0,https://www.besoccer.com/match/rkc-waalwijk/stormvogels-telstar/201745603,2017,1,eerste_divisie,53,46,5,0,1,0,,2017
+Jong Ajax,Emmen,1-1,https://www.besoccer.com/match/jong-ajax/emmen/201745604,2017,1,eerste_divisie,52,50,1,0,0,0,,2017
+Jong PSV,Den Bosch,5-4,https://www.besoccer.com/match/jong-psv/fc-den-bosch/201745605,2017,1,eerste_divisie,52,55,2,0,1,0,,2017
+MVV Maastricht,VVV Venlo,1-2,https://www.besoccer.com/match/mvv/vvv/201745606,2017,2,eerste_divisie,53,58,0,0,2,0,,2017
+Cambuur,Jong PSV,1-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-psv/201745607,2017,2,eerste_divisie,58,52,0,0,0,0,,2017
+Achilles 29,NAC Breda,1-2,https://www.besoccer.com/match/achilles-29/nac-breda/201745608,2017,2,eerste_divisie,47,59,4,0,1,0,,2017
+FC Eindhoven,FC Volendam,0-1,https://www.besoccer.com/match/fc-eindhoven/fc-volendam/201745609,2017,2,eerste_divisie,54,57,0,0,0,0,,2017
+Emmen,RKC Waalwijk,1-0,https://www.besoccer.com/match/emmen/rkc-waalwijk/201745610,2017,2,eerste_divisie,50,53,1,0,2,0,,2017
+TOP Oss,Helmond Sport,3-1,https://www.besoccer.com/match/fc-oss/helmond-sport/201745611,2017,2,eerste_divisie,45,53,1,0,3,0,,2017
+Almere City,Jong Ajax,1-4,https://www.besoccer.com/match/almere-city/jong-ajax/201745612,2017,2,eerste_divisie,45,52,0,0,0,0,,2017
+SC Telstar,Fortuna Sittard,1-1,https://www.besoccer.com/match/stormvogels-telstar/fortuna-sittard/201745613,2017,2,eerste_divisie,46,45,2,0,2,0,,2017
+Den Bosch,De Graafschap,2-1,https://www.besoccer.com/match/fc-den-bosch/graafschap/201745614,2017,2,eerste_divisie,54,56,1,0,2,0,,2017
+Jong Utrecht,Dordrecht,1-1,https://www.besoccer.com/match/jong-utrecht/fc-dordrecht/201745615,2017,2,eerste_divisie,52,54,2,0,3,0,,2017
+Jong Ajax,Den Bosch,5-2,https://www.besoccer.com/match/jong-ajax/fc-den-bosch/201745616,2017,3,eerste_divisie,52,55,1,0,2,0,,2017
+RKC Waalwijk,FC Eindhoven,1-2,https://www.besoccer.com/match/rkc-waalwijk/fc-eindhoven/201745617,2017,3,eerste_divisie,53,53,2,0,1,0,,2017
+NAC Breda,MVV Maastricht,1-2,https://www.besoccer.com/match/nac-breda/mvv/201745618,2017,3,eerste_divisie,59,53,1,1,2,1,,2017
+VVV Venlo,TOP Oss,2-0,https://www.besoccer.com/match/vvv/fc-oss/201745619,2017,3,eerste_divisie,58,45,1,0,2,0,,2017
+Helmond Sport,Achilles 29,1-2,https://www.besoccer.com/match/helmond-sport/achilles-29/201745620,2017,3,eerste_divisie,53,47,1,0,1,0,,2017
+Fortuna Sittard,Almere City,2-1,https://www.besoccer.com/match/fortuna-sittard/almere-city/201745621,2017,3,eerste_divisie,45,45,2,0,2,0,,2017
+Dordrecht,Cambuur,0-1,https://www.besoccer.com/match/fc-dordrecht/sc-cambuur-leeuwarden/201745622,2017,3,eerste_divisie,54,58,1,1,3,1,,2017
+Jong PSV,Emmen,1-0,https://www.besoccer.com/match/jong-psv/emmen/201745623,2017,3,eerste_divisie,52,51,2,0,1,0,,2017
+FC Volendam,SC Telstar,3-0,https://www.besoccer.com/match/fc-volendam/stormvogels-telstar/201745624,2017,3,eerste_divisie,57,46,1,0,0,0,,2017
+De Graafschap,Jong Utrecht,3-1,https://www.besoccer.com/match/graafschap/jong-utrecht/201745625,2017,3,eerste_divisie,56,52,1,0,2,0,,2017
+Den Bosch,FC Volendam,2-5,https://www.besoccer.com/match/fc-den-bosch/fc-volendam/201745626,2017,4,eerste_divisie,54,57,1,0,1,0,,2017
+MVV Maastricht,TOP Oss,3-0,https://www.besoccer.com/match/mvv/fc-oss/201745627,2017,4,eerste_divisie,53,45,1,0,1,0,,2017
+Dordrecht,NAC Breda,1-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/201745628,2017,4,eerste_divisie,54,58,2,0,2,0,,2017
+Jong Ajax,Fortuna Sittard,2-1,https://www.besoccer.com/match/jong-ajax/fortuna-sittard/201745629,2017,4,eerste_divisie,52,45,2,1,3,1,,2017
+FC Eindhoven,Achilles 29,2-1,https://www.besoccer.com/match/fc-eindhoven/achilles-29/201745630,2017,4,eerste_divisie,54,47,2,0,1,0,,2017
+Jong Utrecht,RKC Waalwijk,1-3,https://www.besoccer.com/match/jong-utrecht/rkc-waalwijk/201745631,2017,4,eerste_divisie,52,53,1,0,4,0,,2017
+Emmen,Almere City,2-0,https://www.besoccer.com/match/emmen/almere-city/201745632,2017,4,eerste_divisie,50,45,3,0,2,0,,2017
+SC Telstar,Helmond Sport,4-2,https://www.besoccer.com/match/stormvogels-telstar/helmond-sport/201745633,2017,4,eerste_divisie,46,53,3,0,2,0,,2017
+VVV Venlo,Jong PSV,1-2,https://www.besoccer.com/match/vvv/jong-psv/201745634,2017,4,eerste_divisie,58,52,1,1,1,1,,2017
+Cambuur,De Graafschap,1-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/graafschap/201745635,2017,4,eerste_divisie,58,56,3,0,3,0,,2017
+Jong PSV,Jong Utrecht,2-0,https://www.besoccer.com/match/jong-psv/jong-utrecht/201745636,2017,5,eerste_divisie,52,52,1,0,1,0,,2017
+Almere City,FC Eindhoven,4-0,https://www.besoccer.com/match/almere-city/fc-eindhoven/201745637,2017,5,eerste_divisie,45,54,1,0,1,0,,2017
+TOP Oss,SC Telstar,0-2,https://www.besoccer.com/match/fc-oss/stormvogels-telstar/201745638,2017,5,eerste_divisie,45,46,0,0,1,0,,2017
+NAC Breda,Den Bosch,0-0,https://www.besoccer.com/match/nac-breda/fc-den-bosch/201745639,2017,5,eerste_divisie,59,54,1,0,5,0,,2017
+Helmond Sport,Cambuur,1-0,https://www.besoccer.com/match/helmond-sport/sc-cambuur-leeuwarden/201745640,2017,5,eerste_divisie,52,58,5,0,2,0,,2017
+RKC Waalwijk,Jong Ajax,3-2,https://www.besoccer.com/match/rkc-waalwijk/jong-ajax/201745641,2017,5,eerste_divisie,53,53,2,0,3,0,,2017
+Fortuna Sittard,Dordrecht,3-2,https://www.besoccer.com/match/fortuna-sittard/fc-dordrecht/201745642,2017,5,eerste_divisie,45,54,2,0,2,0,,2017
+FC Volendam,Emmen,0-1,https://www.besoccer.com/match/fc-volendam/emmen/201745643,2017,5,eerste_divisie,57,51,2,0,3,0,,2017
+De Graafschap,VVV Venlo,0-2,https://www.besoccer.com/match/graafschap/vvv/201745644,2017,5,eerste_divisie,56,58,4,0,2,0,,2017
+Achilles 29,MVV Maastricht,2-3,https://www.besoccer.com/match/achilles-29/mvv/201745645,2017,5,eerste_divisie,47,54,2,0,3,0,,2017
+Den Bosch,TOP Oss,2-1,https://www.besoccer.com/match/fc-den-bosch/fc-oss/201745646,2017,6,eerste_divisie,54,45,3,0,0,0,,2017
+FC Eindhoven,MVV Maastricht,1-1,https://www.besoccer.com/match/fc-eindhoven/mvv/201745647,2017,6,eerste_divisie,53,54,3,0,2,0,,2017
+NAC Breda,Jong PSV,1-1,https://www.besoccer.com/match/nac-breda/jong-psv/201745648,2017,6,eerste_divisie,59,52,1,0,4,0,,2017
+Dordrecht,RKC Waalwijk,1-1,https://www.besoccer.com/match/fc-dordrecht/rkc-waalwijk/201745649,2017,6,eerste_divisie,54,53,2,0,3,0,,2017
+Emmen,Helmond Sport,1-2,https://www.besoccer.com/match/emmen/helmond-sport/201745650,2017,6,eerste_divisie,51,53,1,0,0,0,,2017
+Cambuur,Almere City,4-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/almere-city/201745651,2017,6,eerste_divisie,58,45,0,0,0,0,,2017
+VVV Venlo,FC Volendam,0-1,https://www.besoccer.com/match/vvv/fc-volendam/201745652,2017,6,eerste_divisie,58,57,0,0,3,0,,2017
+SC Telstar,De Graafschap,2-1,https://www.besoccer.com/match/stormvogels-telstar/graafschap/201745653,2017,6,eerste_divisie,46,56,2,0,1,0,,2017
+Jong Utrecht,Fortuna Sittard,3-0,https://www.besoccer.com/match/jong-utrecht/fortuna-sittard/201745654,2017,6,eerste_divisie,52,46,0,0,0,0,,2017
+Jong Ajax,Achilles 29,7-1,https://www.besoccer.com/match/jong-ajax/achilles-29/201745655,2017,6,eerste_divisie,52,46,0,0,2,0,,2017
+Helmond Sport,VVV Venlo,2-1,https://www.besoccer.com/match/helmond-sport/vvv/201745656,2017,7,eerste_divisie,53,58,1,0,2,0,,2017
+Achilles 29,SC Telstar,1-2,https://www.besoccer.com/match/achilles-29/stormvogels-telstar/201745657,2017,7,eerste_divisie,46,47,2,0,2,0,,2017
+Almere City,Den Bosch,4-1,https://www.besoccer.com/match/almere-city/fc-den-bosch/201745658,2017,7,eerste_divisie,45,54,1,0,3,0,,2017
+FC Volendam,Jong Utrecht,2-2,https://www.besoccer.com/match/fc-volendam/jong-utrecht/201745659,2017,7,eerste_divisie,57,52,2,1,3,1,,2017
+Fortuna Sittard,Cambuur,3-0,https://www.besoccer.com/match/fortuna-sittard/sc-cambuur-leeuwarden/201745660,2017,7,eerste_divisie,45,58,3,0,5,0,,2017
+MVV Maastricht,Jong Ajax,1-0,https://www.besoccer.com/match/mvv/jong-ajax/201745661,2017,7,eerste_divisie,54,53,1,0,2,0,,2017
+Jong PSV,Dordrecht,3-2,https://www.besoccer.com/match/jong-psv/fc-dordrecht/201745662,2017,7,eerste_divisie,52,54,1,1,2,1,,2017
+TOP Oss,FC Eindhoven,6-2,https://www.besoccer.com/match/fc-oss/fc-eindhoven/201745663,2017,7,eerste_divisie,45,53,2,0,1,0,,2017
+RKC Waalwijk,NAC Breda,2-4,https://www.besoccer.com/match/rkc-waalwijk/nac-breda/201745664,2017,7,eerste_divisie,53,59,4,0,3,0,,2017
+De Graafschap,Emmen,3-0,https://www.besoccer.com/match/graafschap/emmen/201745665,2017,7,eerste_divisie,56,51,1,0,1,0,,2017
+Almere City,MVV Maastricht,2-1,https://www.besoccer.com/match/almere-city/mvv/201745666,2017,8,eerste_divisie,46,54,0,0,2,0,,2017
+Helmond Sport,RKC Waalwijk,1-1,https://www.besoccer.com/match/helmond-sport/rkc-waalwijk/201745668,2017,8,eerste_divisie,52,54,1,0,3,0,,2017
+SC Telstar,FC Eindhoven,1-4,https://www.besoccer.com/match/stormvogels-telstar/fc-eindhoven/201745669,2017,8,eerste_divisie,47,53,1,0,0,0,,2017
+VVV Venlo,Jong Utrecht,2-0,https://www.besoccer.com/match/vvv/jong-utrecht/201745670,2017,8,eerste_divisie,59,52,3,0,1,0,,2017
+Cambuur,Achilles 29,3-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/achilles-29/201745671,2017,8,eerste_divisie,58,46,1,0,3,0,,2017
+Emmen,Den Bosch,3-0,https://www.besoccer.com/match/emmen/fc-den-bosch/201745672,2017,8,eerste_divisie,51,54,0,0,2,0,,2017
+NAC Breda,De Graafschap,1-0,https://www.besoccer.com/match/nac-breda/graafschap/201745673,2017,8,eerste_divisie,58,56,1,0,2,0,,2017
+Dordrecht,FC Volendam,1-0,https://www.besoccer.com/match/fc-dordrecht/fc-volendam/201745667,2017,8,eerste_divisie,54,57,0,0,1,0,,2017
+Jong Ajax,TOP Oss,7-0,https://www.besoccer.com/match/jong-ajax/fc-oss/201745674,2017,8,eerste_divisie,52,45,1,0,3,0,,2017
+Jong PSV,Fortuna Sittard,3-0,https://www.besoccer.com/match/jong-psv/fortuna-sittard/201745675,2017,8,eerste_divisie,53,45,2,0,2,0,,2017
+Achilles 29,VVV Venlo,0-3,https://www.besoccer.com/match/achilles-29/vvv/201745676,2017,9,eerste_divisie,46,59,2,0,2,0,,2017
+Den Bosch,SC Telstar,0-0,https://www.besoccer.com/match/fc-den-bosch/stormvogels-telstar/201745677,2017,9,eerste_divisie,53,47,3,0,2,0,,2017
+TOP Oss,Almere City,2-3,https://www.besoccer.com/match/fc-oss/almere-city/201745678,2017,9,eerste_divisie,45,46,0,0,0,0,,2017
+MVV Maastricht,Cambuur,2-1,https://www.besoccer.com/match/mvv/sc-cambuur-leeuwarden/201745679,2017,9,eerste_divisie,54,58,1,0,0,0,,2017
+FC Eindhoven,Jong Ajax,2-1,https://www.besoccer.com/match/fc-eindhoven/jong-ajax/201745680,2017,9,eerste_divisie,54,53,2,0,3,0,,2017
+Fortuna Sittard,Emmen,2-2,https://www.besoccer.com/match/fortuna-sittard/emmen/201745681,2017,9,eerste_divisie,45,51,1,1,3,1,,2017
+Jong Utrecht,Helmond Sport,1-0,https://www.besoccer.com/match/jong-utrecht/helmond-sport/201745682,2017,9,eerste_divisie,52,52,0,0,0,0,,2017
+FC Volendam,NAC Breda,2-1,https://www.besoccer.com/match/fc-volendam/nac-breda/201745683,2017,9,eerste_divisie,57,58,1,1,0,1,,2017
+RKC Waalwijk,Jong PSV,1-1,https://www.besoccer.com/match/rkc-waalwijk/jong-psv/201745684,2017,9,eerste_divisie,54,53,0,0,2,0,,2017
+De Graafschap,Dordrecht,2-3,https://www.besoccer.com/match/graafschap/fc-dordrecht/201745685,2017,9,eerste_divisie,56,54,3,0,1,0,,2017
+Fortuna Sittard,VVV Venlo,2-0,https://www.besoccer.com/match/fortuna-sittard/vvv/201745686,2017,10,eerste_divisie,45,59,4,0,1,0,,2017
+FC Eindhoven,Emmen,0-1,https://www.besoccer.com/match/fc-eindhoven/emmen/201745687,2017,10,eerste_divisie,54,51,0,0,1,0,,2017
+Achilles 29,Jong Utrecht,1-1,https://www.besoccer.com/match/achilles-29/jong-utrecht/201745688,2017,10,eerste_divisie,45,52,1,1,5,1,,2017
+Almere City,Jong PSV,1-0,https://www.besoccer.com/match/almere-city/jong-psv/201745689,2017,10,eerste_divisie,46,53,0,0,1,0,,2017
+Helmond Sport,FC Volendam,2-0,https://www.besoccer.com/match/helmond-sport/fc-volendam/201745690,2017,10,eerste_divisie,52,57,0,0,2,0,,2017
+TOP Oss,RKC Waalwijk,2-5,https://www.besoccer.com/match/fc-oss/rkc-waalwijk/201745691,2017,10,eerste_divisie,45,53,2,0,2,0,,2017
+Den Bosch,Cambuur,3-1,https://www.besoccer.com/match/fc-den-bosch/sc-cambuur-leeuwarden/201745692,2017,10,eerste_divisie,53,58,1,0,1,0,,2017
+SC Telstar,NAC Breda,2-0,https://www.besoccer.com/match/stormvogels-telstar/nac-breda/201745693,2017,10,eerste_divisie,47,58,2,0,2,0,,2017
+MVV Maastricht,Dordrecht,2-1,https://www.besoccer.com/match/mvv/fc-dordrecht/201745694,2017,10,eerste_divisie,54,54,0,0,2,0,,2017
+Jong Ajax,De Graafschap,4-2,https://www.besoccer.com/match/jong-ajax/graafschap/201745695,2017,10,eerste_divisie,53,56,0,0,3,0,,2017
+Emmen,SC Telstar,0-0,https://www.besoccer.com/match/emmen/stormvogels-telstar/201745696,2017,11,eerste_divisie,51,47,2,0,1,0,,2017
+Jong PSV,FC Eindhoven,4-1,https://www.besoccer.com/match/jong-psv/fc-eindhoven/201745698,2017,11,eerste_divisie,53,54,1,0,2,0,,2017
+RKC Waalwijk,Achilles 29,2-0,https://www.besoccer.com/match/rkc-waalwijk/achilles-29/201745699,2017,11,eerste_divisie,54,45,1,0,3,0,,2017
+FC Volendam,Jong Ajax,1-1,https://www.besoccer.com/match/fc-volendam/jong-ajax/201745700,2017,11,eerste_divisie,57,53,1,0,5,0,,2017
+Dordrecht,Almere City,1-4,https://www.besoccer.com/match/fc-dordrecht/almere-city/201745701,2017,11,eerste_divisie,54,46,4,1,1,1,,2017
+VVV Venlo,Den Bosch,3-1,https://www.besoccer.com/match/vvv/fc-den-bosch/201745702,2017,11,eerste_divisie,59,54,1,0,2,0,,2017
+NAC Breda,Fortuna Sittard,3-1,https://www.besoccer.com/match/nac-breda/fortuna-sittard/201745703,2017,11,eerste_divisie,58,46,2,0,2,0,,2017
+Jong Utrecht,MVV Maastricht,1-2,https://www.besoccer.com/match/jong-utrecht/mvv/201745704,2017,11,eerste_divisie,52,54,1,0,4,0,,2017
+De Graafschap,Helmond Sport,2-4,https://www.besoccer.com/match/graafschap/helmond-sport/201745705,2017,11,eerste_divisie,56,52,1,0,1,0,,2017
+Cambuur,TOP Oss,4-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-oss/201745697,2017,11,eerste_divisie,58,44,2,0,1,0,,2017
+MVV Maastricht,FC Volendam,1-2,https://www.besoccer.com/match/mvv/fc-volendam/201745706,2017,12,eerste_divisie,54,57,2,0,1,0,,2017
+Den Bosch,Jong Utrecht,1-0,https://www.besoccer.com/match/fc-den-bosch/jong-utrecht/201745707,2017,12,eerste_divisie,53,52,2,0,5,0,,2017
+Almere City,Helmond Sport,1-0,https://www.besoccer.com/match/almere-city/helmond-sport/201745708,2017,12,eerste_divisie,47,53,1,0,2,0,,2017
+TOP Oss,NAC Breda,3-4,https://www.besoccer.com/match/fc-oss/nac-breda/201745712,2017,12,eerste_divisie,44,58,4,0,1,0,,2017
+SC Telstar,Jong PSV,0-0,https://www.besoccer.com/match/stormvogels-telstar/jong-psv/201745713,2017,12,eerste_divisie,47,53,3,1,1,1,,2017
+Achilles 29,De Graafschap,0-0,https://www.besoccer.com/match/achilles-29/graafschap/201745714,2017,12,eerste_divisie,45,56,2,0,1,0,,2017
+Fortuna Sittard,RKC Waalwijk,0-1,https://www.besoccer.com/match/fortuna-sittard/rkc-waalwijk/201745709,2017,12,eerste_divisie,45,54,2,0,5,0,,2017
+FC Eindhoven,Cambuur,2-0,https://www.besoccer.com/match/fc-eindhoven/sc-cambuur-leeuwarden/201745710,2017,12,eerste_divisie,53,58,1,0,4,0,,2017
+Emmen,Dordrecht,2-1,https://www.besoccer.com/match/emmen/fc-dordrecht/201745711,2017,12,eerste_divisie,51,53,1,0,2,0,,2017
+Jong Ajax,VVV Venlo,0-4,https://www.besoccer.com/match/jong-ajax/vvv/201745715,2017,12,eerste_divisie,53,59,2,0,2,0,,2017
+Jong Ajax,NAC Breda,2-1,https://www.besoccer.com/match/jong-ajax/nac-breda/201745716,2017,13,eerste_divisie,53,58,1,0,3,0,,2017
+Cambuur,FC Volendam,2-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-volendam/201745717,2017,13,eerste_divisie,58,57,0,0,1,0,,2017
+FC Eindhoven,Jong Utrecht,2-1,https://www.besoccer.com/match/fc-eindhoven/jong-utrecht/201745718,2017,13,eerste_divisie,54,52,1,0,0,0,,2017
+Helmond Sport,Jong PSV,1-0,https://www.besoccer.com/match/helmond-sport/jong-psv/201745719,2017,13,eerste_divisie,53,53,1,0,2,0,,2017
+MVV Maastricht,SC Telstar,2-1,https://www.besoccer.com/match/mvv/stormvogels-telstar/201745720,2017,13,eerste_divisie,54,47,1,0,0,0,,2017
+RKC Waalwijk,Den Bosch,0-2,https://www.besoccer.com/match/rkc-waalwijk/fc-den-bosch/201745721,2017,13,eerste_divisie,54,54,2,0,3,0,,2017
+Almere City,Achilles 29,1-0,https://www.besoccer.com/match/almere-city/achilles-29/201745722,2017,13,eerste_divisie,47,45,1,0,2,0,,2017
+VVV Venlo,Dordrecht,3-1,https://www.besoccer.com/match/vvv/fc-dordrecht/201745723,2017,13,eerste_divisie,59,53,2,1,4,1,,2017
+TOP Oss,Emmen,2-2,https://www.besoccer.com/match/fc-oss/emmen/201745724,2017,13,eerste_divisie,44,51,2,0,2,0,,2017
+De Graafschap,Fortuna Sittard,5-0,https://www.besoccer.com/match/graafschap/fortuna-sittard/201745725,2017,13,eerste_divisie,56,45,1,0,2,0,,2017
+Fortuna Sittard,MVV Maastricht,2-3,https://www.besoccer.com/match/fortuna-sittard/mvv/201745726,2017,14,eerste_divisie,45,54,3,0,2,0,,2017
+Achilles 29,TOP Oss,1-2,https://www.besoccer.com/match/achilles-29/fc-oss/201745727,2017,14,eerste_divisie,45,44,1,1,2,1,,2017
+Den Bosch,FC Eindhoven,0-2,https://www.besoccer.com/match/fc-den-bosch/fc-eindhoven/201745728,2017,14,eerste_divisie,54,54,2,0,0,0,,2017
+Dordrecht,Helmond Sport,1-4,https://www.besoccer.com/match/fc-dordrecht/helmond-sport/201745729,2017,14,eerste_divisie,53,53,2,0,1,0,,2017
+NAC Breda,VVV Venlo,0-0,https://www.besoccer.com/match/nac-breda/vvv/201745730,2017,14,eerste_divisie,58,59,0,0,2,0,,2017
+Emmen,Cambuur,0-1,https://www.besoccer.com/match/emmen/sc-cambuur-leeuwarden/201745731,2017,14,eerste_divisie,51,58,5,0,3,0,,2017
+FC Volendam,RKC Waalwijk,1-1,https://www.besoccer.com/match/fc-volendam/rkc-waalwijk/201745732,2017,14,eerste_divisie,57,54,0,0,1,0,,2017
+SC Telstar,Almere City,3-6,https://www.besoccer.com/match/stormvogels-telstar/almere-city/201745733,2017,14,eerste_divisie,47,47,0,0,0,0,,2017
+Jong Utrecht,Jong Ajax,2-2,https://www.besoccer.com/match/jong-utrecht/jong-ajax/201745734,2017,14,eerste_divisie,52,53,2,0,1,0,,2017
+Jong PSV,De Graafschap,1-0,https://www.besoccer.com/match/jong-psv/graafschap/201745735,2017,14,eerste_divisie,53,56,1,0,1,0,,2017
+Achilles 29,Emmen,0-4,https://www.besoccer.com/match/achilles-29/emmen/201745736,2017,15,eerste_divisie,45,51,1,1,1,1,,2017
+Jong Ajax,SC Telstar,2-1,https://www.besoccer.com/match/jong-ajax/stormvogels-telstar/201745737,2017,15,eerste_divisie,53,47,1,0,1,0,,2017
+Almere City,VVV Venlo,0-2,https://www.besoccer.com/match/almere-city/vvv/201745738,2017,15,eerste_divisie,47,59,1,0,4,0,,2017
+Cambuur,NAC Breda,3-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/nac-breda/201745739,2017,15,eerste_divisie,58,58,0,0,1,0,,2017
+TOP Oss,Jong Utrecht,4-2,https://www.besoccer.com/match/fc-oss/jong-utrecht/201745740,2017,15,eerste_divisie,44,52,2,0,3,0,,2017
+MVV Maastricht,Den Bosch,3-0,https://www.besoccer.com/match/mvv/fc-den-bosch/201745741,2017,15,eerste_divisie,54,54,2,0,0,0,,2017
+FC Eindhoven,Dordrecht,2-1,https://www.besoccer.com/match/fc-eindhoven/fc-dordrecht/201745742,2017,15,eerste_divisie,54,53,0,0,2,0,,2017
+Helmond Sport,Fortuna Sittard,1-0,https://www.besoccer.com/match/helmond-sport/fortuna-sittard/201745743,2017,15,eerste_divisie,53,45,2,0,1,0,,2017
+FC Volendam,Jong PSV,1-0,https://www.besoccer.com/match/fc-volendam/jong-psv/201745744,2017,15,eerste_divisie,57,53,1,0,0,0,,2017
+RKC Waalwijk,De Graafschap,2-1,https://www.besoccer.com/match/rkc-waalwijk/graafschap/201745745,2017,15,eerste_divisie,54,56,2,0,0,0,,2017
+Emmen,MVV Maastricht,0-0,https://www.besoccer.com/match/emmen/mvv/201745746,2017,16,eerste_divisie,51,55,2,0,0,0,,2017
+Jong PSV,TOP Oss,2-4,https://www.besoccer.com/match/jong-psv/fc-oss/201745747,2017,16,eerste_divisie,53,45,1,0,0,0,,2017
+Den Bosch,Achilles 29,2-1,https://www.besoccer.com/match/fc-den-bosch/achilles-29/201745748,2017,16,eerste_divisie,53,45,2,0,1,0,,2017
+Dordrecht,Jong Ajax,0-2,https://www.besoccer.com/match/fc-dordrecht/jong-ajax/201745749,2017,16,eerste_divisie,53,53,0,0,1,0,,2017
+Jong Utrecht,Almere City,1-1,https://www.besoccer.com/match/jong-utrecht/almere-city/201745750,2017,16,eerste_divisie,51,47,1,0,1,0,,2017
+SC Telstar,Cambuur,0-3,https://www.besoccer.com/match/stormvogels-telstar/sc-cambuur-leeuwarden/201745751,2017,16,eerste_divisie,47,59,1,0,0,0,,2017
+Fortuna Sittard,FC Eindhoven,1-1,https://www.besoccer.com/match/fortuna-sittard/fc-eindhoven/201745752,2017,16,eerste_divisie,45,54,3,0,1,0,,2017
+NAC Breda,Helmond Sport,0-0,https://www.besoccer.com/match/nac-breda/helmond-sport/201745753,2017,16,eerste_divisie,58,53,2,0,2,0,,2017
+VVV Venlo,RKC Waalwijk,4-0,https://www.besoccer.com/match/vvv/rkc-waalwijk/201745754,2017,16,eerste_divisie,59,54,0,0,2,0,,2017
+De Graafschap,FC Volendam,1-1,https://www.besoccer.com/match/graafschap/fc-volendam/201745755,2017,16,eerste_divisie,56,57,0,0,0,0,,2017
+Dordrecht,Den Bosch,2-2,https://www.besoccer.com/match/fc-dordrecht/fc-den-bosch/201745756,2017,17,eerste_divisie,53,53,0,0,1,0,,2017
+RKC Waalwijk,MVV Maastricht,2-0,https://www.besoccer.com/match/rkc-waalwijk/mvv/201745757,2017,17,eerste_divisie,54,55,3,0,3,0,,2017
+Jong PSV,Achilles 29,4-0,https://www.besoccer.com/match/jong-psv/achilles-29/201745758,2017,17,eerste_divisie,52,45,1,0,0,0,,2017
+Cambuur,Jong Ajax,1-3,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-ajax/201745759,2017,17,eerste_divisie,59,53,3,1,2,1,,2017
+NAC Breda,Almere City,3-1,https://www.besoccer.com/match/nac-breda/almere-city/201745760,2017,17,eerste_divisie,58,47,3,0,3,0,,2017
+Helmond Sport,FC Eindhoven,3-0,https://www.besoccer.com/match/helmond-sport/fc-eindhoven/201745761,2017,17,eerste_divisie,53,54,1,0,4,0,,2017
+Jong Utrecht,Emmen,3-1,https://www.besoccer.com/match/jong-utrecht/emmen/201745762,2017,17,eerste_divisie,51,51,2,0,1,0,,2017
+FC Volendam,Fortuna Sittard,3-0,https://www.besoccer.com/match/fc-volendam/fortuna-sittard/201745763,2017,17,eerste_divisie,57,45,0,0,1,0,,2017
+VVV Venlo,SC Telstar,1-1,https://www.besoccer.com/match/vvv/stormvogels-telstar/201745764,2017,17,eerste_divisie,59,47,2,0,2,0,,2017
+De Graafschap,TOP Oss,3-5,https://www.besoccer.com/match/graafschap/fc-oss/201745765,2017,17,eerste_divisie,56,45,1,1,3,1,,2017
+Achilles 29,FC Volendam,0-6,https://www.besoccer.com/match/achilles-29/fc-volendam/201745766,2017,18,eerste_divisie,44,57,1,2,0,2,,2017
+Jong Ajax,Jong PSV,1-0,https://www.besoccer.com/match/jong-ajax/jong-psv/201745767,2017,18,eerste_divisie,53,53,0,0,0,0,,2017
+Almere City,RKC Waalwijk,6-2,https://www.besoccer.com/match/almere-city/rkc-waalwijk/201745768,2017,18,eerste_divisie,47,54,1,0,1,0,,2017
+Cambuur,Jong Utrecht,4-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-utrecht/201745769,2017,18,eerste_divisie,58,51,0,0,2,0,,2017
+Den Bosch,Helmond Sport,1-1,https://www.besoccer.com/match/fc-den-bosch/helmond-sport/201745770,2017,18,eerste_divisie,53,53,0,0,0,0,,2017
+FC Eindhoven,NAC Breda,6-2,https://www.besoccer.com/match/fc-eindhoven/nac-breda/201745771,2017,18,eerste_divisie,54,58,2,0,1,0,,2017
+Emmen,VVV Venlo,1-2,https://www.besoccer.com/match/emmen/vvv/201745772,2017,18,eerste_divisie,51,59,1,0,0,0,,2017
+SC Telstar,Dordrecht,0-0,https://www.besoccer.com/match/stormvogels-telstar/fc-dordrecht/201745773,2017,18,eerste_divisie,47,53,2,0,2,0,,2017
+TOP Oss,Fortuna Sittard,3-1,https://www.besoccer.com/match/fc-oss/fortuna-sittard/201745774,2017,18,eerste_divisie,45,45,3,0,1,0,,2017
+MVV Maastricht,De Graafschap,2-0,https://www.besoccer.com/match/mvv/graafschap/201745775,2017,18,eerste_divisie,54,55,1,0,5,0,,2017
+Dordrecht,Achilles 29,3-0,https://www.besoccer.com/match/fc-dordrecht/achilles-29/201745776,2017,19,eerste_divisie,53,44,1,0,5,0,,2017
+Helmond Sport,Jong Ajax,2-4,https://www.besoccer.com/match/helmond-sport/jong-ajax/201745777,2017,19,eerste_divisie,53,53,5,0,0,0,,2017
+Fortuna Sittard,Den Bosch,0-4,https://www.besoccer.com/match/fortuna-sittard/fc-den-bosch/201745778,2017,19,eerste_divisie,45,53,3,0,1,0,,2017
+VVV Venlo,FC Eindhoven,1-0,https://www.besoccer.com/match/vvv/fc-eindhoven/201745779,2017,19,eerste_divisie,59,54,1,0,3,0,,2017
+NAC Breda,Emmen,3-1,https://www.besoccer.com/match/nac-breda/emmen/201745780,2017,19,eerste_divisie,58,51,2,0,1,0,,2017
+FC Volendam,TOP Oss,3-1,https://www.besoccer.com/match/fc-volendam/fc-oss/201745781,2017,19,eerste_divisie,58,45,0,0,1,0,,2017
+De Graafschap,Almere City,4-1,https://www.besoccer.com/match/graafschap/almere-city/201745782,2017,19,eerste_divisie,55,47,2,0,0,0,,2017
+RKC Waalwijk,Cambuur,2-2,https://www.besoccer.com/match/rkc-waalwijk/sc-cambuur-leeuwarden/201745783,2017,19,eerste_divisie,54,59,3,0,2,0,,2017
+Jong PSV,MVV Maastricht,0-0,https://www.besoccer.com/match/jong-psv/mvv/201745784,2017,19,eerste_divisie,52,55,2,0,5,0,,2017
+Jong Utrecht,SC Telstar,2-1,https://www.besoccer.com/match/jong-utrecht/stormvogels-telstar/201745785,2017,19,eerste_divisie,51,47,1,0,1,0,,2017
+Achilles 29,Fortuna Sittard,0-1,https://www.besoccer.com/match/achilles-29/fortuna-sittard/201745786,2017,20,eerste_divisie,44,44,3,0,3,0,,2017
+Cambuur,VVV Venlo,0-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/vvv/201745788,2017,20,eerste_divisie,59,59,0,0,2,0,,2017
+Almere City,FC Volendam,2-2,https://www.besoccer.com/match/almere-city/fc-volendam/201745789,2017,20,eerste_divisie,47,58,0,0,1,0,,2017
+MVV Maastricht,Helmond Sport,2-0,https://www.besoccer.com/match/mvv/helmond-sport/201745790,2017,20,eerste_divisie,55,53,2,0,1,0,,2017
+Emmen,Jong Ajax,0-0,https://www.besoccer.com/match/emmen/jong-ajax/201745792,2017,20,eerste_divisie,51,54,1,0,0,0,,2017
+SC Telstar,RKC Waalwijk,0-4,https://www.besoccer.com/match/stormvogels-telstar/rkc-waalwijk/201745793,2017,20,eerste_divisie,47,54,2,1,1,1,,2017
+FC Eindhoven,De Graafschap,2-1,https://www.besoccer.com/match/fc-eindhoven/graafschap/201745794,2017,20,eerste_divisie,54,55,0,0,2,0,,2017
+Den Bosch,Jong PSV,0-0,https://www.besoccer.com/match/fc-den-bosch/jong-psv/201745787,2017,20,eerste_divisie,54,52,2,0,1,0,,2017
+TOP Oss,Dordrecht,4-2,https://www.besoccer.com/match/fc-oss/fc-dordrecht/201745791,2017,20,eerste_divisie,45,53,0,0,0,0,,2017
+Jong Utrecht,NAC Breda,0-2,https://www.besoccer.com/match/jong-utrecht/nac-breda/201745795,2017,20,eerste_divisie,51,58,1,0,1,0,,2017
+Helmond Sport,TOP Oss,3-1,https://www.besoccer.com/match/helmond-sport/fc-oss/201745796,2017,21,eerste_divisie,53,46,4,1,3,1,,2017
+Dordrecht,Jong Utrecht,3-0,https://www.besoccer.com/match/fc-dordrecht/jong-utrecht/201745797,2017,21,eerste_divisie,53,51,1,0,3,0,,2017
+Fortuna Sittard,SC Telstar,1-1,https://www.besoccer.com/match/fortuna-sittard/stormvogels-telstar/201745798,2017,21,eerste_divisie,45,46,0,0,2,0,,2017
+NAC Breda,Achilles 29,2-0,https://www.besoccer.com/match/nac-breda/achilles-29/201745799,2017,21,eerste_divisie,58,44,0,0,2,0,,2017
+FC Volendam,FC Eindhoven,3-1,https://www.besoccer.com/match/fc-volendam/fc-eindhoven/201745800,2017,21,eerste_divisie,58,54,0,0,2,0,,2017
+RKC Waalwijk,Emmen,1-1,https://www.besoccer.com/match/rkc-waalwijk/emmen/201745801,2017,21,eerste_divisie,54,51,3,0,4,0,,2017
+De Graafschap,Den Bosch,0-3,https://www.besoccer.com/match/graafschap/fc-den-bosch/201745803,2017,21,eerste_divisie,55,54,2,0,1,0,,2017
+Jong PSV,Cambuur,0-2,https://www.besoccer.com/match/jong-psv/sc-cambuur-leeuwarden/201745805,2017,21,eerste_divisie,53,59,0,0,0,0,,2017
+VVV Venlo,MVV Maastricht,2-1,https://www.besoccer.com/match/vvv/mvv/201745802,2017,21,eerste_divisie,60,55,3,0,3,0,,2017
+Jong Ajax,Almere City,6-3,https://www.besoccer.com/match/jong-ajax/almere-city/201745804,2017,21,eerste_divisie,54,47,1,0,4,0,,2017
+FC Eindhoven,RKC Waalwijk,3-0,https://www.besoccer.com/match/fc-eindhoven/rkc-waalwijk/201745806,2017,22,eerste_divisie,54,54,1,0,2,0,,2017
+MVV Maastricht,NAC Breda,1-1,https://www.besoccer.com/match/mvv/nac-breda/201745807,2017,22,eerste_divisie,55,58,0,0,2,0,,2017
+TOP Oss,VVV Venlo,0-3,https://www.besoccer.com/match/fc-oss/vvv/201745808,2017,22,eerste_divisie,45,60,2,0,1,0,,2017
+Achilles 29,Helmond Sport,1-2,https://www.besoccer.com/match/achilles-29/helmond-sport/201745809,2017,22,eerste_divisie,44,53,2,1,1,1,,2017
+Almere City,Fortuna Sittard,2-0,https://www.besoccer.com/match/almere-city/fortuna-sittard/201745810,2017,22,eerste_divisie,47,45,0,0,1,0,,2017
+Emmen,Jong PSV,1-1,https://www.besoccer.com/match/emmen/jong-psv/201745812,2017,22,eerste_divisie,51,52,1,0,4,0,,2017
+SC Telstar,FC Volendam,0-1,https://www.besoccer.com/match/stormvogels-telstar/fc-volendam/201745813,2017,22,eerste_divisie,46,58,0,0,0,0,,2017
+Den Bosch,Jong Ajax,1-2,https://www.besoccer.com/match/fc-den-bosch/jong-ajax/201745814,2017,22,eerste_divisie,54,54,1,0,2,0,,2017
+Cambuur,Dordrecht,3-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-dordrecht/201745811,2017,22,eerste_divisie,59,53,1,0,2,0,,2017
+Jong Utrecht,De Graafschap,3-2,https://www.besoccer.com/match/jong-utrecht/graafschap/201745815,2017,22,eerste_divisie,51,55,1,0,1,0,,2017
+Den Bosch,NAC Breda,2-1,https://www.besoccer.com/match/fc-den-bosch/nac-breda/201745816,2017,23,eerste_divisie,54,58,2,0,2,0,,2017
+Cambuur,Helmond Sport,3-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/helmond-sport/201745817,2017,23,eerste_divisie,59,53,2,0,2,0,,2017
+Jong Ajax,RKC Waalwijk,4-1,https://www.besoccer.com/match/jong-ajax/rkc-waalwijk/201745818,2017,23,eerste_divisie,54,54,0,0,3,0,,2017
+Dordrecht,Fortuna Sittard,2-2,https://www.besoccer.com/match/fc-dordrecht/fortuna-sittard/201745819,2017,23,eerste_divisie,53,44,2,0,2,0,,2017
+Emmen,FC Volendam,3-1,https://www.besoccer.com/match/emmen/fc-volendam/201745820,2017,23,eerste_divisie,51,58,0,0,3,0,,2017
+MVV Maastricht,Achilles 29,0-0,https://www.besoccer.com/match/mvv/achilles-29/201745821,2017,23,eerste_divisie,55,44,2,0,3,0,,2017
+Jong Utrecht,Jong PSV,0-2,https://www.besoccer.com/match/jong-utrecht/jong-psv/201745822,2017,23,eerste_divisie,51,52,0,0,0,0,,2017
+FC Eindhoven,Almere City,4-1,https://www.besoccer.com/match/fc-eindhoven/almere-city/201745823,2017,23,eerste_divisie,54,47,0,0,2,0,,2017
+SC Telstar,TOP Oss,3-1,https://www.besoccer.com/match/stormvogels-telstar/fc-oss/201745824,2017,23,eerste_divisie,46,45,1,0,3,0,,2017
+VVV Venlo,De Graafschap,4-1,https://www.besoccer.com/match/vvv/graafschap/201745825,2017,23,eerste_divisie,60,55,1,0,2,0,,2017
+Achilles 29,FC Eindhoven,4-3,https://www.besoccer.com/match/achilles-29/fc-eindhoven/201745826,2017,24,eerste_divisie,44,54,1,0,2,0,,2017
+RKC Waalwijk,Jong Utrecht,1-2,https://www.besoccer.com/match/rkc-waalwijk/jong-utrecht/201745827,2017,24,eerste_divisie,53,51,0,0,2,0,,2017
+Almere City,Emmen,3-1,https://www.besoccer.com/match/almere-city/emmen/201745828,2017,24,eerste_divisie,47,51,1,0,1,0,,2017
+Helmond Sport,SC Telstar,3-4,https://www.besoccer.com/match/helmond-sport/stormvogels-telstar/201745829,2017,24,eerste_divisie,53,47,1,0,4,0,,2017
+Jong PSV,VVV Venlo,2-1,https://www.besoccer.com/match/jong-psv/vvv/201745830,2017,24,eerste_divisie,53,60,2,0,1,0,,2017
+FC Volendam,Den Bosch,2-1,https://www.besoccer.com/match/fc-volendam/fc-den-bosch/201745831,2017,24,eerste_divisie,58,54,1,0,1,0,,2017
+TOP Oss,MVV Maastricht,0-3,https://www.besoccer.com/match/fc-oss/mvv/201745832,2017,24,eerste_divisie,45,55,4,0,3,0,,2017
+NAC Breda,Dordrecht,1-0,https://www.besoccer.com/match/nac-breda/fc-dordrecht/201745833,2017,24,eerste_divisie,58,53,1,0,1,0,,2017
+Fortuna Sittard,Jong Ajax,5-2,https://www.besoccer.com/match/fortuna-sittard/jong-ajax/201745834,2017,24,eerste_divisie,44,54,3,0,0,0,,2017
+De Graafschap,Cambuur,3-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/201745835,2017,24,eerste_divisie,55,60,3,0,2,0,,2017
+Cambuur,Fortuna Sittard,1-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fortuna-sittard/201745836,2017,25,eerste_divisie,59,45,2,0,3,0,,2017
+Dordrecht,Jong PSV,2-3,https://www.besoccer.com/match/fc-dordrecht/jong-psv/201745837,2017,25,eerste_divisie,52,53,2,0,0,0,,2017
+FC Eindhoven,TOP Oss,1-2,https://www.besoccer.com/match/fc-eindhoven/fc-oss/201745838,2017,25,eerste_divisie,54,45,2,0,3,0,,2017
+NAC Breda,RKC Waalwijk,2-3,https://www.besoccer.com/match/nac-breda/rkc-waalwijk/201745839,2017,25,eerste_divisie,58,53,2,1,2,1,,2017
+VVV Venlo,Helmond Sport,7-0,https://www.besoccer.com/match/vvv/helmond-sport/201745840,2017,25,eerste_divisie,60,53,2,0,1,0,,2017
+SC Telstar,Achilles 29,1-1,https://www.besoccer.com/match/stormvogels-telstar/achilles-29/201745841,2017,25,eerste_divisie,47,44,1,0,2,0,,2017
+Den Bosch,Almere City,1-3,https://www.besoccer.com/match/fc-den-bosch/almere-city/201745842,2017,25,eerste_divisie,54,47,2,0,1,0,,2017
+Emmen,De Graafschap,2-0,https://www.besoccer.com/match/emmen/graafschap/201745843,2017,25,eerste_divisie,51,55,0,0,3,0,,2017
+Jong Utrecht,FC Volendam,2-4,https://www.besoccer.com/match/jong-utrecht/fc-volendam/201745844,2017,25,eerste_divisie,51,58,1,0,3,0,,2017
+Jong Ajax,MVV Maastricht,1-1,https://www.besoccer.com/match/jong-ajax/mvv/201745845,2017,25,eerste_divisie,54,55,0,0,1,0,,2017
+Fortuna Sittard,Jong Utrecht,4-1,https://www.besoccer.com/match/fortuna-sittard/jong-utrecht/201745846,2017,26,eerste_divisie,45,51,2,0,2,0,,2017
+Almere City,Cambuur,0-1,https://www.besoccer.com/match/almere-city/sc-cambuur-leeuwarden/201745848,2017,26,eerste_divisie,47,59,3,0,0,0,,2017
+FC Volendam,VVV Venlo,0-1,https://www.besoccer.com/match/fc-volendam/vvv/201745849,2017,26,eerste_divisie,58,60,2,1,1,1,,2017
+TOP Oss,Den Bosch,1-1,https://www.besoccer.com/match/fc-oss/fc-den-bosch/201745850,2017,26,eerste_divisie,45,54,3,0,2,0,,2017
+RKC Waalwijk,Dordrecht,2-1,https://www.besoccer.com/match/rkc-waalwijk/fc-dordrecht/201745851,2017,26,eerste_divisie,53,52,1,0,3,0,,2017
+Helmond Sport,Emmen,1-3,https://www.besoccer.com/match/helmond-sport/emmen/201745852,2017,26,eerste_divisie,53,51,2,0,1,0,,2017
+De Graafschap,SC Telstar,2-1,https://www.besoccer.com/match/graafschap/stormvogels-telstar/201745853,2017,26,eerste_divisie,55,47,3,0,4,0,,2017
+Achilles 29,Jong Ajax,2-3,https://www.besoccer.com/match/achilles-29/jong-ajax/201745847,2017,26,eerste_divisie,44,54,2,1,0,1,,2017
+MVV Maastricht,FC Eindhoven,0-0,https://www.besoccer.com/match/mvv/fc-eindhoven/201745854,2017,26,eerste_divisie,55,54,2,1,1,1,,2017
+Jong PSV,NAC Breda,2-0,https://www.besoccer.com/match/jong-psv/nac-breda/201745855,2017,26,eerste_divisie,53,58,1,0,3,0,,2017
+Almere City,TOP Oss,3-3,https://www.besoccer.com/match/almere-city/fc-oss/201745856,2017,27,eerste_divisie,47,45,1,0,3,0,,2017
+Cambuur,MVV Maastricht,4-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/mvv/201745857,2017,27,eerste_divisie,59,55,0,0,2,0,,2017
+Jong Ajax,FC Eindhoven,1-1,https://www.besoccer.com/match/jong-ajax/fc-eindhoven/201745858,2017,27,eerste_divisie,54,54,1,0,4,0,,2017
+Emmen,Fortuna Sittard,2-3,https://www.besoccer.com/match/emmen/fortuna-sittard/201745859,2017,27,eerste_divisie,51,45,3,0,0,0,,2017
+Helmond Sport,Jong Utrecht,1-1,https://www.besoccer.com/match/helmond-sport/jong-utrecht/201745860,2017,27,eerste_divisie,53,51,1,0,0,0,,2017
+NAC Breda,FC Volendam,1-0,https://www.besoccer.com/match/nac-breda/fc-volendam/201745861,2017,27,eerste_divisie,58,58,2,0,1,0,,2017
+Jong PSV,RKC Waalwijk,4-1,https://www.besoccer.com/match/jong-psv/rkc-waalwijk/201745862,2017,27,eerste_divisie,53,53,2,0,2,0,,2017
+VVV Venlo,Achilles 29,4-0,https://www.besoccer.com/match/vvv/achilles-29/201745863,2017,27,eerste_divisie,60,44,0,0,1,0,,2017
+SC Telstar,Den Bosch,2-0,https://www.besoccer.com/match/stormvogels-telstar/fc-den-bosch/201745864,2017,27,eerste_divisie,47,54,1,0,4,0,,2017
+Dordrecht,De Graafschap,0-3,https://www.besoccer.com/match/fc-dordrecht/graafschap/201745865,2017,27,eerste_divisie,52,55,2,1,1,1,,2017
+FC Eindhoven,SC Telstar,4-2,https://www.besoccer.com/match/fc-eindhoven/stormvogels-telstar/201745866,2017,28,eerste_divisie,54,47,1,0,6,0,,2017
+Fortuna Sittard,Jong PSV,0-0,https://www.besoccer.com/match/fortuna-sittard/jong-psv/201745867,2017,28,eerste_divisie,45,53,1,0,1,0,,2017
+Den Bosch,Emmen,1-1,https://www.besoccer.com/match/fc-den-bosch/emmen/201745868,2017,28,eerste_divisie,54,51,3,0,2,0,,2017
+TOP Oss,Jong Ajax,0-3,https://www.besoccer.com/match/fc-oss/jong-ajax/201745869,2017,28,eerste_divisie,45,54,1,0,0,0,,2017
+MVV Maastricht,Almere City,2-2,https://www.besoccer.com/match/mvv/almere-city/201745870,2017,28,eerste_divisie,55,47,3,0,1,0,,2017
+FC Volendam,Dordrecht,1-1,https://www.besoccer.com/match/fc-volendam/fc-dordrecht/201745871,2017,28,eerste_divisie,58,52,0,0,1,0,,2017
+RKC Waalwijk,Helmond Sport,5-2,https://www.besoccer.com/match/rkc-waalwijk/helmond-sport/201745872,2017,28,eerste_divisie,53,53,0,0,1,0,,2017
+De Graafschap,NAC Breda,2-1,https://www.besoccer.com/match/graafschap/nac-breda/201745874,2017,28,eerste_divisie,55,58,4,0,7,0,,2017
+Achilles 29,Cambuur,0-3,https://www.besoccer.com/match/achilles-29/sc-cambuur-leeuwarden/201745873,2017,28,eerste_divisie,44,59,1,0,2,0,,2017
+Jong Utrecht,VVV Venlo,0-0,https://www.besoccer.com/match/jong-utrecht/vvv/201745875,2017,28,eerste_divisie,51,60,1,0,1,0,,2017
+Cambuur,Den Bosch,0-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-den-bosch/201745876,2017,29,eerste_divisie,59,54,0,0,1,0,,2017
+Dordrecht,MVV Maastricht,0-1,https://www.besoccer.com/match/fc-dordrecht/mvv/201745877,2017,29,eerste_divisie,53,55,0,0,0,0,,2017
+NAC Breda,SC Telstar,1-0,https://www.besoccer.com/match/nac-breda/stormvogels-telstar/201745878,2017,29,eerste_divisie,58,47,2,0,0,0,,2017
+VVV Venlo,Fortuna Sittard,4-1,https://www.besoccer.com/match/vvv/fortuna-sittard/201745879,2017,29,eerste_divisie,59,44,2,0,1,0,,2017
+Emmen,FC Eindhoven,2-0,https://www.besoccer.com/match/emmen/fc-eindhoven/201745880,2017,29,eerste_divisie,51,54,2,0,3,0,,2017
+Jong Utrecht,Achilles 29,0-1,https://www.besoccer.com/match/jong-utrecht/achilles-29/201745881,2017,29,eerste_divisie,51,44,1,0,2,0,,2017
+Jong PSV,Almere City,0-1,https://www.besoccer.com/match/jong-psv/almere-city/201745882,2017,29,eerste_divisie,52,47,1,0,0,0,,2017
+FC Volendam,Helmond Sport,1-0,https://www.besoccer.com/match/fc-volendam/helmond-sport/201745883,2017,29,eerste_divisie,58,53,0,0,2,0,,2017
+RKC Waalwijk,TOP Oss,3-0,https://www.besoccer.com/match/rkc-waalwijk/fc-oss/201745884,2017,29,eerste_divisie,54,45,0,0,0,0,,2017
+De Graafschap,Jong Ajax,3-2,https://www.besoccer.com/match/graafschap/jong-ajax/201745885,2017,29,eerste_divisie,55,54,2,0,3,0,,2017
+FC Eindhoven,Jong PSV,0-5,https://www.besoccer.com/match/fc-eindhoven/jong-psv/201745886,2017,30,eerste_divisie,54,53,0,0,0,0,,2017
+Achilles 29,RKC Waalwijk,2-3,https://www.besoccer.com/match/achilles-29/rkc-waalwijk/201745887,2017,30,eerste_divisie,44,53,3,0,3,0,,2017
+Jong Ajax,FC Volendam,1-1,https://www.besoccer.com/match/jong-ajax/fc-volendam/201745888,2017,30,eerste_divisie,54,58,0,0,3,0,,2017
+Almere City,Dordrecht,3-0,https://www.besoccer.com/match/almere-city/fc-dordrecht/201745889,2017,30,eerste_divisie,47,52,2,0,3,0,,2017
+Den Bosch,VVV Venlo,0-2,https://www.besoccer.com/match/fc-den-bosch/vvv/201745890,2017,30,eerste_divisie,54,60,2,0,2,0,,2017
+Fortuna Sittard,NAC Breda,0-2,https://www.besoccer.com/match/fortuna-sittard/nac-breda/201745891,2017,30,eerste_divisie,45,58,1,1,1,1,,2017
+MVV Maastricht,Jong Utrecht,4-1,https://www.besoccer.com/match/mvv/jong-utrecht/201745892,2017,30,eerste_divisie,55,51,1,0,1,0,,2017
+SC Telstar,Emmen,2-2,https://www.besoccer.com/match/stormvogels-telstar/emmen/201745893,2017,30,eerste_divisie,47,51,3,0,3,0,,2017
+TOP Oss,Cambuur,2-7,https://www.besoccer.com/match/fc-oss/sc-cambuur-leeuwarden/201745894,2017,30,eerste_divisie,45,59,0,0,0,0,,2017
+Helmond Sport,De Graafschap,0-2,https://www.besoccer.com/match/helmond-sport/graafschap/201745895,2017,30,eerste_divisie,53,55,3,0,1,0,,2017
+Den Bosch,RKC Waalwijk,1-1,https://www.besoccer.com/match/fc-den-bosch/rkc-waalwijk/201745896,2017,31,eerste_divisie,54,53,1,0,6,0,,2017
+Achilles 29,Almere City,3-3,https://www.besoccer.com/match/achilles-29/almere-city/201745897,2017,31,eerste_divisie,44,47,0,0,2,0,,2017
+Dordrecht,VVV Venlo,5-2,https://www.besoccer.com/match/fc-dordrecht/vvv/201745898,2017,31,eerste_divisie,52,60,0,0,0,0,,2017
+Emmen,TOP Oss,2-0,https://www.besoccer.com/match/emmen/fc-oss/201745899,2017,31,eerste_divisie,51,45,0,0,0,0,,2017
+NAC Breda,Jong Ajax,4-3,https://www.besoccer.com/match/nac-breda/jong-ajax/201745900,2017,31,eerste_divisie,58,54,2,0,2,0,,2017
+Jong Utrecht,FC Eindhoven,3-1,https://www.besoccer.com/match/jong-utrecht/fc-eindhoven/201745901,2017,31,eerste_divisie,51,54,2,0,2,0,,2017
+Jong PSV,Helmond Sport,3-0,https://www.besoccer.com/match/jong-psv/helmond-sport/201745902,2017,31,eerste_divisie,53,53,1,0,2,0,,2017
+SC Telstar,MVV Maastricht,1-1,https://www.besoccer.com/match/stormvogels-telstar/mvv/201745903,2017,31,eerste_divisie,47,55,3,0,3,0,,2017
+Fortuna Sittard,De Graafschap,3-2,https://www.besoccer.com/match/fortuna-sittard/graafschap/201745904,2017,31,eerste_divisie,45,55,1,0,1,0,,2017
+FC Volendam,Cambuur,1-1,https://www.besoccer.com/match/fc-volendam/sc-cambuur-leeuwarden/201745905,2017,31,eerste_divisie,58,59,1,0,0,0,,2017
+Almere City,SC Telstar,2-0,https://www.besoccer.com/match/almere-city/stormvogels-telstar/201745906,2017,32,eerste_divisie,47,47,0,0,1,0,,2017
+Cambuur,Emmen,1-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/emmen/201745907,2017,32,eerste_divisie,60,51,2,0,0,0,,2017
+RKC Waalwijk,FC Volendam,1-4,https://www.besoccer.com/match/rkc-waalwijk/fc-volendam/201745908,2017,32,eerste_divisie,53,58,2,0,1,0,,2017
+TOP Oss,Achilles 29,4-0,https://www.besoccer.com/match/fc-oss/achilles-29/201745910,2017,32,eerste_divisie,45,44,2,0,2,0,,2017
+FC Eindhoven,Den Bosch,4-2,https://www.besoccer.com/match/fc-eindhoven/fc-den-bosch/201745911,2017,32,eerste_divisie,54,53,1,0,2,0,,2017
+Helmond Sport,Dordrecht,1-0,https://www.besoccer.com/match/helmond-sport/fc-dordrecht/201745912,2017,32,eerste_divisie,52,52,1,0,0,0,,2017
+De Graafschap,Jong PSV,2-1,https://www.besoccer.com/match/graafschap/jong-psv/201745913,2017,32,eerste_divisie,55,53,2,0,3,0,,2017
+VVV Venlo,NAC Breda,0-4,https://www.besoccer.com/match/vvv/nac-breda/201745914,2017,32,eerste_divisie,60,58,2,0,3,0,,2017
+MVV Maastricht,Fortuna Sittard,1-1,https://www.besoccer.com/match/mvv/fortuna-sittard/201745909,2017,32,eerste_divisie,54,45,3,0,1,0,,2017
+Jong Ajax,Jong Utrecht,2-0,https://www.besoccer.com/match/jong-ajax/jong-utrecht/201745915,2017,32,eerste_divisie,54,51,0,0,1,0,,2017
+Den Bosch,MVV Maastricht,2-1,https://www.besoccer.com/match/fc-den-bosch/mvv/201745916,2017,33,eerste_divisie,53,54,2,0,1,0,,2017
+Dordrecht,FC Eindhoven,1-1,https://www.besoccer.com/match/fc-dordrecht/fc-eindhoven/201745917,2017,33,eerste_divisie,52,54,2,0,0,0,,2017
+Fortuna Sittard,Helmond Sport,4-1,https://www.besoccer.com/match/fortuna-sittard/helmond-sport/201745918,2017,33,eerste_divisie,45,52,1,0,2,0,,2017
+Emmen,Achilles 29,1-0,https://www.besoccer.com/match/emmen/achilles-29/201745919,2017,33,eerste_divisie,51,43,1,0,2,0,,2017
+SC Telstar,Jong Ajax,1-3,https://www.besoccer.com/match/stormvogels-telstar/jong-ajax/201745920,2017,33,eerste_divisie,47,54,1,0,1,0,,2017
+VVV Venlo,Almere City,3-2,https://www.besoccer.com/match/vvv/almere-city/201745921,2017,33,eerste_divisie,60,47,0,0,2,0,,2017
+NAC Breda,Cambuur,0-2,https://www.besoccer.com/match/nac-breda/sc-cambuur-leeuwarden/201745922,2017,33,eerste_divisie,58,60,2,0,4,0,,2017
+De Graafschap,RKC Waalwijk,4-0,https://www.besoccer.com/match/graafschap/rkc-waalwijk/201745923,2017,33,eerste_divisie,55,53,0,0,1,0,,2017
+Jong PSV,FC Volendam,2-0,https://www.besoccer.com/match/jong-psv/fc-volendam/201745924,2017,33,eerste_divisie,53,58,1,0,1,0,,2017
+Jong Utrecht,TOP Oss,2-1,https://www.besoccer.com/match/jong-utrecht/fc-oss/201745925,2017,33,eerste_divisie,51,45,0,0,0,0,,2017
+TOP Oss,Jong PSV,2-0,https://www.besoccer.com/match/fc-oss/jong-psv/201745926,2017,34,eerste_divisie,44,53,0,0,0,0,,2017
+Achilles 29,Den Bosch,2-1,https://www.besoccer.com/match/achilles-29/fc-den-bosch/201745927,2017,34,eerste_divisie,44,53,0,0,3,0,,2017
+Jong Ajax,Dordrecht,1-0,https://www.besoccer.com/match/jong-ajax/fc-dordrecht/201745928,2017,34,eerste_divisie,54,52,0,0,0,0,,2017
+Almere City,Jong Utrecht,2-1,https://www.besoccer.com/match/almere-city/jong-utrecht/201745929,2017,34,eerste_divisie,48,50,1,0,1,0,,2017
+Cambuur,SC Telstar,5-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/stormvogels-telstar/201745930,2017,34,eerste_divisie,60,47,1,0,3,0,,2017
+FC Eindhoven,Fortuna Sittard,3-1,https://www.besoccer.com/match/fc-eindhoven/fortuna-sittard/201745931,2017,34,eerste_divisie,54,45,0,0,0,0,,2017
+Helmond Sport,NAC Breda,2-1,https://www.besoccer.com/match/helmond-sport/nac-breda/201745932,2017,34,eerste_divisie,52,58,0,0,1,0,,2017
+RKC Waalwijk,VVV Venlo,1-2,https://www.besoccer.com/match/rkc-waalwijk/vvv/201745933,2017,34,eerste_divisie,54,60,2,0,1,0,,2017
+MVV Maastricht,Emmen,2-2,https://www.besoccer.com/match/mvv/emmen/201745934,2017,34,eerste_divisie,55,51,1,0,1,0,,2017
+FC Volendam,De Graafschap,2-2,https://www.besoccer.com/match/fc-volendam/graafschap/201745935,2017,34,eerste_divisie,58,55,3,1,0,1,,2017
+Dordrecht,SC Telstar,0-2,https://www.besoccer.com/match/fc-dordrecht/stormvogels-telstar/201745576,2017,35,eerste_divisie,52,47,2,1,1,1,,2017
+Fortuna Sittard,TOP Oss,2-0,https://www.besoccer.com/match/fortuna-sittard/fc-oss/201745577,2017,35,eerste_divisie,45,44,3,0,1,0,,2017
+FC Volendam,Achilles 29,1-2,https://www.besoccer.com/match/fc-volendam/achilles-29/201745578,2017,35,eerste_divisie,58,44,1,0,1,0,,2017
+Jong PSV,Jong Ajax,3-1,https://www.besoccer.com/match/jong-psv/jong-ajax/201745579,2017,35,eerste_divisie,54,54,0,0,0,0,,2017
+RKC Waalwijk,Almere City,1-1,https://www.besoccer.com/match/rkc-waalwijk/almere-city/201745580,2017,35,eerste_divisie,54,48,2,0,0,0,,2017
+Jong Utrecht,Cambuur,0-2,https://www.besoccer.com/match/jong-utrecht/sc-cambuur-leeuwarden/201745581,2017,35,eerste_divisie,51,60,0,0,2,0,,2017
+Helmond Sport,Den Bosch,2-0,https://www.besoccer.com/match/helmond-sport/fc-den-bosch/201745582,2017,35,eerste_divisie,52,53,0,0,2,0,,2017
+NAC Breda,FC Eindhoven,3-3,https://www.besoccer.com/match/nac-breda/fc-eindhoven/201745583,2017,35,eerste_divisie,58,53,1,0,1,0,,2017
+VVV Venlo,Emmen,0-0,https://www.besoccer.com/match/vvv/emmen/201745584,2017,35,eerste_divisie,60,52,2,0,1,0,,2017
+De Graafschap,MVV Maastricht,2-0,https://www.besoccer.com/match/graafschap/mvv/201745585,2017,35,eerste_divisie,55,55,2,0,1,0,,2017
+MVV Maastricht,Jong PSV,2-2,https://www.besoccer.com/match/mvv/jong-psv/201745566,2017,36,eerste_divisie,55,54,4,0,1,0,,2017
+Achilles 29,Dordrecht,2-2,https://www.besoccer.com/match/achilles-29/fc-dordrecht/201745567,2017,36,eerste_divisie,44,52,1,0,4,0,,2017
+Jong Ajax,Helmond Sport,2-0,https://www.besoccer.com/match/jong-ajax/helmond-sport/201745568,2017,36,eerste_divisie,54,52,2,0,3,0,,2017
+Cambuur,RKC Waalwijk,5-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/rkc-waalwijk/201745569,2017,36,eerste_divisie,60,54,0,0,0,0,,2017
+Den Bosch,Fortuna Sittard,1-1,https://www.besoccer.com/match/fc-den-bosch/fortuna-sittard/201745570,2017,36,eerste_divisie,53,45,2,0,3,0,,2017
+FC Eindhoven,VVV Venlo,0-0,https://www.besoccer.com/match/fc-eindhoven/vvv/201745571,2017,36,eerste_divisie,53,60,2,1,1,1,,2017
+Emmen,NAC Breda,0-0,https://www.besoccer.com/match/emmen/nac-breda/201745572,2017,36,eerste_divisie,52,58,2,0,0,0,,2017
+TOP Oss,FC Volendam,2-2,https://www.besoccer.com/match/fc-oss/fc-volendam/201745573,2017,36,eerste_divisie,44,58,0,0,0,0,,2017
+SC Telstar,Jong Utrecht,3-1,https://www.besoccer.com/match/stormvogels-telstar/jong-utrecht/201745574,2017,36,eerste_divisie,47,51,2,0,2,0,,2017
+Almere City,De Graafschap,1-2,https://www.besoccer.com/match/almere-city/graafschap/201745575,2017,36,eerste_divisie,48,55,0,0,0,0,,2017
+Jong Utrecht,Den Bosch,5-0,https://www.besoccer.com/match/jong-utrecht/fc-den-bosch/201745941,2017,37,eerste_divisie,51,53,1,0,2,0,,2017
+Cambuur,FC Eindhoven,4-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-eindhoven/201745936,2017,37,eerste_divisie,60,53,1,0,3,0,,2017
+Dordrecht,Emmen,0-4,https://www.besoccer.com/match/fc-dordrecht/emmen/201745937,2017,37,eerste_divisie,52,52,4,0,0,0,,2017
+NAC Breda,TOP Oss,4-1,https://www.besoccer.com/match/nac-breda/fc-oss/201745938,2017,37,eerste_divisie,58,44,0,0,4,0,,2017
+Jong PSV,SC Telstar,1-0,https://www.besoccer.com/match/jong-psv/stormvogels-telstar/201745939,2017,37,eerste_divisie,54,47,2,0,0,0,,2017
+FC Volendam,MVV Maastricht,3-1,https://www.besoccer.com/match/fc-volendam/mvv/201745940,2017,37,eerste_divisie,58,55,2,0,2,0,,2017
+VVV Venlo,Jong Ajax,1-4,https://www.besoccer.com/match/vvv/jong-ajax/201745942,2017,37,eerste_divisie,60,54,1,1,2,1,,2017
+Helmond Sport,Almere City,1-1,https://www.besoccer.com/match/helmond-sport/almere-city/201745943,2017,37,eerste_divisie,52,48,1,0,1,0,,2017
+RKC Waalwijk,Fortuna Sittard,3-0,https://www.besoccer.com/match/rkc-waalwijk/fortuna-sittard/201745944,2017,37,eerste_divisie,54,45,2,0,1,0,,2017
+De Graafschap,Achilles 29,3-3,https://www.besoccer.com/match/graafschap/achilles-29/201745945,2017,37,eerste_divisie,55,44,1,0,4,0,,2017
+Den Bosch,Dordrecht,1-0,https://www.besoccer.com/match/fc-den-bosch/fc-dordrecht/201745586,2017,38,eerste_divisie,53,52,1,0,1,0,,2017
+MVV Maastricht,RKC Waalwijk,1-1,https://www.besoccer.com/match/mvv/rkc-waalwijk/201745587,2017,38,eerste_divisie,55,54,0,1,1,1,,2017
+Achilles 29,Jong PSV,1-5,https://www.besoccer.com/match/achilles-29/jong-psv/201745588,2017,38,eerste_divisie,43,53,1,0,5,0,,2017
+Jong Ajax,Cambuur,2-1,https://www.besoccer.com/match/jong-ajax/sc-cambuur-leeuwarden/201745589,2017,38,eerste_divisie,54,60,2,0,2,0,,2017
+Almere City,NAC Breda,0-2,https://www.besoccer.com/match/almere-city/nac-breda/201745590,2017,38,eerste_divisie,48,58,1,0,1,0,,2017
+FC Eindhoven,Helmond Sport,2-2,https://www.besoccer.com/match/fc-eindhoven/helmond-sport/201745591,2017,38,eerste_divisie,54,52,2,0,1,0,,2017
+Emmen,Jong Utrecht,0-3,https://www.besoccer.com/match/emmen/jong-utrecht/201745592,2017,38,eerste_divisie,51,50,0,0,0,0,,2017
+Fortuna Sittard,FC Volendam,3-0,https://www.besoccer.com/match/fortuna-sittard/fc-volendam/201745593,2017,38,eerste_divisie,45,58,0,0,1,0,,2017
+SC Telstar,VVV Venlo,1-2,https://www.besoccer.com/match/stormvogels-telstar/vvv/201745594,2017,38,eerste_divisie,46,60,0,0,0,0,,2017
+TOP Oss,De Graafschap,2-1,https://www.besoccer.com/match/fc-oss/graafschap/201745595,2017,38,eerste_divisie,45,55,0,0,1,0,,2017

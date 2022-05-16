@@ -1,1 +1,343 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Dordrecht,FC Eindhoven,3-1,https://www.besoccer.com/match/fc-dordrecht/fc-eindhoven/20163163,2016,1,eerste_divisie,55,52,2,0,0,0,,2016
+NAC Breda,FC Volendam,1-4,https://www.besoccer.com/match/nac-breda/fc-volendam/20163164,2016,1,eerste_divisie,56,57,2,1,2,1,,2016
+Achilles 29,Jong Ajax,2-1,https://www.besoccer.com/match/achilles-29/jong-ajax/20163165,2016,1,eerste_divisie,46,51,2,0,2,0,,2016
+Den Bosch,Fortuna Sittard,2-2,https://www.besoccer.com/match/fc-den-bosch/fortuna-sittard/20163166,2016,1,eerste_divisie,54,46,1,0,2,0,,2016
+TOP Oss,Emmen,0-3,https://www.besoccer.com/match/fc-oss/emmen/20163167,2016,1,eerste_divisie,47,50,0,1,0,1,,2016
+Almere City,VVV Venlo,3-3,https://www.besoccer.com/match/almere-city/vvv/20163168,2016,1,eerste_divisie,42,55,3,0,1,0,,2016
+Helmond Sport,MVV Maastricht,1-0,https://www.besoccer.com/match/helmond-sport/mvv/20163169,2016,1,eerste_divisie,53,53,1,0,4,0,,2016
+Jong PSV,Go Ahead Eagles,1-0,https://www.besoccer.com/match/jong-psv/go-ahead-eagles/20163170,2016,1,eerste_divisie,52,52,2,0,0,0,,2016
+SC Telstar,RKC Waalwijk,1-1,https://www.besoccer.com/match/stormvogels-telstar/rkc-waalwijk/20163171,2016,1,eerste_divisie,45,55,2,1,1,1,,2016
+RKC Waalwijk,Sparta Rotterdam,1-1,https://www.besoccer.com/match/rkc-waalwijk/sparta-rotterdam/20163172,2016,2,eerste_divisie,55,57,1,0,1,0,,2016
+MVV Maastricht,Jong PSV,2-3,https://www.besoccer.com/match/mvv/jong-psv/20163173,2016,2,eerste_divisie,53,52,1,0,1,0,,2016
+FC Eindhoven,NAC Breda,2-1,https://www.besoccer.com/match/fc-eindhoven/nac-breda/20163174,2016,2,eerste_divisie,52,56,1,0,0,0,,2016
+Fortuna Sittard,Achilles 29,2-4,https://www.besoccer.com/match/fortuna-sittard/achilles-29/20163175,2016,2,eerste_divisie,46,46,3,0,3,0,,2016
+VVV Venlo,TOP Oss,1-2,https://www.besoccer.com/match/vvv/fc-oss/20163176,2016,2,eerste_divisie,55,46,0,1,2,1,,2016
+Emmen,Dordrecht,1-0,https://www.besoccer.com/match/emmen/fc-dordrecht/20163177,2016,2,eerste_divisie,50,56,2,0,2,0,,2016
+FC Volendam,Den Bosch,2-0,https://www.besoccer.com/match/fc-volendam/fc-den-bosch/20163179,2016,2,eerste_divisie,57,54,2,1,2,1,,2016
+Go Ahead Eagles,SC Telstar,5-0,https://www.besoccer.com/match/go-ahead-eagles/stormvogels-telstar/20163178,2016,2,eerste_divisie,52,45,1,0,3,0,,2016
+Jong Ajax,Helmond Sport,1-1,https://www.besoccer.com/match/jong-ajax/helmond-sport/20163180,2016,2,eerste_divisie,51,53,3,0,0,0,,2016
+Sparta Rotterdam,FC Eindhoven,3-0,https://www.besoccer.com/match/sparta-rotterdam/fc-eindhoven/20163181,2016,3,eerste_divisie,57,52,1,0,2,0,,2016
+Dordrecht,FC Volendam,1-3,https://www.besoccer.com/match/fc-dordrecht/fc-volendam/20163182,2016,3,eerste_divisie,56,57,1,0,1,0,,2016
+NAC Breda,Jong Ajax,3-0,https://www.besoccer.com/match/nac-breda/jong-ajax/20163183,2016,3,eerste_divisie,56,51,2,0,1,0,,2016
+Jong PSV,VVV Venlo,1-5,https://www.besoccer.com/match/jong-psv/vvv/20163184,2016,3,eerste_divisie,52,55,1,0,1,0,,2016
+Achilles 29,RKC Waalwijk,0-0,https://www.besoccer.com/match/achilles-29/rkc-waalwijk/20163185,2016,3,eerste_divisie,47,55,1,0,3,0,,2016
+Den Bosch,Emmen,3-0,https://www.besoccer.com/match/fc-den-bosch/emmen/20163186,2016,3,eerste_divisie,54,51,1,0,3,0,,2016
+TOP Oss,MVV Maastricht,1-3,https://www.besoccer.com/match/fc-oss/mvv/20163187,2016,3,eerste_divisie,47,53,2,0,1,0,,2016
+SC Telstar,Almere City,2-2,https://www.besoccer.com/match/stormvogels-telstar/almere-city/20163188,2016,3,eerste_divisie,45,42,1,0,1,0,,2016
+Helmond Sport,Fortuna Sittard,0-2,https://www.besoccer.com/match/helmond-sport/fortuna-sittard/20163189,2016,3,eerste_divisie,53,46,2,0,2,0,,2016
+NAC Breda,Dordrecht,7-0,https://www.besoccer.com/match/nac-breda/fc-dordrecht/20163190,2016,4,eerste_divisie,56,55,1,0,4,0,,2016
+RKC Waalwijk,Almere City,3-1,https://www.besoccer.com/match/rkc-waalwijk/almere-city/20163191,2016,4,eerste_divisie,55,42,0,0,1,0,,2016
+MVV Maastricht,SC Telstar,1-0,https://www.besoccer.com/match/mvv/stormvogels-telstar/20163192,2016,4,eerste_divisie,53,45,2,0,7,0,,2016
+Achilles 29,TOP Oss,1-0,https://www.besoccer.com/match/achilles-29/fc-oss/20163193,2016,4,eerste_divisie,47,46,3,0,2,0,,2016
+Den Bosch,Go Ahead Eagles,2-4,https://www.besoccer.com/match/fc-den-bosch/go-ahead-eagles/20163194,2016,4,eerste_divisie,54,53,2,0,2,0,,2016
+Fortuna Sittard,FC Volendam,0-6,https://www.besoccer.com/match/fortuna-sittard/fc-volendam/20163195,2016,4,eerste_divisie,46,57,0,0,0,0,,2016
+VVV Venlo,Sparta Rotterdam,1-1,https://www.besoccer.com/match/vvv/sparta-rotterdam/20163196,2016,4,eerste_divisie,55,58,0,0,0,0,,2016
+Jong Ajax,FC Eindhoven,0-0,https://www.besoccer.com/match/jong-ajax/fc-eindhoven/20163197,2016,4,eerste_divisie,51,52,0,0,2,0,,2016
+Emmen,Helmond Sport,0-1,https://www.besoccer.com/match/emmen/helmond-sport/20163198,2016,4,eerste_divisie,50,53,1,0,3,0,,2016
+FC Volendam,VVV Venlo,1-1,https://www.besoccer.com/match/fc-volendam/vvv/20163199,2016,5,eerste_divisie,57,55,0,0,2,0,,2016
+Dordrecht,TOP Oss,1-0,https://www.besoccer.com/match/fc-dordrecht/fc-oss/20163200,2016,5,eerste_divisie,55,46,0,0,1,0,,2016
+FC Eindhoven,MVV Maastricht,4-1,https://www.besoccer.com/match/fc-eindhoven/mvv/20163201,2016,5,eerste_divisie,52,53,2,0,3,0,,2016
+Almere City,Fortuna Sittard,0-3,https://www.besoccer.com/match/almere-city/fortuna-sittard/20163202,2016,5,eerste_divisie,42,46,2,0,4,0,,2016
+SC Telstar,Emmen,2-1,https://www.besoccer.com/match/stormvogels-telstar/emmen/20163203,2016,5,eerste_divisie,45,50,2,0,1,0,,2016
+Helmond Sport,NAC Breda,1-1,https://www.besoccer.com/match/helmond-sport/nac-breda/20163204,2016,5,eerste_divisie,53,56,1,0,3,0,,2016
+RKC Waalwijk,Jong PSV,1-2,https://www.besoccer.com/match/rkc-waalwijk/jong-psv/20163205,2016,5,eerste_divisie,55,52,1,0,1,0,,2016
+Sparta Rotterdam,Den Bosch,5-2,https://www.besoccer.com/match/sparta-rotterdam/fc-den-bosch/20163206,2016,5,eerste_divisie,58,54,2,0,3,0,,2016
+Go Ahead Eagles,Achilles 29,3-2,https://www.besoccer.com/match/go-ahead-eagles/achilles-29/20163207,2016,5,eerste_divisie,53,47,1,0,1,0,,2016
+Sparta Rotterdam,Achilles 29,3-0,https://www.besoccer.com/match/sparta-rotterdam/achilles-29/20163208,2016,6,eerste_divisie,58,47,1,0,1,0,,2016
+FC Volendam,Jong PSV,3-0,https://www.besoccer.com/match/fc-volendam/jong-psv/20163209,2016,6,eerste_divisie,57,52,0,0,0,0,,2016
+FC Eindhoven,Almere City,3-2,https://www.besoccer.com/match/fc-eindhoven/almere-city/20163210,2016,6,eerste_divisie,52,42,0,0,0,0,,2016
+Den Bosch,Helmond Sport,2-1,https://www.besoccer.com/match/fc-den-bosch/helmond-sport/20163211,2016,6,eerste_divisie,54,53,2,0,2,0,,2016
+Fortuna Sittard,Dordrecht,0-5,https://www.besoccer.com/match/fortuna-sittard/fc-dordrecht/20163212,2016,6,eerste_divisie,46,55,2,0,0,0,,2016
+VVV Venlo,Go Ahead Eagles,2-1,https://www.besoccer.com/match/vvv/go-ahead-eagles/20163213,2016,6,eerste_divisie,55,53,3,0,2,0,,2016
+Emmen,RKC Waalwijk,6-1,https://www.besoccer.com/match/emmen/rkc-waalwijk/20163214,2016,6,eerste_divisie,50,55,0,0,4,0,,2016
+MVV Maastricht,NAC Breda,1-1,https://www.besoccer.com/match/mvv/nac-breda/20163215,2016,6,eerste_divisie,53,56,3,0,2,0,,2016
+Jong Ajax,SC Telstar,4-1,https://www.besoccer.com/match/jong-ajax/stormvogels-telstar/20163216,2016,6,eerste_divisie,51,45,2,1,2,1,,2016
+Dordrecht,VVV Venlo,0-0,https://www.besoccer.com/match/fc-dordrecht/vvv/20163217,2016,7,eerste_divisie,55,55,0,0,1,0,,2016
+NAC Breda,Emmen,2-2,https://www.besoccer.com/match/nac-breda/emmen/20163218,2016,7,eerste_divisie,56,50,0,0,1,0,,2016
+Jong PSV,Sparta Rotterdam,0-3,https://www.besoccer.com/match/jong-psv/sparta-rotterdam/20163219,2016,7,eerste_divisie,52,58,1,0,2,0,,2016
+Go Ahead Eagles,Jong Ajax,2-0,https://www.besoccer.com/match/go-ahead-eagles/jong-ajax/20163220,2016,7,eerste_divisie,53,51,2,0,0,0,,2016
+TOP Oss,FC Eindhoven,0-4,https://www.besoccer.com/match/fc-oss/fc-eindhoven/20163221,2016,7,eerste_divisie,46,52,1,0,2,0,,2016
+Almere City,MVV Maastricht,0-3,https://www.besoccer.com/match/almere-city/mvv/20163222,2016,7,eerste_divisie,42,53,3,0,0,0,,2016
+SC Telstar,Fortuna Sittard,3-0,https://www.besoccer.com/match/stormvogels-telstar/fortuna-sittard/20163223,2016,7,eerste_divisie,45,46,1,0,2,0,,2016
+Helmond Sport,FC Volendam,0-2,https://www.besoccer.com/match/helmond-sport/fc-volendam/20163224,2016,7,eerste_divisie,53,58,3,0,1,0,,2016
+Achilles 29,Den Bosch,0-1,https://www.besoccer.com/match/achilles-29/fc-den-bosch/20163225,2016,7,eerste_divisie,46,54,1,0,0,0,,2016
+Sparta Rotterdam,SC Telstar,2-1,https://www.besoccer.com/match/sparta-rotterdam/stormvogels-telstar/20163226,2016,8,eerste_divisie,58,45,1,0,2,0,,2016
+FC Volendam,Almere City,3-1,https://www.besoccer.com/match/fc-volendam/almere-city/20163227,2016,8,eerste_divisie,58,42,0,0,0,0,,2016
+MVV Maastricht,Dordrecht,2-2,https://www.besoccer.com/match/mvv/fc-dordrecht/20163229,2016,8,eerste_divisie,53,56,3,0,3,0,,2016
+Emmen,Jong PSV,1-1,https://www.besoccer.com/match/emmen/jong-psv/20163232,2016,8,eerste_divisie,51,52,0,0,2,0,,2016
+RKC Waalwijk,Go Ahead Eagles,0-2,https://www.besoccer.com/match/rkc-waalwijk/go-ahead-eagles/20163228,2016,8,eerste_divisie,54,53,4,1,2,1,,2016
+Fortuna Sittard,NAC Breda,1-2,https://www.besoccer.com/match/fortuna-sittard/nac-breda/20163230,2016,8,eerste_divisie,45,56,2,0,5,0,,2016
+VVV Venlo,Helmond Sport,4-1,https://www.besoccer.com/match/vvv/helmond-sport/20163231,2016,8,eerste_divisie,55,53,3,0,2,0,,2016
+FC Eindhoven,Den Bosch,0-0,https://www.besoccer.com/match/fc-eindhoven/fc-den-bosch/20163233,2016,8,eerste_divisie,52,55,0,0,0,0,,2016
+Jong Ajax,TOP Oss,2-2,https://www.besoccer.com/match/jong-ajax/fc-oss/20163234,2016,8,eerste_divisie,51,45,1,0,2,0,,2016
+Dordrecht,Jong Ajax,0-1,https://www.besoccer.com/match/fc-dordrecht/jong-ajax/20163235,2016,9,eerste_divisie,56,50,1,0,1,0,,2016
+NAC Breda,VVV Venlo,0-1,https://www.besoccer.com/match/nac-breda/vvv/20163236,2016,9,eerste_divisie,56,55,1,0,3,0,,2016
+Jong PSV,Achilles 29,1-1,https://www.besoccer.com/match/jong-psv/achilles-29/20163237,2016,9,eerste_divisie,52,47,0,0,0,0,,2016
+Go Ahead Eagles,Sparta Rotterdam,2-0,https://www.besoccer.com/match/go-ahead-eagles/sparta-rotterdam/20163238,2016,9,eerste_divisie,53,58,1,0,1,0,,2016
+Den Bosch,MVV Maastricht,2-2,https://www.besoccer.com/match/fc-den-bosch/mvv/20163239,2016,9,eerste_divisie,55,53,1,0,1,0,,2016
+TOP Oss,Fortuna Sittard,4-0,https://www.besoccer.com/match/fc-oss/fortuna-sittard/20163240,2016,9,eerste_divisie,45,45,2,1,4,1,,2016
+Almere City,Emmen,4-0,https://www.besoccer.com/match/almere-city/emmen/20163241,2016,9,eerste_divisie,42,51,1,0,1,0,,2016
+SC Telstar,FC Eindhoven,1-2,https://www.besoccer.com/match/stormvogels-telstar/fc-eindhoven/20163242,2016,9,eerste_divisie,45,52,0,1,2,1,,2016
+Helmond Sport,RKC Waalwijk,1-0,https://www.besoccer.com/match/helmond-sport/rkc-waalwijk/20163243,2016,9,eerste_divisie,53,54,2,0,2,0,,2016
+RKC Waalwijk,Dordrecht,0-1,https://www.besoccer.com/match/rkc-waalwijk/fc-dordrecht/20163244,2016,10,eerste_divisie,54,56,2,0,3,0,,2016
+FC Eindhoven,Helmond Sport,1-4,https://www.besoccer.com/match/fc-eindhoven/helmond-sport/20163245,2016,10,eerste_divisie,52,53,4,0,2,0,,2016
+Fortuna Sittard,Jong PSV,1-1,https://www.besoccer.com/match/fortuna-sittard/jong-psv/20163246,2016,10,eerste_divisie,45,52,1,0,1,0,,2016
+VVV Venlo,SC Telstar,1-2,https://www.besoccer.com/match/vvv/stormvogels-telstar/20163247,2016,10,eerste_divisie,56,45,3,0,0,0,,2016
+Emmen,Go Ahead Eagles,4-1,https://www.besoccer.com/match/emmen/go-ahead-eagles/20163248,2016,10,eerste_divisie,50,53,0,0,4,0,,2016
+Sparta Rotterdam,TOP Oss,3-1,https://www.besoccer.com/match/sparta-rotterdam/fc-oss/20163249,2016,10,eerste_divisie,58,46,2,0,3,0,,2016
+MVV Maastricht,FC Volendam,3-1,https://www.besoccer.com/match/mvv/fc-volendam/20163250,2016,10,eerste_divisie,53,58,0,0,3,0,,2016
+Achilles 29,NAC Breda,1-2,https://www.besoccer.com/match/achilles-29/nac-breda/20163251,2016,10,eerste_divisie,47,56,3,1,2,1,,2016
+Jong Ajax,Almere City,2-2,https://www.besoccer.com/match/jong-ajax/almere-city/20163252,2016,10,eerste_divisie,51,42,2,1,1,1,,2016
+FC Volendam,Emmen,0-2,https://www.besoccer.com/match/fc-volendam/emmen/20163253,2016,11,eerste_divisie,57,51,1,0,2,0,,2016
+NAC Breda,Sparta Rotterdam,4-0,https://www.besoccer.com/match/nac-breda/sparta-rotterdam/20163254,2016,11,eerste_divisie,56,58,1,0,3,0,,2016
+FC Eindhoven,RKC Waalwijk,1-0,https://www.besoccer.com/match/fc-eindhoven/rkc-waalwijk/20163255,2016,11,eerste_divisie,52,54,3,0,2,0,,2016
+Go Ahead Eagles,Almere City,4-1,https://www.besoccer.com/match/go-ahead-eagles/almere-city/20163256,2016,11,eerste_divisie,53,42,1,0,2,0,,2016
+Den Bosch,VVV Venlo,0-1,https://www.besoccer.com/match/fc-den-bosch/vvv/20163257,2016,11,eerste_divisie,55,55,0,0,2,0,,2016
+Jong Ajax,Fortuna Sittard,3-0,https://www.besoccer.com/match/jong-ajax/fortuna-sittard/20163258,2016,11,eerste_divisie,51,45,1,0,6,0,,2016
+TOP Oss,Jong PSV,0-0,https://www.besoccer.com/match/fc-oss/jong-psv/20163259,2016,11,eerste_divisie,46,52,0,0,1,0,,2016
+SC Telstar,Achilles 29,3-0,https://www.besoccer.com/match/stormvogels-telstar/achilles-29/20163260,2016,11,eerste_divisie,45,47,1,0,1,0,,2016
+Helmond Sport,Dordrecht,1-2,https://www.besoccer.com/match/helmond-sport/fc-dordrecht/20163261,2016,11,eerste_divisie,53,56,2,0,2,0,,2016
+FC Volendam,FC Eindhoven,1-2,https://www.besoccer.com/match/fc-volendam/fc-eindhoven/20163262,2016,12,eerste_divisie,57,52,0,0,1,0,,2016
+Dordrecht,Den Bosch,1-2,https://www.besoccer.com/match/fc-dordrecht/fc-den-bosch/20163263,2016,12,eerste_divisie,56,55,0,0,1,0,,2016
+MVV Maastricht,Go Ahead Eagles,1-2,https://www.besoccer.com/match/mvv/go-ahead-eagles/20163264,2016,12,eerste_divisie,53,53,2,0,2,0,,2016
+Fortuna Sittard,RKC Waalwijk,1-0,https://www.besoccer.com/match/fortuna-sittard/rkc-waalwijk/20163265,2016,12,eerste_divisie,45,54,2,1,1,1,,2016
+VVV Venlo,Jong Ajax,3-0,https://www.besoccer.com/match/vvv/jong-ajax/20163266,2016,12,eerste_divisie,56,51,0,0,1,0,,2016
+TOP Oss,NAC Breda,1-6,https://www.besoccer.com/match/fc-oss/nac-breda/20163267,2016,12,eerste_divisie,46,57,3,0,1,0,,2016
+Almere City,Achilles 29,2-1,https://www.besoccer.com/match/almere-city/achilles-29/20163268,2016,12,eerste_divisie,42,47,1,0,0,0,,2016
+Emmen,Sparta Rotterdam,1-3,https://www.besoccer.com/match/emmen/sparta-rotterdam/20163269,2016,12,eerste_divisie,51,58,1,0,1,0,,2016
+Jong PSV,SC Telstar,4-3,https://www.besoccer.com/match/jong-psv/stormvogels-telstar/20163270,2016,12,eerste_divisie,52,45,1,0,1,0,,2016
+Sparta Rotterdam,Almere City,3-2,https://www.besoccer.com/match/sparta-rotterdam/almere-city/20163271,2016,13,eerste_divisie,58,42,1,0,3,0,,2016
+RKC Waalwijk,VVV Venlo,2-1,https://www.besoccer.com/match/rkc-waalwijk/vvv/20163272,2016,13,eerste_divisie,54,56,1,0,1,0,,2016
+Achilles 29,Emmen,1-2,https://www.besoccer.com/match/achilles-29/emmen/20163273,2016,13,eerste_divisie,47,50,2,1,3,1,,2016
+FC Eindhoven,Fortuna Sittard,3-1,https://www.besoccer.com/match/fc-eindhoven/fortuna-sittard/20163274,2016,13,eerste_divisie,52,45,3,0,2,0,,2016
+Go Ahead Eagles,Dordrecht,3-0,https://www.besoccer.com/match/go-ahead-eagles/fc-dordrecht/20163275,2016,13,eerste_divisie,53,55,0,0,2,0,,2016
+Jong Ajax,MVV Maastricht,0-1,https://www.besoccer.com/match/jong-ajax/mvv/20163276,2016,13,eerste_divisie,51,53,1,0,2,0,,2016
+SC Telstar,FC Volendam,1-1,https://www.besoccer.com/match/stormvogels-telstar/fc-volendam/20163277,2016,13,eerste_divisie,45,57,1,0,2,0,,2016
+Helmond Sport,Jong PSV,4-2,https://www.besoccer.com/match/helmond-sport/jong-psv/20163278,2016,13,eerste_divisie,53,52,0,0,2,0,,2016
+Den Bosch,TOP Oss,4-2,https://www.besoccer.com/match/fc-den-bosch/fc-oss/20163279,2016,13,eerste_divisie,55,45,3,0,4,0,,2016
+FC Volendam,RKC Waalwijk,3-0,https://www.besoccer.com/match/fc-volendam/rkc-waalwijk/20163280,2016,14,eerste_divisie,57,54,0,0,1,0,,2016
+Dordrecht,SC Telstar,2-2,https://www.besoccer.com/match/fc-dordrecht/stormvogels-telstar/20163281,2016,14,eerste_divisie,55,45,4,0,1,0,,2016
+NAC Breda,Den Bosch,3-0,https://www.besoccer.com/match/nac-breda/fc-den-bosch/20163282,2016,14,eerste_divisie,57,55,0,0,3,0,,2016
+MVV Maastricht,Achilles 29,1-1,https://www.besoccer.com/match/mvv/achilles-29/20163283,2016,14,eerste_divisie,53,47,2,0,5,0,,2016
+Fortuna Sittard,Sparta Rotterdam,1-4,https://www.besoccer.com/match/fortuna-sittard/sparta-rotterdam/20163284,2016,14,eerste_divisie,45,58,0,0,0,0,,2016
+VVV Venlo,FC Eindhoven,1-0,https://www.besoccer.com/match/vvv/fc-eindhoven/20163285,2016,14,eerste_divisie,56,53,2,0,1,0,,2016
+TOP Oss,Go Ahead Eagles,3-0,https://www.besoccer.com/match/fc-oss/go-ahead-eagles/20163286,2016,14,eerste_divisie,45,53,1,0,4,0,,2016
+Almere City,Helmond Sport,2-2,https://www.besoccer.com/match/almere-city/helmond-sport/20163287,2016,14,eerste_divisie,42,53,0,0,2,0,,2016
+Jong PSV,Jong Ajax,3-3,https://www.besoccer.com/match/jong-psv/jong-ajax/20163288,2016,14,eerste_divisie,51,50,2,0,1,0,,2016
+Sparta Rotterdam,Helmond Sport,2-1,https://www.besoccer.com/match/sparta-rotterdam/helmond-sport/20163289,2016,15,eerste_divisie,58,53,2,0,5,0,,2016
+RKC Waalwijk,NAC Breda,2-0,https://www.besoccer.com/match/rkc-waalwijk/nac-breda/20163290,2016,15,eerste_divisie,54,57,4,1,0,1,,2016
+Jong PSV,Dordrecht,1-4,https://www.besoccer.com/match/jong-psv/fc-dordrecht/20163291,2016,15,eerste_divisie,51,55,0,0,0,0,,2016
+Achilles 29,FC Volendam,0-0,https://www.besoccer.com/match/achilles-29/fc-volendam/20163292,2016,15,eerste_divisie,47,57,0,0,1,0,,2016
+Go Ahead Eagles,FC Eindhoven,1-2,https://www.besoccer.com/match/go-ahead-eagles/fc-eindhoven/20163293,2016,15,eerste_divisie,53,52,2,0,1,0,,2016
+VVV Venlo,MVV Maastricht,3-0,https://www.besoccer.com/match/vvv/mvv/20163294,2016,15,eerste_divisie,56,53,0,0,0,0,,2016
+Almere City,TOP Oss,0-1,https://www.besoccer.com/match/almere-city/fc-oss/20163295,2016,15,eerste_divisie,42,46,0,0,2,0,,2016
+SC Telstar,Den Bosch,1-0,https://www.besoccer.com/match/stormvogels-telstar/fc-den-bosch/20163296,2016,15,eerste_divisie,45,55,1,0,2,0,,2016
+Emmen,Jong Ajax,4-2,https://www.besoccer.com/match/emmen/jong-ajax/20163297,2016,15,eerste_divisie,51,50,1,0,0,0,,2016
+FC Volendam,Go Ahead Eagles,1-0,https://www.besoccer.com/match/fc-volendam/go-ahead-eagles/20163298,2016,16,eerste_divisie,57,53,1,0,0,0,,2016
+Dordrecht,Almere City,3-1,https://www.besoccer.com/match/fc-dordrecht/almere-city/20163299,2016,16,eerste_divisie,55,42,0,0,1,0,,2016
+NAC Breda,SC Telstar,2-1,https://www.besoccer.com/match/nac-breda/stormvogels-telstar/20163300,2016,16,eerste_divisie,57,45,0,0,3,0,,2016
+MVV Maastricht,Fortuna Sittard,1-3,https://www.besoccer.com/match/mvv/fortuna-sittard/20163301,2016,16,eerste_divisie,53,44,4,1,4,1,,2016
+FC Eindhoven,Emmen,1-1,https://www.besoccer.com/match/fc-eindhoven/emmen/20163302,2016,16,eerste_divisie,53,51,1,1,3,1,,2016
+Den Bosch,Jong PSV,0-0,https://www.besoccer.com/match/fc-den-bosch/jong-psv/20163303,2016,16,eerste_divisie,55,51,1,0,2,0,,2016
+Jong Ajax,Sparta Rotterdam,1-1,https://www.besoccer.com/match/jong-ajax/sparta-rotterdam/20163304,2016,16,eerste_divisie,50,58,1,0,1,0,,2016
+TOP Oss,RKC Waalwijk,0-0,https://www.besoccer.com/match/fc-oss/rkc-waalwijk/20163305,2016,16,eerste_divisie,46,54,2,0,1,0,,2016
+Helmond Sport,Achilles 29,2-2,https://www.besoccer.com/match/helmond-sport/achilles-29/20163306,2016,16,eerste_divisie,53,47,1,0,2,0,,2016
+Sparta Rotterdam,FC Volendam,3-1,https://www.besoccer.com/match/sparta-rotterdam/fc-volendam/20163307,2016,17,eerste_divisie,58,57,1,0,2,0,,2016
+RKC Waalwijk,Jong Ajax,3-5,https://www.besoccer.com/match/rkc-waalwijk/jong-ajax/20163308,2016,17,eerste_divisie,54,50,1,0,3,0,,2016
+Achilles 29,FC Eindhoven,2-1,https://www.besoccer.com/match/achilles-29/fc-eindhoven/20163309,2016,17,eerste_divisie,47,53,3,0,0,0,,2016
+Go Ahead Eagles,Helmond Sport,1-1,https://www.besoccer.com/match/go-ahead-eagles/helmond-sport/20163310,2016,17,eerste_divisie,53,53,3,0,3,0,,2016
+Fortuna Sittard,VVV Venlo,0-5,https://www.besoccer.com/match/fortuna-sittard/vvv/20163311,2016,17,eerste_divisie,45,56,3,0,3,0,,2016
+Almere City,Den Bosch,1-1,https://www.besoccer.com/match/almere-city/fc-den-bosch/20163312,2016,17,eerste_divisie,42,55,2,1,4,1,,2016
+SC Telstar,TOP Oss,1-1,https://www.besoccer.com/match/stormvogels-telstar/fc-oss/20163313,2016,17,eerste_divisie,45,46,2,0,1,0,,2016
+Emmen,MVV Maastricht,2-3,https://www.besoccer.com/match/emmen/mvv/20163314,2016,17,eerste_divisie,51,53,1,0,1,0,,2016
+Jong PSV,NAC Breda,0-3,https://www.besoccer.com/match/jong-psv/nac-breda/20163315,2016,17,eerste_divisie,51,57,0,0,0,0,,2016
+FC Volendam,TOP Oss,1-1,https://www.besoccer.com/match/fc-volendam/fc-oss/20163316,2016,18,eerste_divisie,57,46,1,0,1,0,,2016
+Dordrecht,Sparta Rotterdam,0-3,https://www.besoccer.com/match/fc-dordrecht/sparta-rotterdam/20163317,2016,18,eerste_divisie,55,58,3,0,0,0,,2016
+NAC Breda,Go Ahead Eagles,0-1,https://www.besoccer.com/match/nac-breda/go-ahead-eagles/20163318,2016,18,eerste_divisie,57,53,1,0,5,0,,2016
+Jong PSV,Almere City,3-4,https://www.besoccer.com/match/jong-psv/almere-city/20163319,2016,18,eerste_divisie,51,42,1,0,2,0,,2016
+MVV Maastricht,RKC Waalwijk,6-2,https://www.besoccer.com/match/mvv/rkc-waalwijk/20163320,2016,18,eerste_divisie,53,53,2,0,2,0,,2016
+Den Bosch,Jong Ajax,3-0,https://www.besoccer.com/match/fc-den-bosch/jong-ajax/20163321,2016,18,eerste_divisie,55,51,3,0,3,0,,2016
+Fortuna Sittard,Emmen,2-2,https://www.besoccer.com/match/fortuna-sittard/emmen/20163322,2016,18,eerste_divisie,44,51,1,0,3,0,,2016
+VVV Venlo,Achilles 29,3-0,https://www.besoccer.com/match/vvv/achilles-29/20163323,2016,18,eerste_divisie,56,47,1,0,1,0,,2016
+Helmond Sport,SC Telstar,4-1,https://www.besoccer.com/match/helmond-sport/stormvogels-telstar/20163324,2016,18,eerste_divisie,53,45,2,0,3,0,,2016
+Sparta Rotterdam,MVV Maastricht,6-0,https://www.besoccer.com/match/sparta-rotterdam/mvv/20163325,2016,19,eerste_divisie,59,53,1,0,2,0,,2016
+RKC Waalwijk,Den Bosch,1-1,https://www.besoccer.com/match/rkc-waalwijk/fc-den-bosch/20163326,2016,19,eerste_divisie,53,55,1,0,1,0,,2016
+FC Eindhoven,Jong PSV,2-0,https://www.besoccer.com/match/fc-eindhoven/jong-psv/20163328,2016,19,eerste_divisie,52,51,0,0,1,0,,2016
+Go Ahead Eagles,Fortuna Sittard,0-2,https://www.besoccer.com/match/go-ahead-eagles/fortuna-sittard/20163329,2016,19,eerste_divisie,53,44,1,0,3,0,,2016
+TOP Oss,Helmond Sport,2-2,https://www.besoccer.com/match/fc-oss/helmond-sport/20163330,2016,19,eerste_divisie,46,53,0,0,2,0,,2016
+Almere City,NAC Breda,0-1,https://www.besoccer.com/match/almere-city/nac-breda/20163331,2016,19,eerste_divisie,42,57,1,0,2,0,,2016
+Emmen,VVV Venlo,1-4,https://www.besoccer.com/match/emmen/vvv/20163332,2016,19,eerste_divisie,51,56,2,1,1,1,,2016
+Achilles 29,Dordrecht,2-1,https://www.besoccer.com/match/achilles-29/fc-dordrecht/20163327,2016,19,eerste_divisie,46,55,1,0,2,0,,2016
+Jong Ajax,FC Volendam,2-0,https://www.besoccer.com/match/jong-ajax/fc-volendam/20163333,2016,19,eerste_divisie,50,57,3,0,1,0,,2016
+FC Volendam,NAC Breda,1-2,https://www.besoccer.com/match/fc-volendam/nac-breda/20163334,2016,20,eerste_divisie,57,57,1,0,0,0,,2016
+RKC Waalwijk,SC Telstar,2-1,https://www.besoccer.com/match/rkc-waalwijk/stormvogels-telstar/20163335,2016,20,eerste_divisie,53,45,0,0,3,0,,2016
+MVV Maastricht,Helmond Sport,1-4,https://www.besoccer.com/match/mvv/helmond-sport/20163336,2016,20,eerste_divisie,53,53,0,0,2,0,,2016
+FC Eindhoven,Dordrecht,1-1,https://www.besoccer.com/match/fc-eindhoven/fc-dordrecht/20163337,2016,20,eerste_divisie,53,55,3,0,1,0,,2016
+Go Ahead Eagles,Jong PSV,1-2,https://www.besoccer.com/match/go-ahead-eagles/jong-psv/20163338,2016,20,eerste_divisie,53,51,0,0,3,0,,2016
+Fortuna Sittard,Den Bosch,1-1,https://www.besoccer.com/match/fortuna-sittard/fc-den-bosch/20163339,2016,20,eerste_divisie,45,55,1,0,1,0,,2016
+VVV Venlo,Almere City,4-0,https://www.besoccer.com/match/vvv/almere-city/20163340,2016,20,eerste_divisie,56,42,1,0,3,0,,2016
+Jong Ajax,Achilles 29,3-1,https://www.besoccer.com/match/jong-ajax/achilles-29/20163341,2016,20,eerste_divisie,51,47,0,0,0,0,,2016
+Emmen,TOP Oss,0-2,https://www.besoccer.com/match/emmen/fc-oss/20163342,2016,20,eerste_divisie,50,46,0,0,0,0,,2016
+Sparta Rotterdam,RKC Waalwijk,5-2,https://www.besoccer.com/match/sparta-rotterdam/rkc-waalwijk/20163343,2016,21,eerste_divisie,59,53,1,0,2,0,,2016
+Dordrecht,Emmen,0-2,https://www.besoccer.com/match/fc-dordrecht/emmen/20163344,2016,21,eerste_divisie,55,50,0,0,3,0,,2016
+NAC Breda,FC Eindhoven,3-1,https://www.besoccer.com/match/nac-breda/fc-eindhoven/20163345,2016,21,eerste_divisie,57,53,0,1,4,1,,2016
+Jong PSV,MVV Maastricht,2-0,https://www.besoccer.com/match/jong-psv/mvv/20163346,2016,21,eerste_divisie,51,53,2,0,1,0,,2016
+Den Bosch,FC Volendam,0-0,https://www.besoccer.com/match/fc-den-bosch/fc-volendam/20163348,2016,21,eerste_divisie,55,57,3,0,5,0,,2016
+TOP Oss,VVV Venlo,2-1,https://www.besoccer.com/match/fc-oss/vvv/20163349,2016,21,eerste_divisie,46,56,3,0,1,0,,2016
+SC Telstar,Go Ahead Eagles,1-2,https://www.besoccer.com/match/stormvogels-telstar/go-ahead-eagles/20163350,2016,21,eerste_divisie,45,53,2,0,1,0,,2016
+Helmond Sport,Jong Ajax,2-3,https://www.besoccer.com/match/helmond-sport/jong-ajax/20163351,2016,21,eerste_divisie,54,51,0,0,1,0,,2016
+Achilles 29,Fortuna Sittard,3-0,https://www.besoccer.com/match/achilles-29/fortuna-sittard/20163347,2016,21,eerste_divisie,46,45,1,0,1,0,,2016
+FC Volendam,Dordrecht,2-2,https://www.besoccer.com/match/fc-volendam/fc-dordrecht/20163352,2016,22,eerste_divisie,57,55,0,0,1,0,,2016
+RKC Waalwijk,Achilles 29,1-1,https://www.besoccer.com/match/rkc-waalwijk/achilles-29/20163353,2016,22,eerste_divisie,53,46,3,0,1,0,,2016
+MVV Maastricht,TOP Oss,4-2,https://www.besoccer.com/match/mvv/fc-oss/20163354,2016,22,eerste_divisie,53,46,1,0,5,0,,2016
+FC Eindhoven,Sparta Rotterdam,1-1,https://www.besoccer.com/match/fc-eindhoven/sparta-rotterdam/20163355,2016,22,eerste_divisie,53,59,3,0,3,0,,2016
+VVV Venlo,Jong PSV,1-2,https://www.besoccer.com/match/vvv/jong-psv/20163357,2016,22,eerste_divisie,56,51,3,1,2,1,,2016
+Almere City,SC Telstar,0-2,https://www.besoccer.com/match/almere-city/stormvogels-telstar/20163358,2016,22,eerste_divisie,42,45,3,0,2,0,,2016
+Emmen,Den Bosch,1-0,https://www.besoccer.com/match/emmen/fc-den-bosch/20163359,2016,22,eerste_divisie,50,55,1,0,0,0,,2016
+Jong Ajax,NAC Breda,2-1,https://www.besoccer.com/match/jong-ajax/nac-breda/20163360,2016,22,eerste_divisie,51,57,4,0,2,0,,2016
+Fortuna Sittard,Helmond Sport,3-0,https://www.besoccer.com/match/fortuna-sittard/helmond-sport/20163356,2016,22,eerste_divisie,44,53,1,0,3,0,,2016
+NAC Breda,Helmond Sport,1-0,https://www.besoccer.com/match/nac-breda/helmond-sport/20163361,2016,23,eerste_divisie,57,53,1,0,6,0,,2016
+MVV Maastricht,FC Eindhoven,0-2,https://www.besoccer.com/match/mvv/fc-eindhoven/20163362,2016,23,eerste_divisie,53,53,0,0,4,0,,2016
+Fortuna Sittard,Almere City,0-2,https://www.besoccer.com/match/fortuna-sittard/almere-city/20163364,2016,23,eerste_divisie,45,41,0,0,2,0,,2016
+VVV Venlo,FC Volendam,3-0,https://www.besoccer.com/match/vvv/fc-volendam/20163365,2016,23,eerste_divisie,56,57,1,0,2,0,,2016
+TOP Oss,Dordrecht,2-3,https://www.besoccer.com/match/fc-oss/fc-dordrecht/20163366,2016,23,eerste_divisie,46,55,2,0,2,0,,2016
+Emmen,SC Telstar,1-0,https://www.besoccer.com/match/emmen/stormvogels-telstar/20163367,2016,23,eerste_divisie,51,45,0,0,1,0,,2016
+Den Bosch,Sparta Rotterdam,1-2,https://www.besoccer.com/match/fc-den-bosch/sparta-rotterdam/20163363,2016,23,eerste_divisie,55,59,2,0,3,0,,2016
+Achilles 29,Go Ahead Eagles,1-0,https://www.besoccer.com/match/achilles-29/go-ahead-eagles/20163368,2016,23,eerste_divisie,47,53,1,0,1,0,,2016
+Jong PSV,RKC Waalwijk,3-1,https://www.besoccer.com/match/jong-psv/rkc-waalwijk/20163369,2016,23,eerste_divisie,51,53,0,0,0,0,,2016
+FC Volendam,Fortuna Sittard,1-0,https://www.besoccer.com/match/fc-volendam/fortuna-sittard/20163370,2016,24,eerste_divisie,57,45,0,0,1,0,,2016
+Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/20163371,2016,24,eerste_divisie,55,57,1,0,0,0,,2016
+FC Eindhoven,Jong Ajax,2-1,https://www.besoccer.com/match/fc-eindhoven/jong-ajax/20163372,2016,24,eerste_divisie,53,51,2,0,2,0,,2016
+TOP Oss,Achilles 29,1-1,https://www.besoccer.com/match/fc-oss/achilles-29/20163373,2016,24,eerste_divisie,46,47,2,0,1,0,,2016
+Almere City,RKC Waalwijk,3-1,https://www.besoccer.com/match/almere-city/rkc-waalwijk/20163374,2016,24,eerste_divisie,42,53,4,1,0,1,,2016
+SC Telstar,MVV Maastricht,4-0,https://www.besoccer.com/match/stormvogels-telstar/mvv/20163375,2016,24,eerste_divisie,45,53,4,0,3,0,,2016
+Helmond Sport,Emmen,3-2,https://www.besoccer.com/match/helmond-sport/emmen/20163376,2016,24,eerste_divisie,53,51,3,0,1,0,,2016
+Sparta Rotterdam,VVV Venlo,3-1,https://www.besoccer.com/match/sparta-rotterdam/vvv/20163377,2016,24,eerste_divisie,59,56,3,0,3,0,,2016
+Go Ahead Eagles,Den Bosch,0-0,https://www.besoccer.com/match/go-ahead-eagles/fc-den-bosch/20163378,2016,24,eerste_divisie,53,55,2,1,2,1,,2016
+Dordrecht,Fortuna Sittard,1-3,https://www.besoccer.com/match/fc-dordrecht/fortuna-sittard/20163379,2016,25,eerste_divisie,55,45,0,1,2,1,,2016
+NAC Breda,MVV Maastricht,1-1,https://www.besoccer.com/match/nac-breda/mvv/20163380,2016,25,eerste_divisie,57,52,2,1,6,1,,2016
+RKC Waalwijk,Emmen,0-1,https://www.besoccer.com/match/rkc-waalwijk/emmen/20163381,2016,25,eerste_divisie,53,50,2,0,2,0,,2016
+Jong PSV,FC Volendam,2-2,https://www.besoccer.com/match/jong-psv/fc-volendam/20163382,2016,25,eerste_divisie,51,57,0,0,3,0,,2016
+Achilles 29,Sparta Rotterdam,0-3,https://www.besoccer.com/match/achilles-29/sparta-rotterdam/20163383,2016,25,eerste_divisie,47,59,3,0,1,0,,2016
+Go Ahead Eagles,VVV Venlo,0-3,https://www.besoccer.com/match/go-ahead-eagles/vvv/20163384,2016,25,eerste_divisie,53,56,3,0,1,0,,2016
+Almere City,FC Eindhoven,1-2,https://www.besoccer.com/match/almere-city/fc-eindhoven/20163385,2016,25,eerste_divisie,42,53,2,0,0,0,,2016
+SC Telstar,Jong Ajax,4-2,https://www.besoccer.com/match/stormvogels-telstar/jong-ajax/20163386,2016,25,eerste_divisie,45,51,2,0,1,0,,2016
+Helmond Sport,Den Bosch,0-0,https://www.besoccer.com/match/helmond-sport/fc-den-bosch/20163387,2016,25,eerste_divisie,53,55,1,0,1,0,,2016
+Sparta Rotterdam,Jong PSV,1-0,https://www.besoccer.com/match/sparta-rotterdam/jong-psv/20163388,2016,26,eerste_divisie,59,51,1,0,1,0,,2016
+FC Volendam,Helmond Sport,2-1,https://www.besoccer.com/match/fc-volendam/helmond-sport/20163389,2016,26,eerste_divisie,57,53,2,0,0,0,,2016
+MVV Maastricht,Almere City,0-0,https://www.besoccer.com/match/mvv/almere-city/20163390,2016,26,eerste_divisie,52,42,1,0,2,0,,2016
+FC Eindhoven,TOP Oss,4-0,https://www.besoccer.com/match/fc-eindhoven/fc-oss/20163391,2016,26,eerste_divisie,53,46,1,0,0,0,,2016
+Den Bosch,Achilles 29,1-2,https://www.besoccer.com/match/fc-den-bosch/achilles-29/20163392,2016,26,eerste_divisie,55,47,1,0,0,0,,2016
+Fortuna Sittard,SC Telstar,0-3,https://www.besoccer.com/match/fortuna-sittard/stormvogels-telstar/20163393,2016,26,eerste_divisie,45,45,0,0,1,0,,2016
+VVV Venlo,Dordrecht,3-0,https://www.besoccer.com/match/vvv/fc-dordrecht/20163394,2016,26,eerste_divisie,56,55,0,0,1,0,,2016
+Jong Ajax,Go Ahead Eagles,2-2,https://www.besoccer.com/match/jong-ajax/go-ahead-eagles/20163395,2016,26,eerste_divisie,51,52,0,0,0,0,,2016
+Emmen,NAC Breda,1-0,https://www.besoccer.com/match/emmen/nac-breda/20163396,2016,26,eerste_divisie,51,57,3,0,3,0,,2016
+Dordrecht,MVV Maastricht,1-0,https://www.besoccer.com/match/fc-dordrecht/mvv/20163397,2016,27,eerste_divisie,54,52,2,0,1,0,,2016
+NAC Breda,Fortuna Sittard,5-0,https://www.besoccer.com/match/nac-breda/fortuna-sittard/20163398,2016,27,eerste_divisie,57,45,1,0,2,0,,2016
+Jong PSV,Emmen,0-0,https://www.besoccer.com/match/jong-psv/emmen/20163399,2016,27,eerste_divisie,51,51,2,0,0,0,,2016
+Go Ahead Eagles,RKC Waalwijk,1-0,https://www.besoccer.com/match/go-ahead-eagles/rkc-waalwijk/20163400,2016,27,eerste_divisie,52,53,3,0,0,0,,2016
+Den Bosch,FC Eindhoven,3-1,https://www.besoccer.com/match/fc-den-bosch/fc-eindhoven/20163401,2016,27,eerste_divisie,54,53,0,0,1,0,,2016
+TOP Oss,Jong Ajax,1-2,https://www.besoccer.com/match/fc-oss/jong-ajax/20163402,2016,27,eerste_divisie,46,51,1,0,1,0,,2016
+Almere City,FC Volendam,2-2,https://www.besoccer.com/match/almere-city/fc-volendam/20163403,2016,27,eerste_divisie,42,57,2,0,2,0,,2016
+SC Telstar,Sparta Rotterdam,1-3,https://www.besoccer.com/match/stormvogels-telstar/sparta-rotterdam/20163404,2016,27,eerste_divisie,46,59,4,0,2,0,,2016
+Helmond Sport,VVV Venlo,1-4,https://www.besoccer.com/match/helmond-sport/vvv/20163405,2016,27,eerste_divisie,53,57,0,0,1,0,,2016
+RKC Waalwijk,Helmond Sport,2-2,https://www.besoccer.com/match/rkc-waalwijk/helmond-sport/20163406,2016,28,eerste_divisie,52,53,2,0,2,0,,2016
+Achilles 29,Jong PSV,3-2,https://www.besoccer.com/match/achilles-29/jong-psv/20163407,2016,28,eerste_divisie,47,51,1,0,1,0,,2016
+FC Eindhoven,SC Telstar,2-1,https://www.besoccer.com/match/fc-eindhoven/stormvogels-telstar/20163408,2016,28,eerste_divisie,53,46,4,0,2,0,,2016
+Fortuna Sittard,TOP Oss,3-0,https://www.besoccer.com/match/fortuna-sittard/fc-oss/20163409,2016,28,eerste_divisie,44,46,1,0,2,0,,2016
+VVV Venlo,NAC Breda,4-3,https://www.besoccer.com/match/vvv/nac-breda/20163410,2016,28,eerste_divisie,57,57,1,0,3,0,,2016
+Emmen,Almere City,5-6,https://www.besoccer.com/match/emmen/almere-city/20163411,2016,28,eerste_divisie,51,42,2,1,1,1,,2016
+Sparta Rotterdam,Go Ahead Eagles,3-1,https://www.besoccer.com/match/sparta-rotterdam/go-ahead-eagles/20163412,2016,28,eerste_divisie,60,52,0,0,3,0,,2016
+MVV Maastricht,Den Bosch,1-0,https://www.besoccer.com/match/mvv/fc-den-bosch/20163413,2016,28,eerste_divisie,52,55,0,0,2,0,,2016
+Jong Ajax,Dordrecht,4-1,https://www.besoccer.com/match/jong-ajax/fc-dordrecht/20163414,2016,28,eerste_divisie,51,55,0,0,1,0,,2016
+Dordrecht,RKC Waalwijk,1-2,https://www.besoccer.com/match/fc-dordrecht/rkc-waalwijk/20163415,2016,29,eerste_divisie,54,52,3,1,1,1,,2016
+NAC Breda,Achilles 29,3-1,https://www.besoccer.com/match/nac-breda/achilles-29/20163416,2016,29,eerste_divisie,57,47,1,0,4,0,,2016
+Go Ahead Eagles,Emmen,0-0,https://www.besoccer.com/match/go-ahead-eagles/emmen/20163417,2016,29,eerste_divisie,52,51,0,0,0,0,,2016
+TOP Oss,Sparta Rotterdam,1-2,https://www.besoccer.com/match/fc-oss/sparta-rotterdam/20163418,2016,29,eerste_divisie,45,60,3,0,1,0,,2016
+Almere City,Jong Ajax,2-1,https://www.besoccer.com/match/almere-city/jong-ajax/20163419,2016,29,eerste_divisie,42,51,2,0,1,0,,2016
+SC Telstar,VVV Venlo,2-2,https://www.besoccer.com/match/stormvogels-telstar/vvv/20163420,2016,29,eerste_divisie,45,57,2,1,2,1,,2016
+Helmond Sport,FC Eindhoven,1-2,https://www.besoccer.com/match/helmond-sport/fc-eindhoven/20163421,2016,29,eerste_divisie,53,53,1,1,1,1,,2016
+FC Volendam,MVV Maastricht,0-1,https://www.besoccer.com/match/fc-volendam/mvv/20163422,2016,29,eerste_divisie,57,52,2,0,1,0,,2016
+Jong PSV,Fortuna Sittard,0-1,https://www.besoccer.com/match/jong-psv/fortuna-sittard/20163423,2016,29,eerste_divisie,51,45,0,0,1,0,,2016
+Sparta Rotterdam,Emmen,3-2,https://www.besoccer.com/match/sparta-rotterdam/emmen/20163424,2016,30,eerste_divisie,60,51,1,0,1,0,,2016
+NAC Breda,TOP Oss,5-0,https://www.besoccer.com/match/nac-breda/fc-oss/20163425,2016,30,eerste_divisie,57,45,1,0,1,0,,2016
+RKC Waalwijk,Fortuna Sittard,1-1,https://www.besoccer.com/match/rkc-waalwijk/fortuna-sittard/20163426,2016,30,eerste_divisie,53,45,2,0,4,0,,2016
+Achilles 29,Almere City,1-3,https://www.besoccer.com/match/achilles-29/almere-city/20163427,2016,30,eerste_divisie,47,42,1,0,3,0,,2016
+FC Eindhoven,FC Volendam,1-0,https://www.besoccer.com/match/fc-eindhoven/fc-volendam/20163428,2016,30,eerste_divisie,53,56,2,0,1,0,,2016
+Go Ahead Eagles,MVV Maastricht,0-0,https://www.besoccer.com/match/go-ahead-eagles/mvv/20163429,2016,30,eerste_divisie,52,52,1,0,1,0,,2016
+Den Bosch,Dordrecht,2-0,https://www.besoccer.com/match/fc-den-bosch/fc-dordrecht/20163430,2016,30,eerste_divisie,55,54,1,0,1,0,,2016
+Jong Ajax,VVV Venlo,2-2,https://www.besoccer.com/match/jong-ajax/vvv/20163431,2016,30,eerste_divisie,51,57,0,1,0,1,,2016
+SC Telstar,Jong PSV,1-1,https://www.besoccer.com/match/stormvogels-telstar/jong-psv/20163432,2016,30,eerste_divisie,45,51,4,0,3,0,,2016
+FC Volendam,SC Telstar,3-0,https://www.besoccer.com/match/fc-volendam/stormvogels-telstar/20163433,2016,31,eerste_divisie,56,46,0,0,1,0,,2016
+Dordrecht,Go Ahead Eagles,1-1,https://www.besoccer.com/match/fc-dordrecht/go-ahead-eagles/20163434,2016,31,eerste_divisie,54,52,2,0,1,0,,2016
+Jong PSV,Helmond Sport,3-1,https://www.besoccer.com/match/jong-psv/helmond-sport/20163435,2016,31,eerste_divisie,51,53,0,0,3,0,,2016
+MVV Maastricht,Jong Ajax,0-0,https://www.besoccer.com/match/mvv/jong-ajax/20163436,2016,31,eerste_divisie,52,51,2,0,2,0,,2016
+Fortuna Sittard,FC Eindhoven,2-1,https://www.besoccer.com/match/fortuna-sittard/fc-eindhoven/20163437,2016,31,eerste_divisie,45,53,1,0,3,0,,2016
+VVV Venlo,RKC Waalwijk,4-3,https://www.besoccer.com/match/vvv/rkc-waalwijk/20163438,2016,31,eerste_divisie,57,53,1,0,2,0,,2016
+TOP Oss,Den Bosch,3-1,https://www.besoccer.com/match/fc-oss/fc-den-bosch/20163439,2016,31,eerste_divisie,45,55,2,0,1,0,,2016
+Almere City,Sparta Rotterdam,1-0,https://www.besoccer.com/match/almere-city/sparta-rotterdam/20163440,2016,31,eerste_divisie,43,60,0,0,1,0,,2016
+Emmen,Achilles 29,3-1,https://www.besoccer.com/match/emmen/achilles-29/20163441,2016,31,eerste_divisie,51,47,0,0,1,0,,2016
+Sparta Rotterdam,Fortuna Sittard,1-1,https://www.besoccer.com/match/sparta-rotterdam/fortuna-sittard/20163442,2016,32,eerste_divisie,60,45,0,0,2,0,,2016
+RKC Waalwijk,FC Volendam,2-1,https://www.besoccer.com/match/rkc-waalwijk/fc-volendam/20163443,2016,32,eerste_divisie,52,56,0,0,1,0,,2016
+FC Eindhoven,VVV Venlo,2-0,https://www.besoccer.com/match/fc-eindhoven/vvv/20163444,2016,32,eerste_divisie,53,57,2,0,2,0,,2016
+Go Ahead Eagles,TOP Oss,5-0,https://www.besoccer.com/match/go-ahead-eagles/fc-oss/20163445,2016,32,eerste_divisie,52,45,0,0,1,0,,2016
+Den Bosch,NAC Breda,3-6,https://www.besoccer.com/match/fc-den-bosch/nac-breda/20163446,2016,32,eerste_divisie,54,57,1,1,1,1,,2016
+Jong Ajax,Jong PSV,1-2,https://www.besoccer.com/match/jong-ajax/jong-psv/20163447,2016,32,eerste_divisie,51,51,1,0,0,0,,2016
+SC Telstar,Dordrecht,3-0,https://www.besoccer.com/match/stormvogels-telstar/fc-dordrecht/20163448,2016,32,eerste_divisie,45,54,0,0,1,0,,2016
+Helmond Sport,Almere City,0-2,https://www.besoccer.com/match/helmond-sport/almere-city/20163449,2016,32,eerste_divisie,52,43,3,1,2,1,,2016
+Achilles 29,MVV Maastricht,1-2,https://www.besoccer.com/match/achilles-29/mvv/20163450,2016,32,eerste_divisie,46,52,2,0,2,0,,2016
+Sparta Rotterdam,NAC Breda,1-1,https://www.besoccer.com/match/sparta-rotterdam/nac-breda/20163451,2016,33,eerste_divisie,60,58,4,0,2,0,,2016
+Dordrecht,Helmond Sport,0-2,https://www.besoccer.com/match/fc-dordrecht/helmond-sport/20163452,2016,33,eerste_divisie,54,52,3,0,0,0,,2016
+RKC Waalwijk,FC Eindhoven,1-2,https://www.besoccer.com/match/rkc-waalwijk/fc-eindhoven/20163453,2016,33,eerste_divisie,53,53,2,0,3,0,,2016
+Achilles 29,SC Telstar,1-3,https://www.besoccer.com/match/achilles-29/stormvogels-telstar/20163454,2016,33,eerste_divisie,46,46,1,0,3,0,,2016
+Fortuna Sittard,Jong Ajax,1-2,https://www.besoccer.com/match/fortuna-sittard/jong-ajax/20163455,2016,33,eerste_divisie,45,51,0,0,0,0,,2016
+VVV Venlo,Den Bosch,2-1,https://www.besoccer.com/match/vvv/fc-den-bosch/20163456,2016,33,eerste_divisie,57,54,1,1,0,1,,2016
+Almere City,Go Ahead Eagles,3-4,https://www.besoccer.com/match/almere-city/go-ahead-eagles/20163457,2016,33,eerste_divisie,43,52,3,0,2,0,,2016
+Emmen,FC Volendam,1-0,https://www.besoccer.com/match/emmen/fc-volendam/20163458,2016,33,eerste_divisie,51,56,1,0,3,0,,2016
+Jong PSV,TOP Oss,3-1,https://www.besoccer.com/match/jong-psv/fc-oss/20163459,2016,33,eerste_divisie,51,45,1,0,3,0,,2016
+FC Volendam,Achilles 29,0-0,https://www.besoccer.com/match/fc-volendam/achilles-29/20163460,2016,34,eerste_divisie,56,46,3,0,1,0,,2016
+Dordrecht,Jong PSV,4-0,https://www.besoccer.com/match/fc-dordrecht/jong-psv/20163461,2016,34,eerste_divisie,53,51,3,0,0,0,,2016
+NAC Breda,RKC Waalwijk,1-1,https://www.besoccer.com/match/nac-breda/rkc-waalwijk/20163462,2016,34,eerste_divisie,58,52,1,0,5,0,,2016
+MVV Maastricht,VVV Venlo,1-3,https://www.besoccer.com/match/mvv/vvv/20163463,2016,34,eerste_divisie,53,57,2,0,2,0,,2016
+FC Eindhoven,Go Ahead Eagles,0-0,https://www.besoccer.com/match/fc-eindhoven/go-ahead-eagles/20163464,2016,34,eerste_divisie,53,53,1,0,0,0,,2016
+Den Bosch,SC Telstar,5-0,https://www.besoccer.com/match/fc-den-bosch/stormvogels-telstar/20163465,2016,34,eerste_divisie,54,46,2,0,0,0,,2016
+Jong Ajax,Emmen,2-0,https://www.besoccer.com/match/jong-ajax/emmen/20163466,2016,34,eerste_divisie,51,51,3,0,0,0,,2016
+TOP Oss,Almere City,1-2,https://www.besoccer.com/match/fc-oss/almere-city/20163467,2016,34,eerste_divisie,45,43,0,0,2,0,,2016
+Helmond Sport,Sparta Rotterdam,1-1,https://www.besoccer.com/match/helmond-sport/sparta-rotterdam/20163468,2016,34,eerste_divisie,52,60,3,0,0,0,,2016
+Sparta Rotterdam,Jong Ajax,3-1,https://www.besoccer.com/match/sparta-rotterdam/jong-ajax/20163469,2016,35,eerste_divisie,60,51,1,0,2,0,,2016
+RKC Waalwijk,TOP Oss,3-2,https://www.besoccer.com/match/rkc-waalwijk/fc-oss/20163470,2016,35,eerste_divisie,53,45,1,0,2,0,,2016
+Jong PSV,Den Bosch,2-1,https://www.besoccer.com/match/jong-psv/fc-den-bosch/20163471,2016,35,eerste_divisie,51,54,3,0,4,0,,2016
+Achilles 29,Helmond Sport,1-2,https://www.besoccer.com/match/achilles-29/helmond-sport/20163472,2016,35,eerste_divisie,46,52,2,1,2,1,,2016
+Go Ahead Eagles,FC Volendam,3-2,https://www.besoccer.com/match/go-ahead-eagles/fc-volendam/20163473,2016,35,eerste_divisie,53,56,2,0,3,0,,2016
+Fortuna Sittard,MVV Maastricht,1-2,https://www.besoccer.com/match/fortuna-sittard/mvv/20163474,2016,35,eerste_divisie,45,52,3,0,2,0,,2016
+Almere City,Dordrecht,3-0,https://www.besoccer.com/match/almere-city/fc-dordrecht/20163475,2016,35,eerste_divisie,43,54,2,0,3,0,,2016
+SC Telstar,NAC Breda,1-4,https://www.besoccer.com/match/stormvogels-telstar/nac-breda/20163476,2016,35,eerste_divisie,46,58,2,0,2,0,,2016
+Emmen,FC Eindhoven,4-2,https://www.besoccer.com/match/emmen/fc-eindhoven/20163477,2016,35,eerste_divisie,51,53,1,0,3,0,,2016
+FC Volendam,Sparta Rotterdam,2-0,https://www.besoccer.com/match/fc-volendam/sparta-rotterdam/20163478,2016,36,eerste_divisie,56,60,1,0,2,0,,2016
+NAC Breda,Jong PSV,5-2,https://www.besoccer.com/match/nac-breda/jong-psv/20163479,2016,36,eerste_divisie,58,51,2,0,4,0,,2016
+MVV Maastricht,Emmen,4-1,https://www.besoccer.com/match/mvv/emmen/20163480,2016,36,eerste_divisie,52,51,1,0,4,0,,2016
+FC Eindhoven,Achilles 29,0-1,https://www.besoccer.com/match/fc-eindhoven/achilles-29/20163481,2016,36,eerste_divisie,53,46,1,0,0,0,,2016
+Den Bosch,Almere City,1-2,https://www.besoccer.com/match/fc-den-bosch/almere-city/20163482,2016,36,eerste_divisie,54,43,2,0,2,0,,2016
+VVV Venlo,Fortuna Sittard,4-1,https://www.besoccer.com/match/vvv/fortuna-sittard/20163483,2016,36,eerste_divisie,57,45,2,0,2,0,,2016
+Jong Ajax,RKC Waalwijk,0-0,https://www.besoccer.com/match/jong-ajax/rkc-waalwijk/20163484,2016,36,eerste_divisie,51,53,1,0,2,0,,2016
+TOP Oss,SC Telstar,3-3,https://www.besoccer.com/match/fc-oss/stormvogels-telstar/20163485,2016,36,eerste_divisie,45,45,2,0,4,0,,2016
+Helmond Sport,Go Ahead Eagles,0-4,https://www.besoccer.com/match/helmond-sport/go-ahead-eagles/20163486,2016,36,eerste_divisie,53,53,0,0,1,0,,2016
+FC Volendam,Jong Ajax,1-1,https://www.besoccer.com/match/fc-volendam/jong-ajax/20163487,2016,37,eerste_divisie,56,51,0,0,2,0,,2016
+Dordrecht,Achilles 29,3-3,https://www.besoccer.com/match/fc-dordrecht/achilles-29/20163488,2016,37,eerste_divisie,53,46,1,0,1,0,,2016
+NAC Breda,Almere City,1-1,https://www.besoccer.com/match/nac-breda/almere-city/20163489,2016,37,eerste_divisie,58,44,1,0,1,0,,2016
+Jong PSV,FC Eindhoven,2-0,https://www.besoccer.com/match/jong-psv/fc-eindhoven/20163490,2016,37,eerste_divisie,51,53,3,0,1,0,,2016
+MVV Maastricht,Sparta Rotterdam,1-3,https://www.besoccer.com/match/mvv/sparta-rotterdam/20163491,2016,37,eerste_divisie,53,60,4,0,1,0,,2016
+Den Bosch,RKC Waalwijk,1-1,https://www.besoccer.com/match/fc-den-bosch/rkc-waalwijk/20163492,2016,37,eerste_divisie,54,53,3,0,1,0,,2016
+Fortuna Sittard,Go Ahead Eagles,0-1,https://www.besoccer.com/match/fortuna-sittard/go-ahead-eagles/20163493,2016,37,eerste_divisie,45,53,0,0,1,0,,2016
+VVV Venlo,Emmen,1-0,https://www.besoccer.com/match/vvv/emmen/20163494,2016,37,eerste_divisie,57,51,2,0,1,0,,2016
+Helmond Sport,TOP Oss,4-0,https://www.besoccer.com/match/helmond-sport/fc-oss/20163495,2016,37,eerste_divisie,52,45,0,0,2,0,,2016
+Sparta Rotterdam,Dordrecht,2-3,https://www.besoccer.com/match/sparta-rotterdam/fc-dordrecht/20163496,2016,38,eerste_divisie,60,53,1,0,3,0,,2016
+RKC Waalwijk,MVV Maastricht,1-3,https://www.besoccer.com/match/rkc-waalwijk/mvv/20163497,2016,38,eerste_divisie,53,53,3,1,0,1,,2016
+Achilles 29,VVV Venlo,1-3,https://www.besoccer.com/match/achilles-29/vvv/20163498,2016,38,eerste_divisie,46,57,1,0,0,0,,2016
+Go Ahead Eagles,NAC Breda,4-1,https://www.besoccer.com/match/go-ahead-eagles/nac-breda/20163499,2016,38,eerste_divisie,53,58,0,0,0,0,,2016
+Jong Ajax,Den Bosch,3-1,https://www.besoccer.com/match/jong-ajax/fc-den-bosch/20163500,2016,38,eerste_divisie,51,54,2,0,3,0,,2016
+TOP Oss,FC Volendam,1-2,https://www.besoccer.com/match/fc-oss/fc-volendam/20163501,2016,38,eerste_divisie,44,56,0,0,2,0,,2016
+Almere City,Jong PSV,7-0,https://www.besoccer.com/match/almere-city/jong-psv/20163502,2016,38,eerste_divisie,44,51,1,0,1,0,,2016
+SC Telstar,Helmond Sport,1-0,https://www.besoccer.com/match/stormvogels-telstar/helmond-sport/20163503,2016,38,eerste_divisie,45,53,1,0,0,0,,2016
+Emmen,Fortuna Sittard,1-2,https://www.besoccer.com/match/emmen/fortuna-sittard/20163504,2016,38,eerste_divisie,51,45,0,0,2,0,,2016

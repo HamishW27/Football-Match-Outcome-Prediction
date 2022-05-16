@@ -1,291 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,1,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,1,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,1,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,1,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,1,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,1,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,1,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,1,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,1,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,1,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,2,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,2,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,2,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,2,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,2,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,2,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,2,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,2,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,2,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,2,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,3,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,3,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,3,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,3,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,3,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,3,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,3,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,3,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,3,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,3,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,4,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,4,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,4,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,4,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,4,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,4,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,4,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,4,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,4,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,4,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,5,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,5,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,5,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,5,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,5,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,5,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,5,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,5,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,5,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,5,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,6,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,6,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,6,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,6,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,6,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,6,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,6,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,6,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,6,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,6,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,7,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,7,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,7,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,7,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,7,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,7,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,7,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,7,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,7,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,7,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,8,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,8,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,8,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,8,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,8,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,8,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,8,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,8,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,8,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,8,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,9,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,9,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,9,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,9,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,9,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,9,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,9,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,9,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,9,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,9,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,10,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,10,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,10,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,10,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,10,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,10,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,10,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,10,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,10,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,10,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,11,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,11,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,11,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,11,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,11,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,11,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,11,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,11,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,11,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,11,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,12,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,12,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,12,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,12,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,12,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,12,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,12,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,12,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,12,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,12,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,13,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,13,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,13,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,13,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,13,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,13,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,13,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,13,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,13,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,13,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,14,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,14,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,14,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,14,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,14,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,14,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,14,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,14,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,14,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,14,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,15,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,15,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,15,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,15,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,15,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,15,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,15,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,15,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,15,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,15,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,16,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,16,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,16,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,16,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,16,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,16,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,16,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,16,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,16,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,16,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,17,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,17,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,17,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,17,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,17,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,17,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,17,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,17,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,17,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,17,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,18,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,18,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,18,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,18,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,18,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,18,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,18,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,18,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,18,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,18,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,19,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,19,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,19,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,19,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,19,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,19,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,19,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,19,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,19,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,19,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,20,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,20,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,20,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,20,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,20,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,20,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,20,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,20,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,20,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,20,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,21,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,21,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,21,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,21,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,21,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,21,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,21,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,21,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,21,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,21,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,22,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,22,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,22,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,22,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,22,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,22,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,22,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,22,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,22,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,22,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,23,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,23,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,23,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,23,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,23,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,23,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,23,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,23,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,23,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,23,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,24,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,24,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,24,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,24,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,24,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,24,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,24,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,24,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,24,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,24,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,25,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,25,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,25,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,25,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,25,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,25,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,25,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,25,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,25,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,25,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,26,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,26,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,26,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,26,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,26,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,26,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,26,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,26,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,26,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,26,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,27,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,27,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,27,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,27,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,27,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,27,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,27,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,27,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,27,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,27,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,28,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,28,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,28,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,28,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,28,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,28,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,28,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,28,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,28,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,28,eerste_divisie
-Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,29,eerste_divisie
-De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,29,eerste_divisie
-NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,29,eerste_divisie
-Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,29,eerste_divisie
-TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,29,eerste_divisie
-Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,29,eerste_divisie
-Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,29,eerste_divisie
-Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,29,eerste_divisie
-Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,29,eerste_divisie
-Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,29,eerste_divisie
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Go Ahead Eagles,MVV Maastricht,3-2,https://www.besoccer.com/match/go-ahead-eagles/mvv/202012306,2020,1,eerste_divisie,53,53,0,0,1,0,,2020
+De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/202012307,2020,1,eerste_divisie,52,59,3,0,2,0,,2020
+NEC Nijmegen,FC Eindhoven,1-2,https://www.besoccer.com/match/nec/fc-eindhoven/202012308,2020,1,eerste_divisie,63,48,3,0,3,0,,2020
+Roda JC,Almere City,1-1,https://www.besoccer.com/match/roda-jc/almere-city/202012309,2020,1,eerste_divisie,56,51,3,1,2,1,,2020
+TOP Oss,Jong Ajax,2-1,https://www.besoccer.com/match/fc-oss/jong-ajax/202012310,2020,1,eerste_divisie,48,56,2,0,1,0,,2020
+Helmond Sport,FC Volendam,1-1,https://www.besoccer.com/match/helmond-sport/fc-volendam/202012312,2020,1,eerste_divisie,47,52,3,1,1,1,,2020
+Dordrecht,NAC Breda,0-2,https://www.besoccer.com/match/fc-dordrecht/nac-breda/202012313,2020,1,eerste_divisie,51,53,3,0,1,0,,2020
+Excelsior,Jong Utrecht,2-0,https://www.besoccer.com/match/excelsior/jong-utrecht/202012314,2020,1,eerste_divisie,58,43,1,0,0,0,,2020
+Jong AZ,SC Telstar,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/202012311,2020,1,eerste_divisie,48,45,0,0,3,0,,2020
+Jong PSV,Den Bosch,2-2,https://www.besoccer.com/match/jong-psv/fc-den-bosch/202012315,2020,1,eerste_divisie,55,53,0,1,2,1,,2020
+Cambuur,Go Ahead Eagles,5-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/go-ahead-eagles/202012316,2020,2,eerste_divisie,59,54,2,0,3,0,,2020
+FC Volendam,Roda JC,4-0,https://www.besoccer.com/match/fc-volendam/roda-jc/202012317,2020,2,eerste_divisie,53,57,1,0,0,0,,2020
+NAC Breda,Helmond Sport,5-1,https://www.besoccer.com/match/nac-breda/helmond-sport/202012318,2020,2,eerste_divisie,52,48,1,0,1,0,,2020
+MVV Maastricht,De Graafschap,0-3,https://www.besoccer.com/match/mvv/graafschap/202012319,2020,2,eerste_divisie,53,52,1,0,0,0,,2020
+FC Eindhoven,Dordrecht,5-1,https://www.besoccer.com/match/fc-eindhoven/fc-dordrecht/202012320,2020,2,eerste_divisie,46,51,4,0,3,0,,2020
+Den Bosch,SC Telstar,0-1,https://www.besoccer.com/match/fc-den-bosch/stormvogels-telstar/202012321,2020,2,eerste_divisie,53,48,1,0,2,0,,2020
+Almere City,Jong PSV,3-2,https://www.besoccer.com/match/almere-city/jong-psv/202012322,2020,2,eerste_divisie,51,55,3,0,1,0,,2020
+Jong Utrecht,TOP Oss,2-1,https://www.besoccer.com/match/jong-utrecht/fc-oss/202012323,2020,2,eerste_divisie,43,46,2,0,3,0,,2020
+Jong Ajax,NEC Nijmegen,3-3,https://www.besoccer.com/match/jong-ajax/nec/202012324,2020,2,eerste_divisie,56,62,0,0,1,0,,2020
+Jong AZ,Excelsior,1-2,https://www.besoccer.com/match/az-alkmaar-sub23/excelsior/202012325,2020,2,eerste_divisie,44,57,0,0,3,0,,2020
+Dordrecht,Jong Ajax,2-5,https://www.besoccer.com/match/fc-dordrecht/jong-ajax/202012326,2020,3,eerste_divisie,52,56,1,0,2,0,,2020
+NAC Breda,Cambuur,1-0,https://www.besoccer.com/match/nac-breda/sc-cambuur-leeuwarden/202012327,2020,3,eerste_divisie,51,59,1,0,4,0,,2020
+Go Ahead Eagles,Jong Utrecht,4-0,https://www.besoccer.com/match/go-ahead-eagles/jong-utrecht/202012328,2020,3,eerste_divisie,53,43,1,0,0,0,,2020
+Den Bosch,FC Eindhoven,1-1,https://www.besoccer.com/match/fc-den-bosch/fc-eindhoven/202012329,2020,3,eerste_divisie,51,46,1,0,3,0,,2020
+TOP Oss,Jong AZ,1-2,https://www.besoccer.com/match/fc-oss/az-alkmaar-sub23/202012330,2020,3,eerste_divisie,47,44,2,0,1,0,,2020
+De Graafschap,FC Volendam,3-0,https://www.besoccer.com/match/graafschap/fc-volendam/202012331,2020,3,eerste_divisie,53,54,0,0,1,0,,2020
+Roda JC,NEC Nijmegen,1-2,https://www.besoccer.com/match/roda-jc/nec/202012332,2020,3,eerste_divisie,57,63,1,0,4,0,,2020
+SC Telstar,Excelsior,3-0,https://www.besoccer.com/match/stormvogels-telstar/excelsior/202012333,2020,3,eerste_divisie,48,57,1,0,1,0,,2020
+Helmond Sport,Almere City,1-1,https://www.besoccer.com/match/helmond-sport/almere-city/202012334,2020,3,eerste_divisie,50,51,2,0,1,0,,2020
+Jong PSV,MVV Maastricht,0-1,https://www.besoccer.com/match/jong-psv/mvv/202012335,2020,3,eerste_divisie,55,54,2,0,2,0,,2020
+Cambuur,Den Bosch,3-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-den-bosch/202012336,2020,4,eerste_divisie,59,50,1,0,2,0,,2020
+FC Volendam,NAC Breda,2-1,https://www.besoccer.com/match/fc-volendam/nac-breda/202012337,2020,4,eerste_divisie,55,50,0,0,1,0,,2020
+FC Eindhoven,Go Ahead Eagles,2-1,https://www.besoccer.com/match/fc-eindhoven/go-ahead-eagles/202012338,2020,4,eerste_divisie,46,53,2,0,2,0,,2020
+Excelsior,Helmond Sport,3-1,https://www.besoccer.com/match/excelsior/helmond-sport/202012339,2020,4,eerste_divisie,58,49,2,0,3,0,,2020
+NEC Nijmegen,SC Telstar,4-2,https://www.besoccer.com/match/nec/stormvogels-telstar/202012340,2020,4,eerste_divisie,63,49,1,0,0,0,,2020
+Jong Ajax,Almere City,3-2,https://www.besoccer.com/match/jong-ajax/almere-city/202012341,2020,4,eerste_divisie,57,51,2,0,1,0,,2020
+TOP Oss,De Graafschap,0-0,https://www.besoccer.com/match/fc-oss/graafschap/202012342,2020,4,eerste_divisie,46,53,3,0,3,0,,2020
+Jong AZ,Dordrecht,1-1,https://www.besoccer.com/match/az-alkmaar-sub23/fc-dordrecht/202012343,2020,4,eerste_divisie,45,52,3,1,1,1,,2020
+Jong Utrecht,Jong PSV,3-0,https://www.besoccer.com/match/jong-utrecht/jong-psv/202012344,2020,4,eerste_divisie,43,55,2,0,1,0,,2020
+MVV Maastricht,Roda JC,1-0,https://www.besoccer.com/match/mvv/roda-jc/202012345,2020,4,eerste_divisie,54,56,3,0,2,0,,2020
+Dordrecht,MVV Maastricht,1-1,https://www.besoccer.com/match/fc-dordrecht/mvv/202012346,2020,5,eerste_divisie,53,54,1,0,3,0,,2020
+SC Telstar,Cambuur,0-2,https://www.besoccer.com/match/stormvogels-telstar/sc-cambuur-leeuwarden/202012348,2020,5,eerste_divisie,50,58,2,0,1,0,,2020
+Go Ahead Eagles,Excelsior,2-2,https://www.besoccer.com/match/go-ahead-eagles/excelsior/202012347,2020,5,eerste_divisie,53,57,1,0,1,0,,2020
+Helmond Sport,FC Eindhoven,1-0,https://www.besoccer.com/match/helmond-sport/fc-eindhoven/202012349,2020,5,eerste_divisie,48,47,3,0,1,0,,2020
+Roda JC,TOP Oss,2-1,https://www.besoccer.com/match/roda-jc/fc-oss/202012350,2020,5,eerste_divisie,54,47,0,0,2,0,,2020
+Almere City,FC Volendam,1-0,https://www.besoccer.com/match/almere-city/fc-volendam/202012351,2020,5,eerste_divisie,52,56,2,0,1,0,,2020
+Jong Utrecht,Den Bosch,5-1,https://www.besoccer.com/match/jong-utrecht/fc-den-bosch/202012352,2020,5,eerste_divisie,43,52,1,0,1,0,,2020
+NEC Nijmegen,De Graafschap,1-1,https://www.besoccer.com/match/nec/graafschap/202012353,2020,5,eerste_divisie,62,53,1,0,2,0,,2020
+Jong Ajax,Jong PSV,2-0,https://www.besoccer.com/match/jong-ajax/jong-psv/202012354,2020,5,eerste_divisie,57,55,3,0,1,0,,2020
+Jong AZ,NAC Breda,1-2,https://www.besoccer.com/match/az-alkmaar-sub23/nac-breda/202012355,2020,5,eerste_divisie,45,50,1,0,2,0,,2020
+NAC Breda,Jong Utrecht,0-0,https://www.besoccer.com/match/nac-breda/jong-utrecht/202012356,2020,6,eerste_divisie,50,43,4,0,4,0,,2020
+Jong PSV,Jong AZ,3-2,https://www.besoccer.com/match/jong-psv/az-alkmaar-sub23/202012357,2020,6,eerste_divisie,55,45,1,0,0,0,,2020
+Den Bosch,NEC Nijmegen,2-2,https://www.besoccer.com/match/fc-den-bosch/nec/202012358,2020,6,eerste_divisie,52,62,1,1,2,1,,2020
+De Graafschap,Jong Ajax,3-2,https://www.besoccer.com/match/graafschap/jong-ajax/202012359,2020,6,eerste_divisie,53,57,0,0,3,0,,2020
+Cambuur,Helmond Sport,5-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/helmond-sport/202012360,2020,6,eerste_divisie,57,48,0,0,1,0,,2020
+FC Volendam,Dordrecht,1-1,https://www.besoccer.com/match/fc-volendam/fc-dordrecht/202012361,2020,6,eerste_divisie,56,53,0,0,4,0,,2020
+MVV Maastricht,SC Telstar,1-2,https://www.besoccer.com/match/mvv/stormvogels-telstar/202012362,2020,6,eerste_divisie,54,50,4,0,2,0,,2020
+FC Eindhoven,Roda JC,1-1,https://www.besoccer.com/match/fc-eindhoven/roda-jc/202012363,2020,6,eerste_divisie,47,54,0,0,3,0,,2020
+Excelsior,Almere City,4-2,https://www.besoccer.com/match/excelsior/almere-city/202012364,2020,6,eerste_divisie,57,52,2,0,0,0,,2020
+TOP Oss,Go Ahead Eagles,1-2,https://www.besoccer.com/match/fc-oss/go-ahead-eagles/202012365,2020,6,eerste_divisie,47,53,1,0,0,0,,2020
+Dordrecht,NEC Nijmegen,2-0,https://www.besoccer.com/match/fc-dordrecht/nec/202012366,2020,7,eerste_divisie,53,62,1,0,3,0,,2020
+NAC Breda,Excelsior,2-1,https://www.besoccer.com/match/nac-breda/excelsior/202012367,2020,7,eerste_divisie,50,57,2,0,2,0,,2020
+Go Ahead Eagles,Jong Ajax,1-1,https://www.besoccer.com/match/go-ahead-eagles/jong-ajax/202012368,2020,7,eerste_divisie,53,57,1,0,3,0,,2020
+Den Bosch,MVV Maastricht,4-0,https://www.besoccer.com/match/fc-den-bosch/mvv/202012369,2020,7,eerste_divisie,52,53,1,0,5,0,,2020
+De Graafschap,FC Eindhoven,4-0,https://www.besoccer.com/match/graafschap/fc-eindhoven/202012370,2020,7,eerste_divisie,53,47,0,0,1,0,,2020
+Roda JC,Jong Utrecht,1-3,https://www.besoccer.com/match/roda-jc/jong-utrecht/202012371,2020,7,eerste_divisie,54,43,2,1,2,1,,2020
+Almere City,Jong AZ,2-1,https://www.besoccer.com/match/almere-city/az-alkmaar-sub23/202012372,2020,7,eerste_divisie,52,45,0,0,1,0,,2020
+SC Telstar,FC Volendam,1-2,https://www.besoccer.com/match/stormvogels-telstar/fc-volendam/202012373,2020,7,eerste_divisie,50,56,3,0,1,0,,2020
+Helmond Sport,TOP Oss,0-2,https://www.besoccer.com/match/helmond-sport/fc-oss/202012374,2020,7,eerste_divisie,48,47,3,0,2,0,,2020
+Jong PSV,Cambuur,0-1,https://www.besoccer.com/match/jong-psv/sc-cambuur-leeuwarden/202012375,2020,7,eerste_divisie,55,57,2,0,4,0,,2020
+FC Volendam,Cambuur,0-4,https://www.besoccer.com/match/fc-volendam/sc-cambuur-leeuwarden/202012376,2020,8,eerste_divisie,56,57,2,1,2,1,,2020
+MVV Maastricht,Jong Ajax,1-4,https://www.besoccer.com/match/mvv/jong-ajax/202012377,2020,8,eerste_divisie,53,57,2,0,1,0,,2020
+FC Eindhoven,SC Telstar,4-1,https://www.besoccer.com/match/fc-eindhoven/stormvogels-telstar/202012378,2020,8,eerste_divisie,47,50,2,0,3,0,,2020
+Excelsior,Jong PSV,5-2,https://www.besoccer.com/match/excelsior/jong-psv/202012379,2020,8,eerste_divisie,57,55,0,0,0,0,,2020
+NEC Nijmegen,Go Ahead Eagles,3-3,https://www.besoccer.com/match/nec/go-ahead-eagles/202012380,2020,8,eerste_divisie,62,53,1,0,4,0,,2020
+TOP Oss,NAC Breda,0-1,https://www.besoccer.com/match/fc-oss/nac-breda/202012381,2020,8,eerste_divisie,46,51,1,0,0,0,,2020
+Almere City,Dordrecht,3-2,https://www.besoccer.com/match/almere-city/fc-dordrecht/202012382,2020,8,eerste_divisie,52,52,1,0,2,0,,2020
+Roda JC,De Graafschap,1-1,https://www.besoccer.com/match/roda-jc/graafschap/202012383,2020,8,eerste_divisie,54,53,3,0,2,0,,2020
+Jong Utrecht,Helmond Sport,1-1,https://www.besoccer.com/match/jong-utrecht/helmond-sport/202012384,2020,8,eerste_divisie,44,48,1,0,0,0,,2020
+Jong AZ,Den Bosch,2-2,https://www.besoccer.com/match/az-alkmaar-sub23/fc-den-bosch/202012385,2020,8,eerste_divisie,45,51,2,0,1,0,,2020
+Cambuur,Excelsior,4-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/excelsior/202012386,2020,9,eerste_divisie,57,57,1,0,3,0,,2020
+Dordrecht,Jong Utrecht,2-5,https://www.besoccer.com/match/fc-dordrecht/jong-utrecht/202012387,2020,9,eerste_divisie,53,45,1,1,2,1,,2020
+NAC Breda,NEC Nijmegen,1-0,https://www.besoccer.com/match/nac-breda/nec/202012388,2020,9,eerste_divisie,51,62,2,0,3,0,,2020
+Jong PSV,FC Volendam,3-1,https://www.besoccer.com/match/jong-psv/fc-volendam/202012389,2020,9,eerste_divisie,54,56,2,0,2,0,,2020
+Go Ahead Eagles,Jong AZ,1-1,https://www.besoccer.com/match/go-ahead-eagles/az-alkmaar-sub23/202012390,2020,9,eerste_divisie,53,45,2,0,2,0,,2020
+Den Bosch,TOP Oss,4-0,https://www.besoccer.com/match/fc-den-bosch/fc-oss/202012391,2020,9,eerste_divisie,51,46,2,0,1,0,,2020
+De Graafschap,Almere City,0-0,https://www.besoccer.com/match/graafschap/almere-city/202012392,2020,9,eerste_divisie,53,52,1,0,2,0,,2020
+Jong Ajax,FC Eindhoven,6-0,https://www.besoccer.com/match/jong-ajax/fc-eindhoven/202012393,2020,9,eerste_divisie,57,47,0,0,3,0,,2020
+SC Telstar,Roda JC,1-2,https://www.besoccer.com/match/stormvogels-telstar/roda-jc/202012394,2020,9,eerste_divisie,50,54,2,0,3,0,,2020
+Helmond Sport,MVV Maastricht,3-1,https://www.besoccer.com/match/helmond-sport/mvv/202012395,2020,9,eerste_divisie,48,54,0,0,3,0,,2020
+MVV Maastricht,Cambuur,0-0,https://www.besoccer.com/match/mvv/sc-cambuur-leeuwarden/202012396,2020,10,eerste_divisie,54,57,2,0,0,0,,2020
+TOP Oss,SC Telstar,2-2,https://www.besoccer.com/match/fc-oss/stormvogels-telstar/202012397,2020,10,eerste_divisie,46,49,3,0,1,0,,2020
+Roda JC,Helmond Sport,4-0,https://www.besoccer.com/match/roda-jc/helmond-sport/202012398,2020,10,eerste_divisie,54,48,1,0,3,0,,2020
+FC Volendam,Den Bosch,1-1,https://www.besoccer.com/match/fc-volendam/fc-den-bosch/202012399,2020,10,eerste_divisie,56,51,1,0,1,0,,2020
+Almere City,Go Ahead Eagles,1-1,https://www.besoccer.com/match/almere-city/go-ahead-eagles/202012400,2020,10,eerste_divisie,52,53,2,0,3,0,,2020
+Excelsior,Dordrecht,3-2,https://www.besoccer.com/match/excelsior/fc-dordrecht/202012401,2020,10,eerste_divisie,62,53,1,0,3,0,,2020
+NAC Breda,De Graafschap,1-2,https://www.besoccer.com/match/nac-breda/graafschap/202012402,2020,10,eerste_divisie,51,54,2,1,3,1,,2020
+Jong PSV,FC Eindhoven,2-1,https://www.besoccer.com/match/jong-psv/fc-eindhoven/202012403,2020,10,eerste_divisie,54,46,3,0,2,0,,2020
+Jong Ajax,Jong Utrecht,4-0,https://www.besoccer.com/match/jong-ajax/jong-utrecht/202012404,2020,10,eerste_divisie,57,45,0,0,1,0,,2020
+Jong AZ,NEC Nijmegen,0-2,https://www.besoccer.com/match/az-alkmaar-sub23/nec/202012405,2020,10,eerste_divisie,44,62,1,0,1,0,,2020
+Jong Utrecht,De Graafschap,2-2,https://www.besoccer.com/match/jong-utrecht/graafschap/202012406,2020,11,eerste_divisie,44,54,3,0,3,0,,2020
+FC Eindhoven,NAC Breda,2-2,https://www.besoccer.com/match/fc-eindhoven/nac-breda/202012407,2020,11,eerste_divisie,47,51,2,0,3,0,,2020
+NEC Nijmegen,Jong PSV,1-0,https://www.besoccer.com/match/nec/jong-psv/202012408,2020,11,eerste_divisie,62,54,2,0,2,0,,2020
+Jong AZ,Jong Ajax,3-2,https://www.besoccer.com/match/az-alkmaar-sub23/jong-ajax/202012409,2020,11,eerste_divisie,44,57,1,0,3,0,,2020
+Cambuur,TOP Oss,5-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-oss/202012410,2020,11,eerste_divisie,58,46,0,0,0,0,,2020
+Dordrecht,Helmond Sport,1-2,https://www.besoccer.com/match/fc-dordrecht/helmond-sport/202012411,2020,11,eerste_divisie,53,48,0,0,2,0,,2020
+MVV Maastricht,Excelsior,0-0,https://www.besoccer.com/match/mvv/excelsior/202012412,2020,11,eerste_divisie,54,62,2,1,1,1,,2020
+Go Ahead Eagles,FC Volendam,3-0,https://www.besoccer.com/match/go-ahead-eagles/fc-volendam/202012413,2020,11,eerste_divisie,53,56,1,0,1,0,,2020
+Den Bosch,Roda JC,0-0,https://www.besoccer.com/match/fc-den-bosch/roda-jc/202012414,2020,11,eerste_divisie,51,54,1,0,1,0,,2020
+SC Telstar,Almere City,1-0,https://www.besoccer.com/match/stormvogels-telstar/almere-city/202012415,2020,11,eerste_divisie,50,52,1,0,1,0,,2020
+Jong Utrecht,Cambuur,1-1,https://www.besoccer.com/match/jong-utrecht/sc-cambuur-leeuwarden/202012416,2020,12,eerste_divisie,45,58,2,0,2,0,,2020
+FC Volendam,Jong AZ,3-2,https://www.besoccer.com/match/fc-volendam/az-alkmaar-sub23/202012417,2020,12,eerste_divisie,56,44,1,0,3,0,,2020
+Go Ahead Eagles,Den Bosch,0-0,https://www.besoccer.com/match/go-ahead-eagles/fc-den-bosch/202012418,2020,12,eerste_divisie,53,51,3,0,0,0,,2020
+Excelsior,Jong Ajax,1-3,https://www.besoccer.com/match/excelsior/jong-ajax/202012419,2020,12,eerste_divisie,62,57,4,1,4,1,,2020
+De Graafschap,Dordrecht,5-0,https://www.besoccer.com/match/graafschap/fc-dordrecht/202012420,2020,12,eerste_divisie,54,53,1,1,2,1,,2020
+NEC Nijmegen,MVV Maastricht,2-0,https://www.besoccer.com/match/nec/mvv/202012421,2020,12,eerste_divisie,62,53,0,0,3,0,,2020
+Roda JC,NAC Breda,4-2,https://www.besoccer.com/match/roda-jc/nac-breda/202012422,2020,12,eerste_divisie,54,51,3,0,1,0,,2020
+TOP Oss,Jong PSV,1-0,https://www.besoccer.com/match/fc-oss/jong-psv/202012423,2020,12,eerste_divisie,46,54,1,0,4,0,,2020
+Almere City,FC Eindhoven,3-1,https://www.besoccer.com/match/almere-city/fc-eindhoven/202012424,2020,12,eerste_divisie,52,46,4,0,3,0,,2020
+Helmond Sport,SC Telstar,1-4,https://www.besoccer.com/match/helmond-sport/stormvogels-telstar/202012425,2020,12,eerste_divisie,48,49,2,0,1,0,,2020
+Cambuur,NEC Nijmegen,0-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/nec/202012426,2020,13,eerste_divisie,58,62,1,0,0,0,,2020
+Dordrecht,TOP Oss,1-1,https://www.besoccer.com/match/fc-dordrecht/fc-oss/202012427,2020,13,eerste_divisie,53,46,2,1,4,1,,2020
+NAC Breda,Go Ahead Eagles,1-1,https://www.besoccer.com/match/nac-breda/go-ahead-eagles/202012428,2020,13,eerste_divisie,51,53,1,0,2,0,,2020
+MVV Maastricht,Almere City,3-2,https://www.besoccer.com/match/mvv/almere-city/202012429,2020,13,eerste_divisie,53,52,0,0,3,0,,2020
+FC Eindhoven,Jong AZ,2-1,https://www.besoccer.com/match/fc-eindhoven/az-alkmaar-sub23/202012430,2020,13,eerste_divisie,47,44,1,0,2,0,,2020
+Den Bosch,Helmond Sport,1-1,https://www.besoccer.com/match/fc-den-bosch/helmond-sport/202012431,2020,13,eerste_divisie,51,48,1,0,1,0,,2020
+De Graafschap,Excelsior,0-0,https://www.besoccer.com/match/graafschap/excelsior/202012432,2020,13,eerste_divisie,54,62,0,0,0,0,,2020
+SC Telstar,Jong Utrecht,2-0,https://www.besoccer.com/match/stormvogels-telstar/jong-utrecht/202012433,2020,13,eerste_divisie,49,45,0,0,1,0,,2020
+Jong PSV,Roda JC,1-1,https://www.besoccer.com/match/jong-psv/roda-jc/202012434,2020,13,eerste_divisie,54,54,1,0,1,0,,2020
+Jong Ajax,FC Volendam,1-3,https://www.besoccer.com/match/jong-ajax/fc-volendam/202012435,2020,13,eerste_divisie,57,56,2,0,0,0,,2020
+FC Volendam,Jong Utrecht,1-0,https://www.besoccer.com/match/fc-volendam/jong-utrecht/202012436,2020,14,eerste_divisie,56,45,1,0,0,0,,2020
+Jong PSV,SC Telstar,1-1,https://www.besoccer.com/match/jong-psv/stormvogels-telstar/202012437,2020,14,eerste_divisie,54,49,1,0,1,0,,2020
+Go Ahead Eagles,Dordrecht,3-1,https://www.besoccer.com/match/go-ahead-eagles/fc-dordrecht/202012438,2020,14,eerste_divisie,53,52,2,0,1,0,,2020
+Excelsior,FC Eindhoven,5-4,https://www.besoccer.com/match/excelsior/fc-eindhoven/202012439,2020,14,eerste_divisie,62,46,1,0,3,0,,2020
+NEC Nijmegen,TOP Oss,3-0,https://www.besoccer.com/match/nec/fc-oss/202012440,2020,14,eerste_divisie,62,46,1,0,0,0,,2020
+Roda JC,Cambuur,1-2,https://www.besoccer.com/match/roda-jc/sc-cambuur-leeuwarden/202012441,2020,14,eerste_divisie,54,58,1,0,3,0,,2020
+Jong Ajax,Den Bosch,5-1,https://www.besoccer.com/match/jong-ajax/fc-den-bosch/202012442,2020,14,eerste_divisie,57,51,3,0,0,0,,2020
+Almere City,NAC Breda,1-0,https://www.besoccer.com/match/almere-city/nac-breda/202012443,2020,14,eerste_divisie,53,51,1,0,2,0,,2020
+Helmond Sport,De Graafschap,1-2,https://www.besoccer.com/match/helmond-sport/graafschap/202012444,2020,14,eerste_divisie,48,54,1,0,0,0,,2020
+Jong AZ,MVV Maastricht,3-2,https://www.besoccer.com/match/az-alkmaar-sub23/mvv/202012445,2020,14,eerste_divisie,44,53,2,0,3,0,,2020
+FC Eindhoven,MVV Maastricht,2-0,https://www.besoccer.com/match/fc-eindhoven/mvv/202012446,2020,15,eerste_divisie,46,53,4,0,1,0,,2020
+TOP Oss,FC Volendam,1-2,https://www.besoccer.com/match/fc-oss/fc-volendam/202012447,2020,15,eerste_divisie,46,56,1,0,1,0,,2020
+Dordrecht,Roda JC,1-1,https://www.besoccer.com/match/fc-dordrecht/roda-jc/202012448,2020,15,eerste_divisie,52,54,3,0,2,0,,2020
+SC Telstar,Go Ahead Eagles,0-2,https://www.besoccer.com/match/stormvogels-telstar/go-ahead-eagles/202012449,2020,15,eerste_divisie,49,53,1,0,1,0,,2020
+Den Bosch,Excelsior,3-3,https://www.besoccer.com/match/fc-den-bosch/excelsior/202012450,2020,15,eerste_divisie,51,62,2,0,3,0,,2020
+Cambuur,Almere City,3-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/almere-city/202012451,2020,15,eerste_divisie,58,53,0,0,1,0,,2020
+Jong PSV,NAC Breda,1-3,https://www.besoccer.com/match/jong-psv/nac-breda/202012452,2020,15,eerste_divisie,54,51,2,0,1,0,,2020
+NEC Nijmegen,Jong Utrecht,0-0,https://www.besoccer.com/match/nec/jong-utrecht/202012453,2020,15,eerste_divisie,62,44,0,0,2,0,,2020
+Jong Ajax,Helmond Sport,1-1,https://www.besoccer.com/match/jong-ajax/helmond-sport/202012454,2020,15,eerste_divisie,58,48,1,0,4,0,,2020
+Jong AZ,De Graafschap,2-1,https://www.besoccer.com/match/az-alkmaar-sub23/graafschap/202012455,2020,15,eerste_divisie,44,54,2,0,2,0,,2020
+Jong Utrecht,Jong AZ,2-1,https://www.besoccer.com/match/jong-utrecht/az-alkmaar-sub23/202012456,2020,16,eerste_divisie,44,44,2,0,3,0,,2020
+NAC Breda,Jong Ajax,1-2,https://www.besoccer.com/match/nac-breda/jong-ajax/202012457,2020,16,eerste_divisie,51,57,0,0,2,0,,2020
+De Graafschap,Jong PSV,4-1,https://www.besoccer.com/match/graafschap/jong-psv/202012458,2020,16,eerste_divisie,54,54,1,0,2,0,,2020
+Helmond Sport,NEC Nijmegen,1-2,https://www.besoccer.com/match/helmond-sport/nec/202012459,2020,16,eerste_divisie,48,62,0,0,2,0,,2020
+Excelsior,FC Volendam,1-2,https://www.besoccer.com/match/excelsior/fc-volendam/202012460,2020,16,eerste_divisie,62,56,0,0,1,0,,2020
+Dordrecht,SC Telstar,2-3,https://www.besoccer.com/match/fc-dordrecht/stormvogels-telstar/202012461,2020,16,eerste_divisie,52,49,0,0,2,0,,2020
+MVV Maastricht,TOP Oss,4-0,https://www.besoccer.com/match/mvv/fc-oss/202012462,2020,16,eerste_divisie,53,46,0,0,0,0,,2020
+FC Eindhoven,Cambuur,0-3,https://www.besoccer.com/match/fc-eindhoven/sc-cambuur-leeuwarden/202012463,2020,16,eerste_divisie,46,58,2,0,2,0,,2020
+Go Ahead Eagles,Roda JC,1-1,https://www.besoccer.com/match/go-ahead-eagles/roda-jc/202012464,2020,16,eerste_divisie,53,54,3,0,3,0,,2020
+Almere City,Den Bosch,0-2,https://www.besoccer.com/match/almere-city/fc-den-bosch/202012465,2020,16,eerste_divisie,53,51,1,0,1,0,,2020
+Cambuur,Jong AZ,3-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/az-alkmaar-sub23/202012466,2020,17,eerste_divisie,58,44,0,0,1,0,,2020
+NAC Breda,MVV Maastricht,2-0,https://www.besoccer.com/match/nac-breda/mvv/202012467,2020,17,eerste_divisie,51,52,0,0,2,0,,2020
+Den Bosch,Dordrecht,3-2,https://www.besoccer.com/match/fc-den-bosch/fc-dordrecht/202012468,2020,17,eerste_divisie,51,52,1,0,2,0,,2020
+TOP Oss,FC Eindhoven,3-1,https://www.besoccer.com/match/fc-oss/fc-eindhoven/202012469,2020,17,eerste_divisie,46,47,2,0,1,0,,2020
+Roda JC,Excelsior,1-4,https://www.besoccer.com/match/roda-jc/excelsior/202012470,2020,17,eerste_divisie,54,62,2,0,2,0,,2020
+SC Telstar,Jong Ajax,2-3,https://www.besoccer.com/match/stormvogels-telstar/jong-ajax/202012471,2020,17,eerste_divisie,50,58,1,0,2,0,,2020
+FC Volendam,NEC Nijmegen,3-1,https://www.besoccer.com/match/fc-volendam/nec/202012472,2020,17,eerste_divisie,55,62,1,0,1,0,,2020
+Helmond Sport,Jong PSV,2-3,https://www.besoccer.com/match/helmond-sport/jong-psv/202012473,2020,17,eerste_divisie,48,54,3,0,4,0,,2020
+De Graafschap,Go Ahead Eagles,1-1,https://www.besoccer.com/match/graafschap/go-ahead-eagles/202012474,2020,17,eerste_divisie,54,54,1,0,2,0,,2020
+Jong Utrecht,Almere City,3-1,https://www.besoccer.com/match/jong-utrecht/almere-city/202012475,2020,17,eerste_divisie,44,52,1,0,1,0,,2020
+MVV Maastricht,Jong Utrecht,1-1,https://www.besoccer.com/match/mvv/jong-utrecht/202012476,2020,18,eerste_divisie,53,44,0,0,1,0,,2020
+FC Eindhoven,FC Volendam,1-4,https://www.besoccer.com/match/fc-eindhoven/fc-volendam/202012477,2020,18,eerste_divisie,47,56,2,0,0,0,,2020
+Den Bosch,De Graafschap,2-2,https://www.besoccer.com/match/fc-den-bosch/graafschap/202012478,2020,18,eerste_divisie,51,54,1,0,3,0,,2020
+Excelsior,NEC Nijmegen,2-1,https://www.besoccer.com/match/excelsior/nec/202012479,2020,18,eerste_divisie,62,62,0,0,0,0,,2020
+Dordrecht,Cambuur,2-4,https://www.besoccer.com/match/fc-dordrecht/sc-cambuur-leeuwarden/202012480,2020,18,eerste_divisie,52,58,1,0,1,0,,2020
+Almere City,TOP Oss,3-0,https://www.besoccer.com/match/almere-city/fc-oss/202012481,2020,18,eerste_divisie,52,46,0,0,3,0,,2020
+SC Telstar,NAC Breda,1-1,https://www.besoccer.com/match/stormvogels-telstar/nac-breda/202012482,2020,18,eerste_divisie,50,51,3,0,4,0,,2020
+Go Ahead Eagles,Jong PSV,1-1,https://www.besoccer.com/match/go-ahead-eagles/jong-psv/202012483,2020,18,eerste_divisie,54,54,2,0,2,0,,2020
+Jong Ajax,Roda JC,2-0,https://www.besoccer.com/match/jong-ajax/roda-jc/202012484,2020,18,eerste_divisie,58,54,1,0,2,0,,2020
+Jong AZ,Helmond Sport,4-1,https://www.besoccer.com/match/az-alkmaar-sub23/helmond-sport/202012485,2020,18,eerste_divisie,44,47,2,0,2,0,,2020
+Cambuur,Jong Ajax,0-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-ajax/202012486,2020,19,eerste_divisie,59,58,1,0,3,0,,2020
+Jong Utrecht,FC Eindhoven,2-2,https://www.besoccer.com/match/jong-utrecht/fc-eindhoven/202012487,2020,19,eerste_divisie,44,47,2,0,3,0,,2020
+FC Volendam,MVV Maastricht,4-1,https://www.besoccer.com/match/fc-volendam/mvv/202012488,2020,19,eerste_divisie,56,52,0,0,1,0,,2020
+NAC Breda,Den Bosch,1-2,https://www.besoccer.com/match/nac-breda/fc-den-bosch/202012489,2020,19,eerste_divisie,51,50,2,0,1,0,,2020
+Jong PSV,Dordrecht,0-1,https://www.besoccer.com/match/jong-psv/fc-dordrecht/202012490,2020,19,eerste_divisie,54,52,1,0,1,0,,2020
+De Graafschap,SC Telstar,2-2,https://www.besoccer.com/match/graafschap/stormvogels-telstar/202012491,2020,19,eerste_divisie,54,50,3,0,3,0,,2020
+NEC Nijmegen,Almere City,2-3,https://www.besoccer.com/match/nec/almere-city/202012492,2020,19,eerste_divisie,62,53,2,0,0,0,,2020
+Roda JC,Jong AZ,2-2,https://www.besoccer.com/match/roda-jc/az-alkmaar-sub23/202012493,2020,19,eerste_divisie,54,44,0,0,0,0,,2020
+TOP Oss,Excelsior,0-2,https://www.besoccer.com/match/fc-oss/excelsior/202012494,2020,19,eerste_divisie,46,62,3,0,0,0,,2020
+Helmond Sport,Go Ahead Eagles,1-2,https://www.besoccer.com/match/helmond-sport/go-ahead-eagles/202012495,2020,19,eerste_divisie,47,54,1,0,1,0,,2020
+FC Volendam,De Graafschap,3-3,https://www.besoccer.com/match/fc-volendam/graafschap/202012496,2020,20,eerste_divisie,56,54,1,0,0,0,,2020
+MVV Maastricht,Helmond Sport,4-1,https://www.besoccer.com/match/mvv/helmond-sport/202012498,2020,20,eerste_divisie,52,48,0,0,1,0,,2020
+FC Eindhoven,NEC Nijmegen,1-4,https://www.besoccer.com/match/fc-eindhoven/nec/202012499,2020,20,eerste_divisie,47,62,4,0,1,0,,2020
+Den Bosch,Jong PSV,2-1,https://www.besoccer.com/match/fc-den-bosch/jong-psv/202012500,2020,20,eerste_divisie,50,54,1,0,0,0,,2020
+Jong Ajax,TOP Oss,2-0,https://www.besoccer.com/match/jong-ajax/fc-oss/202012502,2020,20,eerste_divisie,58,46,0,0,1,0,,2020
+Almere City,Roda JC,2-0,https://www.besoccer.com/match/almere-city/roda-jc/202012503,2020,20,eerste_divisie,53,54,0,0,2,0,,2020
+Jong Utrecht,Go Ahead Eagles,0-3,https://www.besoccer.com/match/jong-utrecht/go-ahead-eagles/202012505,2020,20,eerste_divisie,43,54,1,0,1,0,,2020
+NAC Breda,Dordrecht,3-0,https://www.besoccer.com/match/nac-breda/fc-dordrecht/202012497,2020,20,eerste_divisie,51,52,0,0,0,0,,2020
+Excelsior,Cambuur,1-3,https://www.besoccer.com/match/excelsior/sc-cambuur-leeuwarden/202012501,2020,20,eerste_divisie,62,59,5,0,1,0,,2020
+SC Telstar,Jong AZ,3-1,https://www.besoccer.com/match/stormvogels-telstar/az-alkmaar-sub23/202012504,2020,20,eerste_divisie,50,44,1,0,1,0,,2020
+Cambuur,FC Volendam,1-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-volendam/202012506,2020,21,eerste_divisie,59,56,0,0,0,0,,2020
+Dordrecht,Excelsior,1-1,https://www.besoccer.com/match/fc-dordrecht/excelsior/202012507,2020,21,eerste_divisie,52,62,2,0,4,0,,2020
+De Graafschap,Jong Utrecht,2-1,https://www.besoccer.com/match/graafschap/jong-utrecht/202012509,2020,21,eerste_divisie,54,43,3,0,3,0,,2020
+SC Telstar,FC Eindhoven,2-0,https://www.besoccer.com/match/stormvogels-telstar/fc-eindhoven/202012512,2020,21,eerste_divisie,50,46,2,0,0,0,,2020
+Helmond Sport,NAC Breda,0-0,https://www.besoccer.com/match/helmond-sport/nac-breda/202012513,2020,21,eerste_divisie,47,51,2,0,1,0,,2020
+Roda JC,MVV Maastricht,2-2,https://www.besoccer.com/match/roda-jc/mvv/202012511,2020,21,eerste_divisie,54,52,0,0,1,0,,2020
+Go Ahead Eagles,Almere City,1-1,https://www.besoccer.com/match/go-ahead-eagles/almere-city/202012508,2020,21,eerste_divisie,54,52,0,0,1,0,,2020
+NEC Nijmegen,Den Bosch,1-0,https://www.besoccer.com/match/nec/fc-den-bosch/202012510,2020,21,eerste_divisie,62,51,3,0,2,0,,2020
+Jong PSV,Jong Ajax,0-0,https://www.besoccer.com/match/jong-psv/jong-ajax/202012514,2020,21,eerste_divisie,53,58,1,0,2,0,,2020
+Jong AZ,TOP Oss,3-1,https://www.besoccer.com/match/az-alkmaar-sub23/fc-oss/202012515,2020,21,eerste_divisie,44,46,3,0,2,0,,2020
+FC Volendam,Jong PSV,4-2,https://www.besoccer.com/match/fc-volendam/jong-psv/202012516,2020,22,eerste_divisie,57,53,2,0,1,0,,2020
+NAC Breda,Jong AZ,3-1,https://www.besoccer.com/match/nac-breda/az-alkmaar-sub23/202012517,2020,22,eerste_divisie,51,44,4,0,1,0,,2020
+FC Eindhoven,Helmond Sport,2-0,https://www.besoccer.com/match/fc-eindhoven/helmond-sport/202012518,2020,22,eerste_divisie,47,47,2,0,2,0,,2020
+Excelsior,SC Telstar,3-3,https://www.besoccer.com/match/excelsior/stormvogels-telstar/202012519,2020,22,eerste_divisie,62,50,1,0,1,0,,2020
+TOP Oss,Cambuur,3-2,https://www.besoccer.com/match/fc-oss/sc-cambuur-leeuwarden/202012520,2020,22,eerste_divisie,46,59,3,0,2,0,,2020
+Almere City,De Graafschap,0-2,https://www.besoccer.com/match/almere-city/graafschap/202012521,2020,22,eerste_divisie,52,54,0,0,3,0,,2020
+MVV Maastricht,NEC Nijmegen,0-0,https://www.besoccer.com/match/mvv/nec/202012522,2020,22,eerste_divisie,52,62,2,0,3,0,,2020
+Den Bosch,Go Ahead Eagles,2-3,https://www.besoccer.com/match/fc-den-bosch/go-ahead-eagles/202012523,2020,22,eerste_divisie,51,55,0,0,1,0,,2020
+Jong Utrecht,Roda JC,2-1,https://www.besoccer.com/match/jong-utrecht/roda-jc/202012524,2020,22,eerste_divisie,43,53,4,0,2,0,,2020
+Jong Ajax,Dordrecht,2-0,https://www.besoccer.com/match/jong-ajax/fc-dordrecht/202012525,2020,22,eerste_divisie,58,51,0,0,2,0,,2020
+Cambuur,Jong Utrecht,3-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-utrecht/202012526,2020,23,eerste_divisie,59,43,1,0,1,0,,2020
+Dordrecht,FC Eindhoven,1-0,https://www.besoccer.com/match/fc-dordrecht/fc-eindhoven/202012527,2020,23,eerste_divisie,51,47,0,0,3,0,,2020
+De Graafschap,MVV Maastricht,3-2,https://www.besoccer.com/match/graafschap/mvv/202012529,2020,23,eerste_divisie,54,52,0,0,1,0,,2020
+NEC Nijmegen,Jong Ajax,3-3,https://www.besoccer.com/match/nec/jong-ajax/202012530,2020,23,eerste_divisie,62,58,5,0,1,0,,2020
+Roda JC,FC Volendam,2-3,https://www.besoccer.com/match/roda-jc/fc-volendam/202012531,2020,23,eerste_divisie,53,57,1,0,2,0,,2020
+SC Telstar,TOP Oss,1-0,https://www.besoccer.com/match/stormvogels-telstar/fc-oss/202012532,2020,23,eerste_divisie,50,46,2,0,1,0,,2020
+Helmond Sport,Den Bosch,0-0,https://www.besoccer.com/match/helmond-sport/fc-den-bosch/202012533,2020,23,eerste_divisie,47,51,1,1,1,1,,2020
+Go Ahead Eagles,NAC Breda,1-0,https://www.besoccer.com/match/go-ahead-eagles/nac-breda/202012528,2020,23,eerste_divisie,55,52,0,0,4,0,,2020
+Jong PSV,Excelsior,2-1,https://www.besoccer.com/match/jong-psv/excelsior/202012534,2020,23,eerste_divisie,53,62,3,0,1,0,,2020
+Jong AZ,Almere City,3-1,https://www.besoccer.com/match/az-alkmaar-sub23/almere-city/202012535,2020,23,eerste_divisie,44,53,3,0,1,0,,2020
+FC Volendam,Helmond Sport,2-1,https://www.besoccer.com/match/fc-volendam/helmond-sport/202012536,2020,24,eerste_divisie,57,47,1,0,1,0,,2020
+MVV Maastricht,Jong PSV,3-1,https://www.besoccer.com/match/mvv/jong-psv/202012537,2020,24,eerste_divisie,52,53,3,1,2,1,,2020
+FC Eindhoven,De Graafschap,1-1,https://www.besoccer.com/match/fc-eindhoven/graafschap/202012538,2020,24,eerste_divisie,47,54,2,0,2,0,,2020
+Excelsior,NAC Breda,2-2,https://www.besoccer.com/match/excelsior/nac-breda/202012539,2020,24,eerste_divisie,62,52,0,0,1,0,,2020
+NEC Nijmegen,Cambuur,0-2,https://www.besoccer.com/match/nec/sc-cambuur-leeuwarden/202012540,2020,24,eerste_divisie,62,59,0,0,1,0,,2020
+TOP Oss,Roda JC,0-0,https://www.besoccer.com/match/fc-oss/roda-jc/202012541,2020,24,eerste_divisie,46,53,1,0,2,0,,2020
+Den Bosch,Jong AZ,3-0,https://www.besoccer.com/match/fc-den-bosch/az-alkmaar-sub23/202012542,2020,24,eerste_divisie,51,44,1,0,1,0,,2020
+Almere City,SC Telstar,4-2,https://www.besoccer.com/match/almere-city/stormvogels-telstar/202012543,2020,24,eerste_divisie,53,50,2,0,1,0,,2020
+Jong Utrecht,Dordrecht,1-1,https://www.besoccer.com/match/jong-utrecht/fc-dordrecht/202012544,2020,24,eerste_divisie,43,51,0,0,2,0,,2020
+Jong Ajax,Go Ahead Eagles,5-1,https://www.besoccer.com/match/jong-ajax/go-ahead-eagles/202012545,2020,24,eerste_divisie,58,55,2,1,1,1,,2020
+Cambuur,MVV Maastricht,2-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/mvv/202012546,2020,25,eerste_divisie,59,53,0,0,2,0,,2020
+Dordrecht,Almere City,1-2,https://www.besoccer.com/match/fc-dordrecht/almere-city/202012547,2020,25,eerste_divisie,51,53,1,0,1,0,,2020
+NAC Breda,TOP Oss,1-1,https://www.besoccer.com/match/nac-breda/fc-oss/202012548,2020,25,eerste_divisie,52,46,0,0,1,0,,2020
+Go Ahead Eagles,FC Eindhoven,3-1,https://www.besoccer.com/match/go-ahead-eagles/fc-eindhoven/202012549,2020,25,eerste_divisie,55,47,0,0,1,0,,2020
+Roda JC,Den Bosch,1-5,https://www.besoccer.com/match/roda-jc/fc-den-bosch/202012550,2020,25,eerste_divisie,54,51,3,1,1,1,,2020
+SC Telstar,NEC Nijmegen,1-7,https://www.besoccer.com/match/stormvogels-telstar/nec/202012551,2020,25,eerste_divisie,50,62,1,0,1,0,,2020
+Helmond Sport,Excelsior,1-4,https://www.besoccer.com/match/helmond-sport/excelsior/202012552,2020,25,eerste_divisie,47,62,2,0,1,0,,2020
+Jong Utrecht,Jong Ajax,7-2,https://www.besoccer.com/match/jong-utrecht/jong-ajax/202012553,2020,25,eerste_divisie,43,59,3,1,4,1,,2020
+Jong PSV,De Graafschap,2-3,https://www.besoccer.com/match/jong-psv/graafschap/202012554,2020,25,eerste_divisie,53,54,0,0,2,0,,2020
+Jong AZ,FC Volendam,1-1,https://www.besoccer.com/match/az-alkmaar-sub23/fc-volendam/202012555,2020,25,eerste_divisie,44,57,2,0,1,0,,2020
+FC Volendam,SC Telstar,1-1,https://www.besoccer.com/match/fc-volendam/stormvogels-telstar/202012556,2020,26,eerste_divisie,57,50,0,0,3,0,,2020
+FC Eindhoven,Jong PSV,1-1,https://www.besoccer.com/match/fc-eindhoven/jong-psv/202012558,2020,26,eerste_divisie,47,53,3,1,2,1,,2020
+Den Bosch,Jong Utrecht,3-2,https://www.besoccer.com/match/fc-den-bosch/jong-utrecht/202012559,2020,26,eerste_divisie,51,43,2,0,1,0,,2020
+TOP Oss,Dordrecht,1-3,https://www.besoccer.com/match/fc-oss/fc-dordrecht/202012560,2020,26,eerste_divisie,45,51,2,0,0,0,,2020
+Excelsior,Jong AZ,3-3,https://www.besoccer.com/match/excelsior/az-alkmaar-sub23/202012561,2020,26,eerste_divisie,62,44,1,0,0,0,,2020
+De Graafschap,Roda JC,2-0,https://www.besoccer.com/match/graafschap/roda-jc/202012562,2020,26,eerste_divisie,54,54,1,0,5,0,,2020
+NEC Nijmegen,Helmond Sport,2-0,https://www.besoccer.com/match/nec/helmond-sport/202012563,2020,26,eerste_divisie,62,47,0,0,1,0,,2020
+Almere City,Cambuur,0-1,https://www.besoccer.com/match/almere-city/sc-cambuur-leeuwarden/202012564,2020,26,eerste_divisie,53,59,4,0,1,0,,2020
+MVV Maastricht,Go Ahead Eagles,3-0,https://www.besoccer.com/match/mvv/go-ahead-eagles/202012557,2020,26,eerste_divisie,53,55,0,0,0,0,,2020
+Jong Ajax,NAC Breda,2-4,https://www.besoccer.com/match/jong-ajax/nac-breda/202012565,2020,26,eerste_divisie,59,52,1,0,4,0,,2020
+Cambuur,Roda JC,2-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/roda-jc/202012566,2020,27,eerste_divisie,59,54,1,0,2,0,,2020
+NAC Breda,Almere City,1-0,https://www.besoccer.com/match/nac-breda/almere-city/202012567,2020,27,eerste_divisie,52,52,0,0,2,0,,2020
+Go Ahead Eagles,NEC Nijmegen,2-1,https://www.besoccer.com/match/go-ahead-eagles/nec/202012568,2020,27,eerste_divisie,55,62,2,0,2,0,,2020
+Excelsior,Den Bosch,6-4,https://www.besoccer.com/match/excelsior/fc-den-bosch/202012569,2020,27,eerste_divisie,62,51,1,0,2,0,,2020
+Dordrecht,De Graafschap,1-2,https://www.besoccer.com/match/fc-dordrecht/graafschap/202012570,2020,27,eerste_divisie,51,54,2,0,2,0,,2020
+SC Telstar,MVV Maastricht,2-1,https://www.besoccer.com/match/stormvogels-telstar/mvv/202012571,2020,27,eerste_divisie,50,53,2,0,4,0,,2020
+Helmond Sport,Jong Ajax,0-2,https://www.besoccer.com/match/helmond-sport/jong-ajax/202012572,2020,27,eerste_divisie,47,59,3,0,3,0,,2020
+Jong PSV,TOP Oss,1-1,https://www.besoccer.com/match/jong-psv/fc-oss/202012573,2020,27,eerste_divisie,53,46,2,0,3,0,,2020
+Jong Utrecht,FC Volendam,2-1,https://www.besoccer.com/match/jong-utrecht/fc-volendam/202012574,2020,27,eerste_divisie,43,57,0,1,0,1,,2020
+Jong AZ,FC Eindhoven,2-4,https://www.besoccer.com/match/az-alkmaar-sub23/fc-eindhoven/202012575,2020,27,eerste_divisie,44,47,0,0,2,0,,2020
+Cambuur,Jong PSV,4-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-psv/202012576,2020,28,eerste_divisie,59,53,1,0,0,0,,2020
+FC Volendam,Go Ahead Eagles,2-2,https://www.besoccer.com/match/fc-volendam/go-ahead-eagles/202012577,2020,28,eerste_divisie,57,55,1,0,2,0,,2020
+MVV Maastricht,Den Bosch,2-3,https://www.besoccer.com/match/mvv/fc-den-bosch/202012578,2020,28,eerste_divisie,53,51,1,0,1,0,,2020
+FC Eindhoven,Excelsior,3-1,https://www.besoccer.com/match/fc-eindhoven/excelsior/202012579,2020,28,eerste_divisie,47,62,2,0,0,0,,2020
+De Graafschap,Jong AZ,5-1,https://www.besoccer.com/match/graafschap/az-alkmaar-sub23/202012580,2020,28,eerste_divisie,54,44,0,0,2,0,,2020
+NEC Nijmegen,NAC Breda,1-1,https://www.besoccer.com/match/nec/nac-breda/202012581,2020,28,eerste_divisie,62,52,3,0,3,0,,2020
+Roda JC,Dordrecht,5-0,https://www.besoccer.com/match/roda-jc/fc-dordrecht/202012582,2020,28,eerste_divisie,54,51,0,0,3,0,,2020
+Jong Ajax,SC Telstar,2-2,https://www.besoccer.com/match/jong-ajax/stormvogels-telstar/202012583,2020,28,eerste_divisie,59,50,3,0,1,0,,2020
+TOP Oss,Jong Utrecht,2-1,https://www.besoccer.com/match/fc-oss/jong-utrecht/202012584,2020,28,eerste_divisie,45,43,1,0,2,0,,2020
+Almere City,Helmond Sport,2-0,https://www.besoccer.com/match/almere-city/helmond-sport/202012585,2020,28,eerste_divisie,52,47,1,0,1,0,,2020
+Den Bosch,Almere City,1-2,https://www.besoccer.com/match/fc-den-bosch/almere-city/202012587,2020,29,eerste_divisie,51,53,0,0,0,0,,2020
+Excelsior,MVV Maastricht,3-0,https://www.besoccer.com/match/excelsior/mvv/202012588,2020,29,eerste_divisie,62,53,0,0,2,0,,2020
+FC Volendam,Jong Ajax,4-0,https://www.besoccer.com/match/fc-volendam/jong-ajax/202012589,2020,29,eerste_divisie,57,59,0,0,0,0,,2020
+SC Telstar,Jong PSV,1-0,https://www.besoccer.com/match/stormvogels-telstar/jong-psv/202012590,2020,29,eerste_divisie,50,53,1,0,0,0,,2020
+FC Eindhoven,TOP Oss,2-2,https://www.besoccer.com/match/fc-eindhoven/fc-oss/202012591,2020,29,eerste_divisie,47,45,2,0,0,0,,2020
+Helmond Sport,Dordrecht,1-1,https://www.besoccer.com/match/helmond-sport/fc-dordrecht/202012592,2020,29,eerste_divisie,47,51,2,0,0,0,,2020
+NAC Breda,Roda JC,4-1,https://www.besoccer.com/match/nac-breda/roda-jc/202012586,2020,29,eerste_divisie,53,54,1,0,0,0,,2020
+Go Ahead Eagles,De Graafschap,1-2,https://www.besoccer.com/match/go-ahead-eagles/graafschap/202012593,2020,29,eerste_divisie,55,54,2,0,1,0,,2020
+Jong Utrecht,NEC Nijmegen,1-2,https://www.besoccer.com/match/jong-utrecht/nec/202012594,2020,29,eerste_divisie,43,62,1,0,1,0,,2020
+Jong AZ,Cambuur,0-3,https://www.besoccer.com/match/az-alkmaar-sub23/sc-cambuur-leeuwarden/202012595,2020,29,eerste_divisie,44,59,1,0,2,0,,2020
+Cambuur,NAC Breda,-,https://www.besoccer.com/match/sc-cambuur-leeuwarden/nac-breda/202012596,2020,30,eerste_divisie,59,53,0,0,0,0,,2020
+Dordrecht,Jong AZ,-,https://www.besoccer.com/match/fc-dordrecht/az-alkmaar-sub23/202012597,2020,30,eerste_divisie,51,44,0,0,0,0,,2020
+MVV Maastricht,FC Eindhoven,-,https://www.besoccer.com/match/mvv/fc-eindhoven/202012598,2020,30,eerste_divisie,53,47,0,0,0,0,,2020
+De Graafschap,Helmond Sport,-,https://www.besoccer.com/match/graafschap/helmond-sport/202012599,2020,30,eerste_divisie,54,47,0,0,0,0,,2020
+NEC Nijmegen,FC Volendam,-,https://www.besoccer.com/match/nec/fc-volendam/202012600,2020,30,eerste_divisie,62,57,0,0,0,0,,2020
+Roda JC,SC Telstar,-,https://www.besoccer.com/match/roda-jc/stormvogels-telstar/202012601,2020,30,eerste_divisie,54,50,0,0,0,0,,2020
+TOP Oss,Den Bosch,-,https://www.besoccer.com/match/fc-oss/fc-den-bosch/202012602,2020,30,eerste_divisie,46,51,0,0,0,0,,2020
+Almere City,Jong Utrecht,-,https://www.besoccer.com/match/almere-city/jong-utrecht/202012603,2020,30,eerste_divisie,53,44,0,0,0,0,,2020
+Jong PSV,Go Ahead Eagles,-,https://www.besoccer.com/match/jong-psv/go-ahead-eagles/202012604,2020,30,eerste_divisie,53,55,0,0,0,0,,2020
+Jong Ajax,Excelsior,-,https://www.besoccer.com/match/jong-ajax/excelsior/202012605,2020,30,eerste_divisie,59,62,0,0,0,0,,2020
+Go Ahead Eagles,Cambuur,-,https://www.besoccer.com/match/go-ahead-eagles/sc-cambuur-leeuwarden/202012606,2020,31,eerste_divisie,55,59,0,0,0,0,,2020
+Den Bosch,NAC Breda,-,https://www.besoccer.com/match/fc-den-bosch/nac-breda/202012607,2020,31,eerste_divisie,51,53,0,0,0,0,,2020
+Excelsior,TOP Oss,-,https://www.besoccer.com/match/excelsior/fc-oss/202012608,2020,31,eerste_divisie,62,45,0,0,0,0,,2020
+SC Telstar,Dordrecht,-,https://www.besoccer.com/match/stormvogels-telstar/fc-dordrecht/202012609,2020,31,eerste_divisie,50,51,0,0,0,0,,2020
+FC Volendam,Almere City,-,https://www.besoccer.com/match/fc-volendam/almere-city/202012610,2020,31,eerste_divisie,57,53,0,0,0,0,,2020
+FC Eindhoven,Jong Ajax,-,https://www.besoccer.com/match/fc-eindhoven/jong-ajax/202012611,2020,31,eerste_divisie,47,59,0,0,0,0,,2020
+Helmond Sport,Roda JC,-,https://www.besoccer.com/match/helmond-sport/roda-jc/202012612,2020,31,eerste_divisie,46,54,0,0,0,0,,2020
+Jong AZ,Jong PSV,-,https://www.besoccer.com/match/az-alkmaar-sub23/jong-psv/202012613,2020,31,eerste_divisie,44,53,0,0,0,0,,2020
+Jong Utrecht,MVV Maastricht,-,https://www.besoccer.com/match/jong-utrecht/mvv/202012614,2020,31,eerste_divisie,44,53,0,0,0,0,,2020
+De Graafschap,NEC Nijmegen,-,https://www.besoccer.com/match/graafschap/nec/202012615,2020,31,eerste_divisie,54,62,0,0,0,0,,2020
+Dordrecht,Den Bosch,-,https://www.besoccer.com/match/fc-dordrecht/fc-den-bosch/202012617,2020,32,eerste_divisie,51,51,0,0,0,0,,2020
+Cambuur,FC Eindhoven,-,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-eindhoven/202012616,2020,32,eerste_divisie,59,47,0,0,0,0,,2020
+TOP Oss,Helmond Sport,-,https://www.besoccer.com/match/fc-oss/helmond-sport/202012620,2020,32,eerste_divisie,45,46,0,0,0,0,,2020
+Almere City,Excelsior,-,https://www.besoccer.com/match/almere-city/excelsior/202012621,2020,32,eerste_divisie,52,62,0,0,0,0,,2020
+MVV Maastricht,FC Volendam,-,https://www.besoccer.com/match/mvv/fc-volendam/202012618,2020,32,eerste_divisie,53,57,0,0,0,0,,2020
+Roda JC,Go Ahead Eagles,-,https://www.besoccer.com/match/roda-jc/go-ahead-eagles/202012619,2020,32,eerste_divisie,54,55,0,0,0,0,,2020
+Jong Utrecht,SC Telstar,-,https://www.besoccer.com/match/jong-utrecht/stormvogels-telstar/202012622,2020,32,eerste_divisie,45,50,0,0,0,0,,2020
+Jong PSV,NEC Nijmegen,-,https://www.besoccer.com/match/jong-psv/nec/202012623,2020,32,eerste_divisie,52,62,0,0,0,0,,2020
+De Graafschap,NAC Breda,-,https://www.besoccer.com/match/graafschap/nac-breda/202012624,2020,32,eerste_divisie,55,54,0,0,0,0,,2020
+Jong Ajax,Jong AZ,-,https://www.besoccer.com/match/jong-ajax/az-alkmaar-sub23/202012625,2020,32,eerste_divisie,59,44,0,0,0,0,,2020
+NAC Breda,SC Telstar,-,https://www.besoccer.com/match/nac-breda/stormvogels-telstar/202012626,2020,33,eerste_divisie,54,50,0,0,0,0,,2020
+Jong PSV,Jong Utrecht,-,https://www.besoccer.com/match/jong-psv/jong-utrecht/202012627,2020,33,eerste_divisie,53,45,0,0,0,0,,2020
+NEC Nijmegen,Jong AZ,-,https://www.besoccer.com/match/nec/az-alkmaar-sub23/202012628,2020,33,eerste_divisie,62,44,0,0,0,0,,2020
+Jong Ajax,De Graafschap,-,https://www.besoccer.com/match/jong-ajax/graafschap/202012629,2020,33,eerste_divisie,59,55,0,0,0,0,,2020
+FC Volendam,TOP Oss,-,https://www.besoccer.com/match/fc-volendam/fc-oss/202012630,2020,33,eerste_divisie,57,45,0,0,0,0,,2020
+MVV Maastricht,Dordrecht,-,https://www.besoccer.com/match/mvv/fc-dordrecht/202012631,2020,33,eerste_divisie,53,51,0,0,0,0,,2020
+FC Eindhoven,Almere City,-,https://www.besoccer.com/match/fc-eindhoven/almere-city/202012632,2020,33,eerste_divisie,48,53,0,0,0,0,,2020
+Go Ahead Eagles,Helmond Sport,-,https://www.besoccer.com/match/go-ahead-eagles/helmond-sport/202012633,2020,33,eerste_divisie,55,46,0,0,0,0,,2020
+Den Bosch,Cambuur,-,https://www.besoccer.com/match/fc-den-bosch/sc-cambuur-leeuwarden/202012634,2020,33,eerste_divisie,51,59,0,0,0,0,,2020
+Excelsior,Roda JC,-,https://www.besoccer.com/match/excelsior/roda-jc/202012635,2020,33,eerste_divisie,62,54,0,0,0,0,,2020
+Cambuur,De Graafschap,-,https://www.besoccer.com/match/sc-cambuur-leeuwarden/graafschap/202012636,2020,34,eerste_divisie,59,55,0,0,0,0,,2020
+Dordrecht,FC Volendam,-,https://www.besoccer.com/match/fc-dordrecht/fc-volendam/202012637,2020,34,eerste_divisie,51,57,0,0,0,0,,2020
+NAC Breda,FC Eindhoven,-,https://www.besoccer.com/match/nac-breda/fc-eindhoven/202012638,2020,34,eerste_divisie,54,48,0,0,0,0,,2020
+NEC Nijmegen,Excelsior,-,https://www.besoccer.com/match/nec/excelsior/202012639,2020,34,eerste_divisie,62,62,0,0,0,0,,2020
+Roda JC,Jong PSV,-,https://www.besoccer.com/match/roda-jc/jong-psv/202012640,2020,34,eerste_divisie,54,52,0,0,0,0,,2020
+TOP Oss,MVV Maastricht,-,https://www.besoccer.com/match/fc-oss/mvv/202012641,2020,34,eerste_divisie,46,52,0,0,0,0,,2020
+Almere City,Jong Ajax,-,https://www.besoccer.com/match/almere-city/jong-ajax/202012642,2020,34,eerste_divisie,53,59,0,0,0,0,,2020
+SC Telstar,Den Bosch,-,https://www.besoccer.com/match/stormvogels-telstar/fc-den-bosch/202012643,2020,34,eerste_divisie,50,51,0,0,0,0,,2020
+Helmond Sport,Jong Utrecht,-,https://www.besoccer.com/match/helmond-sport/jong-utrecht/202012644,2020,34,eerste_divisie,46,45,0,0,0,0,,2020
+Jong AZ,Go Ahead Eagles,-,https://www.besoccer.com/match/az-alkmaar-sub23/go-ahead-eagles/202012645,2020,34,eerste_divisie,44,55,0,0,0,0,,2020
+Cambuur,Dordrecht,-,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-dordrecht/202012646,2020,35,eerste_divisie,59,51,0,0,0,0,,2020
+Jong Utrecht,NAC Breda,-,https://www.besoccer.com/match/jong-utrecht/nac-breda/202012647,2020,35,eerste_divisie,45,54,0,0,0,0,,2020
+FC Volendam,Excelsior,-,https://www.besoccer.com/match/fc-volendam/excelsior/202012648,2020,35,eerste_divisie,57,62,0,0,0,0,,2020
+Jong PSV,Helmond Sport,-,https://www.besoccer.com/match/jong-psv/helmond-sport/202012649,2020,35,eerste_divisie,52,46,0,0,0,0,,2020
+MVV Maastricht,Jong AZ,-,https://www.besoccer.com/match/mvv/az-alkmaar-sub23/202012650,2020,35,eerste_divisie,52,44,0,0,0,0,,2020
+Go Ahead Eagles,SC Telstar,-,https://www.besoccer.com/match/go-ahead-eagles/stormvogels-telstar/202012651,2020,35,eerste_divisie,55,50,0,0,0,0,,2020
+Den Bosch,Jong Ajax,-,https://www.besoccer.com/match/fc-den-bosch/jong-ajax/202012652,2020,35,eerste_divisie,51,59,0,0,0,0,,2020
+De Graafschap,TOP Oss,-,https://www.besoccer.com/match/graafschap/fc-oss/202012653,2020,35,eerste_divisie,55,46,0,0,0,0,,2020
+Roda JC,FC Eindhoven,-,https://www.besoccer.com/match/roda-jc/fc-eindhoven/202012654,2020,35,eerste_divisie,54,48,0,0,0,0,,2020
+Almere City,NEC Nijmegen,-,https://www.besoccer.com/match/almere-city/nec/202012655,2020,35,eerste_divisie,53,62,0,0,0,0,,2020
+Dordrecht,Jong PSV,-,https://www.besoccer.com/match/fc-dordrecht/jong-psv/202012656,2020,36,eerste_divisie,51,52,0,0,0,0,,2020
+NEC Nijmegen,Roda JC,-,https://www.besoccer.com/match/nec/roda-jc/202012658,2020,36,eerste_divisie,62,54,0,0,0,0,,2020
+TOP Oss,Almere City,-,https://www.besoccer.com/match/fc-oss/almere-city/202012659,2020,36,eerste_divisie,46,53,0,0,0,0,,2020
+SC Telstar,De Graafschap,-,https://www.besoccer.com/match/stormvogels-telstar/graafschap/202012660,2020,36,eerste_divisie,50,55,0,0,0,0,,2020
+FC Eindhoven,Den Bosch,-,https://www.besoccer.com/match/fc-eindhoven/fc-den-bosch/202012661,2020,36,eerste_divisie,48,51,0,0,0,0,,2020
+Helmond Sport,Cambuur,-,https://www.besoccer.com/match/helmond-sport/sc-cambuur-leeuwarden/202012662,2020,36,eerste_divisie,46,59,0,0,0,0,,2020
+Excelsior,Go Ahead Eagles,-,https://www.besoccer.com/match/excelsior/go-ahead-eagles/202012663,2020,36,eerste_divisie,62,55,0,0,0,0,,2020
+NAC Breda,FC Volendam,-,https://www.besoccer.com/match/nac-breda/fc-volendam/202012657,2020,36,eerste_divisie,54,57,0,0,0,0,,2020
+Jong Ajax,MVV Maastricht,-,https://www.besoccer.com/match/jong-ajax/mvv/202012664,2020,36,eerste_divisie,59,52,0,0,0,0,,2020
+Jong AZ,Jong Utrecht,-,https://www.besoccer.com/match/az-alkmaar-sub23/jong-utrecht/202012665,2020,36,eerste_divisie,44,45,0,0,0,0,,2020
+Cambuur,SC Telstar,-,https://www.besoccer.com/match/sc-cambuur-leeuwarden/stormvogels-telstar/202012666,2020,37,eerste_divisie,59,50,0,0,0,0,,2020
+Jong Utrecht,Excelsior,-,https://www.besoccer.com/match/jong-utrecht/excelsior/202012667,2020,37,eerste_divisie,45,62,0,0,0,0,,2020
+FC Volendam,FC Eindhoven,-,https://www.besoccer.com/match/fc-volendam/fc-eindhoven/202012668,2020,37,eerste_divisie,57,48,0,0,0,0,,2020
+Dordrecht,Go Ahead Eagles,-,https://www.besoccer.com/match/fc-dordrecht/go-ahead-eagles/202012669,2020,37,eerste_divisie,51,55,0,0,0,0,,2020
+Jong PSV,Almere City,-,https://www.besoccer.com/match/jong-psv/almere-city/202012670,2020,37,eerste_divisie,52,53,0,0,0,0,,2020
+MVV Maastricht,NAC Breda,-,https://www.besoccer.com/match/mvv/nac-breda/202012671,2020,37,eerste_divisie,52,54,0,0,0,0,,2020
+De Graafschap,Den Bosch,-,https://www.besoccer.com/match/graafschap/fc-den-bosch/202012672,2020,37,eerste_divisie,55,51,0,0,0,0,,2020
+Roda JC,Jong Ajax,-,https://www.besoccer.com/match/roda-jc/jong-ajax/202012673,2020,37,eerste_divisie,54,59,0,0,0,0,,2020
+TOP Oss,NEC Nijmegen,-,https://www.besoccer.com/match/fc-oss/nec/202012674,2020,37,eerste_divisie,46,62,0,0,0,0,,2020
+Helmond Sport,Jong AZ,-,https://www.besoccer.com/match/helmond-sport/az-alkmaar-sub23/202012675,2020,37,eerste_divisie,46,44,0,0,0,0,,2020
+NAC Breda,Jong PSV,-,https://www.besoccer.com/match/nac-breda/jong-psv/202012676,2020,38,eerste_divisie,54,52,0,0,0,0,,2020
+FC Eindhoven,Jong Utrecht,-,https://www.besoccer.com/match/fc-eindhoven/jong-utrecht/202012677,2020,38,eerste_divisie,48,45,0,0,0,0,,2020
+Go Ahead Eagles,TOP Oss,-,https://www.besoccer.com/match/go-ahead-eagles/fc-oss/202012678,2020,38,eerste_divisie,55,46,0,0,0,0,,2020
+Den Bosch,FC Volendam,-,https://www.besoccer.com/match/fc-den-bosch/fc-volendam/202012679,2020,38,eerste_divisie,51,57,0,0,0,0,,2020
+Excelsior,De Graafschap,-,https://www.besoccer.com/match/excelsior/graafschap/202012680,2020,38,eerste_divisie,62,55,0,0,0,0,,2020
+NEC Nijmegen,Dordrecht,-,https://www.besoccer.com/match/nec/fc-dordrecht/202012681,2020,38,eerste_divisie,62,51,0,0,0,0,,2020
+Jong Ajax,Cambuur,-,https://www.besoccer.com/match/jong-ajax/sc-cambuur-leeuwarden/202012682,2020,38,eerste_divisie,59,59,0,0,0,0,,2020
+Almere City,MVV Maastricht,-,https://www.besoccer.com/match/almere-city/mvv/202012683,2020,38,eerste_divisie,53,52,0,0,0,0,,2020
+SC Telstar,Helmond Sport,-,https://www.besoccer.com/match/stormvogels-telstar/helmond-sport/202012684,2020,38,eerste_divisie,50,46,0,0,0,0,,2020
+Jong AZ,Roda JC,-,https://www.besoccer.com/match/az-alkmaar-sub23/roda-jc/202012685,2020,38,eerste_divisie,44,54,0,0,0,0,,2020

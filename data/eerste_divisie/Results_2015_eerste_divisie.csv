@@ -1,1 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Helmond Sport,Fortuna Sittard,0-1,https://www.besoccer.com/match/helmond-sport/fortuna-sittard/20155084,2015,1,eerste_divisie,54,47,2,0,3,0,,2015
+TOP Oss,FC Volendam,0-4,https://www.besoccer.com/match/fc-oss/fc-volendam/20155085,2015,1,eerste_divisie,44,55,4,0,1,0,,2015
+Roda JC,RKC Waalwijk,3-2,https://www.besoccer.com/match/roda-jc/rkc-waalwijk/20155086,2015,1,eerste_divisie,60,58,3,1,2,1,,2015
+Emmen,De Graafschap,1-1,https://www.besoccer.com/match/emmen/graafschap/20155089,2015,1,eerste_divisie,46,56,2,0,5,0,,2015
+Almere City,MVV Maastricht,5-0,https://www.besoccer.com/match/almere-city/mvv/20155090,2015,1,eerste_divisie,39,53,0,0,2,0,,2015
+VVV Venlo,Jong Twente,1-0,https://www.besoccer.com/match/vvv/jong-twente/20155091,2015,1,eerste_divisie,54,50,1,1,2,1,,2015
+Jong PSV,Achilles 29,2-0,https://www.besoccer.com/match/jong-psv/achilles-29/20155083,2015,1,eerste_divisie,51,47,0,0,2,0,,2015
+Sparta Rotterdam,Den Bosch,2-1,https://www.besoccer.com/match/sparta-rotterdam/fc-den-bosch/20155088,2015,1,eerste_divisie,56,56,2,0,2,0,,2015
+NEC Nijmegen,FC Eindhoven,3-1,https://www.besoccer.com/match/nec/fc-eindhoven/20155092,2015,1,eerste_divisie,60,48,1,0,2,0,,2015
+Jong Ajax,SC Telstar,3-0,https://www.besoccer.com/match/jong-ajax/stormvogels-telstar/20155087,2015,1,eerste_divisie,50,44,0,0,2,0,,2015
+Den Bosch,VVV Venlo,2-0,https://www.besoccer.com/match/fc-den-bosch/vvv/20155095,2015,2,eerste_divisie,56,54,0,0,3,0,,2015
+Achilles 29,Sparta Rotterdam,1-3,https://www.besoccer.com/match/achilles-29/sparta-rotterdam/20155096,2015,2,eerste_divisie,47,56,2,0,2,0,,2015
+RKC Waalwijk,TOP Oss,0-4,https://www.besoccer.com/match/rkc-waalwijk/fc-oss/20155097,2015,2,eerste_divisie,58,44,2,0,2,0,,2015
+SC Telstar,Roda JC,1-2,https://www.besoccer.com/match/stormvogels-telstar/roda-jc/20155099,2015,2,eerste_divisie,44,60,2,0,1,0,,2015
+FC Eindhoven,Emmen,3-0,https://www.besoccer.com/match/fc-eindhoven/emmen/20155100,2015,2,eerste_divisie,48,46,1,0,1,0,,2015
+MVV Maastricht,Jong PSV,2-1,https://www.besoccer.com/match/mvv/jong-psv/20155101,2015,2,eerste_divisie,53,51,3,0,0,0,,2015
+FC Volendam,NEC Nijmegen,0-2,https://www.besoccer.com/match/fc-volendam/nec/20155102,2015,2,eerste_divisie,56,60,0,0,1,0,,2015
+Fortuna Sittard,Jong Ajax,0-2,https://www.besoccer.com/match/fortuna-sittard/jong-ajax/20155094,2015,2,eerste_divisie,48,50,3,2,3,2,,2015
+De Graafschap,Almere City,3-0,https://www.besoccer.com/match/graafschap/almere-city/20155098,2015,2,eerste_divisie,56,39,0,0,2,0,,2015
+Jong Twente,Helmond Sport,2-2,https://www.besoccer.com/match/jong-twente/helmond-sport/20155093,2015,2,eerste_divisie,50,54,2,0,4,0,,2015
+Den Bosch,RKC Waalwijk,2-3,https://www.besoccer.com/match/fc-den-bosch/rkc-waalwijk/20155103,2015,3,eerste_divisie,56,58,1,1,4,1,,2015
+Helmond Sport,TOP Oss,2-1,https://www.besoccer.com/match/helmond-sport/fc-oss/20155104,2015,3,eerste_divisie,54,44,2,0,2,0,,2015
+Almere City,Jong Twente,0-1,https://www.besoccer.com/match/almere-city/jong-twente/20155105,2015,3,eerste_divisie,39,50,3,0,0,0,,2015
+VVV Venlo,De Graafschap,1-0,https://www.besoccer.com/match/vvv/graafschap/20155106,2015,3,eerste_divisie,54,56,1,0,2,0,,2015
+NEC Nijmegen,Fortuna Sittard,5-1,https://www.besoccer.com/match/nec/fortuna-sittard/20155107,2015,3,eerste_divisie,60,47,0,0,1,0,,2015
+MVV Maastricht,Sparta Rotterdam,0-2,https://www.besoccer.com/match/mvv/sparta-rotterdam/20155108,2015,3,eerste_divisie,53,56,4,0,3,0,,2015
+Emmen,Jong PSV,5-0,https://www.besoccer.com/match/emmen/jong-psv/20155109,2015,3,eerste_divisie,46,51,0,0,0,0,,2015
+SC Telstar,Achilles 29,2-0,https://www.besoccer.com/match/stormvogels-telstar/achilles-29/20155110,2015,3,eerste_divisie,44,47,1,0,3,0,,2015
+Jong Ajax,FC Volendam,0-5,https://www.besoccer.com/match/jong-ajax/fc-volendam/20155111,2015,3,eerste_divisie,51,55,1,2,1,2,,2015
+Roda JC,FC Eindhoven,2-1,https://www.besoccer.com/match/roda-jc/fc-eindhoven/20155112,2015,3,eerste_divisie,60,49,2,1,4,1,,2015
+Emmen,Den Bosch,2-2,https://www.besoccer.com/match/emmen/fc-den-bosch/20155113,2015,4,eerste_divisie,46,56,0,0,2,0,,2015
+Jong Twente,MVV Maastricht,1-2,https://www.besoccer.com/match/jong-twente/mvv/20155114,2015,4,eerste_divisie,50,53,1,0,3,0,,2015
+De Graafschap,RKC Waalwijk,1-1,https://www.besoccer.com/match/graafschap/rkc-waalwijk/20155115,2015,4,eerste_divisie,56,58,0,0,0,0,,2015
+Achilles 29,Jong Ajax,3-2,https://www.besoccer.com/match/achilles-29/jong-ajax/20155116,2015,4,eerste_divisie,47,50,1,0,0,0,,2015
+Sparta Rotterdam,Helmond Sport,0-0,https://www.besoccer.com/match/sparta-rotterdam/helmond-sport/20155117,2015,4,eerste_divisie,56,54,2,0,2,0,,2015
+Fortuna Sittard,SC Telstar,0-1,https://www.besoccer.com/match/fortuna-sittard/stormvogels-telstar/20155119,2015,4,eerste_divisie,47,44,4,0,2,0,,2015
+TOP Oss,VVV Venlo,2-3,https://www.besoccer.com/match/fc-oss/vvv/20155120,2015,4,eerste_divisie,44,54,1,0,3,0,,2015
+FC Eindhoven,Almere City,2-1,https://www.besoccer.com/match/fc-eindhoven/almere-city/20155121,2015,4,eerste_divisie,48,39,1,0,2,0,,2015
+FC Volendam,Roda JC,3-0,https://www.besoccer.com/match/fc-volendam/roda-jc/20155122,2015,4,eerste_divisie,56,60,2,0,2,0,,2015
+Jong PSV,NEC Nijmegen,1-0,https://www.besoccer.com/match/jong-psv/nec/20155118,2015,4,eerste_divisie,51,60,3,0,0,0,,2015
+VVV Venlo,Emmen,1-4,https://www.besoccer.com/match/vvv/emmen/20155124,2015,5,eerste_divisie,54,46,3,2,1,2,,2015
+SC Telstar,Almere City,3-1,https://www.besoccer.com/match/stormvogels-telstar/almere-city/20155125,2015,5,eerste_divisie,45,39,0,0,3,0,,2015
+Jong PSV,FC Eindhoven,1-3,https://www.besoccer.com/match/jong-psv/fc-eindhoven/20155126,2015,5,eerste_divisie,51,49,1,0,0,0,,2015
+RKC Waalwijk,Jong Twente,1-2,https://www.besoccer.com/match/rkc-waalwijk/jong-twente/20155127,2015,5,eerste_divisie,58,50,0,0,2,0,,2015
+Helmond Sport,NEC Nijmegen,1-4,https://www.besoccer.com/match/helmond-sport/nec/20155129,2015,5,eerste_divisie,54,60,1,0,1,0,,2015
+Den Bosch,Jong Ajax,2-0,https://www.besoccer.com/match/fc-den-bosch/jong-ajax/20155130,2015,5,eerste_divisie,56,50,1,0,1,0,,2015
+Achilles 29,Fortuna Sittard,0-3,https://www.besoccer.com/match/achilles-29/fortuna-sittard/20155131,2015,5,eerste_divisie,47,47,0,0,2,0,,2015
+Sparta Rotterdam,FC Volendam,0-5,https://www.besoccer.com/match/sparta-rotterdam/fc-volendam/20155132,2015,5,eerste_divisie,56,56,2,0,2,0,,2015
+TOP Oss,De Graafschap,3-2,https://www.besoccer.com/match/fc-oss/graafschap/20155128,2015,5,eerste_divisie,44,56,3,0,0,0,,2015
+Roda JC,MVV Maastricht,2-0,https://www.besoccer.com/match/roda-jc/mvv/20155123,2015,5,eerste_divisie,60,53,1,0,1,0,,2015
+Almere City,TOP Oss,4-2,https://www.besoccer.com/match/almere-city/fc-oss/20155134,2015,6,eerste_divisie,39,44,1,0,2,0,,2015
+Emmen,Helmond Sport,2-2,https://www.besoccer.com/match/emmen/helmond-sport/20155138,2015,6,eerste_divisie,46,54,0,0,2,0,,2015
+MVV Maastricht,VVV Venlo,0-0,https://www.besoccer.com/match/mvv/vvv/20155139,2015,6,eerste_divisie,53,54,1,0,1,0,,2015
+NEC Nijmegen,RKC Waalwijk,1-0,https://www.besoccer.com/match/nec/rkc-waalwijk/20155133,2015,6,eerste_divisie,60,58,1,0,3,0,,2015
+FC Eindhoven,Achilles 29,2-0,https://www.besoccer.com/match/fc-eindhoven/achilles-29/20155142,2015,6,eerste_divisie,49,46,0,0,0,0,,2015
+Fortuna Sittard,Roda JC,0-2,https://www.besoccer.com/match/fortuna-sittard/roda-jc/20155136,2015,6,eerste_divisie,47,60,0,0,0,0,,2015
+De Graafschap,SC Telstar,3-2,https://www.besoccer.com/match/graafschap/stormvogels-telstar/20155137,2015,6,eerste_divisie,56,45,0,0,3,0,,2015
+FC Volendam,Den Bosch,2-2,https://www.besoccer.com/match/fc-volendam/fc-den-bosch/20155141,2015,6,eerste_divisie,56,56,1,1,1,1,,2015
+Jong Ajax,Sparta Rotterdam,4-2,https://www.besoccer.com/match/jong-ajax/sparta-rotterdam/20155135,2015,6,eerste_divisie,50,56,2,0,0,0,,2015
+Jong Twente,Jong PSV,0-0,https://www.besoccer.com/match/jong-twente/jong-psv/20155140,2015,6,eerste_divisie,50,51,0,0,0,0,,2015
+Fortuna Sittard,FC Eindhoven,0-2,https://www.besoccer.com/match/fortuna-sittard/fc-eindhoven/20155144,2015,7,eerste_divisie,47,49,1,0,0,0,,2015
+VVV Venlo,Almere City,3-2,https://www.besoccer.com/match/vvv/almere-city/20155145,2015,7,eerste_divisie,54,39,2,0,2,0,,2015
+Jong PSV,Sparta Rotterdam,0-2,https://www.besoccer.com/match/jong-psv/sparta-rotterdam/20155146,2015,7,eerste_divisie,51,56,0,0,1,0,,2015
+MVV Maastricht,De Graafschap,0-1,https://www.besoccer.com/match/mvv/graafschap/20155147,2015,7,eerste_divisie,53,56,5,0,1,0,,2015
+SC Telstar,Jong Twente,1-1,https://www.besoccer.com/match/stormvogels-telstar/jong-twente/20155150,2015,7,eerste_divisie,45,50,1,0,0,0,,2015
+Den Bosch,Helmond Sport,3-0,https://www.besoccer.com/match/fc-den-bosch/helmond-sport/20155151,2015,7,eerste_divisie,56,54,1,0,1,0,,2015
+Achilles 29,TOP Oss,2-2,https://www.besoccer.com/match/achilles-29/fc-oss/20155152,2015,7,eerste_divisie,46,44,1,1,1,1,,2015
+Roda JC,Jong Ajax,1-0,https://www.besoccer.com/match/roda-jc/jong-ajax/20155149,2015,7,eerste_divisie,60,50,1,0,1,0,,2015
+NEC Nijmegen,Emmen,4-0,https://www.besoccer.com/match/nec/emmen/20155143,2015,7,eerste_divisie,60,46,2,1,1,1,,2015
+RKC Waalwijk,FC Volendam,1-3,https://www.besoccer.com/match/rkc-waalwijk/fc-volendam/20155148,2015,7,eerste_divisie,58,56,0,0,0,0,,2015
+FC Eindhoven,VVV Venlo,1-0,https://www.besoccer.com/match/fc-eindhoven/vvv/20155153,2015,8,eerste_divisie,49,54,0,0,0,0,,2015
+Emmen,Jong Ajax,2-2,https://www.besoccer.com/match/emmen/jong-ajax/20155162,2015,8,eerste_divisie,47,50,2,0,0,0,,2015
+Helmond Sport,Roda JC,1-2,https://www.besoccer.com/match/helmond-sport/roda-jc/20155157,2015,8,eerste_divisie,54,60,2,0,3,0,,2015
+TOP Oss,SC Telstar,2-1,https://www.besoccer.com/match/fc-oss/stormvogels-telstar/20155158,2015,8,eerste_divisie,44,45,2,0,1,0,,2015
+Sparta Rotterdam,Almere City,3-0,https://www.besoccer.com/match/sparta-rotterdam/almere-city/20155161,2015,8,eerste_divisie,56,39,2,0,1,0,,2015
+De Graafschap,NEC Nijmegen,0-2,https://www.besoccer.com/match/graafschap/nec/20155155,2015,8,eerste_divisie,56,61,2,0,1,0,,2015
+RKC Waalwijk,Achilles 29,0-4,https://www.besoccer.com/match/rkc-waalwijk/achilles-29/20155156,2015,8,eerste_divisie,57,46,1,0,1,0,,2015
+FC Volendam,MVV Maastricht,3-0,https://www.besoccer.com/match/fc-volendam/mvv/20155160,2015,8,eerste_divisie,56,53,1,0,1,0,,2015
+Jong Twente,Fortuna Sittard,3-0,https://www.besoccer.com/match/jong-twente/fortuna-sittard/20155154,2015,8,eerste_divisie,50,47,0,1,1,1,,2015
+Jong PSV,Den Bosch,5-1,https://www.besoccer.com/match/jong-psv/fc-den-bosch/20155159,2015,8,eerste_divisie,51,56,0,0,2,0,,2015
+Roda JC,Jong PSV,1-1,https://www.besoccer.com/match/roda-jc/jong-psv/20155168,2015,9,eerste_divisie,61,51,1,0,2,0,,2015
+Almere City,NEC Nijmegen,1-2,https://www.besoccer.com/match/almere-city/nec/20155172,2015,9,eerste_divisie,39,61,3,0,2,0,,2015
+VVV Venlo,Helmond Sport,2-1,https://www.besoccer.com/match/vvv/helmond-sport/20155163,2015,9,eerste_divisie,54,54,2,0,1,0,,2015
+Den Bosch,De Graafschap,1-2,https://www.besoccer.com/match/fc-den-bosch/graafschap/20155164,2015,9,eerste_divisie,55,56,0,0,1,0,,2015
+Achilles 29,Emmen,1-2,https://www.besoccer.com/match/achilles-29/emmen/20155165,2015,9,eerste_divisie,47,47,2,0,0,0,,2015
+SC Telstar,Sparta Rotterdam,4-3,https://www.besoccer.com/match/stormvogels-telstar/sparta-rotterdam/20155166,2015,9,eerste_divisie,44,57,3,0,3,0,,2015
+Jong Ajax,Jong Twente,5-1,https://www.besoccer.com/match/jong-ajax/jong-twente/20155167,2015,9,eerste_divisie,50,50,1,0,1,0,,2015
+FC Eindhoven,RKC Waalwijk,2-0,https://www.besoccer.com/match/fc-eindhoven/rkc-waalwijk/20155169,2015,9,eerste_divisie,49,57,1,0,2,0,,2015
+MVV Maastricht,TOP Oss,0-2,https://www.besoccer.com/match/mvv/fc-oss/20155170,2015,9,eerste_divisie,53,44,1,0,2,0,,2015
+Fortuna Sittard,FC Volendam,0-1,https://www.besoccer.com/match/fortuna-sittard/fc-volendam/20155171,2015,9,eerste_divisie,47,57,0,1,1,1,,2015
+TOP Oss,FC Eindhoven,3-0,https://www.besoccer.com/match/fc-oss/fc-eindhoven/20155176,2015,10,eerste_divisie,45,49,2,0,3,0,,2015
+FC Volendam,Almere City,2-3,https://www.besoccer.com/match/fc-volendam/almere-city/20155177,2015,10,eerste_divisie,57,39,3,0,1,0,,2015
+Helmond Sport,Jong Ajax,2-2,https://www.besoccer.com/match/helmond-sport/jong-ajax/20155181,2015,10,eerste_divisie,54,50,2,1,3,1,,2015
+RKC Waalwijk,SC Telstar,2-0,https://www.besoccer.com/match/rkc-waalwijk/stormvogels-telstar/20155182,2015,10,eerste_divisie,57,45,0,0,0,0,,2015
+Emmen,MVV Maastricht,6-0,https://www.besoccer.com/match/emmen/mvv/20155175,2015,10,eerste_divisie,47,53,0,0,2,0,,2015
+De Graafschap,Achilles 29,2-0,https://www.besoccer.com/match/graafschap/achilles-29/20155180,2015,10,eerste_divisie,56,46,0,0,1,0,,2015
+Sparta Rotterdam,VVV Venlo,1-0,https://www.besoccer.com/match/sparta-rotterdam/vvv/20155174,2015,10,eerste_divisie,56,54,4,0,2,0,,2015
+NEC Nijmegen,Den Bosch,3-1,https://www.besoccer.com/match/nec/fc-den-bosch/20155179,2015,10,eerste_divisie,61,55,3,0,1,0,,2015
+Jong PSV,Fortuna Sittard,1-1,https://www.besoccer.com/match/jong-psv/fortuna-sittard/20155173,2015,10,eerste_divisie,51,47,3,1,0,1,,2015
+Jong Twente,Roda JC,0-2,https://www.besoccer.com/match/jong-twente/roda-jc/20155178,2015,10,eerste_divisie,50,61,0,1,1,1,,2015
+FC Volendam,De Graafschap,2-1,https://www.besoccer.com/match/fc-volendam/graafschap/20155183,2015,11,eerste_divisie,57,56,0,0,0,0,,2015
+Den Bosch,Fortuna Sittard,1-0,https://www.besoccer.com/match/fc-den-bosch/fortuna-sittard/20155184,2015,11,eerste_divisie,55,47,1,0,2,0,,2015
+Emmen,Jong Twente,3-0,https://www.besoccer.com/match/emmen/jong-twente/20155187,2015,11,eerste_divisie,47,50,1,0,0,0,,2015
+Jong Ajax,Jong PSV,1-1,https://www.besoccer.com/match/jong-ajax/jong-psv/20155188,2015,11,eerste_divisie,50,51,1,0,2,0,,2015
+SC Telstar,FC Eindhoven,0-5,https://www.besoccer.com/match/stormvogels-telstar/fc-eindhoven/20155189,2015,11,eerste_divisie,44,49,3,0,1,0,,2015
+Almere City,Helmond Sport,3-2,https://www.besoccer.com/match/almere-city/helmond-sport/20155192,2015,11,eerste_divisie,39,54,3,0,1,0,,2015
+VVV Venlo,RKC Waalwijk,0-0,https://www.besoccer.com/match/vvv/rkc-waalwijk/20155191,2015,11,eerste_divisie,54,57,0,0,3,0,,2015
+MVV Maastricht,Achilles 29,3-2,https://www.besoccer.com/match/mvv/achilles-29/20155186,2015,11,eerste_divisie,52,46,2,0,0,0,,2015
+Roda JC,Sparta Rotterdam,3-0,https://www.besoccer.com/match/roda-jc/sparta-rotterdam/20155185,2015,11,eerste_divisie,61,57,0,0,1,0,,2015
+NEC Nijmegen,TOP Oss,3-1,https://www.besoccer.com/match/nec/fc-oss/20155190,2015,11,eerste_divisie,61,45,1,0,3,0,,2015
+SC Telstar,MVV Maastricht,2-0,https://www.besoccer.com/match/stormvogels-telstar/mvv/20155194,2015,12,eerste_divisie,44,52,1,0,1,0,,2015
+Fortuna Sittard,Emmen,1-8,https://www.besoccer.com/match/fortuna-sittard/emmen/20155198,2015,12,eerste_divisie,47,47,2,0,0,0,,2015
+FC Eindhoven,Jong Ajax,2-1,https://www.besoccer.com/match/fc-eindhoven/jong-ajax/20155199,2015,12,eerste_divisie,49,50,2,0,0,0,,2015
+Den Bosch,TOP Oss,0-1,https://www.besoccer.com/match/fc-den-bosch/fc-oss/20155193,2015,12,eerste_divisie,55,45,0,0,2,0,,2015
+De Graafschap,Helmond Sport,5-0,https://www.besoccer.com/match/graafschap/helmond-sport/20155197,2015,12,eerste_divisie,56,53,0,0,2,0,,2015
+RKC Waalwijk,Almere City,1-4,https://www.besoccer.com/match/rkc-waalwijk/almere-city/20155200,2015,12,eerste_divisie,57,40,0,0,0,0,,2015
+Achilles 29,Roda JC,0-4,https://www.besoccer.com/match/achilles-29/roda-jc/20155196,2015,12,eerste_divisie,46,61,1,0,0,0,,2015
+Sparta Rotterdam,NEC Nijmegen,2-2,https://www.besoccer.com/match/sparta-rotterdam/nec/20155202,2015,12,eerste_divisie,56,61,1,0,1,0,,2015
+Jong Twente,FC Volendam,3-3,https://www.besoccer.com/match/jong-twente/fc-volendam/20155195,2015,12,eerste_divisie,49,57,2,0,2,0,,2015
+Jong PSV,VVV Venlo,2-2,https://www.besoccer.com/match/jong-psv/vvv/20155201,2015,12,eerste_divisie,51,54,2,0,2,0,,2015
+Emmen,Roda JC,2-3,https://www.besoccer.com/match/emmen/roda-jc/20155205,2015,13,eerste_divisie,48,61,2,0,4,0,,2015
+Almere City,Den Bosch,2-1,https://www.besoccer.com/match/almere-city/fc-den-bosch/20155206,2015,13,eerste_divisie,40,55,0,0,0,0,,2015
+MVV Maastricht,FC Eindhoven,1-2,https://www.besoccer.com/match/mvv/fc-eindhoven/20155207,2015,13,eerste_divisie,52,50,1,0,0,0,,2015
+Helmond Sport,SC Telstar,5-2,https://www.besoccer.com/match/helmond-sport/stormvogels-telstar/20155210,2015,13,eerste_divisie,53,44,0,0,0,0,,2015
+TOP Oss,Jong Ajax,1-4,https://www.besoccer.com/match/fc-oss/jong-ajax/20155211,2015,13,eerste_divisie,45,50,2,0,0,0,,2015
+FC Volendam,Jong PSV,1-0,https://www.besoccer.com/match/fc-volendam/jong-psv/20155212,2015,13,eerste_divisie,57,51,0,0,0,0,,2015
+RKC Waalwijk,Fortuna Sittard,0-2,https://www.besoccer.com/match/rkc-waalwijk/fortuna-sittard/20155209,2015,13,eerste_divisie,57,47,1,0,0,0,,2015
+De Graafschap,Sparta Rotterdam,3-2,https://www.besoccer.com/match/graafschap/sparta-rotterdam/20155204,2015,13,eerste_divisie,56,56,1,0,1,0,,2015
+Jong Twente,Achilles 29,2-2,https://www.besoccer.com/match/jong-twente/achilles-29/20155208,2015,13,eerste_divisie,49,46,1,0,1,0,,2015
+NEC Nijmegen,VVV Venlo,2-1,https://www.besoccer.com/match/nec/vvv/20155203,2015,13,eerste_divisie,61,54,2,0,4,0,,2015
+SC Telstar,Emmen,1-3,https://www.besoccer.com/match/stormvogels-telstar/emmen/20155213,2015,14,eerste_divisie,44,48,2,0,2,0,,2015
+VVV Venlo,FC Volendam,4-2,https://www.besoccer.com/match/vvv/fc-volendam/20155215,2015,14,eerste_divisie,54,57,2,0,2,0,,2015
+Roda JC,Almere City,1-4,https://www.besoccer.com/match/roda-jc/almere-city/20155216,2015,14,eerste_divisie,61,40,1,0,2,0,,2015
+Fortuna Sittard,De Graafschap,0-0,https://www.besoccer.com/match/fortuna-sittard/graafschap/20155217,2015,14,eerste_divisie,47,56,0,0,1,0,,2015
+FC Eindhoven,Jong Twente,0-1,https://www.besoccer.com/match/fc-eindhoven/jong-twente/20155218,2015,14,eerste_divisie,50,49,1,0,3,0,,2015
+Den Bosch,MVV Maastricht,2-1,https://www.besoccer.com/match/fc-den-bosch/mvv/20155222,2015,14,eerste_divisie,55,52,0,0,1,0,,2015
+Achilles 29,Helmond Sport,3-2,https://www.besoccer.com/match/achilles-29/helmond-sport/20155221,2015,14,eerste_divisie,46,53,1,0,1,0,,2015
+Sparta Rotterdam,TOP Oss,2-2,https://www.besoccer.com/match/sparta-rotterdam/fc-oss/20155220,2015,14,eerste_divisie,56,45,4,0,1,0,,2015
+Jong PSV,RKC Waalwijk,3-1,https://www.besoccer.com/match/jong-psv/rkc-waalwijk/20155214,2015,14,eerste_divisie,51,56,1,0,3,0,,2015
+Jong Ajax,NEC Nijmegen,1-1,https://www.besoccer.com/match/jong-ajax/nec/20155219,2015,14,eerste_divisie,50,61,4,0,2,0,,2015
+VVV Venlo,SC Telstar,1-0,https://www.besoccer.com/match/vvv/stormvogels-telstar/20155223,2015,15,eerste_divisie,54,44,0,0,3,0,,2015
+De Graafschap,Roda JC,1-2,https://www.besoccer.com/match/graafschap/roda-jc/20155224,2015,15,eerste_divisie,56,61,3,1,2,1,,2015
+MVV Maastricht,Fortuna Sittard,0-1,https://www.besoccer.com/match/mvv/fortuna-sittard/20155225,2015,15,eerste_divisie,52,47,2,1,0,1,,2015
+Sparta Rotterdam,RKC Waalwijk,2-1,https://www.besoccer.com/match/sparta-rotterdam/rkc-waalwijk/20155226,2015,15,eerste_divisie,56,56,1,0,2,0,,2015
+Helmond Sport,Jong PSV,2-1,https://www.besoccer.com/match/helmond-sport/jong-psv/20155227,2015,15,eerste_divisie,53,51,0,0,2,0,,2015
+TOP Oss,Emmen,1-2,https://www.besoccer.com/match/fc-oss/emmen/20155228,2015,15,eerste_divisie,45,48,0,0,0,0,,2015
+NEC Nijmegen,Jong Twente,5-1,https://www.besoccer.com/match/nec/jong-twente/20155229,2015,15,eerste_divisie,61,49,1,0,2,0,,2015
+Den Bosch,Achilles 29,0-1,https://www.besoccer.com/match/fc-den-bosch/achilles-29/20155230,2015,15,eerste_divisie,55,46,2,0,2,0,,2015
+FC Volendam,FC Eindhoven,2-3,https://www.besoccer.com/match/fc-volendam/fc-eindhoven/20155231,2015,15,eerste_divisie,57,50,2,0,1,0,,2015
+Almere City,Jong Ajax,1-1,https://www.besoccer.com/match/almere-city/jong-ajax/20155232,2015,15,eerste_divisie,41,51,1,0,2,0,,2015
+Achilles 29,FC Volendam,2-4,https://www.besoccer.com/match/achilles-29/fc-volendam/20155237,2015,16,eerste_divisie,46,57,0,0,2,0,,2015
+Emmen,Almere City,2-2,https://www.besoccer.com/match/emmen/almere-city/20155233,2015,16,eerste_divisie,48,41,2,1,3,1,,2015
+Jong Twente,Den Bosch,1-1,https://www.besoccer.com/match/jong-twente/fc-den-bosch/20155234,2015,16,eerste_divisie,49,55,1,0,3,0,,2015
+Jong Ajax,VVV Venlo,4-0,https://www.besoccer.com/match/jong-ajax/vvv/20155235,2015,16,eerste_divisie,50,54,0,0,1,0,,2015
+Fortuna Sittard,Sparta Rotterdam,0-0,https://www.besoccer.com/match/fortuna-sittard/sparta-rotterdam/20155238,2015,16,eerste_divisie,47,56,2,0,3,0,,2015
+SC Telstar,NEC Nijmegen,0-1,https://www.besoccer.com/match/stormvogels-telstar/nec/20155239,2015,16,eerste_divisie,44,61,2,0,1,0,,2015
+Roda JC,TOP Oss,4-3,https://www.besoccer.com/match/roda-jc/fc-oss/20155240,2015,16,eerste_divisie,61,45,0,0,2,0,,2015
+FC Eindhoven,Helmond Sport,3-0,https://www.besoccer.com/match/fc-eindhoven/helmond-sport/20155241,2015,16,eerste_divisie,50,53,0,0,2,0,,2015
+RKC Waalwijk,MVV Maastricht,0-1,https://www.besoccer.com/match/rkc-waalwijk/mvv/20155242,2015,16,eerste_divisie,56,52,2,0,3,0,,2015
+Jong PSV,De Graafschap,3-1,https://www.besoccer.com/match/jong-psv/graafschap/20155236,2015,16,eerste_divisie,51,56,1,0,1,0,,2015
+Almere City,Fortuna Sittard,3-0,https://www.besoccer.com/match/almere-city/fortuna-sittard/20155249,2015,17,eerste_divisie,41,47,1,0,2,0,,2015
+TOP Oss,Jong PSV,2-0,https://www.besoccer.com/match/fc-oss/jong-psv/20155243,2015,17,eerste_divisie,45,51,3,0,2,0,,2015
+Den Bosch,FC Eindhoven,0-0,https://www.besoccer.com/match/fc-den-bosch/fc-eindhoven/20155244,2015,17,eerste_divisie,55,50,3,0,5,0,,2015
+Helmond Sport,MVV Maastricht,3-2,https://www.besoccer.com/match/helmond-sport/mvv/20155247,2015,17,eerste_divisie,53,52,1,0,4,0,,2015
+De Graafschap,Jong Twente,6-3,https://www.besoccer.com/match/graafschap/jong-twente/20155248,2015,17,eerste_divisie,56,49,2,0,1,0,,2015
+VVV Venlo,Roda JC,1-1,https://www.besoccer.com/match/vvv/roda-jc/20155245,2015,17,eerste_divisie,54,61,1,0,3,0,,2015
+FC Volendam,SC Telstar,1-0,https://www.besoccer.com/match/fc-volendam/stormvogels-telstar/20155246,2015,17,eerste_divisie,57,44,0,1,2,1,,2015
+NEC Nijmegen,Achilles 29,6-2,https://www.besoccer.com/match/nec/achilles-29/20155251,2015,17,eerste_divisie,61,46,0,0,2,0,,2015
+Sparta Rotterdam,Emmen,3-0,https://www.besoccer.com/match/sparta-rotterdam/emmen/20155252,2015,17,eerste_divisie,56,48,1,0,2,0,,2015
+Jong Ajax,RKC Waalwijk,3-2,https://www.besoccer.com/match/jong-ajax/rkc-waalwijk/20155250,2015,17,eerste_divisie,51,56,1,0,0,0,,2015
+Fortuna Sittard,TOP Oss,4-5,https://www.besoccer.com/match/fortuna-sittard/fc-oss/20155253,2015,18,eerste_divisie,47,45,2,0,3,0,,2015
+SC Telstar,Den Bosch,1-2,https://www.besoccer.com/match/stormvogels-telstar/fc-den-bosch/20155254,2015,18,eerste_divisie,44,55,2,0,3,0,,2015
+Jong PSV,Almere City,0-1,https://www.besoccer.com/match/jong-psv/almere-city/20155255,2015,18,eerste_divisie,51,41,4,0,2,0,,2015
+Achilles 29,VVV Venlo,3-0,https://www.besoccer.com/match/achilles-29/vvv/20155256,2015,18,eerste_divisie,46,54,1,0,1,0,,2015
+RKC Waalwijk,Helmond Sport,0-0,https://www.besoccer.com/match/rkc-waalwijk/helmond-sport/20155257,2015,18,eerste_divisie,56,53,3,0,3,0,,2015
+Emmen,FC Volendam,4-1,https://www.besoccer.com/match/emmen/fc-volendam/20155258,2015,18,eerste_divisie,48,57,1,0,1,0,,2015
+Jong Twente,Sparta Rotterdam,0-0,https://www.besoccer.com/match/jong-twente/sparta-rotterdam/20155259,2015,18,eerste_divisie,49,56,0,0,0,0,,2015
+Roda JC,NEC Nijmegen,0-1,https://www.besoccer.com/match/roda-jc/nec/20155260,2015,18,eerste_divisie,61,62,2,0,0,0,,2015
+FC Eindhoven,De Graafschap,4-3,https://www.besoccer.com/match/fc-eindhoven/graafschap/20155261,2015,18,eerste_divisie,50,56,0,0,2,0,,2015
+MVV Maastricht,Jong Ajax,2-2,https://www.besoccer.com/match/mvv/jong-ajax/20155262,2015,18,eerste_divisie,52,51,1,0,2,0,,2015
+TOP Oss,Jong Twente,4-1,https://www.besoccer.com/match/fc-oss/jong-twente/20155271,2015,19,eerste_divisie,45,49,1,0,2,0,,2015
+Emmen,RKC Waalwijk,5-3,https://www.besoccer.com/match/emmen/rkc-waalwijk/20155270,2015,19,eerste_divisie,48,56,1,0,2,0,,2015
+Jong PSV,SC Telstar,1-1,https://www.besoccer.com/match/jong-psv/stormvogels-telstar/20155272,2015,19,eerste_divisie,51,44,0,0,1,0,,2015
+Sparta Rotterdam,FC Eindhoven,2-0,https://www.besoccer.com/match/sparta-rotterdam/fc-eindhoven/20155265,2015,19,eerste_divisie,56,50,3,0,2,0,,2015
+Jong Ajax,De Graafschap,3-1,https://www.besoccer.com/match/jong-ajax/graafschap/20155267,2015,19,eerste_divisie,51,56,1,0,1,0,,2015
+Helmond Sport,FC Volendam,3-4,https://www.besoccer.com/match/helmond-sport/fc-volendam/20155266,2015,19,eerste_divisie,53,57,0,0,0,0,,2015
+Almere City,Achilles 29,0-0,https://www.besoccer.com/match/almere-city/achilles-29/20155269,2015,19,eerste_divisie,41,46,0,0,0,0,,2015
+VVV Venlo,Fortuna Sittard,0-0,https://www.besoccer.com/match/vvv/fortuna-sittard/20155263,2015,19,eerste_divisie,54,47,3,0,1,0,,2015
+NEC Nijmegen,MVV Maastricht,4-1,https://www.besoccer.com/match/nec/mvv/20155264,2015,19,eerste_divisie,62,52,0,0,0,0,,2015
+Roda JC,Den Bosch,3-1,https://www.besoccer.com/match/roda-jc/fc-den-bosch/20155268,2015,19,eerste_divisie,61,55,2,0,2,0,,2015
+SC Telstar,Jong Ajax,1-1,https://www.besoccer.com/match/stormvogels-telstar/jong-ajax/20155273,2015,20,eerste_divisie,44,51,0,0,0,0,,2015
+FC Eindhoven,NEC Nijmegen,3-0,https://www.besoccer.com/match/fc-eindhoven/nec/20155274,2015,20,eerste_divisie,50,62,1,0,0,0,,2015
+MVV Maastricht,Almere City,1-0,https://www.besoccer.com/match/mvv/almere-city/20155275,2015,20,eerste_divisie,51,41,2,1,1,1,,2015
+Fortuna Sittard,Helmond Sport,1-0,https://www.besoccer.com/match/fortuna-sittard/helmond-sport/20155277,2015,20,eerste_divisie,47,53,0,0,2,0,,2015
+Den Bosch,Sparta Rotterdam,1-1,https://www.besoccer.com/match/fc-den-bosch/sparta-rotterdam/20155278,2015,20,eerste_divisie,55,56,4,0,1,0,,2015
+Achilles 29,Jong PSV,2-0,https://www.besoccer.com/match/achilles-29/jong-psv/20155279,2015,20,eerste_divisie,46,51,0,0,2,0,,2015
+RKC Waalwijk,Roda JC,3-0,https://www.besoccer.com/match/rkc-waalwijk/roda-jc/20155280,2015,20,eerste_divisie,55,61,0,0,1,0,,2015
+FC Volendam,TOP Oss,2-2,https://www.besoccer.com/match/fc-volendam/fc-oss/20155282,2015,20,eerste_divisie,57,45,3,0,1,0,,2015
+De Graafschap,Emmen,1-2,https://www.besoccer.com/match/graafschap/emmen/20155276,2015,20,eerste_divisie,56,48,0,1,2,1,,2015
+Jong Twente,VVV Venlo,0-1,https://www.besoccer.com/match/jong-twente/vvv/20155281,2015,20,eerste_divisie,49,54,1,0,0,0,,2015
+Helmond Sport,Emmen,2-2,https://www.besoccer.com/match/helmond-sport/emmen/20155285,2015,21,eerste_divisie,53,49,1,0,4,0,,2015
+Den Bosch,FC Volendam,0-5,https://www.besoccer.com/match/fc-den-bosch/fc-volendam/20155286,2015,21,eerste_divisie,55,57,0,0,1,0,,2015
+RKC Waalwijk,NEC Nijmegen,0-2,https://www.besoccer.com/match/rkc-waalwijk/nec/20155287,2015,21,eerste_divisie,56,62,1,0,0,0,,2015
+TOP Oss,Almere City,4-1,https://www.besoccer.com/match/fc-oss/almere-city/20155291,2015,21,eerste_divisie,45,41,0,0,2,0,,2015
+Achilles 29,FC Eindhoven,1-1,https://www.besoccer.com/match/achilles-29/fc-eindhoven/20155292,2015,21,eerste_divisie,47,50,0,0,1,0,,2015
+Sparta Rotterdam,Jong Ajax,6-0,https://www.besoccer.com/match/sparta-rotterdam/jong-ajax/20155284,2015,21,eerste_divisie,56,51,0,0,0,0,,2015
+VVV Venlo,MVV Maastricht,3-0,https://www.besoccer.com/match/vvv/mvv/20155283,2015,21,eerste_divisie,54,52,0,0,1,0,,2015
+Roda JC,Fortuna Sittard,1-3,https://www.besoccer.com/match/roda-jc/fortuna-sittard/20155289,2015,21,eerste_divisie,61,47,3,0,4,0,,2015
+Jong PSV,Jong Twente,4-1,https://www.besoccer.com/match/jong-psv/jong-twente/20155288,2015,21,eerste_divisie,51,49,1,0,0,0,,2015
+SC Telstar,De Graafschap,0-2,https://www.besoccer.com/match/stormvogels-telstar/graafschap/20155290,2015,21,eerste_divisie,44,56,0,0,1,0,,2015
+FC Volendam,Sparta Rotterdam,1-1,https://www.besoccer.com/match/fc-volendam/sparta-rotterdam/20155293,2015,22,eerste_divisie,57,57,1,0,1,0,,2015
+Emmen,VVV Venlo,1-1,https://www.besoccer.com/match/emmen/vvv/20155296,2015,22,eerste_divisie,49,54,0,0,2,0,,2015
+Fortuna Sittard,Achilles 29,0-0,https://www.besoccer.com/match/fortuna-sittard/achilles-29/20155301,2015,22,eerste_divisie,47,47,0,0,2,0,,2015
+FC Eindhoven,Jong PSV,2-1,https://www.besoccer.com/match/fc-eindhoven/jong-psv/20155302,2015,22,eerste_divisie,50,51,0,0,1,0,,2015
+De Graafschap,TOP Oss,2-1,https://www.besoccer.com/match/graafschap/fc-oss/20155295,2015,22,eerste_divisie,56,45,2,0,1,0,,2015
+MVV Maastricht,Roda JC,3-1,https://www.besoccer.com/match/mvv/roda-jc/20155298,2015,22,eerste_divisie,51,61,2,0,5,0,,2015
+NEC Nijmegen,Helmond Sport,3-1,https://www.besoccer.com/match/nec/helmond-sport/20155299,2015,22,eerste_divisie,62,53,1,0,1,0,,2015
+Jong Twente,RKC Waalwijk,4-1,https://www.besoccer.com/match/jong-twente/rkc-waalwijk/20155294,2015,22,eerste_divisie,49,56,0,1,4,1,,2015
+Almere City,SC Telstar,3-3,https://www.besoccer.com/match/almere-city/stormvogels-telstar/20155297,2015,22,eerste_divisie,41,44,3,1,2,1,,2015
+Jong Ajax,Den Bosch,0-0,https://www.besoccer.com/match/jong-ajax/fc-den-bosch/20155300,2015,22,eerste_divisie,51,55,0,0,1,0,,2015
+FC Volendam,Jong Ajax,3-4,https://www.besoccer.com/match/fc-volendam/jong-ajax/20155303,2015,23,eerste_divisie,57,51,1,0,1,0,,2015
+Jong Twente,Almere City,0-3,https://www.besoccer.com/match/jong-twente/almere-city/20155304,2015,23,eerste_divisie,49,41,0,0,1,0,,2015
+FC Eindhoven,Roda JC,0-2,https://www.besoccer.com/match/fc-eindhoven/roda-jc/20155306,2015,23,eerste_divisie,50,60,0,0,0,0,,2015
+RKC Waalwijk,Den Bosch,0-3,https://www.besoccer.com/match/rkc-waalwijk/fc-den-bosch/20155307,2015,23,eerste_divisie,55,55,0,0,1,0,,2015
+Sparta Rotterdam,MVV Maastricht,4-1,https://www.besoccer.com/match/sparta-rotterdam/mvv/20155308,2015,23,eerste_divisie,57,52,0,0,0,0,,2015
+Fortuna Sittard,NEC Nijmegen,0-3,https://www.besoccer.com/match/fortuna-sittard/nec/20155309,2015,23,eerste_divisie,47,62,1,0,0,0,,2015
+TOP Oss,Helmond Sport,3-1,https://www.besoccer.com/match/fc-oss/helmond-sport/20155310,2015,23,eerste_divisie,45,53,2,0,2,0,,2015
+Jong PSV,Emmen,0-2,https://www.besoccer.com/match/jong-psv/emmen/20155311,2015,23,eerste_divisie,51,49,1,0,2,0,,2015
+De Graafschap,VVV Venlo,1-1,https://www.besoccer.com/match/graafschap/vvv/20155305,2015,23,eerste_divisie,56,54,3,0,2,0,,2015
+Achilles 29,SC Telstar,1-3,https://www.besoccer.com/match/achilles-29/stormvogels-telstar/20155312,2015,23,eerste_divisie,46,44,1,0,3,0,,2015
+Jong Ajax,Achilles 29,2-1,https://www.besoccer.com/match/jong-ajax/achilles-29/20155313,2015,24,eerste_divisie,51,47,0,0,2,0,,2015
+Roda JC,FC Volendam,3-2,https://www.besoccer.com/match/roda-jc/fc-volendam/20155314,2015,24,eerste_divisie,61,57,0,0,0,0,,2015
+Den Bosch,Emmen,2-0,https://www.besoccer.com/match/fc-den-bosch/emmen/20155315,2015,24,eerste_divisie,55,49,3,0,1,0,,2015
+RKC Waalwijk,De Graafschap,0-5,https://www.besoccer.com/match/rkc-waalwijk/graafschap/20155316,2015,24,eerste_divisie,55,56,2,0,0,0,,2015
+Helmond Sport,Sparta Rotterdam,0-5,https://www.besoccer.com/match/helmond-sport/sparta-rotterdam/20155317,2015,24,eerste_divisie,53,57,2,1,2,1,,2015
+Almere City,FC Eindhoven,2-1,https://www.besoccer.com/match/almere-city/fc-eindhoven/20155318,2015,24,eerste_divisie,41,50,2,0,3,0,,2015
+VVV Venlo,TOP Oss,2-1,https://www.besoccer.com/match/vvv/fc-oss/20155319,2015,24,eerste_divisie,54,46,0,0,3,0,,2015
+NEC Nijmegen,Jong PSV,5-2,https://www.besoccer.com/match/nec/jong-psv/20155320,2015,24,eerste_divisie,62,50,3,0,1,0,,2015
+MVV Maastricht,Jong Twente,2-2,https://www.besoccer.com/match/mvv/jong-twente/20155321,2015,24,eerste_divisie,51,49,2,0,2,0,,2015
+SC Telstar,Fortuna Sittard,3-0,https://www.besoccer.com/match/stormvogels-telstar/fortuna-sittard/20155322,2015,24,eerste_divisie,44,47,2,0,2,0,,2015
+TOP Oss,Achilles 29,2-2,https://www.besoccer.com/match/fc-oss/achilles-29/20155325,2015,25,eerste_divisie,46,46,1,0,1,0,,2015
+Helmond Sport,Den Bosch,1-5,https://www.besoccer.com/match/helmond-sport/fc-den-bosch/20155326,2015,25,eerste_divisie,52,55,1,0,0,0,,2015
+FC Eindhoven,Fortuna Sittard,3-1,https://www.besoccer.com/match/fc-eindhoven/fortuna-sittard/20155327,2015,25,eerste_divisie,50,47,1,0,4,0,,2015
+De Graafschap,MVV Maastricht,3-1,https://www.besoccer.com/match/graafschap/mvv/20155329,2015,25,eerste_divisie,56,51,1,0,1,0,,2015
+Emmen,NEC Nijmegen,2-3,https://www.besoccer.com/match/emmen/nec/20155330,2015,25,eerste_divisie,49,62,1,0,1,0,,2015
+Almere City,VVV Venlo,0-1,https://www.besoccer.com/match/almere-city/vvv/20155331,2015,25,eerste_divisie,42,54,1,0,4,0,,2015
+FC Volendam,RKC Waalwijk,2-0,https://www.besoccer.com/match/fc-volendam/rkc-waalwijk/20155332,2015,25,eerste_divisie,57,55,1,0,2,0,,2015
+Jong Twente,SC Telstar,3-1,https://www.besoccer.com/match/jong-twente/stormvogels-telstar/20155324,2015,25,eerste_divisie,49,44,2,0,0,0,,2015
+Sparta Rotterdam,Jong PSV,0-2,https://www.besoccer.com/match/sparta-rotterdam/jong-psv/20155328,2015,25,eerste_divisie,57,50,0,1,5,1,,2015
+Jong Ajax,Roda JC,3-3,https://www.besoccer.com/match/jong-ajax/roda-jc/20155323,2015,25,eerste_divisie,51,61,2,0,1,0,,2015
+FC Eindhoven,Den Bosch,2-0,https://www.besoccer.com/match/fc-eindhoven/fc-den-bosch/20155333,2015,26,eerste_divisie,50,55,0,0,0,0,,2015
+Emmen,Sparta Rotterdam,2-1,https://www.besoccer.com/match/emmen/sparta-rotterdam/20155336,2015,26,eerste_divisie,49,57,1,0,0,0,,2015
+Roda JC,VVV Venlo,2-1,https://www.besoccer.com/match/roda-jc/vvv/20155337,2015,26,eerste_divisie,61,54,2,0,3,0,,2015
+RKC Waalwijk,Jong Ajax,4-4,https://www.besoccer.com/match/rkc-waalwijk/jong-ajax/20155338,2015,26,eerste_divisie,55,51,3,0,4,0,,2015
+SC Telstar,FC Volendam,1-1,https://www.besoccer.com/match/stormvogels-telstar/fc-volendam/20155342,2015,26,eerste_divisie,44,57,3,0,2,0,,2015
+MVV Maastricht,Helmond Sport,1-1,https://www.besoccer.com/match/mvv/helmond-sport/20155341,2015,26,eerste_divisie,51,52,2,0,0,0,,2015
+Fortuna Sittard,Almere City,1-2,https://www.besoccer.com/match/fortuna-sittard/almere-city/20155335,2015,26,eerste_divisie,47,42,4,0,1,0,,2015
+Achilles 29,NEC Nijmegen,1-3,https://www.besoccer.com/match/achilles-29/nec/20155340,2015,26,eerste_divisie,46,62,2,0,1,0,,2015
+Jong PSV,TOP Oss,1-3,https://www.besoccer.com/match/jong-psv/fc-oss/20155334,2015,26,eerste_divisie,51,46,1,0,0,0,,2015
+Jong Twente,De Graafschap,3-1,https://www.besoccer.com/match/jong-twente/graafschap/20155339,2015,26,eerste_divisie,49,56,2,0,1,0,,2015
+Almere City,Jong PSV,2-2,https://www.besoccer.com/match/almere-city/jong-psv/20155343,2015,27,eerste_divisie,42,50,2,0,2,0,,2015
+Jong Ajax,MVV Maastricht,1-3,https://www.besoccer.com/match/jong-ajax/mvv/20155344,2015,27,eerste_divisie,51,51,0,0,0,0,,2015
+NEC Nijmegen,Roda JC,3-0,https://www.besoccer.com/match/nec/roda-jc/20155345,2015,27,eerste_divisie,62,61,0,0,1,0,,2015
+Den Bosch,SC Telstar,1-2,https://www.besoccer.com/match/fc-den-bosch/stormvogels-telstar/20155346,2015,27,eerste_divisie,55,44,1,0,1,0,,2015
+Sparta Rotterdam,Jong Twente,1-2,https://www.besoccer.com/match/sparta-rotterdam/jong-twente/20155347,2015,27,eerste_divisie,57,49,3,0,3,0,,2015
+Helmond Sport,RKC Waalwijk,3-0,https://www.besoccer.com/match/helmond-sport/rkc-waalwijk/20155348,2015,27,eerste_divisie,52,55,1,0,0,0,,2015
+TOP Oss,Fortuna Sittard,1-0,https://www.besoccer.com/match/fc-oss/fortuna-sittard/20155349,2015,27,eerste_divisie,46,46,0,0,1,0,,2015
+VVV Venlo,Achilles 29,1-1,https://www.besoccer.com/match/vvv/achilles-29/20155350,2015,27,eerste_divisie,54,46,3,1,1,1,,2015
+De Graafschap,FC Eindhoven,1-0,https://www.besoccer.com/match/graafschap/fc-eindhoven/20155351,2015,27,eerste_divisie,56,50,0,0,2,0,,2015
+FC Volendam,Emmen,3-2,https://www.besoccer.com/match/fc-volendam/emmen/20155352,2015,27,eerste_divisie,57,49,0,0,1,0,,2015
+Fortuna Sittard,MVV Maastricht,0-3,https://www.besoccer.com/match/fortuna-sittard/mvv/20155356,2015,28,eerste_divisie,46,51,2,0,2,0,,2015
+Emmen,TOP Oss,2-3,https://www.besoccer.com/match/emmen/fc-oss/20155360,2015,28,eerste_divisie,49,46,1,0,2,0,,2015
+SC Telstar,VVV Venlo,0-3,https://www.besoccer.com/match/stormvogels-telstar/vvv/20155361,2015,28,eerste_divisie,44,54,1,0,1,0,,2015
+FC Eindhoven,FC Volendam,3-1,https://www.besoccer.com/match/fc-eindhoven/fc-volendam/20155355,2015,28,eerste_divisie,50,57,1,0,1,0,,2015
+RKC Waalwijk,Sparta Rotterdam,2-1,https://www.besoccer.com/match/rkc-waalwijk/sparta-rotterdam/20155357,2015,28,eerste_divisie,54,56,1,0,0,0,,2015
+Roda JC,De Graafschap,1-1,https://www.besoccer.com/match/roda-jc/graafschap/20155359,2015,28,eerste_divisie,61,56,3,0,2,0,,2015
+Achilles 29,Den Bosch,2-1,https://www.besoccer.com/match/achilles-29/fc-den-bosch/20155362,2015,28,eerste_divisie,46,55,2,0,0,0,,2015
+Jong Twente,NEC Nijmegen,0-1,https://www.besoccer.com/match/jong-twente/nec/20155353,2015,28,eerste_divisie,49,62,2,0,0,0,,2015
+Jong PSV,Helmond Sport,0-0,https://www.besoccer.com/match/jong-psv/helmond-sport/20155354,2015,28,eerste_divisie,50,52,0,0,2,0,,2015
+Jong Ajax,Almere City,3-1,https://www.besoccer.com/match/jong-ajax/almere-city/20155358,2015,28,eerste_divisie,51,42,1,0,3,0,,2015
+VVV Venlo,Jong Ajax,1-0,https://www.besoccer.com/match/vvv/jong-ajax/20155363,2015,29,eerste_divisie,54,51,1,0,1,0,,2015
+De Graafschap,Jong PSV,5-0,https://www.besoccer.com/match/graafschap/jong-psv/20155364,2015,29,eerste_divisie,56,50,0,0,0,0,,2015
+Den Bosch,Jong Twente,2-0,https://www.besoccer.com/match/fc-den-bosch/jong-twente/20155365,2015,29,eerste_divisie,55,49,0,0,0,0,,2015
+Sparta Rotterdam,Fortuna Sittard,3-0,https://www.besoccer.com/match/sparta-rotterdam/fortuna-sittard/20155366,2015,29,eerste_divisie,56,46,0,0,1,0,,2015
+Almere City,Emmen,0-0,https://www.besoccer.com/match/almere-city/emmen/20155367,2015,29,eerste_divisie,42,48,1,0,2,0,,2015
+NEC Nijmegen,SC Telstar,2-0,https://www.besoccer.com/match/nec/stormvogels-telstar/20155368,2015,29,eerste_divisie,62,44,1,0,1,0,,2015
+FC Volendam,Achilles 29,1-0,https://www.besoccer.com/match/fc-volendam/achilles-29/20155369,2015,29,eerste_divisie,57,46,1,0,1,0,,2015
+TOP Oss,Roda JC,1-0,https://www.besoccer.com/match/fc-oss/roda-jc/20155370,2015,29,eerste_divisie,46,60,0,0,1,0,,2015
+MVV Maastricht,RKC Waalwijk,1-1,https://www.besoccer.com/match/mvv/rkc-waalwijk/20155371,2015,29,eerste_divisie,52,55,0,0,3,0,,2015
+Helmond Sport,FC Eindhoven,2-3,https://www.besoccer.com/match/helmond-sport/fc-eindhoven/20155372,2015,29,eerste_divisie,52,51,2,0,1,0,,2015
+Helmond Sport,Jong Twente,1-2,https://www.besoccer.com/match/helmond-sport/jong-twente/20155373,2015,30,eerste_divisie,52,49,2,0,1,0,,2015
+TOP Oss,RKC Waalwijk,4-1,https://www.besoccer.com/match/fc-oss/rkc-waalwijk/20155374,2015,30,eerste_divisie,46,55,0,0,1,0,,2015
+VVV Venlo,Den Bosch,4-0,https://www.besoccer.com/match/vvv/fc-den-bosch/20155375,2015,30,eerste_divisie,54,55,1,0,1,0,,2015
+NEC Nijmegen,FC Volendam,7-0,https://www.besoccer.com/match/nec/fc-volendam/20155376,2015,30,eerste_divisie,63,57,1,0,1,0,,2015
+Sparta Rotterdam,Achilles 29,0-0,https://www.besoccer.com/match/sparta-rotterdam/achilles-29/20155377,2015,30,eerste_divisie,56,46,2,0,3,0,,2015
+Emmen,FC Eindhoven,3-2,https://www.besoccer.com/match/emmen/fc-eindhoven/20155378,2015,30,eerste_divisie,48,51,1,0,1,0,,2015
+Almere City,De Graafschap,2-2,https://www.besoccer.com/match/almere-city/graafschap/20155379,2015,30,eerste_divisie,42,56,1,0,1,0,,2015
+Jong Ajax,Fortuna Sittard,3-0,https://www.besoccer.com/match/jong-ajax/fortuna-sittard/20155380,2015,30,eerste_divisie,51,46,0,0,0,0,,2015
+Roda JC,SC Telstar,2-4,https://www.besoccer.com/match/roda-jc/stormvogels-telstar/20155381,2015,30,eerste_divisie,60,44,3,0,2,0,,2015
+Jong PSV,MVV Maastricht,1-1,https://www.besoccer.com/match/jong-psv/mvv/20155382,2015,30,eerste_divisie,50,52,1,0,1,0,,2015
+FC Volendam,Helmond Sport,4-1,https://www.besoccer.com/match/fc-volendam/helmond-sport/20155383,2015,31,eerste_divisie,56,52,1,0,2,0,,2015
+SC Telstar,Jong PSV,1-1,https://www.besoccer.com/match/stormvogels-telstar/jong-psv/20155386,2015,31,eerste_divisie,44,50,1,0,2,0,,2015
+Achilles 29,Almere City,3-1,https://www.besoccer.com/match/achilles-29/almere-city/20155387,2015,31,eerste_divisie,46,42,1,0,3,0,,2015
+RKC Waalwijk,Emmen,1-1,https://www.besoccer.com/match/rkc-waalwijk/emmen/20155388,2015,31,eerste_divisie,54,49,1,0,1,0,,2015
+Jong Twente,TOP Oss,1-0,https://www.besoccer.com/match/jong-twente/fc-oss/20155390,2015,31,eerste_divisie,49,47,1,0,0,0,,2015
+FC Eindhoven,Sparta Rotterdam,1-0,https://www.besoccer.com/match/fc-eindhoven/sparta-rotterdam/20155391,2015,31,eerste_divisie,51,56,0,0,1,0,,2015
+MVV Maastricht,NEC Nijmegen,1-4,https://www.besoccer.com/match/mvv/nec/20155392,2015,31,eerste_divisie,52,63,3,0,1,0,,2015
+Den Bosch,Roda JC,0-1,https://www.besoccer.com/match/fc-den-bosch/roda-jc/20155385,2015,31,eerste_divisie,55,60,2,0,0,0,,2015
+Fortuna Sittard,VVV Venlo,1-1,https://www.besoccer.com/match/fortuna-sittard/vvv/20155384,2015,31,eerste_divisie,46,55,2,0,1,0,,2015
+De Graafschap,Jong Ajax,3-0,https://www.besoccer.com/match/graafschap/jong-ajax/20155389,2015,31,eerste_divisie,56,51,3,0,2,0,,2015
+Jong Ajax,FC Eindhoven,1-2,https://www.besoccer.com/match/jong-ajax/fc-eindhoven/20155393,2015,32,eerste_divisie,51,51,0,0,1,0,,2015
+Roda JC,Achilles 29,3-0,https://www.besoccer.com/match/roda-jc/achilles-29/20155394,2015,32,eerste_divisie,60,46,1,0,1,0,,2015
+MVV Maastricht,SC Telstar,3-0,https://www.besoccer.com/match/mvv/stormvogels-telstar/20155395,2015,32,eerste_divisie,52,44,0,0,1,0,,2015
+Helmond Sport,De Graafschap,2-1,https://www.besoccer.com/match/helmond-sport/graafschap/20155396,2015,32,eerste_divisie,52,56,0,0,0,0,,2015
+TOP Oss,Den Bosch,2-1,https://www.besoccer.com/match/fc-oss/fc-den-bosch/20155397,2015,32,eerste_divisie,47,54,0,0,2,0,,2015
+VVV Venlo,Jong PSV,0-2,https://www.besoccer.com/match/vvv/jong-psv/20155398,2015,32,eerste_divisie,54,50,0,0,3,0,,2015
+NEC Nijmegen,Sparta Rotterdam,1-0,https://www.besoccer.com/match/nec/sparta-rotterdam/20155399,2015,32,eerste_divisie,63,56,2,0,3,0,,2015
+FC Volendam,Jong Twente,2-2,https://www.besoccer.com/match/fc-volendam/jong-twente/20155400,2015,32,eerste_divisie,57,49,3,0,2,0,,2015
+Emmen,Fortuna Sittard,3-2,https://www.besoccer.com/match/emmen/fortuna-sittard/20155401,2015,32,eerste_divisie,49,46,2,0,2,0,,2015
+Almere City,RKC Waalwijk,2-3,https://www.besoccer.com/match/almere-city/rkc-waalwijk/20155402,2015,32,eerste_divisie,41,54,1,0,4,0,,2015
+Helmond Sport,Almere City,1-0,https://www.besoccer.com/match/helmond-sport/almere-city/20155403,2015,33,eerste_divisie,52,41,1,0,2,0,,2015
+Jong Twente,Emmen,0-1,https://www.besoccer.com/match/jong-twente/emmen/20155404,2015,33,eerste_divisie,49,49,2,0,1,0,,2015
+De Graafschap,FC Volendam,0-2,https://www.besoccer.com/match/graafschap/fc-volendam/20155405,2015,33,eerste_divisie,56,57,0,0,2,0,,2015
+Achilles 29,MVV Maastricht,0-2,https://www.besoccer.com/match/achilles-29/mvv/20155406,2015,33,eerste_divisie,46,52,3,0,0,0,,2015
+Sparta Rotterdam,Roda JC,6-0,https://www.besoccer.com/match/sparta-rotterdam/roda-jc/20155407,2015,33,eerste_divisie,56,60,1,0,1,0,,2015
+Fortuna Sittard,Den Bosch,0-0,https://www.besoccer.com/match/fortuna-sittard/fc-den-bosch/20155409,2015,33,eerste_divisie,45,54,2,0,0,0,,2015
+TOP Oss,NEC Nijmegen,1-2,https://www.besoccer.com/match/fc-oss/nec/20155410,2015,33,eerste_divisie,47,63,0,0,0,0,,2015
+FC Eindhoven,SC Telstar,1-0,https://www.besoccer.com/match/fc-eindhoven/stormvogels-telstar/20155411,2015,33,eerste_divisie,51,44,1,0,2,0,,2015
+RKC Waalwijk,VVV Venlo,0-0,https://www.besoccer.com/match/rkc-waalwijk/vvv/20155412,2015,33,eerste_divisie,54,54,1,0,3,0,,2015
+Jong PSV,Jong Ajax,2-0,https://www.besoccer.com/match/jong-psv/jong-ajax/20155408,2015,33,eerste_divisie,50,51,0,0,1,0,,2015
+VVV Venlo,FC Eindhoven,2-1,https://www.besoccer.com/match/vvv/fc-eindhoven/20155413,2015,34,eerste_divisie,54,51,2,0,1,0,,2015
+MVV Maastricht,FC Volendam,6-2,https://www.besoccer.com/match/mvv/fc-volendam/20155414,2015,34,eerste_divisie,52,57,2,0,1,0,,2015
+SC Telstar,TOP Oss,2-1,https://www.besoccer.com/match/stormvogels-telstar/fc-oss/20155418,2015,34,eerste_divisie,44,47,1,0,1,0,,2015
+Den Bosch,Jong PSV,1-1,https://www.besoccer.com/match/fc-den-bosch/jong-psv/20155419,2015,34,eerste_divisie,54,50,2,0,1,0,,2015
+Achilles 29,RKC Waalwijk,0-1,https://www.besoccer.com/match/achilles-29/rkc-waalwijk/20155422,2015,34,eerste_divisie,46,54,2,0,1,0,,2015
+Almere City,Sparta Rotterdam,3-2,https://www.besoccer.com/match/almere-city/sparta-rotterdam/20155417,2015,34,eerste_divisie,41,56,2,0,2,0,,2015
+Fortuna Sittard,Jong Twente,2-2,https://www.besoccer.com/match/fortuna-sittard/jong-twente/20155421,2015,34,eerste_divisie,45,49,2,0,3,0,,2015
+NEC Nijmegen,De Graafschap,2-0,https://www.besoccer.com/match/nec/graafschap/20155416,2015,34,eerste_divisie,63,56,0,0,2,0,,2015
+Roda JC,Helmond Sport,7-0,https://www.besoccer.com/match/roda-jc/helmond-sport/20155420,2015,34,eerste_divisie,60,52,2,0,2,0,,2015
+Jong Ajax,Emmen,0-2,https://www.besoccer.com/match/jong-ajax/emmen/20155415,2015,34,eerste_divisie,51,49,1,0,0,0,,2015
+Helmond Sport,VVV Venlo,3-1,https://www.besoccer.com/match/helmond-sport/vvv/20155423,2015,35,eerste_divisie,52,54,4,0,3,0,,2015
+RKC Waalwijk,FC Eindhoven,0-1,https://www.besoccer.com/match/rkc-waalwijk/fc-eindhoven/20155424,2015,35,eerste_divisie,54,51,3,0,2,0,,2015
+TOP Oss,MVV Maastricht,0-1,https://www.besoccer.com/match/fc-oss/mvv/20155428,2015,35,eerste_divisie,46,52,1,0,0,0,,2015
+FC Volendam,Fortuna Sittard,2-4,https://www.besoccer.com/match/fc-volendam/fortuna-sittard/20155429,2015,35,eerste_divisie,57,45,2,1,0,1,,2015
+De Graafschap,Den Bosch,2-0,https://www.besoccer.com/match/graafschap/fc-den-bosch/20155427,2015,35,eerste_divisie,56,54,1,0,1,0,,2015
+Emmen,Achilles 29,2-2,https://www.besoccer.com/match/emmen/achilles-29/20155432,2015,35,eerste_divisie,49,46,1,0,1,0,,2015
+Sparta Rotterdam,SC Telstar,3-1,https://www.besoccer.com/match/sparta-rotterdam/stormvogels-telstar/20155426,2015,35,eerste_divisie,56,44,0,0,3,0,,2015
+NEC Nijmegen,Almere City,2-1,https://www.besoccer.com/match/nec/almere-city/20155431,2015,35,eerste_divisie,63,41,1,0,1,0,,2015
+Jong PSV,Roda JC,1-1,https://www.besoccer.com/match/jong-psv/roda-jc/20155425,2015,35,eerste_divisie,50,60,2,0,2,0,,2015
+Jong Twente,Jong Ajax,1-0,https://www.besoccer.com/match/jong-twente/jong-ajax/20155430,2015,35,eerste_divisie,49,51,1,0,1,0,,2015
+Den Bosch,NEC Nijmegen,1-3,https://www.besoccer.com/match/fc-den-bosch/nec/20155435,2015,36,eerste_divisie,54,63,0,0,0,0,,2015
+Almere City,FC Volendam,1-1,https://www.besoccer.com/match/almere-city/fc-volendam/20155433,2015,36,eerste_divisie,41,56,2,0,1,0,,2015
+VVV Venlo,Sparta Rotterdam,1-1,https://www.besoccer.com/match/vvv/sparta-rotterdam/20155434,2015,36,eerste_divisie,54,56,1,0,3,0,,2015
+MVV Maastricht,Emmen,2-1,https://www.besoccer.com/match/mvv/emmen/20155436,2015,36,eerste_divisie,52,49,1,0,2,0,,2015
+Achilles 29,De Graafschap,1-3,https://www.besoccer.com/match/achilles-29/graafschap/20155437,2015,36,eerste_divisie,46,56,0,0,0,0,,2015
+SC Telstar,RKC Waalwijk,5-0,https://www.besoccer.com/match/stormvogels-telstar/rkc-waalwijk/20155438,2015,36,eerste_divisie,44,54,1,0,4,0,,2015
+Jong Ajax,Helmond Sport,0-2,https://www.besoccer.com/match/jong-ajax/helmond-sport/20155439,2015,36,eerste_divisie,50,52,1,0,0,0,,2015
+Roda JC,Jong Twente,2-2,https://www.besoccer.com/match/roda-jc/jong-twente/20155440,2015,36,eerste_divisie,60,49,1,0,3,0,,2015
+FC Eindhoven,TOP Oss,2-1,https://www.besoccer.com/match/fc-eindhoven/fc-oss/20155441,2015,36,eerste_divisie,51,46,0,0,3,0,,2015
+Fortuna Sittard,Jong PSV,1-3,https://www.besoccer.com/match/fortuna-sittard/jong-psv/20155442,2015,36,eerste_divisie,46,51,1,0,1,0,,2015
+Helmond Sport,Achilles 29,3-1,https://www.besoccer.com/match/helmond-sport/achilles-29/20155443,2015,37,eerste_divisie,52,46,1,0,1,0,,2015
+Almere City,Roda JC,0-1,https://www.besoccer.com/match/almere-city/roda-jc/20155444,2015,37,eerste_divisie,41,60,0,0,2,0,,2015
+NEC Nijmegen,Jong Ajax,2-1,https://www.besoccer.com/match/nec/jong-ajax/20155445,2015,37,eerste_divisie,63,50,0,0,1,0,,2015
+MVV Maastricht,Den Bosch,3-0,https://www.besoccer.com/match/mvv/fc-den-bosch/20155446,2015,37,eerste_divisie,52,54,1,0,3,0,,2015
+FC Volendam,VVV Venlo,1-1,https://www.besoccer.com/match/fc-volendam/vvv/20155447,2015,37,eerste_divisie,56,54,1,0,3,0,,2015
+Jong Twente,FC Eindhoven,0-1,https://www.besoccer.com/match/jong-twente/fc-eindhoven/20155448,2015,37,eerste_divisie,49,51,1,0,3,0,,2015
+TOP Oss,Sparta Rotterdam,1-5,https://www.besoccer.com/match/fc-oss/sparta-rotterdam/20155449,2015,37,eerste_divisie,46,56,2,2,0,2,,2015
+De Graafschap,Fortuna Sittard,3-0,https://www.besoccer.com/match/graafschap/fortuna-sittard/20155450,2015,37,eerste_divisie,56,46,2,0,0,0,,2015
+RKC Waalwijk,Jong PSV,2-2,https://www.besoccer.com/match/rkc-waalwijk/jong-psv/20155451,2015,37,eerste_divisie,54,51,0,0,1,0,,2015
+Emmen,SC Telstar,4-0,https://www.besoccer.com/match/emmen/stormvogels-telstar/20155452,2015,37,eerste_divisie,49,44,1,0,0,0,,2015
+Roda JC,Emmen,1-3,https://www.besoccer.com/match/roda-jc/emmen/20155453,2015,38,eerste_divisie,60,49,0,0,0,0,,2015
+FC Eindhoven,MVV Maastricht,5-1,https://www.besoccer.com/match/fc-eindhoven/mvv/20155454,2015,38,eerste_divisie,51,53,0,0,0,0,,2015
+Sparta Rotterdam,De Graafschap,1-1,https://www.besoccer.com/match/sparta-rotterdam/graafschap/20155455,2015,38,eerste_divisie,57,56,1,0,0,0,,2015
+SC Telstar,Helmond Sport,4-0,https://www.besoccer.com/match/stormvogels-telstar/helmond-sport/20155456,2015,38,eerste_divisie,44,52,0,0,1,0,,2015
+VVV Venlo,NEC Nijmegen,3-1,https://www.besoccer.com/match/vvv/nec/20155457,2015,38,eerste_divisie,54,63,1,0,3,0,,2015
+Jong PSV,FC Volendam,2-0,https://www.besoccer.com/match/jong-psv/fc-volendam/20155458,2015,38,eerste_divisie,51,56,2,0,1,0,,2015
+Achilles 29,Jong Twente,0-1,https://www.besoccer.com/match/achilles-29/jong-twente/20155459,2015,38,eerste_divisie,46,49,0,0,0,0,,2015
+Den Bosch,Almere City,3-3,https://www.besoccer.com/match/fc-den-bosch/almere-city/20155460,2015,38,eerste_divisie,54,41,0,0,1,0,,2015
+Fortuna Sittard,RKC Waalwijk,0-2,https://www.besoccer.com/match/fortuna-sittard/rkc-waalwijk/20155461,2015,38,eerste_divisie,45,54,1,0,1,0,,2015
+Jong Ajax,TOP Oss,1-1,https://www.besoccer.com/match/jong-ajax/fc-oss/20155462,2015,38,eerste_divisie,50,46,0,0,2,0,,2015

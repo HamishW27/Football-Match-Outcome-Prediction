@@ -1,1 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League
+Home_Team,Away_Team,Result,Link,Season,Round,League,Elo_home,Elo_away,Home_Yellow,Home_Red,Away_Yellow,Away_Red,Referee,Year
+Cambuur,Jong Ajax,1-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-ajax/2018412025,2018,1,eerste_divisie,61,55,2,1,3,1,,2018
+FC Volendam,Helmond Sport,2-2,https://www.besoccer.com/match/fc-volendam/helmond-sport/2018412026,2018,1,eerste_divisie,57,52,2,0,2,0,,2018
+RKC Waalwijk,Emmen,0-2,https://www.besoccer.com/match/rkc-waalwijk/emmen/2018412027,2018,1,eerste_divisie,53,52,1,0,0,0,,2018
+MVV Maastricht,Go Ahead Eagles,4-3,https://www.besoccer.com/match/mvv/go-ahead-eagles/2018412028,2018,1,eerste_divisie,54,52,1,0,2,0,,2018
+FC Eindhoven,SC Telstar,2-2,https://www.besoccer.com/match/fc-eindhoven/stormvogels-telstar/2018412029,2018,1,eerste_divisie,54,47,2,0,3,0,,2018
+Den Bosch,Jong AZ,1-3,https://www.besoccer.com/match/fc-den-bosch/az-alkmaar-sub23/2018412030,2018,1,eerste_divisie,53,44,3,0,1,0,,2018
+Fortuna Sittard,Dordrecht,5-1,https://www.besoccer.com/match/fortuna-sittard/fc-dordrecht/2018412031,2018,1,eerste_divisie,46,51,2,0,1,0,,2018
+NEC Nijmegen,Almere City,3-1,https://www.besoccer.com/match/nec/almere-city/2018412032,2018,1,eerste_divisie,61,48,1,0,1,0,,2018
+Jong Utrecht,TOP Oss,0-3,https://www.besoccer.com/match/jong-utrecht/fc-oss/2018412033,2018,1,eerste_divisie,51,45,2,0,1,0,,2018
+Jong PSV,De Graafschap,2-2,https://www.besoccer.com/match/jong-psv/graafschap/2018412034,2018,1,eerste_divisie,54,56,1,0,2,0,,2018
+Dordrecht,Jong Utrecht,2-1,https://www.besoccer.com/match/fc-dordrecht/jong-utrecht/2018412035,2018,2,eerste_divisie,51,51,1,0,3,0,,2018
+Go Ahead Eagles,NEC Nijmegen,1-1,https://www.besoccer.com/match/go-ahead-eagles/nec/2018412036,2018,2,eerste_divisie,52,61,2,0,3,0,,2018
+De Graafschap,Cambuur,2-0,https://www.besoccer.com/match/graafschap/sc-cambuur-leeuwarden/2018412037,2018,2,eerste_divisie,56,61,2,0,2,0,,2018
+Jong Ajax,Fortuna Sittard,4-2,https://www.besoccer.com/match/jong-ajax/fortuna-sittard/2018412038,2018,2,eerste_divisie,55,46,0,0,0,0,,2018
+TOP Oss,FC Volendam,1-0,https://www.besoccer.com/match/fc-oss/fc-volendam/2018412039,2018,2,eerste_divisie,45,57,3,0,2,0,,2018
+Almere City,Den Bosch,1-1,https://www.besoccer.com/match/almere-city/fc-den-bosch/2018412040,2018,2,eerste_divisie,48,53,0,0,1,0,,2018
+SC Telstar,MVV Maastricht,0-0,https://www.besoccer.com/match/stormvogels-telstar/mvv/2018412041,2018,2,eerste_divisie,47,54,3,0,3,0,,2018
+Helmond Sport,Jong PSV,1-2,https://www.besoccer.com/match/helmond-sport/jong-psv/2018412042,2018,2,eerste_divisie,52,54,2,0,2,0,,2018
+Emmen,FC Eindhoven,1-1,https://www.besoccer.com/match/emmen/fc-eindhoven/2018412043,2018,2,eerste_divisie,52,54,1,0,1,0,,2018
+Jong AZ,RKC Waalwijk,2-1,https://www.besoccer.com/match/az-alkmaar-sub23/rkc-waalwijk/2018412044,2018,2,eerste_divisie,44,53,1,0,3,0,,2018
+Jong Utrecht,Jong AZ,1-0,https://www.besoccer.com/match/jong-utrecht/az-alkmaar-sub23/2018412045,2018,3,eerste_divisie,51,44,1,0,2,0,,2018
+Dordrecht,Emmen,2-2,https://www.besoccer.com/match/fc-dordrecht/emmen/2018412046,2018,3,eerste_divisie,51,52,2,0,1,0,,2018
+Jong PSV,Jong Ajax,0-3,https://www.besoccer.com/match/jong-psv/jong-ajax/2018412048,2018,3,eerste_divisie,54,55,0,0,0,0,,2018
+MVV Maastricht,Den Bosch,3-0,https://www.besoccer.com/match/mvv/fc-den-bosch/2018412049,2018,3,eerste_divisie,54,53,3,0,5,0,,2018
+Fortuna Sittard,Almere City,2-1,https://www.besoccer.com/match/fortuna-sittard/almere-city/2018412050,2018,3,eerste_divisie,46,48,2,0,5,0,,2018
+NEC Nijmegen,FC Eindhoven,2-1,https://www.besoccer.com/match/nec/fc-eindhoven/2018412051,2018,3,eerste_divisie,61,54,0,0,1,0,,2018
+SC Telstar,TOP Oss,3-3,https://www.besoccer.com/match/stormvogels-telstar/fc-oss/2018412052,2018,3,eerste_divisie,47,45,1,0,1,0,,2018
+Helmond Sport,Go Ahead Eagles,1-1,https://www.besoccer.com/match/helmond-sport/go-ahead-eagles/2018412053,2018,3,eerste_divisie,52,52,2,0,2,0,,2018
+RKC Waalwijk,De Graafschap,0-0,https://www.besoccer.com/match/rkc-waalwijk/graafschap/2018412047,2018,3,eerste_divisie,53,56,1,0,3,0,,2018
+FC Volendam,Cambuur,0-1,https://www.besoccer.com/match/fc-volendam/sc-cambuur-leeuwarden/2018412054,2018,3,eerste_divisie,57,61,3,0,3,0,,2018
+Cambuur,Jong Utrecht,2-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-utrecht/2018412055,2018,4,eerste_divisie,61,51,2,1,4,1,,2018
+FC Eindhoven,Jong PSV,1-2,https://www.besoccer.com/match/fc-eindhoven/jong-psv/2018412056,2018,4,eerste_divisie,54,54,2,0,1,0,,2018
+Go Ahead Eagles,FC Volendam,1-1,https://www.besoccer.com/match/go-ahead-eagles/fc-volendam/2018412057,2018,4,eerste_divisie,52,57,1,0,2,0,,2018
+Den Bosch,NEC Nijmegen,3-0,https://www.besoccer.com/match/fc-den-bosch/nec/2018412058,2018,4,eerste_divisie,53,61,2,0,3,0,,2018
+De Graafschap,MVV Maastricht,1-2,https://www.besoccer.com/match/graafschap/mvv/2018412059,2018,4,eerste_divisie,56,54,1,0,4,0,,2018
+TOP Oss,Dordrecht,3-1,https://www.besoccer.com/match/fc-oss/fc-dordrecht/2018412060,2018,4,eerste_divisie,45,51,2,0,1,0,,2018
+Almere City,Helmond Sport,3-1,https://www.besoccer.com/match/almere-city/helmond-sport/2018412061,2018,4,eerste_divisie,47,52,4,0,0,0,,2018
+Emmen,Fortuna Sittard,0-0,https://www.besoccer.com/match/emmen/fortuna-sittard/2018412062,2018,4,eerste_divisie,52,46,2,1,1,1,,2018
+Jong Ajax,RKC Waalwijk,1-1,https://www.besoccer.com/match/jong-ajax/rkc-waalwijk/2018412063,2018,4,eerste_divisie,55,53,2,0,1,0,,2018
+Jong AZ,SC Telstar,2-2,https://www.besoccer.com/match/az-alkmaar-sub23/stormvogels-telstar/2018412064,2018,4,eerste_divisie,44,47,2,0,3,0,,2018
+Jong Utrecht,De Graafschap,1-4,https://www.besoccer.com/match/jong-utrecht/graafschap/2018412065,2018,5,eerste_divisie,51,56,2,0,1,0,,2018
+Dordrecht,Almere City,1-1,https://www.besoccer.com/match/fc-dordrecht/almere-city/2018412066,2018,5,eerste_divisie,51,47,1,0,2,0,,2018
+RKC Waalwijk,FC Eindhoven,0-1,https://www.besoccer.com/match/rkc-waalwijk/fc-eindhoven/2018412067,2018,5,eerste_divisie,53,54,3,0,3,0,,2018
+MVV Maastricht,Jong PSV,0-0,https://www.besoccer.com/match/mvv/jong-psv/2018412068,2018,5,eerste_divisie,54,54,2,0,1,0,,2018
+Go Ahead Eagles,Cambuur,1-3,https://www.besoccer.com/match/go-ahead-eagles/sc-cambuur-leeuwarden/2018412069,2018,5,eerste_divisie,52,61,4,0,3,0,,2018
+Fortuna Sittard,FC Volendam,1-0,https://www.besoccer.com/match/fortuna-sittard/fc-volendam/2018412070,2018,5,eerste_divisie,46,57,1,0,4,0,,2018
+NEC Nijmegen,Emmen,1-1,https://www.besoccer.com/match/nec/emmen/2018412071,2018,5,eerste_divisie,61,52,0,0,1,0,,2018
+SC Telstar,Den Bosch,3-2,https://www.besoccer.com/match/stormvogels-telstar/fc-den-bosch/2018412073,2018,5,eerste_divisie,47,53,1,0,1,0,,2018
+Helmond Sport,Jong Ajax,1-4,https://www.besoccer.com/match/helmond-sport/jong-ajax/2018412074,2018,5,eerste_divisie,52,55,3,0,0,0,,2018
+TOP Oss,Jong AZ,2-1,https://www.besoccer.com/match/fc-oss/az-alkmaar-sub23/2018412072,2018,5,eerste_divisie,45,44,0,0,1,0,,2018
+FC Volendam,De Graafschap,0-0,https://www.besoccer.com/match/fc-volendam/graafschap/2018412075,2018,6,eerste_divisie,57,56,3,0,2,0,,2018
+RKC Waalwijk,Jong Utrecht,2-2,https://www.besoccer.com/match/rkc-waalwijk/jong-utrecht/2018412076,2018,6,eerste_divisie,53,50,4,0,1,0,,2018
+MVV Maastricht,Cambuur,1-1,https://www.besoccer.com/match/mvv/sc-cambuur-leeuwarden/2018412077,2018,6,eerste_divisie,55,60,4,1,2,1,,2018
+FC Eindhoven,Den Bosch,0-1,https://www.besoccer.com/match/fc-eindhoven/fc-den-bosch/2018412078,2018,6,eerste_divisie,54,53,1,0,2,0,,2018
+Fortuna Sittard,Jong AZ,5-1,https://www.besoccer.com/match/fortuna-sittard/az-alkmaar-sub23/2018412079,2018,6,eerste_divisie,46,44,0,0,4,0,,2018
+Almere City,TOP Oss,2-2,https://www.besoccer.com/match/almere-city/fc-oss/2018412080,2018,6,eerste_divisie,47,45,1,0,0,0,,2018
+Helmond Sport,Dordrecht,1-2,https://www.besoccer.com/match/helmond-sport/fc-dordrecht/2018412081,2018,6,eerste_divisie,52,51,2,1,3,1,,2018
+Emmen,Go Ahead Eagles,0-0,https://www.besoccer.com/match/emmen/go-ahead-eagles/2018412082,2018,6,eerste_divisie,52,52,1,0,0,0,,2018
+Jong PSV,NEC Nijmegen,3-3,https://www.besoccer.com/match/jong-psv/nec/2018412083,2018,6,eerste_divisie,54,61,2,1,2,1,,2018
+Jong Ajax,SC Telstar,1-1,https://www.besoccer.com/match/jong-ajax/stormvogels-telstar/2018412084,2018,6,eerste_divisie,55,47,0,0,3,0,,2018
+Cambuur,RKC Waalwijk,1-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/rkc-waalwijk/2018412085,2018,7,eerste_divisie,60,53,2,0,4,0,,2018
+Jong Utrecht,Helmond Sport,0-0,https://www.besoccer.com/match/jong-utrecht/helmond-sport/2018412086,2018,7,eerste_divisie,50,52,2,0,0,0,,2018
+Dordrecht,FC Volendam,2-2,https://www.besoccer.com/match/fc-dordrecht/fc-volendam/2018412087,2018,7,eerste_divisie,51,57,1,0,1,0,,2018
+Go Ahead Eagles,Almere City,2-1,https://www.besoccer.com/match/go-ahead-eagles/almere-city/2018412088,2018,7,eerste_divisie,52,47,3,0,2,0,,2018
+Den Bosch,Jong PSV,5-0,https://www.besoccer.com/match/fc-den-bosch/jong-psv/2018412089,2018,7,eerste_divisie,53,54,4,0,4,0,,2018
+De Graafschap,Emmen,2-2,https://www.besoccer.com/match/graafschap/emmen/2018412090,2018,7,eerste_divisie,56,52,4,0,4,0,,2018
+NEC Nijmegen,MVV Maastricht,4-1,https://www.besoccer.com/match/nec/mvv/2018412091,2018,7,eerste_divisie,61,55,1,0,1,0,,2018
+TOP Oss,Jong Ajax,0-3,https://www.besoccer.com/match/fc-oss/jong-ajax/2018412092,2018,7,eerste_divisie,45,55,4,0,1,0,,2018
+SC Telstar,Fortuna Sittard,0-6,https://www.besoccer.com/match/stormvogels-telstar/fortuna-sittard/2018412093,2018,7,eerste_divisie,47,46,1,0,2,0,,2018
+Jong AZ,FC Eindhoven,1-2,https://www.besoccer.com/match/az-alkmaar-sub23/fc-eindhoven/2018412094,2018,7,eerste_divisie,44,54,2,0,2,0,,2018
+FC Volendam,SC Telstar,3-4,https://www.besoccer.com/match/fc-volendam/stormvogels-telstar/2018412095,2018,8,eerste_divisie,57,47,3,0,4,0,,2018
+Dordrecht,FC Eindhoven,4-3,https://www.besoccer.com/match/fc-dordrecht/fc-eindhoven/2018412096,2018,8,eerste_divisie,51,54,2,0,6,0,,2018
+Jong PSV,Jong AZ,1-2,https://www.besoccer.com/match/jong-psv/az-alkmaar-sub23/2018412098,2018,8,eerste_divisie,54,44,0,0,0,0,,2018
+Fortuna Sittard,NEC Nijmegen,1-2,https://www.besoccer.com/match/fortuna-sittard/nec/2018412099,2018,8,eerste_divisie,46,61,1,0,3,0,,2018
+Jong Ajax,Jong Utrecht,2-1,https://www.besoccer.com/match/jong-ajax/jong-utrecht/2018412100,2018,8,eerste_divisie,55,50,0,0,1,0,,2018
+TOP Oss,Go Ahead Eagles,1-6,https://www.besoccer.com/match/fc-oss/go-ahead-eagles/2018412101,2018,8,eerste_divisie,45,52,4,0,0,0,,2018
+Almere City,MVV Maastricht,3-2,https://www.besoccer.com/match/almere-city/mvv/2018412102,2018,8,eerste_divisie,47,55,1,0,0,0,,2018
+Helmond Sport,De Graafschap,0-2,https://www.besoccer.com/match/helmond-sport/graafschap/2018412103,2018,8,eerste_divisie,52,56,0,0,0,0,,2018
+Emmen,Cambuur,2-0,https://www.besoccer.com/match/emmen/sc-cambuur-leeuwarden/2018412104,2018,8,eerste_divisie,52,60,0,0,0,0,,2018
+RKC Waalwijk,Den Bosch,1-1,https://www.besoccer.com/match/rkc-waalwijk/fc-den-bosch/2018412097,2018,8,eerste_divisie,53,53,2,0,3,0,,2018
+Cambuur,TOP Oss,1-3,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-oss/2018412105,2018,9,eerste_divisie,60,45,1,0,1,0,,2018
+MVV Maastricht,Fortuna Sittard,1-2,https://www.besoccer.com/match/mvv/fortuna-sittard/2018412106,2018,9,eerste_divisie,55,46,1,0,4,0,,2018
+FC Eindhoven,FC Volendam,1-0,https://www.besoccer.com/match/fc-eindhoven/fc-volendam/2018412107,2018,9,eerste_divisie,53,57,0,0,1,0,,2018
+Den Bosch,Jong Utrecht,1-0,https://www.besoccer.com/match/fc-den-bosch/jong-utrecht/2018412108,2018,9,eerste_divisie,53,50,1,0,3,0,,2018
+NEC Nijmegen,RKC Waalwijk,2-0,https://www.besoccer.com/match/nec/rkc-waalwijk/2018412109,2018,9,eerste_divisie,61,53,0,0,1,0,,2018
+SC Telstar,Dordrecht,3-0,https://www.besoccer.com/match/stormvogels-telstar/fc-dordrecht/2018412110,2018,9,eerste_divisie,47,51,2,1,3,1,,2018
+Emmen,Jong PSV,3-1,https://www.besoccer.com/match/emmen/jong-psv/2018412111,2018,9,eerste_divisie,52,54,2,0,1,0,,2018
+De Graafschap,Go Ahead Eagles,1-1,https://www.besoccer.com/match/graafschap/go-ahead-eagles/2018412112,2018,9,eerste_divisie,56,52,0,0,1,0,,2018
+Jong Ajax,Almere City,3-0,https://www.besoccer.com/match/jong-ajax/almere-city/2018412113,2018,9,eerste_divisie,55,47,2,0,0,0,,2018
+Jong AZ,Helmond Sport,1-3,https://www.besoccer.com/match/az-alkmaar-sub23/helmond-sport/2018412114,2018,9,eerste_divisie,44,52,0,0,3,0,,2018
+Jong Utrecht,MVV Maastricht,2-1,https://www.besoccer.com/match/jong-utrecht/mvv/2018412115,2018,10,eerste_divisie,50,55,1,0,2,0,,2018
+FC Volendam,NEC Nijmegen,0-2,https://www.besoccer.com/match/fc-volendam/nec/2018412116,2018,10,eerste_divisie,57,61,1,0,0,0,,2018
+Dordrecht,De Graafschap,1-1,https://www.besoccer.com/match/fc-dordrecht/graafschap/2018412117,2018,10,eerste_divisie,51,56,3,0,1,0,,2018
+Jong PSV,RKC Waalwijk,3-2,https://www.besoccer.com/match/jong-psv/rkc-waalwijk/2018412118,2018,10,eerste_divisie,54,53,1,0,2,0,,2018
+Go Ahead Eagles,Jong Ajax,4-1,https://www.besoccer.com/match/go-ahead-eagles/jong-ajax/2018412119,2018,10,eerste_divisie,52,55,1,0,0,0,,2018
+Fortuna Sittard,FC Eindhoven,2-2,https://www.besoccer.com/match/fortuna-sittard/fc-eindhoven/2018412120,2018,10,eerste_divisie,47,54,2,0,1,0,,2018
+TOP Oss,Den Bosch,1-1,https://www.besoccer.com/match/fc-oss/fc-den-bosch/2018412121,2018,10,eerste_divisie,45,53,1,0,2,0,,2018
+Almere City,Cambuur,1-1,https://www.besoccer.com/match/almere-city/sc-cambuur-leeuwarden/2018412122,2018,10,eerste_divisie,48,61,1,0,1,0,,2018
+Helmond Sport,SC Telstar,1-2,https://www.besoccer.com/match/helmond-sport/stormvogels-telstar/2018412123,2018,10,eerste_divisie,51,46,0,0,0,0,,2018
+Jong AZ,Emmen,2-1,https://www.besoccer.com/match/az-alkmaar-sub23/emmen/2018412124,2018,10,eerste_divisie,44,52,2,0,1,0,,2018
+Cambuur,Jong PSV,0-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/jong-psv/2018412125,2018,11,eerste_divisie,61,54,0,0,4,0,,2018
+RKC Waalwijk,Dordrecht,1-0,https://www.besoccer.com/match/rkc-waalwijk/fc-dordrecht/2018412126,2018,11,eerste_divisie,53,51,4,0,1,0,,2018
+FC Eindhoven,Jong Ajax,2-3,https://www.besoccer.com/match/fc-eindhoven/jong-ajax/2018412128,2018,11,eerste_divisie,54,55,1,0,4,0,,2018
+Go Ahead Eagles,Jong AZ,2-1,https://www.besoccer.com/match/go-ahead-eagles/az-alkmaar-sub23/2018412129,2018,11,eerste_divisie,52,44,0,0,3,0,,2018
+Den Bosch,Helmond Sport,2-2,https://www.besoccer.com/match/fc-den-bosch/helmond-sport/2018412130,2018,11,eerste_divisie,53,51,3,0,4,0,,2018
+De Graafschap,Fortuna Sittard,2-0,https://www.besoccer.com/match/graafschap/fortuna-sittard/2018412131,2018,11,eerste_divisie,56,47,3,0,3,0,,2018
+NEC Nijmegen,Jong Utrecht,3-1,https://www.besoccer.com/match/nec/jong-utrecht/2018412132,2018,11,eerste_divisie,61,50,3,0,2,0,,2018
+Emmen,TOP Oss,1-1,https://www.besoccer.com/match/emmen/fc-oss/2018412134,2018,11,eerste_divisie,52,45,1,0,1,0,,2018
+MVV Maastricht,FC Volendam,2-1,https://www.besoccer.com/match/mvv/fc-volendam/2018412127,2018,11,eerste_divisie,55,57,2,0,3,0,,2018
+SC Telstar,Almere City,4-0,https://www.besoccer.com/match/stormvogels-telstar/almere-city/2018412133,2018,11,eerste_divisie,46,48,2,0,0,0,,2018
+Jong Utrecht,FC Eindhoven,1-2,https://www.besoccer.com/match/jong-utrecht/fc-eindhoven/2018412135,2018,12,eerste_divisie,50,54,0,0,1,0,,2018
+FC Volendam,Jong PSV,1-0,https://www.besoccer.com/match/fc-volendam/jong-psv/2018412136,2018,12,eerste_divisie,57,54,1,0,1,0,,2018
+Dordrecht,Den Bosch,0-3,https://www.besoccer.com/match/fc-dordrecht/fc-den-bosch/2018412137,2018,12,eerste_divisie,51,53,4,0,1,0,,2018
+MVV Maastricht,RKC Waalwijk,0-0,https://www.besoccer.com/match/mvv/rkc-waalwijk/2018412138,2018,12,eerste_divisie,55,53,1,0,3,0,,2018
+Fortuna Sittard,TOP Oss,4-0,https://www.besoccer.com/match/fortuna-sittard/fc-oss/2018412139,2018,12,eerste_divisie,47,45,0,0,1,0,,2018
+NEC Nijmegen,Cambuur,3-1,https://www.besoccer.com/match/nec/sc-cambuur-leeuwarden/2018412140,2018,12,eerste_divisie,61,61,2,0,3,0,,2018
+Jong Ajax,De Graafschap,0-5,https://www.besoccer.com/match/jong-ajax/graafschap/2018412141,2018,12,eerste_divisie,56,56,3,1,2,1,,2018
+Almere City,Jong AZ,3-2,https://www.besoccer.com/match/almere-city/az-alkmaar-sub23/2018412142,2018,12,eerste_divisie,48,44,2,0,2,0,,2018
+SC Telstar,Go Ahead Eagles,3-1,https://www.besoccer.com/match/stormvogels-telstar/go-ahead-eagles/2018412143,2018,12,eerste_divisie,46,52,0,0,1,0,,2018
+Helmond Sport,Emmen,3-1,https://www.besoccer.com/match/helmond-sport/emmen/2018412144,2018,12,eerste_divisie,51,52,2,0,1,0,,2018
+Cambuur,Fortuna Sittard,1-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fortuna-sittard/2018412145,2018,13,eerste_divisie,60,47,2,1,2,1,,2018
+RKC Waalwijk,SC Telstar,4-1,https://www.besoccer.com/match/rkc-waalwijk/stormvogels-telstar/2018412146,2018,13,eerste_divisie,53,46,0,0,1,0,,2018
+FC Eindhoven,MVV Maastricht,3-2,https://www.besoccer.com/match/fc-eindhoven/mvv/2018412147,2018,13,eerste_divisie,54,54,4,0,2,0,,2018
+Go Ahead Eagles,Dordrecht,0-3,https://www.besoccer.com/match/go-ahead-eagles/fc-dordrecht/2018412148,2018,13,eerste_divisie,53,51,0,0,1,0,,2018
+Den Bosch,FC Volendam,3-1,https://www.besoccer.com/match/fc-den-bosch/fc-volendam/2018412149,2018,13,eerste_divisie,53,57,2,0,1,0,,2018
+De Graafschap,NEC Nijmegen,1-3,https://www.besoccer.com/match/graafschap/nec/2018412150,2018,13,eerste_divisie,56,61,2,0,1,0,,2018
+TOP Oss,Helmond Sport,0-0,https://www.besoccer.com/match/fc-oss/helmond-sport/2018412151,2018,13,eerste_divisie,45,51,2,0,1,0,,2018
+Emmen,Almere City,2-2,https://www.besoccer.com/match/emmen/almere-city/2018412152,2018,13,eerste_divisie,52,48,0,0,1,0,,2018
+Jong PSV,Jong Utrecht,2-0,https://www.besoccer.com/match/jong-psv/jong-utrecht/2018412153,2018,13,eerste_divisie,53,50,0,0,3,0,,2018
+Jong AZ,Jong Ajax,4-2,https://www.besoccer.com/match/az-alkmaar-sub23/jong-ajax/2018412154,2018,13,eerste_divisie,44,56,0,0,0,0,,2018
+Cambuur,Den Bosch,2-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-den-bosch/2018412155,2018,14,eerste_divisie,61,53,1,0,1,0,,2018
+Jong Utrecht,Almere City,2-4,https://www.besoccer.com/match/jong-utrecht/almere-city/2018412156,2018,14,eerste_divisie,50,48,0,0,1,0,,2018
+FC Volendam,Emmen,2-3,https://www.besoccer.com/match/fc-volendam/emmen/2018412157,2018,14,eerste_divisie,57,52,3,0,2,0,,2018
+Dordrecht,Jong AZ,3-2,https://www.besoccer.com/match/fc-dordrecht/az-alkmaar-sub23/2018412158,2018,14,eerste_divisie,51,44,0,0,3,0,,2018
+RKC Waalwijk,TOP Oss,2-1,https://www.besoccer.com/match/rkc-waalwijk/fc-oss/2018412159,2018,14,eerste_divisie,53,45,1,0,1,0,,2018
+Jong PSV,SC Telstar,6-0,https://www.besoccer.com/match/jong-psv/stormvogels-telstar/2018412160,2018,14,eerste_divisie,53,47,2,0,2,0,,2018
+MVV Maastricht,Helmond Sport,3-1,https://www.besoccer.com/match/mvv/helmond-sport/2018412161,2018,14,eerste_divisie,54,51,2,0,0,0,,2018
+Fortuna Sittard,Go Ahead Eagles,2-1,https://www.besoccer.com/match/fortuna-sittard/go-ahead-eagles/2018412162,2018,14,eerste_divisie,48,53,1,0,2,0,,2018
+De Graafschap,FC Eindhoven,4-0,https://www.besoccer.com/match/graafschap/fc-eindhoven/2018412163,2018,14,eerste_divisie,56,54,0,0,2,0,,2018
+NEC Nijmegen,Jong Ajax,2-1,https://www.besoccer.com/match/nec/jong-ajax/2018412164,2018,14,eerste_divisie,61,56,1,0,1,0,,2018
+FC Eindhoven,Cambuur,2-1,https://www.besoccer.com/match/fc-eindhoven/sc-cambuur-leeuwarden/2018412165,2018,15,eerste_divisie,54,61,3,0,3,0,,2018
+Go Ahead Eagles,Jong Utrecht,0-0,https://www.besoccer.com/match/go-ahead-eagles/jong-utrecht/2018412166,2018,15,eerste_divisie,53,50,0,0,0,0,,2018
+Den Bosch,De Graafschap,1-1,https://www.besoccer.com/match/fc-den-bosch/graafschap/2018412167,2018,15,eerste_divisie,53,56,3,0,4,0,,2018
+Jong Ajax,Dordrecht,3-0,https://www.besoccer.com/match/jong-ajax/fc-dordrecht/2018412168,2018,15,eerste_divisie,56,50,0,0,1,0,,2018
+TOP Oss,Jong PSV,0-3,https://www.besoccer.com/match/fc-oss/jong-psv/2018412169,2018,15,eerste_divisie,45,54,3,0,1,0,,2018
+Almere City,RKC Waalwijk,3-2,https://www.besoccer.com/match/almere-city/rkc-waalwijk/2018412170,2018,15,eerste_divisie,48,53,2,0,4,0,,2018
+SC Telstar,NEC Nijmegen,3-2,https://www.besoccer.com/match/stormvogels-telstar/nec/2018412171,2018,15,eerste_divisie,47,62,2,0,2,0,,2018
+Helmond Sport,Fortuna Sittard,1-3,https://www.besoccer.com/match/helmond-sport/fortuna-sittard/2018412172,2018,15,eerste_divisie,51,48,3,0,1,0,,2018
+Emmen,MVV Maastricht,2-1,https://www.besoccer.com/match/emmen/mvv/2018412173,2018,15,eerste_divisie,52,54,1,0,3,0,,2018
+Jong AZ,FC Volendam,0-2,https://www.besoccer.com/match/az-alkmaar-sub23/fc-volendam/2018412174,2018,15,eerste_divisie,44,57,2,0,1,0,,2018
+Cambuur,SC Telstar,2-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/stormvogels-telstar/2018412175,2018,16,eerste_divisie,61,47,4,0,2,0,,2018
+FC Volendam,Almere City,1-1,https://www.besoccer.com/match/fc-volendam/almere-city/2018412176,2018,16,eerste_divisie,57,48,0,1,3,1,,2018
+RKC Waalwijk,Helmond Sport,1-0,https://www.besoccer.com/match/rkc-waalwijk/helmond-sport/2018412177,2018,16,eerste_divisie,53,51,1,0,1,0,,2018
+MVV Maastricht,Jong Ajax,0-4,https://www.besoccer.com/match/mvv/jong-ajax/2018412178,2018,16,eerste_divisie,54,56,1,0,0,0,,2018
+FC Eindhoven,TOP Oss,1-3,https://www.besoccer.com/match/fc-eindhoven/fc-oss/2018412179,2018,16,eerste_divisie,54,45,2,1,2,1,,2018
+Den Bosch,Go Ahead Eagles,3-0,https://www.besoccer.com/match/fc-den-bosch/go-ahead-eagles/2018412180,2018,16,eerste_divisie,53,53,0,0,0,0,,2018
+De Graafschap,Jong AZ,1-0,https://www.besoccer.com/match/graafschap/az-alkmaar-sub23/2018412181,2018,16,eerste_divisie,56,44,2,0,2,0,,2018
+NEC Nijmegen,Dordrecht,6-0,https://www.besoccer.com/match/nec/fc-dordrecht/2018412182,2018,16,eerste_divisie,62,50,1,0,3,0,,2018
+Jong Utrecht,Emmen,1-2,https://www.besoccer.com/match/jong-utrecht/emmen/2018412183,2018,16,eerste_divisie,50,52,0,0,0,0,,2018
+Jong PSV,Fortuna Sittard,2-3,https://www.besoccer.com/match/jong-psv/fortuna-sittard/2018412184,2018,16,eerste_divisie,54,48,2,1,1,1,,2018
+FC Volendam,Jong Utrecht,2-1,https://www.besoccer.com/match/fc-volendam/jong-utrecht/2018412185,2018,17,eerste_divisie,57,50,0,1,0,1,,2018
+Dordrecht,MVV Maastricht,2-4,https://www.besoccer.com/match/fc-dordrecht/mvv/2018412186,2018,17,eerste_divisie,50,54,2,0,2,0,,2018
+Fortuna Sittard,RKC Waalwijk,6-0,https://www.besoccer.com/match/fortuna-sittard/rkc-waalwijk/2018412188,2018,17,eerste_divisie,48,53,1,0,3,0,,2018
+Almere City,De Graafschap,2-1,https://www.besoccer.com/match/almere-city/graafschap/2018412190,2018,17,eerste_divisie,48,56,0,0,2,0,,2018
+SC Telstar,Emmen,0-0,https://www.besoccer.com/match/stormvogels-telstar/emmen/2018412191,2018,17,eerste_divisie,47,52,1,0,2,0,,2018
+Go Ahead Eagles,Jong PSV,1-1,https://www.besoccer.com/match/go-ahead-eagles/jong-psv/2018412187,2018,17,eerste_divisie,52,54,1,0,1,0,,2018
+Helmond Sport,FC Eindhoven,0-0,https://www.besoccer.com/match/helmond-sport/fc-eindhoven/2018412192,2018,17,eerste_divisie,51,54,3,0,2,0,,2018
+Jong Ajax,Den Bosch,1-0,https://www.besoccer.com/match/jong-ajax/fc-den-bosch/2018412193,2018,17,eerste_divisie,55,53,0,0,1,0,,2018
+TOP Oss,NEC Nijmegen,3-0,https://www.besoccer.com/match/fc-oss/nec/2018412189,2018,17,eerste_divisie,45,62,1,1,0,1,,2018
+Jong AZ,Cambuur,0-1,https://www.besoccer.com/match/az-alkmaar-sub23/sc-cambuur-leeuwarden/2018412194,2018,17,eerste_divisie,44,60,0,0,0,0,,2018
+Cambuur,Dordrecht,3-0,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-dordrecht/2018412195,2018,18,eerste_divisie,60,50,1,0,0,0,,2018
+Jong Utrecht,SC Telstar,0-1,https://www.besoccer.com/match/jong-utrecht/stormvogels-telstar/2018412196,2018,18,eerste_divisie,50,47,1,0,2,0,,2018
+RKC Waalwijk,FC Volendam,1-3,https://www.besoccer.com/match/rkc-waalwijk/fc-volendam/2018412197,2018,18,eerste_divisie,53,56,1,0,2,0,,2018
+Jong PSV,Almere City,3-2,https://www.besoccer.com/match/jong-psv/almere-city/2018412198,2018,18,eerste_divisie,54,48,2,0,2,0,,2018
+MVV Maastricht,Jong AZ,3-0,https://www.besoccer.com/match/mvv/az-alkmaar-sub23/2018412199,2018,18,eerste_divisie,54,44,0,0,1,0,,2018
+FC Eindhoven,Go Ahead Eagles,3-2,https://www.besoccer.com/match/fc-eindhoven/go-ahead-eagles/2018412200,2018,18,eerste_divisie,54,52,2,0,1,0,,2018
+Den Bosch,Fortuna Sittard,2-4,https://www.besoccer.com/match/fc-den-bosch/fortuna-sittard/2018412201,2018,18,eerste_divisie,53,48,4,0,3,0,,2018
+De Graafschap,TOP Oss,1-1,https://www.besoccer.com/match/graafschap/fc-oss/2018412202,2018,18,eerste_divisie,56,45,1,0,5,0,,2018
+NEC Nijmegen,Helmond Sport,1-1,https://www.besoccer.com/match/nec/helmond-sport/2018412203,2018,18,eerste_divisie,62,51,1,0,1,0,,2018
+Emmen,Jong Ajax,2-2,https://www.besoccer.com/match/emmen/jong-ajax/2018412204,2018,18,eerste_divisie,52,55,3,0,2,0,,2018
+Dordrecht,Jong PSV,2-3,https://www.besoccer.com/match/fc-dordrecht/jong-psv/2018412205,2018,19,eerste_divisie,50,54,3,0,1,0,,2018
+Go Ahead Eagles,RKC Waalwijk,0-0,https://www.besoccer.com/match/go-ahead-eagles/rkc-waalwijk/2018412206,2018,19,eerste_divisie,52,53,2,0,2,0,,2018
+Jong Ajax,FC Volendam,7-0,https://www.besoccer.com/match/jong-ajax/fc-volendam/2018412208,2018,19,eerste_divisie,55,56,0,0,1,0,,2018
+TOP Oss,MVV Maastricht,1-0,https://www.besoccer.com/match/fc-oss/mvv/2018412209,2018,19,eerste_divisie,45,54,1,0,2,0,,2018
+Almere City,FC Eindhoven,5-1,https://www.besoccer.com/match/almere-city/fc-eindhoven/2018412210,2018,19,eerste_divisie,48,54,1,0,1,0,,2018
+SC Telstar,De Graafschap,3-2,https://www.besoccer.com/match/stormvogels-telstar/graafschap/2018412211,2018,19,eerste_divisie,47,56,2,0,3,0,,2018
+Helmond Sport,Cambuur,3-0,https://www.besoccer.com/match/helmond-sport/sc-cambuur-leeuwarden/2018412212,2018,19,eerste_divisie,51,60,2,0,2,0,,2018
+Emmen,Den Bosch,2-2,https://www.besoccer.com/match/emmen/fc-den-bosch/2018412213,2018,19,eerste_divisie,52,54,2,0,2,0,,2018
+Jong AZ,NEC Nijmegen,2-7,https://www.besoccer.com/match/az-alkmaar-sub23/nec/2018412214,2018,19,eerste_divisie,44,62,1,0,1,0,,2018
+Fortuna Sittard,Jong Utrecht,3-1,https://www.besoccer.com/match/fortuna-sittard/jong-utrecht/2018412207,2018,19,eerste_divisie,48,50,2,0,0,0,,2018
+Cambuur,De Graafschap,3-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/graafschap/2018412215,2018,20,eerste_divisie,60,56,1,0,2,0,,2018
+Jong Utrecht,Dordrecht,0-2,https://www.besoccer.com/match/jong-utrecht/fc-dordrecht/2018412216,2018,20,eerste_divisie,49,50,2,0,1,0,,2018
+FC Volendam,TOP Oss,3-1,https://www.besoccer.com/match/fc-volendam/fc-oss/2018412217,2018,20,eerste_divisie,56,45,1,0,0,0,,2018
+RKC Waalwijk,Jong AZ,1-0,https://www.besoccer.com/match/rkc-waalwijk/az-alkmaar-sub23/2018412218,2018,20,eerste_divisie,53,44,0,0,1,0,,2018
+Jong PSV,Helmond Sport,1-2,https://www.besoccer.com/match/jong-psv/helmond-sport/2018412219,2018,20,eerste_divisie,54,51,1,0,0,0,,2018
+MVV Maastricht,SC Telstar,0-0,https://www.besoccer.com/match/mvv/stormvogels-telstar/2018412220,2018,20,eerste_divisie,54,47,1,0,2,0,,2018
+FC Eindhoven,Emmen,2-1,https://www.besoccer.com/match/fc-eindhoven/emmen/2018412221,2018,20,eerste_divisie,53,52,2,0,3,0,,2018
+Den Bosch,Almere City,1-3,https://www.besoccer.com/match/fc-den-bosch/almere-city/2018412222,2018,20,eerste_divisie,54,48,1,0,1,0,,2018
+Fortuna Sittard,Jong Ajax,2-1,https://www.besoccer.com/match/fortuna-sittard/jong-ajax/2018412223,2018,20,eerste_divisie,49,55,3,0,3,0,,2018
+NEC Nijmegen,Go Ahead Eagles,5-1,https://www.besoccer.com/match/nec/go-ahead-eagles/2018412224,2018,20,eerste_divisie,62,52,1,0,1,0,,2018
+Dordrecht,Fortuna Sittard,3-0,https://www.besoccer.com/match/fc-dordrecht/fortuna-sittard/2018412225,2018,21,eerste_divisie,50,49,0,0,2,0,,2018
+Go Ahead Eagles,MVV Maastricht,3-1,https://www.besoccer.com/match/go-ahead-eagles/mvv/2018412226,2018,21,eerste_divisie,52,54,1,0,1,0,,2018
+De Graafschap,Jong PSV,2-3,https://www.besoccer.com/match/graafschap/jong-psv/2018412227,2018,21,eerste_divisie,56,54,1,0,1,0,,2018
+TOP Oss,Jong Utrecht,2-0,https://www.besoccer.com/match/fc-oss/jong-utrecht/2018412228,2018,21,eerste_divisie,45,49,1,0,1,0,,2018
+Almere City,NEC Nijmegen,3-2,https://www.besoccer.com/match/almere-city/nec/2018412229,2018,21,eerste_divisie,48,62,1,0,1,0,,2018
+SC Telstar,FC Eindhoven,4-1,https://www.besoccer.com/match/stormvogels-telstar/fc-eindhoven/2018412230,2018,21,eerste_divisie,47,53,1,0,2,0,,2018
+Helmond Sport,FC Volendam,1-4,https://www.besoccer.com/match/helmond-sport/fc-volendam/2018412231,2018,21,eerste_divisie,51,56,3,0,2,0,,2018
+Emmen,RKC Waalwijk,2-1,https://www.besoccer.com/match/emmen/rkc-waalwijk/2018412232,2018,21,eerste_divisie,52,53,0,0,0,0,,2018
+Jong Ajax,Cambuur,3-2,https://www.besoccer.com/match/jong-ajax/sc-cambuur-leeuwarden/2018412233,2018,21,eerste_divisie,56,60,0,0,2,0,,2018
+Jong AZ,Den Bosch,1-1,https://www.besoccer.com/match/az-alkmaar-sub23/fc-den-bosch/2018412234,2018,21,eerste_divisie,44,53,1,0,1,0,,2018
+Dordrecht,TOP Oss,2-0,https://www.besoccer.com/match/fc-dordrecht/fc-oss/2018412235,2018,22,eerste_divisie,50,45,1,1,1,1,,2018
+RKC Waalwijk,Jong Ajax,2-4,https://www.besoccer.com/match/rkc-waalwijk/jong-ajax/2018412236,2018,22,eerste_divisie,53,56,2,0,2,0,,2018
+MVV Maastricht,De Graafschap,1-3,https://www.besoccer.com/match/mvv/graafschap/2018412237,2018,22,eerste_divisie,54,56,6,0,2,0,,2018
+Fortuna Sittard,Emmen,1-2,https://www.besoccer.com/match/fortuna-sittard/emmen/2018412238,2018,22,eerste_divisie,49,52,2,0,1,0,,2018
+NEC Nijmegen,Den Bosch,1-0,https://www.besoccer.com/match/nec/fc-den-bosch/2018412239,2018,22,eerste_divisie,62,53,2,0,2,0,,2018
+SC Telstar,Jong AZ,2-1,https://www.besoccer.com/match/stormvogels-telstar/az-alkmaar-sub23/2018412240,2018,22,eerste_divisie,47,44,2,0,6,0,,2018
+Helmond Sport,Almere City,1-2,https://www.besoccer.com/match/helmond-sport/almere-city/2018412241,2018,22,eerste_divisie,51,48,3,1,0,1,,2018
+Jong Utrecht,Cambuur,1-3,https://www.besoccer.com/match/jong-utrecht/sc-cambuur-leeuwarden/2018412243,2018,22,eerste_divisie,49,60,1,0,1,0,,2018
+FC Volendam,Go Ahead Eagles,4-3,https://www.besoccer.com/match/fc-volendam/go-ahead-eagles/2018412242,2018,22,eerste_divisie,56,52,3,0,2,0,,2018
+Jong PSV,FC Eindhoven,4-1,https://www.besoccer.com/match/jong-psv/fc-eindhoven/2018412244,2018,22,eerste_divisie,54,53,0,0,0,0,,2018
+Cambuur,Go Ahead Eagles,2-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/go-ahead-eagles/2018412245,2018,23,eerste_divisie,60,52,1,0,1,0,,2018
+FC Volendam,Fortuna Sittard,2-0,https://www.besoccer.com/match/fc-volendam/fortuna-sittard/2018412246,2018,23,eerste_divisie,56,49,1,0,1,0,,2018
+FC Eindhoven,RKC Waalwijk,3-1,https://www.besoccer.com/match/fc-eindhoven/rkc-waalwijk/2018412247,2018,23,eerste_divisie,53,53,3,0,1,0,,2018
+Den Bosch,SC Telstar,3-2,https://www.besoccer.com/match/fc-den-bosch/stormvogels-telstar/2018412248,2018,23,eerste_divisie,53,47,4,0,3,0,,2018
+De Graafschap,Jong Utrecht,7-0,https://www.besoccer.com/match/graafschap/jong-utrecht/2018412249,2018,23,eerste_divisie,56,49,1,0,2,0,,2018
+Almere City,Dordrecht,1-2,https://www.besoccer.com/match/almere-city/fc-dordrecht/2018412250,2018,23,eerste_divisie,48,50,3,0,2,0,,2018
+Emmen,NEC Nijmegen,1-0,https://www.besoccer.com/match/emmen/nec/2018412251,2018,23,eerste_divisie,52,62,0,0,3,0,,2018
+Jong PSV,MVV Maastricht,1-0,https://www.besoccer.com/match/jong-psv/mvv/2018412252,2018,23,eerste_divisie,54,54,0,0,2,0,,2018
+Jong Ajax,Helmond Sport,2-0,https://www.besoccer.com/match/jong-ajax/helmond-sport/2018412253,2018,23,eerste_divisie,56,51,2,0,2,0,,2018
+Jong AZ,TOP Oss,3-1,https://www.besoccer.com/match/az-alkmaar-sub23/fc-oss/2018412254,2018,23,eerste_divisie,44,46,0,0,1,0,,2018
+NEC Nijmegen,Jong PSV,2-0,https://www.besoccer.com/match/nec/jong-psv/2018412260,2018,24,eerste_divisie,63,54,1,0,0,0,,2018
+Cambuur,MVV Maastricht,0-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/mvv/2018412255,2018,24,eerste_divisie,60,54,0,0,4,0,,2018
+Den Bosch,FC Eindhoven,4-0,https://www.besoccer.com/match/fc-den-bosch/fc-eindhoven/2018412258,2018,24,eerste_divisie,53,53,1,0,1,0,,2018
+De Graafschap,FC Volendam,2-1,https://www.besoccer.com/match/graafschap/fc-volendam/2018412259,2018,24,eerste_divisie,55,55,0,0,0,0,,2018
+TOP Oss,Almere City,5-1,https://www.besoccer.com/match/fc-oss/almere-city/2018412261,2018,24,eerste_divisie,46,48,0,0,1,0,,2018
+SC Telstar,Jong Ajax,3-3,https://www.besoccer.com/match/stormvogels-telstar/jong-ajax/2018412262,2018,24,eerste_divisie,48,56,1,0,1,0,,2018
+Jong Utrecht,RKC Waalwijk,5-2,https://www.besoccer.com/match/jong-utrecht/rkc-waalwijk/2018412263,2018,24,eerste_divisie,49,53,0,0,3,0,,2018
+Dordrecht,Helmond Sport,3-2,https://www.besoccer.com/match/fc-dordrecht/helmond-sport/2018412256,2018,24,eerste_divisie,51,51,3,0,3,0,,2018
+Go Ahead Eagles,Emmen,0-1,https://www.besoccer.com/match/go-ahead-eagles/emmen/2018412257,2018,24,eerste_divisie,52,52,2,0,2,0,,2018
+Jong AZ,Fortuna Sittard,2-0,https://www.besoccer.com/match/az-alkmaar-sub23/fortuna-sittard/2018412264,2018,24,eerste_divisie,43,49,3,0,0,0,,2018
+FC Volendam,Dordrecht,4-1,https://www.besoccer.com/match/fc-volendam/fc-dordrecht/2018412265,2018,25,eerste_divisie,55,52,0,0,0,0,,2018
+RKC Waalwijk,Cambuur,0-0,https://www.besoccer.com/match/rkc-waalwijk/sc-cambuur-leeuwarden/2018412266,2018,25,eerste_divisie,53,61,2,1,1,1,,2018
+MVV Maastricht,NEC Nijmegen,4-1,https://www.besoccer.com/match/mvv/nec/2018412267,2018,25,eerste_divisie,54,63,0,0,3,0,,2018
+FC Eindhoven,Jong AZ,1-3,https://www.besoccer.com/match/fc-eindhoven/az-alkmaar-sub23/2018412268,2018,25,eerste_divisie,53,43,1,0,2,0,,2018
+Fortuna Sittard,SC Telstar,1-1,https://www.besoccer.com/match/fortuna-sittard/stormvogels-telstar/2018412269,2018,25,eerste_divisie,49,48,1,0,1,0,,2018
+Almere City,Go Ahead Eagles,2-0,https://www.besoccer.com/match/almere-city/go-ahead-eagles/2018412270,2018,25,eerste_divisie,49,51,1,0,1,0,,2018
+Helmond Sport,Jong Utrecht,2-0,https://www.besoccer.com/match/helmond-sport/jong-utrecht/2018412271,2018,25,eerste_divisie,51,49,4,0,2,0,,2018
+Emmen,De Graafschap,5-2,https://www.besoccer.com/match/emmen/graafschap/2018412272,2018,25,eerste_divisie,52,55,1,0,2,0,,2018
+Jong PSV,Den Bosch,2-1,https://www.besoccer.com/match/jong-psv/fc-den-bosch/2018412273,2018,25,eerste_divisie,54,53,1,0,0,0,,2018
+Jong Ajax,TOP Oss,2-0,https://www.besoccer.com/match/jong-ajax/fc-oss/2018412274,2018,25,eerste_divisie,56,46,0,0,1,0,,2018
+Cambuur,Emmen,1-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/emmen/2018412275,2018,26,eerste_divisie,60,52,1,0,2,0,,2018
+MVV Maastricht,Almere City,3-0,https://www.besoccer.com/match/mvv/almere-city/2018412276,2018,26,eerste_divisie,54,49,1,0,1,0,,2018
+FC Eindhoven,Dordrecht,0-1,https://www.besoccer.com/match/fc-eindhoven/fc-dordrecht/2018412277,2018,26,eerste_divisie,53,52,2,0,0,0,,2018
+Go Ahead Eagles,TOP Oss,2-1,https://www.besoccer.com/match/go-ahead-eagles/fc-oss/2018412278,2018,26,eerste_divisie,52,46,1,0,1,0,,2018
+Den Bosch,RKC Waalwijk,0-0,https://www.besoccer.com/match/fc-den-bosch/rkc-waalwijk/2018412279,2018,26,eerste_divisie,53,53,2,1,3,1,,2018
+De Graafschap,Helmond Sport,1-0,https://www.besoccer.com/match/graafschap/helmond-sport/2018412280,2018,26,eerste_divisie,55,51,0,0,2,0,,2018
+NEC Nijmegen,Fortuna Sittard,1-1,https://www.besoccer.com/match/nec/fortuna-sittard/2018412281,2018,26,eerste_divisie,63,49,2,0,2,0,,2018
+SC Telstar,FC Volendam,5-2,https://www.besoccer.com/match/stormvogels-telstar/fc-volendam/2018412282,2018,26,eerste_divisie,48,55,0,0,0,0,,2018
+Jong Utrecht,Jong Ajax,2-1,https://www.besoccer.com/match/jong-utrecht/jong-ajax/2018412283,2018,26,eerste_divisie,48,57,1,0,3,0,,2018
+Jong AZ,Jong PSV,2-1,https://www.besoccer.com/match/az-alkmaar-sub23/jong-psv/2018412284,2018,26,eerste_divisie,43,54,0,0,1,0,,2018
+FC Volendam,FC Eindhoven,3-2,https://www.besoccer.com/match/fc-volendam/fc-eindhoven/2018412285,2018,27,eerste_divisie,56,53,0,0,1,0,,2018
+Dordrecht,SC Telstar,2-3,https://www.besoccer.com/match/fc-dordrecht/stormvogels-telstar/2018412286,2018,27,eerste_divisie,52,48,1,0,1,0,,2018
+RKC Waalwijk,NEC Nijmegen,0-2,https://www.besoccer.com/match/rkc-waalwijk/nec/2018412287,2018,27,eerste_divisie,53,63,3,1,0,1,,2018
+TOP Oss,Cambuur,2-1,https://www.besoccer.com/match/fc-oss/sc-cambuur-leeuwarden/2018412289,2018,27,eerste_divisie,46,61,0,0,2,0,,2018
+Almere City,Jong Ajax,1-2,https://www.besoccer.com/match/almere-city/jong-ajax/2018412290,2018,27,eerste_divisie,49,57,3,0,0,0,,2018
+Helmond Sport,Jong AZ,3-0,https://www.besoccer.com/match/helmond-sport/az-alkmaar-sub23/2018412291,2018,27,eerste_divisie,51,43,1,0,2,0,,2018
+Go Ahead Eagles,De Graafschap,0-4,https://www.besoccer.com/match/go-ahead-eagles/graafschap/2018412292,2018,27,eerste_divisie,51,56,2,0,2,0,,2018
+Fortuna Sittard,MVV Maastricht,3-0,https://www.besoccer.com/match/fortuna-sittard/mvv/2018412288,2018,27,eerste_divisie,49,54,4,0,3,0,,2018
+Jong Utrecht,Den Bosch,1-1,https://www.besoccer.com/match/jong-utrecht/fc-den-bosch/2018412293,2018,27,eerste_divisie,48,53,1,0,3,0,,2018
+Jong PSV,Emmen,1-1,https://www.besoccer.com/match/jong-psv/emmen/2018412294,2018,27,eerste_divisie,54,52,1,0,2,0,,2018
+Cambuur,Almere City,2-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/almere-city/2018412295,2018,28,eerste_divisie,61,49,1,0,2,0,,2018
+RKC Waalwijk,Jong PSV,3-2,https://www.besoccer.com/match/rkc-waalwijk/jong-psv/2018412296,2018,28,eerste_divisie,52,54,2,0,0,0,,2018
+MVV Maastricht,Jong Utrecht,3-1,https://www.besoccer.com/match/mvv/jong-utrecht/2018412297,2018,28,eerste_divisie,54,48,2,0,1,0,,2018
+FC Eindhoven,Fortuna Sittard,1-3,https://www.besoccer.com/match/fc-eindhoven/fortuna-sittard/2018412298,2018,28,eerste_divisie,53,49,4,0,1,0,,2018
+Den Bosch,TOP Oss,0-0,https://www.besoccer.com/match/fc-den-bosch/fc-oss/2018412299,2018,28,eerste_divisie,53,46,1,0,1,0,,2018
+De Graafschap,Dordrecht,0-1,https://www.besoccer.com/match/graafschap/fc-dordrecht/2018412300,2018,28,eerste_divisie,56,52,1,0,3,0,,2018
+NEC Nijmegen,FC Volendam,3-0,https://www.besoccer.com/match/nec/fc-volendam/2018412301,2018,28,eerste_divisie,63,56,0,0,0,0,,2018
+Jong Ajax,Go Ahead Eagles,0-2,https://www.besoccer.com/match/jong-ajax/go-ahead-eagles/2018412302,2018,28,eerste_divisie,57,51,1,1,1,1,,2018
+SC Telstar,Helmond Sport,2-3,https://www.besoccer.com/match/stormvogels-telstar/helmond-sport/2018412303,2018,28,eerste_divisie,48,51,0,0,1,0,,2018
+Emmen,Jong AZ,0-2,https://www.besoccer.com/match/emmen/az-alkmaar-sub23/2018412304,2018,28,eerste_divisie,52,44,1,0,1,0,,2018
+Jong Utrecht,NEC Nijmegen,0-2,https://www.besoccer.com/match/jong-utrecht/nec/2018412305,2018,29,eerste_divisie,48,63,1,0,0,0,,2018
+FC Volendam,MVV Maastricht,2-2,https://www.besoccer.com/match/fc-volendam/mvv/2018412306,2018,29,eerste_divisie,56,54,0,0,0,0,,2018
+Dordrecht,RKC Waalwijk,1-0,https://www.besoccer.com/match/fc-dordrecht/rkc-waalwijk/2018412307,2018,29,eerste_divisie,52,52,3,0,3,0,,2018
+Jong PSV,Cambuur,1-1,https://www.besoccer.com/match/jong-psv/sc-cambuur-leeuwarden/2018412308,2018,29,eerste_divisie,54,60,3,0,2,0,,2018
+Fortuna Sittard,De Graafschap,1-1,https://www.besoccer.com/match/fortuna-sittard/graafschap/2018412309,2018,29,eerste_divisie,49,56,3,0,2,0,,2018
+Jong Ajax,FC Eindhoven,4-0,https://www.besoccer.com/match/jong-ajax/fc-eindhoven/2018412310,2018,29,eerste_divisie,57,53,0,0,1,0,,2018
+TOP Oss,Emmen,2-3,https://www.besoccer.com/match/fc-oss/emmen/2018412311,2018,29,eerste_divisie,46,52,1,0,1,0,,2018
+Almere City,SC Telstar,2-3,https://www.besoccer.com/match/almere-city/stormvogels-telstar/2018412312,2018,29,eerste_divisie,49,48,0,0,1,0,,2018
+Helmond Sport,Den Bosch,3-1,https://www.besoccer.com/match/helmond-sport/fc-den-bosch/2018412313,2018,29,eerste_divisie,51,53,0,0,3,0,,2018
+Jong AZ,Go Ahead Eagles,0-0,https://www.besoccer.com/match/az-alkmaar-sub23/go-ahead-eagles/2018412314,2018,29,eerste_divisie,44,51,0,0,1,0,,2018
+Cambuur,NEC Nijmegen,1-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/nec/2018412315,2018,30,eerste_divisie,60,63,1,0,1,0,,2018
+RKC Waalwijk,MVV Maastricht,1-1,https://www.besoccer.com/match/rkc-waalwijk/mvv/2018412316,2018,30,eerste_divisie,52,54,2,0,1,0,,2018
+Jong PSV,FC Volendam,2-1,https://www.besoccer.com/match/jong-psv/fc-volendam/2018412317,2018,30,eerste_divisie,54,56,1,0,1,0,,2018
+FC Eindhoven,Jong Utrecht,5-2,https://www.besoccer.com/match/fc-eindhoven/jong-utrecht/2018412318,2018,30,eerste_divisie,53,48,1,0,2,0,,2018
+Go Ahead Eagles,SC Telstar,1-1,https://www.besoccer.com/match/go-ahead-eagles/stormvogels-telstar/2018412319,2018,30,eerste_divisie,51,48,2,0,2,0,,2018
+Den Bosch,Dordrecht,4-1,https://www.besoccer.com/match/fc-den-bosch/fc-dordrecht/2018412320,2018,30,eerste_divisie,53,52,2,0,3,0,,2018
+De Graafschap,Jong Ajax,2-4,https://www.besoccer.com/match/graafschap/jong-ajax/2018412321,2018,30,eerste_divisie,56,57,4,2,2,2,,2018
+TOP Oss,Fortuna Sittard,1-2,https://www.besoccer.com/match/fc-oss/fortuna-sittard/2018412322,2018,30,eerste_divisie,46,48,3,0,1,0,,2018
+Emmen,Helmond Sport,0-0,https://www.besoccer.com/match/emmen/helmond-sport/2018412323,2018,30,eerste_divisie,52,51,0,0,1,0,,2018
+Jong AZ,Almere City,4-1,https://www.besoccer.com/match/az-alkmaar-sub23/almere-city/2018412324,2018,30,eerste_divisie,44,49,0,0,0,0,,2018
+Jong Utrecht,Jong PSV,1-4,https://www.besoccer.com/match/jong-utrecht/jong-psv/2018412325,2018,31,eerste_divisie,48,54,2,0,2,0,,2018
+MVV Maastricht,FC Eindhoven,2-0,https://www.besoccer.com/match/mvv/fc-eindhoven/2018412327,2018,31,eerste_divisie,54,53,1,0,2,0,,2018
+Fortuna Sittard,Cambuur,3-2,https://www.besoccer.com/match/fortuna-sittard/sc-cambuur-leeuwarden/2018412328,2018,31,eerste_divisie,48,60,2,0,1,0,,2018
+NEC Nijmegen,De Graafschap,1-1,https://www.besoccer.com/match/nec/graafschap/2018412329,2018,31,eerste_divisie,63,55,0,0,0,0,,2018
+Helmond Sport,TOP Oss,2-1,https://www.besoccer.com/match/helmond-sport/fc-oss/2018412333,2018,31,eerste_divisie,51,46,2,0,1,0,,2018
+SC Telstar,RKC Waalwijk,0-0,https://www.besoccer.com/match/stormvogels-telstar/rkc-waalwijk/2018412332,2018,31,eerste_divisie,48,52,1,0,3,0,,2018
+Dordrecht,Go Ahead Eagles,1-2,https://www.besoccer.com/match/fc-dordrecht/go-ahead-eagles/2018412326,2018,31,eerste_divisie,52,51,0,0,1,0,,2018
+Jong Ajax,Jong AZ,0-1,https://www.besoccer.com/match/jong-ajax/az-alkmaar-sub23/2018412330,2018,31,eerste_divisie,57,44,1,0,2,0,,2018
+Almere City,Emmen,2-2,https://www.besoccer.com/match/almere-city/emmen/2018412331,2018,31,eerste_divisie,49,52,2,0,1,0,,2018
+FC Volendam,Den Bosch,1-0,https://www.besoccer.com/match/fc-volendam/fc-den-bosch/2018412334,2018,31,eerste_divisie,56,53,3,0,2,0,,2018
+Cambuur,FC Volendam,2-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-volendam/2018412335,2018,32,eerste_divisie,60,56,1,0,0,0,,2018
+FC Eindhoven,NEC Nijmegen,3-2,https://www.besoccer.com/match/fc-eindhoven/nec/2018412336,2018,32,eerste_divisie,52,63,1,0,2,0,,2018
+Go Ahead Eagles,Helmond Sport,3-1,https://www.besoccer.com/match/go-ahead-eagles/helmond-sport/2018412337,2018,32,eerste_divisie,51,51,1,0,2,0,,2018
+Den Bosch,MVV Maastricht,2-1,https://www.besoccer.com/match/fc-den-bosch/mvv/2018412338,2018,32,eerste_divisie,53,54,1,0,1,0,,2018
+De Graafschap,RKC Waalwijk,1-0,https://www.besoccer.com/match/graafschap/rkc-waalwijk/2018412339,2018,32,eerste_divisie,56,52,1,0,3,0,,2018
+Jong Ajax,Jong PSV,0-3,https://www.besoccer.com/match/jong-ajax/jong-psv/2018412340,2018,32,eerste_divisie,57,54,2,0,0,0,,2018
+TOP Oss,SC Telstar,0-0,https://www.besoccer.com/match/fc-oss/stormvogels-telstar/2018412341,2018,32,eerste_divisie,46,49,3,0,3,0,,2018
+Almere City,Fortuna Sittard,1-4,https://www.besoccer.com/match/almere-city/fortuna-sittard/2018412342,2018,32,eerste_divisie,49,49,1,0,0,0,,2018
+Emmen,Dordrecht,1-3,https://www.besoccer.com/match/emmen/fc-dordrecht/2018412343,2018,32,eerste_divisie,53,52,1,0,0,0,,2018
+Jong AZ,Jong Utrecht,1-3,https://www.besoccer.com/match/az-alkmaar-sub23/jong-utrecht/2018412344,2018,32,eerste_divisie,44,48,2,0,2,0,,2018
+Cambuur,FC Eindhoven,3-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/fc-eindhoven/2018412345,2018,33,eerste_divisie,60,52,1,0,0,0,,2018
+Jong Utrecht,Go Ahead Eagles,1-0,https://www.besoccer.com/match/jong-utrecht/go-ahead-eagles/2018412346,2018,33,eerste_divisie,48,51,3,0,3,0,,2018
+FC Volendam,Jong AZ,4-1,https://www.besoccer.com/match/fc-volendam/az-alkmaar-sub23/2018412347,2018,33,eerste_divisie,56,44,1,0,1,0,,2018
+Dordrecht,Jong Ajax,2-3,https://www.besoccer.com/match/fc-dordrecht/jong-ajax/2018412348,2018,33,eerste_divisie,52,57,3,0,3,0,,2018
+RKC Waalwijk,Almere City,0-4,https://www.besoccer.com/match/rkc-waalwijk/almere-city/2018412349,2018,33,eerste_divisie,52,48,2,0,2,0,,2018
+Jong PSV,TOP Oss,5-1,https://www.besoccer.com/match/jong-psv/fc-oss/2018412350,2018,33,eerste_divisie,54,46,0,0,1,0,,2018
+MVV Maastricht,Emmen,0-1,https://www.besoccer.com/match/mvv/emmen/2018412351,2018,33,eerste_divisie,54,53,2,0,2,0,,2018
+Fortuna Sittard,Helmond Sport,3-0,https://www.besoccer.com/match/fortuna-sittard/helmond-sport/2018412352,2018,33,eerste_divisie,49,51,1,0,3,0,,2018
+De Graafschap,Den Bosch,2-1,https://www.besoccer.com/match/graafschap/fc-den-bosch/2018412353,2018,33,eerste_divisie,56,53,0,0,3,0,,2018
+NEC Nijmegen,SC Telstar,3-0,https://www.besoccer.com/match/nec/stormvogels-telstar/2018412354,2018,33,eerste_divisie,63,49,4,0,2,0,,2018
+FC Eindhoven,De Graafschap,2-4,https://www.besoccer.com/match/fc-eindhoven/graafschap/2018412355,2018,34,eerste_divisie,52,56,2,0,1,0,,2018
+Go Ahead Eagles,Fortuna Sittard,0-1,https://www.besoccer.com/match/go-ahead-eagles/fortuna-sittard/2018412356,2018,34,eerste_divisie,51,49,1,0,1,0,,2018
+Den Bosch,Cambuur,1-2,https://www.besoccer.com/match/fc-den-bosch/sc-cambuur-leeuwarden/2018412357,2018,34,eerste_divisie,53,60,1,0,2,0,,2018
+TOP Oss,RKC Waalwijk,3-1,https://www.besoccer.com/match/fc-oss/rkc-waalwijk/2018412359,2018,34,eerste_divisie,46,52,0,0,3,0,,2018
+Almere City,Jong Utrecht,2-1,https://www.besoccer.com/match/almere-city/jong-utrecht/2018412360,2018,34,eerste_divisie,48,48,1,0,2,0,,2018
+SC Telstar,Jong PSV,0-0,https://www.besoccer.com/match/stormvogels-telstar/jong-psv/2018412361,2018,34,eerste_divisie,49,54,2,0,0,0,,2018
+Helmond Sport,MVV Maastricht,2-3,https://www.besoccer.com/match/helmond-sport/mvv/2018412362,2018,34,eerste_divisie,51,54,1,0,2,0,,2018
+Emmen,FC Volendam,2-3,https://www.besoccer.com/match/emmen/fc-volendam/2018412363,2018,34,eerste_divisie,53,56,2,0,4,0,,2018
+Jong AZ,Dordrecht,3-1,https://www.besoccer.com/match/az-alkmaar-sub23/fc-dordrecht/2018412364,2018,34,eerste_divisie,44,52,0,0,0,0,,2018
+Jong Ajax,NEC Nijmegen,1-0,https://www.besoccer.com/match/jong-ajax/nec/2018412358,2018,34,eerste_divisie,57,63,3,0,4,0,,2018
+Cambuur,Jong AZ,3-2,https://www.besoccer.com/match/sc-cambuur-leeuwarden/az-alkmaar-sub23/2018412365,2018,35,eerste_divisie,60,44,0,0,2,0,,2018
+Jong Utrecht,FC Volendam,2-1,https://www.besoccer.com/match/jong-utrecht/fc-volendam/2018412366,2018,35,eerste_divisie,48,55,2,1,1,1,,2018
+RKC Waalwijk,Fortuna Sittard,1-1,https://www.besoccer.com/match/rkc-waalwijk/fortuna-sittard/2018412367,2018,35,eerste_divisie,52,49,4,0,2,0,,2018
+MVV Maastricht,Dordrecht,1-0,https://www.besoccer.com/match/mvv/fc-dordrecht/2018412369,2018,35,eerste_divisie,54,52,1,0,3,0,,2018
+FC Eindhoven,Helmond Sport,3-2,https://www.besoccer.com/match/fc-eindhoven/helmond-sport/2018412370,2018,35,eerste_divisie,52,51,1,0,0,0,,2018
+Den Bosch,Jong Ajax,2-5,https://www.besoccer.com/match/fc-den-bosch/jong-ajax/2018412371,2018,35,eerste_divisie,53,56,2,0,0,0,,2018
+De Graafschap,Almere City,4-2,https://www.besoccer.com/match/graafschap/almere-city/2018412372,2018,35,eerste_divisie,56,48,0,0,0,0,,2018
+NEC Nijmegen,TOP Oss,2-1,https://www.besoccer.com/match/nec/fc-oss/2018412373,2018,35,eerste_divisie,63,46,0,0,2,0,,2018
+Emmen,SC Telstar,2-3,https://www.besoccer.com/match/emmen/stormvogels-telstar/2018412374,2018,35,eerste_divisie,52,49,1,1,2,1,,2018
+Jong PSV,Go Ahead Eagles,6-0,https://www.besoccer.com/match/jong-psv/go-ahead-eagles/2018412368,2018,35,eerste_divisie,54,51,0,0,2,0,,2018
+FC Volendam,RKC Waalwijk,0-1,https://www.besoccer.com/match/fc-volendam/rkc-waalwijk/2018412015,2018,36,eerste_divisie,55,52,0,0,0,0,,2018
+Dordrecht,Cambuur,0-3,https://www.besoccer.com/match/fc-dordrecht/sc-cambuur-leeuwarden/2018412016,2018,36,eerste_divisie,52,60,3,0,0,0,,2018
+Go Ahead Eagles,FC Eindhoven,1-3,https://www.besoccer.com/match/go-ahead-eagles/fc-eindhoven/2018412017,2018,36,eerste_divisie,51,52,3,1,0,1,,2018
+Fortuna Sittard,Den Bosch,2-0,https://www.besoccer.com/match/fortuna-sittard/fc-den-bosch/2018412018,2018,36,eerste_divisie,49,53,1,0,2,0,,2018
+Jong Ajax,Emmen,3-2,https://www.besoccer.com/match/jong-ajax/emmen/2018412019,2018,36,eerste_divisie,57,52,1,0,0,0,,2018
+TOP Oss,De Graafschap,1-4,https://www.besoccer.com/match/fc-oss/graafschap/2018412020,2018,36,eerste_divisie,46,56,1,0,2,0,,2018
+Almere City,Jong PSV,2-1,https://www.besoccer.com/match/almere-city/jong-psv/2018412021,2018,36,eerste_divisie,48,54,0,0,3,0,,2018
+SC Telstar,Jong Utrecht,1-0,https://www.besoccer.com/match/stormvogels-telstar/jong-utrecht/2018412022,2018,36,eerste_divisie,49,48,1,0,1,0,,2018
+Helmond Sport,NEC Nijmegen,1-2,https://www.besoccer.com/match/helmond-sport/nec/2018412023,2018,36,eerste_divisie,51,63,2,1,2,1,,2018
+Jong AZ,MVV Maastricht,3-1,https://www.besoccer.com/match/az-alkmaar-sub23/mvv/2018412024,2018,36,eerste_divisie,44,54,1,0,2,0,,2018
+Cambuur,Helmond Sport,4-1,https://www.besoccer.com/match/sc-cambuur-leeuwarden/helmond-sport/2018412005,2018,37,eerste_divisie,60,51,0,0,1,0,,2018
+Jong Utrecht,Fortuna Sittard,0-1,https://www.besoccer.com/match/jong-utrecht/fortuna-sittard/2018412006,2018,37,eerste_divisie,48,49,0,0,0,0,,2018
+FC Volendam,Jong Ajax,1-2,https://www.besoccer.com/match/fc-volendam/jong-ajax/2018412007,2018,37,eerste_divisie,55,57,3,0,1,0,,2018
+RKC Waalwijk,Go Ahead Eagles,2-1,https://www.besoccer.com/match/rkc-waalwijk/go-ahead-eagles/2018412008,2018,37,eerste_divisie,52,51,1,0,2,0,,2018
+Jong PSV,Dordrecht,4-2,https://www.besoccer.com/match/jong-psv/fc-dordrecht/2018412009,2018,37,eerste_divisie,54,52,1,0,2,0,,2018
+MVV Maastricht,TOP Oss,1-1,https://www.besoccer.com/match/mvv/fc-oss/2018412010,2018,37,eerste_divisie,54,46,3,1,3,1,,2018
+FC Eindhoven,Almere City,3-2,https://www.besoccer.com/match/fc-eindhoven/almere-city/2018412011,2018,37,eerste_divisie,52,48,1,0,0,0,,2018
+De Graafschap,SC Telstar,1-0,https://www.besoccer.com/match/graafschap/stormvogels-telstar/2018412013,2018,37,eerste_divisie,55,49,2,0,2,0,,2018
+NEC Nijmegen,Jong AZ,2-0,https://www.besoccer.com/match/nec/az-alkmaar-sub23/2018412014,2018,37,eerste_divisie,63,45,0,0,1,0,,2018
+Den Bosch,Emmen,1-2,https://www.besoccer.com/match/fc-den-bosch/emmen/2018412012,2018,37,eerste_divisie,53,52,4,0,3,0,,2018
+Dordrecht,NEC Nijmegen,3-3,https://www.besoccer.com/match/fc-dordrecht/nec/2018411995,2018,38,eerste_divisie,52,63,2,1,1,1,,2018
+Go Ahead Eagles,Den Bosch,1-2,https://www.besoccer.com/match/go-ahead-eagles/fc-den-bosch/2018411996,2018,38,eerste_divisie,51,53,0,0,1,0,,2018
+Fortuna Sittard,Jong PSV,1-0,https://www.besoccer.com/match/fortuna-sittard/jong-psv/2018411997,2018,38,eerste_divisie,49,54,3,0,2,0,,2018
+Jong Ajax,MVV Maastricht,2-1,https://www.besoccer.com/match/jong-ajax/mvv/2018411998,2018,38,eerste_divisie,57,55,0,0,1,0,,2018
+TOP Oss,FC Eindhoven,1-1,https://www.besoccer.com/match/fc-oss/fc-eindhoven/2018411999,2018,38,eerste_divisie,46,52,0,0,0,0,,2018
+Almere City,FC Volendam,2-0,https://www.besoccer.com/match/almere-city/fc-volendam/2018412000,2018,38,eerste_divisie,48,55,0,0,2,0,,2018
+SC Telstar,Cambuur,0-1,https://www.besoccer.com/match/stormvogels-telstar/sc-cambuur-leeuwarden/2018412001,2018,38,eerste_divisie,49,60,1,1,4,1,,2018
+Helmond Sport,RKC Waalwijk,2-2,https://www.besoccer.com/match/helmond-sport/rkc-waalwijk/2018412002,2018,38,eerste_divisie,51,52,1,0,0,0,,2018
+Emmen,Jong Utrecht,0-0,https://www.besoccer.com/match/emmen/jong-utrecht/2018412003,2018,38,eerste_divisie,52,48,2,0,3,0,,2018
+Jong AZ,De Graafschap,2-2,https://www.besoccer.com/match/az-alkmaar-sub23/graafschap/2018412004,2018,38,eerste_divisie,45,55,2,0,0,0,,2018
