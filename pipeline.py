@@ -57,5 +57,5 @@ else:
         scraper.export_table(league[0], '2022', url_ext=league[1])
     cleaner = exploratory.DataCleaner(league_names, exploratory.years)
     df = cleaner.normalise_data(league_names, exploratory.years)
-    # df.to_csv('cleaned_dataset.csv', index=False)
-    # df.to_sql('football', engine, if_exists='replace')
+    df.to_csv('cleaned_dataset.csv', index=False)
+    df.to_sql('football', engine, if_exists='replace')
