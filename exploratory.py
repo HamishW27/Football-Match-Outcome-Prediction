@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import plotly.express as px
-import os
 from datetime import datetime
 import re
 import requests
@@ -35,19 +34,6 @@ class DataCleaner:
     def __init__(self, leagues, years) -> None:
         self.leagues = leagues
         self.years = years
-
-    def read_data(self, league_name):
-        tables = []
-        for table in sorted(os.listdir('data/' + league_name)):
-            tables.append(
-                {"Year": table[:12], "Table":
-                 pd.read_csv('data/' + league_name + '/' + table)})
-        return tables
-
-    def find_data(self, league_name, table_name):
-        table = next(
-            item for item in league_name if item["Year"] == table_name)
-        return table['Table']
 
     def find_winners(self, dataframe):
         Results = []
@@ -96,9 +82,7 @@ class DataCleaner:
 
     def clean_data(self, league, year):
         league_to_read = league
-
-        league_table = self.read_data(league)
-        df = self.find_data(league_table, 'Results_' + str(year))
+        df = pd.read_csv(f'data/{league}/Results_{year}_{league}.csv')
 
         league_teams = teams_in_league(league_to_read)
 
@@ -535,7 +519,7 @@ class WebScraper:
                 'Round': [round], 'League': [league], 'Elo_home': [home_elo],
                 'Elo_away': [away_elo], 'Home_Yellow': [home_yellow],
                 'Home_Red': [home_red], 'Away_Yellow': [away_yellow],
-                'Away_Red': [away_red],
+                'Away_Red': [away_red], 'Date_New': [None],
                 'Referee': [referee], 'Year': [year]}
         return pd.DataFrame.from_dict(data)
 

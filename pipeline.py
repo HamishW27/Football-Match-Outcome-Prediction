@@ -38,9 +38,9 @@ def join_lists(list_of_lists):
     return mylist
 
 
-scraper = exploratory.WebScraper(exploratory.leagues)
-
 league_names = [x['Name'] for x in exploratory.leagues]
+cleaner = exploratory.DataCleaner(league_names, exploratory.years)
+scraper = exploratory.WebScraper(exploratory.leagues)
 
 db_links = download_data('football', columns=['Link'])
 print('Downloaded sql database')
@@ -55,7 +55,6 @@ else:
     for league in leagues_and_urls:
         print(f'Scraping data for {league[0]} 2022')
         scraper.export_table(league[0], '2022', url_ext=league[1])
-    cleaner = exploratory.DataCleaner(league_names, exploratory.years)
     df = cleaner.normalise_data(league_names, exploratory.years)
     df.to_csv('cleaned_dataset.csv', index=False)
     df.to_sql('football', engine, if_exists='replace')
