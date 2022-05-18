@@ -397,6 +397,20 @@ class DataCleaner:
                 df = self.add_cards(league, year)
                 big_df = pd.concat([big_df, df])
         big_df = pd.merge(big_df, team_info, on='Home_Team')
+        pitches = []
+        for row, value in big_df.iterrows():
+            home_team_pitch = value['Pitch']
+            away_team = value['Away_Team']
+            try:
+                away_pitch = team_info[team_info['Home_Team']
+                                       == away_team].values[0][-1]
+                if home_team_pitch == away_pitch:
+                    pitches.append(1)
+                else:
+                    pitches.append(0)
+            except IndexError:
+                pitches.append(1)
+        big_df['Pitch_Match'] = pitches
         return big_df
 
     def normalise_data(self, leagues, years):
@@ -421,7 +435,7 @@ class DataCleaner:
                          'Home_Team_Yellows_This_Far',
                          'Away_Team_Reds_This_Far',
                          'Away_Team_Yellows_This_Far',
-                         'Away_Red', 'Date_New', 'Link']]
+                         'Away_Red', 'Date_New', 'Link', 'Pitch_Match']]
         return new_df
 
 
