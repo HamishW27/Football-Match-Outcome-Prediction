@@ -10,7 +10,7 @@ np.random.seed(7)
 
 data = pd.read_csv('cleaned_dataset.csv')
 y = data['Result']
-X = data.drop('Result', inplace=False, axis=1)
+X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
 
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, train_size=0.7)

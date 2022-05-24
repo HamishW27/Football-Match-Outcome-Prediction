@@ -1,4 +1,7 @@
+from sklearn.feature_selection import VarianceThreshold
 import pandas as pd
+import pickle
+from joblib import dump, load
 # from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression, Lasso
@@ -14,7 +17,13 @@ from sklearn.ensemble import AdaBoostClassifier, \
     GradientBoostingClassifier, GradientBoostingRegressor, \
     RandomForestClassifier
 from sklearn.neural_network import MLPClassifier
-
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import classification_report, confusion_matrix
+import seaborn as sns
+from sklearn.preprocessing import LabelEncoder
+from utils import visualise_predictions
 
 '''
 class LinearRegression:
@@ -79,7 +88,7 @@ def plot_predictions(y_pred, y_true, title):
 #     optimal_w = np.matmul(
 #         np.linalg.inv(np.matmul(X_with_bias.T, X_with_bias)),
 #         np.matmul(X_with_bias.T, y_train),
-#     )
+#     )from sklearn.metrics import classification_report, confusion_matrix
 #     return optimal_w[1:], optimal_w[0]
 
 
@@ -94,33 +103,71 @@ def plot_predictions(y_pred, y_true, title):
 # print(cost)
 
 data = pd.read_csv('cleaned_dataset.csv')
-y = data['Result']
-X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+y = data['Result'].values
+X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1).values
 
+scaler = StandardScaler()
+scaler.fit(X)
+X_sc = scaler.transform(X)
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+enc = LabelEncoder()
+label_encoder = enc.fit(y)
+y = label_encoder.transform(y)
+
+# sel = VarianceThreshold(threshold=(.8 * (1 - .8)))
+# X = sel.fit_transform(X)
+
+# X = SelectKBest(chi2, k=20).fit_transform(X, y)
+
+X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.1)
 
 # X_validation, X_test, y_validation, y_test = train_test_split(
 #     X_test, y_test, test_size=0.5
 # )
 
+bad_models = [  # MLPRegressor(),
+    KNeighborsClassifier(n_neighbors=151),
+    tree.DecisionTreeClassifier(max_depth=50),
+    # AdaBoostRegressor(),
+    # RandomForestRegressor()
+]
+
 models = [LinearRegression(),
-          KNeighborsClassifier(n_neighbors=3),
-          tree.DecisionTreeClassifier(max_depth=50),
           Lasso(alpha=0.1),
           MLPClassifier(),
-          # MLPRegressor(),
           AdaBoostClassifier(),
-          # AdaBoostRegressor(),
           RandomForestClassifier(),
-          # RandomForestRegressor(),
           GradientBoostingClassifier(),
           GradientBoostingRegressor()
           ]
 
-for model in models:
-    model = model.fit(X_train, y_train)
-    y_pred = model.predict(X_test)
-    plot_predictions(y_pred[:10], y_test[:10], model)
-    print(mean_squared_error(y_test, y_pred))
-    print(sum(y_pred.round() == y_test)/len(y_test))
+
+def model_comparisons(models):
+    for model in models:
+        model = model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+        plot_predictions(y_pred[:10], y_test[:10], model)
+        print(f'Mean Squared Error:{mean_squared_error(y_test, y_pred)}')
+        score = model.score(X, y)
+        print(f'Score: {score}')
+        try:
+            cm = confusion_matrix(y_test, y_pred)
+            print(cm)
+            print(
+                f'Classification Report:{classification_report(y_test, y_pred)}')
+            plt.figure(figsize=(6, 6))
+            sns.heatmap(cm, annot=True, fmt="d", linewidths=.5,
+                        square=True, cmap="Blues_r")
+            plt.ylabel("Actual label")
+            plt.xlabel("Predicted label")
+            all_sample_title = f"Accuracy Score:{score}"
+            plt.title(all_sample_title, size=15)
+        except ValueError:
+            pass
+        # print(accuracy_score(y_pred, y_test))
+        print(sum(y_pred.round() == y_test)/len(y_test))
+        dump(model, f'{str(model)}.joblib')
+
+
+if __name__ == '__main__':
+    model_comparisons(models)
