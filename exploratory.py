@@ -12,7 +12,7 @@ from tqdm import tqdm
 Eerste divisie and segunda_liga discarded for lack of data
 '''
 leagues = [{'Name': 'eredivisie', 'Teams': 20},
-           {'Name': 'eerste_divisie', 'Teams': 20},
+           # {'Name': 'eerste_divisie', 'Teams': 20},
            {'Name': 'ligue_2', 'Teams': 20},
            {'Name': 'serie_a', 'Teams': 20},
            {'Name': 'championship', 'Teams': 24},

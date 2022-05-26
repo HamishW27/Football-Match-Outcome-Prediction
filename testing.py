@@ -22,7 +22,12 @@ from sklearn.feature_selection import chi2
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import classification_report, confusion_matrix
 import seaborn as sns
+from xgboost import XGBRegressor
+from xgboost import XGBClassifier
 from sklearn.preprocessing import LabelEncoder
+from sklearn.datasets import make_regression
+from sklearn.model_selection import RepeatedStratifiedKFold
+from sklearn.model_selection import GridSearchCV
 from utils import visualise_predictions
 
 '''
@@ -102,24 +107,10 @@ def plot_predictions(y_pred, y_true, title):
 # cost = mean_squared_error(y_pred, y_train)
 # print(cost)
 
-data = pd.read_csv('cleaned_dataset.csv')
-y = data['Result'].values
-X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1).values
-
-scaler = StandardScaler()
-scaler.fit(X)
-X_sc = scaler.transform(X)
-
-enc = LabelEncoder()
-label_encoder = enc.fit(y)
-y = label_encoder.transform(y)
-
 # sel = VarianceThreshold(threshold=(.8 * (1 - .8)))
 # X = sel.fit_transform(X)
 
 # X = SelectKBest(chi2, k=20).fit_transform(X, y)
-
-X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.1)
 
 # X_validation, X_test, y_validation, y_test = train_test_split(
 #     X_test, y_test, test_size=0.5
@@ -132,29 +123,40 @@ bad_models = [  # MLPRegressor(),
     # RandomForestRegressor()
 ]
 
-models = [LinearRegression(),
-          Lasso(alpha=0.1),
-          MLPClassifier(),
-          AdaBoostClassifier(),
-          RandomForestClassifier(),
-          GradientBoostingClassifier(),
-          GradientBoostingRegressor()
-          ]
+models = [  # LinearRegression(),
+    # Lasso(alpha=0.1),
+    MLPClassifier(hidden_layer_sizes=(150, 100, 50), max_iter=1000,
+                  activation='tanh', solver='adam', random_state=1,
+                  learning_rate='adaptive'),
+    AdaBoostClassifier(learning_rate=1.0, n_estimators=100),
+    RandomForestClassifier(),
+    GradientBoostingClassifier(),
+    # GradientBoostingRegressor(),
+    XGBClassifier(),
+    # XGBRegressor()
+]
 
 
-def model_comparisons(models):
+def model_comparisons(models, columns):
+    data = pd.read_csv('cleaned_dataset.csv')
+    y = data['Result'].values
+    y = group_goals(y)
+    X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+    X_sc = scale_array(X[columns])
+    X_train, X_test, y_train, y_test = feature_selection(columns)
     for model in models:
         model = model.fit(X_train, y_train)
         y_pred = model.predict(X_test)
         plot_predictions(y_pred[:10], y_test[:10], model)
         print(f'Mean Squared Error:{mean_squared_error(y_test, y_pred)}')
-        score = model.score(X, y)
+        score = model.score(X_sc, y)
         print(f'Score: {score}')
         try:
             cm = confusion_matrix(y_test, y_pred)
             print(cm)
             print(
-                f'Classification Report:{classification_report(y_test, y_pred)}')
+                f'Classification Report:  \
+                    {classification_report(y_test, y_pred)}')
             plt.figure(figsize=(6, 6))
             sns.heatmap(cm, annot=True, fmt="d", linewidths=.5,
                         square=True, cmap="Blues_r")
@@ -162,12 +164,107 @@ def model_comparisons(models):
             plt.xlabel("Predicted label")
             all_sample_title = f"Accuracy Score:{score}"
             plt.title(all_sample_title, size=15)
+            print(accuracy(cm))
         except ValueError:
             pass
         # print(accuracy_score(y_pred, y_test))
         print(sum(y_pred.round() == y_test)/len(y_test))
-        dump(model, f'{str(model)}.joblib')
+        # dump(model, f'{str(model)}.joblib')
+
+
+def MLPGridSearch(X_sc):
+    mlp_gs = MLPClassifier(max_iter=1000)
+    parameter_space = {
+        'hidden_layer_sizes': [(10, 30, 10), (20,), (150, 100, 50)],
+        'activation': ['tanh', 'relu'],
+        'solver': ['sgd', 'adam'],
+        'alpha': [0.0001, 0.05],
+        'learning_rate': ['constant', 'adaptive'],
+    }
+    clf = GridSearchCV(mlp_gs, parameter_space, n_jobs=-1, cv=5)
+    clf.fit(X_sc, y)  # X is train samples and y is the corresponding labels
+
+
+def scale_array(df):
+    scaler = StandardScaler()
+    scaler.fit(df)
+    X_sc = scaler.transform(df)
+    return X_sc
+
+
+def group_goals(column_vec):
+    enc = LabelEncoder()
+    label_encoder = enc.fit(column_vec)
+    column_vec = label_encoder.transform(column_vec)
+    return column_vec
+
+
+important_columns = ['Season', 'Home_Team_Goals_For_This_Far',
+                     'Home_Team_Goals_Against_This_Far',
+                     'Away_Team_Goals_For_This_Far',
+                     'Away_Team_Goals_Against_This_Far',
+                     'Home_Team_Points',
+                     'Away_Team_Points', 'Elo_home', 'Elo_away', 'Capacity',
+                     'Home_Team_Yellows_This_Far',
+                     'Away_Team_Yellows_This_Far']
+
+data = pd.read_csv('cleaned_dataset.csv')
+y = data['Result'].values
+y = group_goals(y)
+X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+X_sc = scale_array(X[important_columns])
+
+important_features = [0, 3, 4, 5, 6, 7, 8, 15, 16, 17, 20, 22]
+
+
+def feature_selection(features):
+    data = pd.read_csv('cleaned_dataset.csv')
+    y = data['Result'].values
+    X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+    X = X[features].values
+    X_sc = scale_array(X)
+    y = group_goals(y)
+    X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.2)
+    return X_train, X_test, y_train, y_test
+
+
+def accuracy(confusion_matrix):
+    diagonal_sum = confusion_matrix.trace()
+    sum_of_all_elements = confusion_matrix.sum()
+    return diagonal_sum / sum_of_all_elements
+
+
+def feature_select_RF():
+    model = RandomForestClassifier()
+    data = pd.read_csv('cleaned_dataset.csv')
+    y = data['Result'].values
+    X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+    X_train, X_test, y_train, y_test = feature_selection(important_columns)
+    model = model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    plot_predictions(y_pred[:10], y_test[:10], model)
+    print(f'Mean Squared Error:{mean_squared_error(y_test, y_pred)}')
+    score = model.score(scale_array(X[important_columns]), group_goals(y))
+    print(f'Score: {score}')
+    try:
+        cm = confusion_matrix(y_test, y_pred)
+        print(cm)
+        print(
+            f'Classification Report:  \
+                {classification_report(y_test, y_pred)}')
+        plt.figure(figsize=(6, 6))
+        sns.heatmap(cm, annot=True, fmt="d", linewidths=.5,
+                    square=True, cmap="Blues_r")
+        plt.ylabel("Actual label")
+        plt.xlabel("Predicted label")
+        all_sample_title = f"Accuracy Score:{score}"
+        plt.title(all_sample_title, size=15)
+    except ValueError:
+        pass
+    # print(accuracy_score(y_pred, y_test))
+    print(sum(y_pred.round() == y_test)/len(y_test))
 
 
 if __name__ == '__main__':
-    model_comparisons(models)
+    # model_comparisons(models)
+    pass
