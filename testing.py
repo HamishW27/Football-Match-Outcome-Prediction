@@ -29,6 +29,10 @@ from sklearn.datasets import make_regression
 from sklearn.model_selection import RepeatedStratifiedKFold
 from sklearn.model_selection import GridSearchCV
 from utils import visualise_predictions
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import precision_score
+from sklearn.metrics import recall_score
+from sklearn.metrics import make_scorer
 
 '''
 class LinearRegression:
@@ -120,21 +124,24 @@ bad_models = [  # MLPRegressor(),
     KNeighborsClassifier(n_neighbors=151),
     tree.DecisionTreeClassifier(max_depth=50),
     # AdaBoostRegressor(),
-    # RandomForestRegressor()
+    # RandomForestRegressor(),
+    # SGDRegressor()
 ]
 
-models = [  # LinearRegression(),
-    # Lasso(alpha=0.1),
-    MLPClassifier(hidden_layer_sizes=(150, 100, 50), max_iter=1000,
-                  activation='tanh', solver='adam', random_state=1,
-                  learning_rate='adaptive'),
-    AdaBoostClassifier(learning_rate=1.0, n_estimators=100),
-    RandomForestClassifier(),
-    GradientBoostingClassifier(),
-    # GradientBoostingRegressor(),
-    XGBClassifier(),
-    # XGBRegressor()
-]
+models = [LinearRegression(),
+          Lasso(alpha=0.00023),
+          MLPClassifier(hidden_layer_sizes=(150, 100, 50), max_iter=1000,
+                        activation='tanh', solver='adam', random_state=1,
+                        learning_rate='adaptive'),
+          AdaBoostClassifier(learning_rate=1.0, n_estimators=100),
+          RandomForestClassifier(
+              criterion='entropy', max_depth=8,
+              max_features=200, n_estimators=8),
+          GradientBoostingClassifier(),
+          # GradientBoostingRegressor(),
+          XGBClassifier(),
+          # XGBRegressor()
+          ]
 
 
 def model_comparisons(models, columns):
@@ -264,6 +271,8 @@ def feature_select_RF():
     # print(accuracy_score(y_pred, y_test))
     print(sum(y_pred.round() == y_test)/len(y_test))
 
+
+X_train, X_test, y_train, y_test = feature_selection(important_columns)
 
 if __name__ == '__main__':
     # model_comparisons(models)

@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 leagues_and_urls = [['eredivisie', ''],
-                    ['eerste_divisie', '/group1'],
+                    # ['eerste_divisie', '/group1'],
                     ['ligue_2', ''],
                     ['serie_a', ''],
                     ['championship', '/group1'],
@@ -57,4 +57,4 @@ else:
         scraper.export_table(league[0], '2022', url_ext=league[1])
     df = cleaner.normalise_data(league_names, exploratory.years)
     df.to_csv('cleaned_dataset.csv', index=False)
-    df.to_sql('football', engine, if_exists='replace')
+    # df.to_sql('football', engine, if_exists='replace')

@@ -12,7 +12,7 @@ from tqdm import tqdm
 Eerste divisie and segunda_liga discarded for lack of data
 '''
 leagues = [{'Name': 'eredivisie', 'Teams': 20},
-           # {'Name': 'eerste_divisie', 'Teams': 20},
+           {'Name': 'eerste_divisie', 'Teams': 20},
            {'Name': 'ligue_2', 'Teams': 20},
            {'Name': 'serie_a', 'Teams': 20},
            {'Name': 'championship', 'Teams': 24},
@@ -84,7 +84,7 @@ class DataCleaner:
         league_to_read = league
         df = pd.read_csv(f'data/{league}/Results_{year}_{league}.csv')
 
-        league_teams = teams_in_league(league_to_read)
+        league_teams = teams_in_league(self.leagues, league_to_read)
 
         Home_Team_Goals = [int(df['Result'][x].split(
             '-')[0]) for x in range(len(df))]
@@ -447,7 +447,7 @@ class WebScraper:
 
     def scrape_league_links(self, league, year, url_ext=''):
         match_links = []
-        teams = teams_in_league(league)
+        teams = teams_in_league(self.leagues, league)
         games = (teams - 1) * 2
         for i in range(1, games + 1):
             url = f'http://besoccer.com/competition/scores'\
@@ -550,8 +550,9 @@ class WebScraper:
         df.to_csv(path, index=None)
 
 
-def teams_in_league(league_name):
-    teams = next(item for item in leagues if item['Name'] == league_name)
+def teams_in_league(leagues, league_name):
+    teams = next(
+        item for item in leagues if item['Name'] == league_name)
     return teams['Teams']
 
 
