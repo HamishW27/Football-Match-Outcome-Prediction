@@ -4,7 +4,7 @@ import pickle
 from joblib import dump, load
 # from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression, Lasso
+from sklearn.linear_model import LinearRegression, Lasso, SGDRegressor
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
@@ -13,10 +13,10 @@ import contextlib
 import time
 # import numba
 from sklearn import tree
-from sklearn.ensemble import AdaBoostClassifier, \
+from sklearn.ensemble import AdaBoostClassifier, AdaBoostRegressor, \
     GradientBoostingClassifier, GradientBoostingRegressor, \
-    RandomForestClassifier
-from sklearn.neural_network import MLPClassifier
+    RandomForestClassifier, RandomForestRegressor
+from sklearn.neural_network import MLPClassifier, MLPRegressor
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import chi2
 from sklearn.preprocessing import StandardScaler
@@ -33,6 +33,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import make_scorer
+from sklearn.linear_model import SGDClassifier
 
 '''
 class LinearRegression:
@@ -120,13 +121,14 @@ def plot_predictions(y_pred, y_true, title):
 #     X_test, y_test, test_size=0.5
 # )
 
-bad_models = [  # MLPRegressor(),
-    KNeighborsClassifier(n_neighbors=151),
-    tree.DecisionTreeClassifier(max_depth=50),
-    # AdaBoostRegressor(),
-    # RandomForestRegressor(),
-    # SGDRegressor()
-]
+bad_models = [MLPRegressor(),
+              KNeighborsClassifier(n_neighbors=151),
+              tree.DecisionTreeClassifier(max_depth=50),
+              AdaBoostRegressor(),
+              RandomForestRegressor(),
+              SGDRegressor(),
+              SGDClassifier()
+              ]
 
 models = [LinearRegression(),
           Lasso(alpha=0.00023),
@@ -137,10 +139,15 @@ models = [LinearRegression(),
           RandomForestClassifier(
               criterion='entropy', max_depth=8,
               max_features=200, n_estimators=8),
-          GradientBoostingClassifier(),
-          # GradientBoostingRegressor(),
+          GradientBoostingClassifier(criterion='friedman_mse',
+                                     learning_rate=0.2, loss='log-loss',
+                                     max_depth=8, max_features='sqrt',
+                                     min_samples_leaf=0.1,
+                                     min_samples_split=0.18,
+                                     n_estimators=10, subsample=1),
+          GradientBoostingRegressor(),
           XGBClassifier(),
-          # XGBRegressor()
+          XGBRegressor()
           ]
 
 
@@ -204,6 +211,27 @@ def group_goals(column_vec):
     label_encoder = enc.fit(column_vec)
     column_vec = label_encoder.transform(column_vec)
     return column_vec
+
+
+def grid_search(estimator, parameters, important_columns):
+    '''
+    param_test1 = {
+    "loss":["squared_error","absolute_error"],
+    "learning_rate": [0.01, 0.025, 0.05, 0.075, 0.1, 0.15, 0.2],
+    "min_samples_split": np.linspace(0.1, 0.5, 6),
+    "min_samples_leaf": np.linspace(0.1, 0.5, 6),
+    "max_depth":[3,5,8],
+    "max_features":["log2","sqrt"],
+    "criterion": ["friedman_mse",  "mse"],
+    "subsample":[0.5, 0.618, 0.8, 0.85, 0.9, 0.95, 1.0],
+    "n_estimators":[10]
+    }
+    '''
+    X_train, X_test, y_train, y_test = feature_selection(important_columns)
+    gsearch1 = GridSearchCV(estimator=estimator,
+                            param_grid=parameters, n_jobs=4, cv=5)
+    gsearch1.fit(X_train, y_train)
+    gsearch1.best_params
 
 
 important_columns = ['Season', 'Home_Team_Goals_For_This_Far',
