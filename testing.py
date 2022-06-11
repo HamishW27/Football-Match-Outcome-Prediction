@@ -12,14 +12,15 @@ from sklearn.neighbors import KNeighborsClassifier
 import contextlib
 import time
 # import numba
-from sklearn import tree
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import AdaBoostClassifier, AdaBoostRegressor, \
     GradientBoostingClassifier, GradientBoostingRegressor, \
     RandomForestClassifier, RandomForestRegressor
 from sklearn.neural_network import MLPClassifier, MLPRegressor
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import chi2
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.metrics import classification_report, confusion_matrix
 import seaborn as sns
 from xgboost import XGBRegressor
@@ -38,7 +39,8 @@ from sklearn.linear_model import SGDClassifier
 '''
 class LinearRegression:
     def __init__(self, n_features: int):  # initialize parameters
-        np.random.seed(10)
+        np.random.seedDTC = DecisionTreeClassifier(random_state = 11,
+        max_features = "auto", class_weight = "auto",max_depth = None)(10)
         self.W = np.random.randn(n_features, 1)  # randomly initialise weight
         self.b = np.random.randn(1)  # randomly initialise bias
 
@@ -121,41 +123,55 @@ def plot_predictions(y_pred, y_true, title):
 #     X_test, y_test, test_size=0.5
 # )
 
-bad_models = [MLPRegressor(),
-              KNeighborsClassifier(n_neighbors=151),
-              tree.DecisionTreeClassifier(max_depth=50),
-              AdaBoostRegressor(),
-              RandomForestRegressor(),
-              SGDRegressor(),
-              SGDClassifier()
-              ]
+models = [  # LinearRegression(),
+    KNeighborsClassifier(n_neighbors=151),
+    # MLPClassifier(hidden_layer_sizes=(150, 100, 50), max_iter=1000,
+    #               activation='tanh', solver='adam', random_state=1,
+    #               learning_rate='adaptive'),
+    # # MLPRegressor(activation='tanh', alpha=0.1,
+    #    hidden_layer_sizes=(150, 100, 50),
+    #    learning_rate='adaptive', solver='sgd',
+    #    max_iter=1000),
+    # DecisionTreeClassifier(random_state=1,
+    #  max_features="sqrt",
+    #  max_depth=None),
+    # DecisionTreeRegressor(criterion='squared_error',
+    # max_depth=5),
+    # Lasso(alpha=0.00023),
+    AdaBoostClassifier(learning_rate=1.0, n_estimators=10000),
+    # AdaBoostRegressor(learning_rate=0.01, n_estimators=10000),
+    RandomForestClassifier(
+        criterion='entropy', max_depth=12,
+        max_features='log2', n_estimators=64),
+    # RandomForestRegressor(criterion='poisson',
+    # max_depth=12, max_features='log2',
+    # n_estimators=256),
+    GradientBoostingClassifier(criterion='friedman_mse',
+                               learning_rate=0.2, loss='log_loss',
+                               max_depth=8, max_features='sqrt',
+                               min_samples_leaf=0.1,
+                               min_samples_split=0.18,
+                               n_estimators=10, subsample=1),
+    # GradientBoostingRegressor(criterion='friedman_mse',
+    # learning_rate=0.2, loss='squared_error',
+    # max_depth=8, max_features='log2',
+    # min_samples_leaf=0.1,
+    # min_samples_split=0.18,
+    # n_estimators=10, subsample=1),
+    XGBClassifier(learning_rate=0.01, max_depth=6, n_estimators=324),
+    # XGBRegressor(learning_rate=0.05, max_depth=4, n_estimators=220),
+    SGDClassifier(alpha=0.01, loss='log_loss', penalty='none'),
+    # SGDRegressor(alpha=0.01, loss='squared_error', penalty='none')
+]
 
-models = [LinearRegression(),
-          Lasso(alpha=0.00023),
-          MLPClassifier(hidden_layer_sizes=(150, 100, 50), max_iter=1000,
-                        activation='tanh', solver='adam', random_state=1,
-                        learning_rate='adaptive'),
-          AdaBoostClassifier(learning_rate=1.0, n_estimators=100),
-          RandomForestClassifier(
-              criterion='entropy', max_depth=8,
-              max_features=200, n_estimators=8),
-          GradientBoostingClassifier(criterion='friedman_mse',
-                                     learning_rate=0.2, loss='log-loss',
-                                     max_depth=8, max_features='sqrt',
-                                     min_samples_leaf=0.1,
-                                     min_samples_split=0.18,
-                                     n_estimators=10, subsample=1),
-          GradientBoostingRegressor(),
-          XGBClassifier(),
-          XGBRegressor()
-          ]
 
-
-def model_comparisons(models, columns):
+def model_comparisons(models, columns=None):
     data = pd.read_csv('cleaned_dataset.csv')
     y = data['Result'].values
     y = group_goals(y)
     X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+    if columns is None:
+        columns = X.columns
     X_sc = scale_array(X[columns])
     X_train, X_test, y_train, y_test = feature_selection(columns)
     for model in models:
@@ -182,7 +198,7 @@ def model_comparisons(models, columns):
         except ValueError:
             pass
         # print(accuracy_score(y_pred, y_test))
-        print(sum(y_pred.round() == y_test)/len(y_test))
+        print(sum(y_pred.round() == y_test)/len(y_pred))
         # dump(model, f'{str(model)}.joblib')
 
 
@@ -200,7 +216,7 @@ def MLPGridSearch(X_sc):
 
 
 def scale_array(df):
-    scaler = StandardScaler()
+    scaler = MinMaxScaler()
     scaler.fit(df)
     X_sc = scaler.transform(df)
     return X_sc
@@ -213,7 +229,7 @@ def group_goals(column_vec):
     return column_vec
 
 
-def grid_search(estimator, parameters, important_columns):
+def grid_search(estimator, parameters, columns):
     '''
     param_test1 = {
     "loss":["squared_error","absolute_error"],
@@ -222,16 +238,16 @@ def grid_search(estimator, parameters, important_columns):
     "min_samples_leaf": np.linspace(0.1, 0.5, 6),
     "max_depth":[3,5,8],
     "max_features":["log2","sqrt"],
-    "criterion": ["friedman_mse",  "mse"],
+    "criterion": ["friedman_mse",  "squared_error"],
     "subsample":[0.5, 0.618, 0.8, 0.85, 0.9, 0.95, 1.0],
     "n_estimators":[10]
     }
     '''
-    X_train, X_test, y_train, y_test = feature_selection(important_columns)
+    X_train, X_test, y_train, y_test = feature_selection(columns)
     gsearch1 = GridSearchCV(estimator=estimator,
                             param_grid=parameters, n_jobs=4, cv=5)
     gsearch1.fit(X_train, y_train)
-    gsearch1.best_params
+    gsearch1.best_params_
 
 
 important_columns = ['Season', 'Home_Team_Goals_For_This_Far',
@@ -259,7 +275,7 @@ def feature_selection(features):
     X = X[features].values
     X_sc = scale_array(X)
     y = group_goals(y)
-    X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.2)
+    X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.1)
     return X_train, X_test, y_train, y_test
 
 
@@ -303,5 +319,4 @@ def feature_select_RF():
 X_train, X_test, y_train, y_test = feature_selection(important_columns)
 
 if __name__ == '__main__':
-    # model_comparisons(models)
-    pass
+    model_comparisons(models)

@@ -207,8 +207,7 @@ class DataCleaner:
         teams = df['Home_Team'].drop_duplicates()
         for team in teams:
             goals = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Home_Team'] == team and goals:
                     goals.append(goals[-1] + value['Home_Team_Goals'])
@@ -234,8 +233,7 @@ class DataCleaner:
         df.insert(15, 'Away_Team_Goals_Against_This_Far', [None] * len(df))
         for team in teams:
             goals = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Home_Team'] == team:
                     goals.append(goals[-1] + value['Away_Team_Goals'])
@@ -257,8 +255,7 @@ class DataCleaner:
         df.insert(17, 'Away_Team_Unbeaten_Streak', [None] * len(df))
         for team in teams:
             streak = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Winners'] in [None, team]:
                     streak.append(streak[-1] + 1)
@@ -279,8 +276,7 @@ class DataCleaner:
         teams = df['Home_Team'].drop_duplicates()
         for team in teams:
             streak = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Winners'] == team:
                     streak.append(streak[-1] + 1)
@@ -303,8 +299,7 @@ class DataCleaner:
         df.insert(17, 'Away_Team_Losing_Streak', [None] * len(df))
         for team in teams:
             streak = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Losers'] == team:
                     streak.append(streak[-1] + 1)
@@ -327,8 +322,7 @@ class DataCleaner:
         df.insert(17, 'Away_Team_Points', [None] * len(df))
         for team in teams:
             streak = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Winners'] == team:
                     streak.append(streak[-1] + 3)
@@ -355,8 +349,7 @@ class DataCleaner:
         for team in teams:
             yellows = [0]
             reds = [0]
-            team_games = (df['Home_Team'] == team) | (df['Away_Team'] == team)
-            mini_df = df[team_games]
+            mini_df = team_table(df, team)
             for row, value in mini_df.iterrows():
                 if value['Home_Team'] == team:
                     try:
@@ -388,13 +381,52 @@ class DataCleaner:
                           ] = yellow
         return df
 
+    def add_wdl(self, league, years):
+        df = self.add_cards(league, years)
+        teams = df['Home_Team'].drop_duplicates().to_list()
+        for team in teams:
+            wins = [0]
+            draws = [0]
+            losses = [0]
+            mini_df = team_table(df, team)
+            for row, value in mini_df.iterrows():
+                if value['Winners'] == team:
+                    wins.append(wins[-1] + 1)
+                    draws.append(draws[-1])
+                    losses.append(losses[-1])
+                elif value['Losers'] == team:
+                    wins.append(wins[-1])
+                    draws.append(draws[-1])
+                    losses.append(losses[-1] + 1)
+                else:
+                    wins.append(wins[-1])
+                    draws.append(draws[-1] + 1)
+                    losses.append(losses[-1])
+            for location, win, draw, loss in zip(
+                    mini_df.index.values, wins[:-1], draws[:-1], losses[:-1]):
+                if df.loc[int(location)]['Home_Team'] == team:
+                    df.at[int(location), 'Home_Wins_This_Far'
+                          ] = win
+                    df.at[int(location), 'Home_Draws_This_Far'
+                          ] = draw
+                    df.at[int(location), 'Home_Losses_This_Far'
+                          ] = loss
+                else:
+                    df.at[int(location), 'Away_Wins_This_Far'
+                          ] = win
+                    df.at[int(location), 'Away_Draws_This_Far'
+                          ] = draw
+                    df.at[int(location), 'Away_Losses_This_Far'
+                          ] = loss
+        return df
+
     def merge_data(self, leagues, years):
         team_info = pd.read_csv('Team_Info.csv')
         big_df = pd.DataFrame()
         for league in leagues:
             for year in (pbar2 := tqdm(years)):
                 pbar2.set_description(f'Processing {league} {year}')
-                df = self.add_cards(league, year)
+                df = self.add_wdl(league, year)
                 big_df = pd.concat([big_df, df])
         big_df = pd.merge(big_df, team_info, on='Home_Team')
         pitches = []
@@ -599,6 +631,10 @@ def clean_team_name(string):
     return string
 
 
+def team_table(df, team):
+    return df[(df['Home_Team'] == team) | (df['Away_Team'] == team)]
+
+
 if __name__ == '__main__':
     '''
     histogram('premier_league', 2003)
@@ -609,5 +645,5 @@ if __name__ == '__main__':
     cleaner = DataCleaner(leagues, years)
     scraper = WebScraper(leagues)
     league_names = [x['Name'] for x in leagues]
-    x = cleaner.normalise_data(league_names, years)
-    x.to_csv('cleaned_dataset.csv', index=False)
+    # x = cleaner.normalise_data(league_names, years)
+    # x.to_csv('cleaned_dataset.csv', index=False)
