@@ -420,6 +420,93 @@ class DataCleaner:
                           ] = loss
         return df
 
+    def add_sided_wdl(self, league, years):
+        df = self.add_wdl(league, years)
+        teams = df['Home_Team'].drop_duplicates().to_list()
+        for team in teams:
+            h_wins = [0]
+            h_draws = [0]
+            h_losses = [0]
+            a_wins = [0]
+            a_draws = [0]
+            a_losses = [0]
+            mini_df = team_table(df, team)
+            for row, value in mini_df.iterrows():
+                if value['Winners'] == team:
+                    if value['Home_Team'] == team:
+                        h_wins.append(h_wins[-1] + 1)
+                        h_draws.append(h_draws[-1])
+                        h_losses.append(h_losses[-1])
+                        a_wins.append(a_wins[-1])
+                        a_draws.append(a_draws[-1])
+                        a_losses.append(a_losses[-1])
+                    else:
+                        h_wins.append(h_wins[-1])
+                        h_draws.append(h_draws[-1])
+                        h_losses.append(h_losses[-1])
+                        a_wins.append(a_wins[-1] + 1)
+                        a_draws.append(a_draws[-1])
+                        a_losses.append(a_losses[-1])
+                elif value['Losers'] == team:
+                    if value['Home_Team'] == team:
+                        h_wins.append(h_wins[-1])
+                        h_draws.append(h_draws[-1])
+                        h_losses.append(h_losses[-1] + 1)
+                        a_wins.append(a_wins[-1])
+                        a_draws.append(a_draws[-1])
+                        a_losses.append(a_losses[-1])
+                    else:
+                        h_wins.append(h_wins[-1])
+                        h_draws.append(h_draws[-1])
+                        h_losses.append(h_losses[-1])
+                        a_wins.append(a_wins[-1])
+                        a_draws.append(a_draws[-1])
+                        a_losses.append(a_losses[-1] + 1)
+                else:
+                    if value['Home_Team'] == team:
+                        h_wins.append(h_wins[-1])
+                        h_draws.append(h_draws[-1] + 1)
+                        h_losses.append(h_losses[-1])
+                        a_wins.append(a_wins[-1])
+                        a_draws.append(a_draws[-1])
+                        a_losses.append(a_losses[-1])
+                    else:
+                        h_wins.append(h_wins[-1])
+                        h_draws.append(h_draws[-1])
+                        h_losses.append(h_losses[-1])
+                        a_wins.append(a_wins[-1])
+                        a_draws.append(a_draws[-1] + 1)
+                        a_losses.append(a_losses[-1])
+            for location, hwin, hdraw, hloss, awin, adraw, aloss in zip(
+                    mini_df.index.values, h_wins[:-1], h_draws[:-1], h_losses[:-1], a_wins[:-1], a_draws[:-1], a_losses[:-1]):
+                if df.loc[int(location)]['Home_Team'] == team:
+                    df.at[int(location), 'Home_Wins_This_Far_at_Home'
+                          ] = hwin
+                    df.at[int(location), 'Home_Draws_This_Far_at_Home'
+                          ] = hdraw
+                    df.at[int(location), 'Home_Losses_This_Far_at_Home'
+                          ] = hloss
+                    df.at[int(location), 'Home_Wins_This_Far_Away'
+                          ] = awin
+                    df.at[int(location), 'Home_Draws_This_Far_Away'
+                          ] = adraw
+                    df.at[int(location), 'Home_Losses_This_Far_Away'
+                          ] = aloss
+                else:
+                    df.at[int(location), 'Away_Wins_This_Far_at_Home'
+                          ] = hwin
+                    df.at[int(location), 'Away_Draws_This_Far_at_Home'
+                          ] = hdraw
+                    df.at[int(location), 'Away_Losses_This_Far_at_Home'
+                          ] = hloss
+                    df.at[int(location), 'Away_Wins_This_Far_Away'
+                          ] = awin
+                    df.at[int(location), 'Away_Draws_This_Far_Away'
+                          ] = adraw
+                    df.at[int(location), 'Away_Losses_This_Far_Away'
+                          ] = aloss
+        return df
+
     def merge_data(self, leagues, years):
         team_info = pd.read_csv('Team_Info.csv')
         big_df = pd.DataFrame()
