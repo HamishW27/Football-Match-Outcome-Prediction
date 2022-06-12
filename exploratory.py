@@ -5,6 +5,7 @@ from datetime import datetime
 import re
 import requests
 from tqdm import tqdm
+import numpy as np
 
 '''
 {'Name': 'eerste_divisie', 'Teams': 20}
@@ -78,6 +79,7 @@ class DataCleaner:
         match_info['Referee'] = Referee
         match_info.drop('Home_Team', axis=1, inplace=True)
         match_info.drop('Away_Team', axis=1, inplace=True)
+        match_info.fillna(0, inplace=True)
         return match_info
 
     def clean_data(self, league, year):
@@ -478,7 +480,8 @@ class DataCleaner:
                         a_draws.append(a_draws[-1] + 1)
                         a_losses.append(a_losses[-1])
             for location, hwin, hdraw, hloss, awin, adraw, aloss in zip(
-                    mini_df.index.values, h_wins[:-1], h_draws[:-1], h_losses[:-1], a_wins[:-1], a_draws[:-1], a_losses[:-1]):
+                    mini_df.index.values, h_wins[:-1], h_draws[:-1],
+                    h_losses[:-1], a_wins[:-1], a_draws[:-1], a_losses[:-1]):
                 if df.loc[int(location)]['Home_Team'] == team:
                     df.at[int(location), 'Home_Wins_This_Far_at_Home'
                           ] = hwin
@@ -507,13 +510,35 @@ class DataCleaner:
                           ] = aloss
         return df
 
+    def add_per_games(self, league, years):
+        df = self.add_wdl(league, years)
+        df['Home_Points_Per_Game'] = (np.float64(
+            df.Home_Team_Points) / (df.Round-1)).fillna(0)
+        df['Home_Goals_Per_Game'] = (np.float64(
+            df.Home_Team_Goals_For_This_Far) / (df.Round-1)).fillna(0)
+        df['Home_Goals_Against_Per_Game'] = (np.float64(
+            df.Home_Team_Goals_Against_This_Far) / (df.Round-1)).fillna(0)
+        df['Home_Cards_Per_Game'] = (np.float64(
+            df.Home_Team_Reds_This_Far + df.Home_Team_Yellows_This_Far) / (
+                df.Round-1)).fillna(0)
+        df['Away_Points_Per_Game'] = (np.float64(
+            df.Away_Team_Points) / (df.Round-1)).fillna(0)
+        df['Away_Goals_Per_Game'] = (np.float64(
+            df.Away_Team_Goals_For_This_Far) / (df.Round-1)).fillna(0)
+        df['Away_Goals_Against_Per_Game'] = (np.float64(
+            df.Away_Team_Goals_Against_This_Far) / (df.Round-1)).fillna(0)
+        df['Away_Cards_Per_Game'] = (np.float64(
+            df.Away_Team_Reds_This_Far + df.Away_Team_Yellows_This_Far) / (
+                df.Round-1)).fillna(0)
+        return df.replace([np.inf, -np.inf], 0)
+
     def merge_data(self, leagues, years):
         team_info = pd.read_csv('Team_Info.csv')
         big_df = pd.DataFrame()
         for league in leagues:
             for year in (pbar2 := tqdm(years)):
                 pbar2.set_description(f'Processing {league} {year}')
-                df = self.add_wdl(league, year)
+                df = self.add_sided_wdl(league, year)
                 big_df = pd.concat([big_df, df])
         big_df = pd.merge(big_df, team_info, on='Home_Team')
         pitches = []
@@ -530,14 +555,14 @@ class DataCleaner:
             except IndexError:
                 pitches.append(1)
         big_df['Pitch_Match'] = pitches
-        return big_df
+        return big_dfmanchester-city-fc/manc
 
     def normalise_data(self, leagues, years):
         df = self.merge_data(leagues, years)
         new_df = df.fillna(0)
-        new_df.replace('Draw', 0, inplace=True)
-        new_df.replace('Home_Team_Win', 1, inplace=True)
-        new_df.replace('Away_Team_Win', -1, inplace=True)
+        new_df.replace('Home_Team_Win', 2, inplace=True)
+        new_df.replace('Draw', 1, inplace=True)
+        new_df.replace('Away_Team_Win', 0, inplace=True)
         new_df = new_df[['Result', 'Season', 'Round', 'Teams_in_League',
                         'Home_Team_Goals_For_This_Far',
                          'Home_Team_Goals_Against_This_Far',
@@ -549,7 +574,22 @@ class DataCleaner:
                          'Away_Team_Winning_Streak',
                          'Home_Team_Unbeaten_Streak',
                          'Away_Team_Unbeaten_Streak',
-                         'Elo_home', 'Elo_away', 'Capacity', 'Home_Yellow',
+                         'Elo_home', 'Elo_away', 'Home_Wins_This_Far',
+                         'Home_Draws_This_Far', 'Home_Losses_This_Far',
+                         'Away_Wins_This_Far', 'Away_Draws_This_Far',
+                         'Away_Losses_This_Far', 'Home_Wins_This_Far_at_Home',
+                         'Home_Draws_This_Far_at_Home',
+                         'Home_Losses_This_Far_at_Home',
+                         'Home_Wins_This_Far_Away',
+                         'Home_Draws_This_Far_Away',
+                         'Home_Losses_This_Far_Away',
+                         'Away_Wins_This_Far_at_Home',
+                         'Away_Draws_This_Far_at_Home',
+                         'Away_Losses_This_Far_at_Home',
+                         'Away_Wins_This_Far_Away',
+                         'Away_Draws_This_Far_Away',
+                         'Away_Losses_This_Far_Away',
+                         'Capacity', 'Home_Yellow',
                          'Home_Team_Reds_This_Far',
                          'Home_Team_Yellows_This_Far',
                          'Away_Team_Reds_This_Far',
@@ -732,5 +772,5 @@ if __name__ == '__main__':
     cleaner = DataCleaner(leagues, years)
     scraper = WebScraper(leagues)
     league_names = [x['Name'] for x in leagues]
-    # x = cleaner.normalise_data(league_names, years)
-    # x.to_csv('cleaned_dataset.csv', index=False)
+    x = cleaner.normalise_data(league_names, years)
+    x.to_csv('cleaned_dataset.csv', index=False)

@@ -4,7 +4,7 @@ import pickle
 from joblib import dump, load
 # from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression, Lasso, SGDRegressor
+from sklearn.linear_model import LinearRegression, Lasso, RidgeClassifier, SGDRegressor
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
@@ -161,14 +161,14 @@ models = [  # LinearRegression(),
     XGBClassifier(learning_rate=0.01, max_depth=6, n_estimators=324),
     # XGBRegressor(learning_rate=0.05, max_depth=4, n_estimators=220),
     SGDClassifier(alpha=0.01, loss='log_loss', penalty='none'),
-    # SGDRegressor(alpha=0.01, loss='squared_error', penalty='none')
+    # SGDRegressor(alpha=0.01, loss='squared_error', penalty='none'),
+    RidgeClassifier()
 ]
 
 
 def model_comparisons(models, columns=None):
     data = pd.read_csv('cleaned_dataset.csv')
     y = data['Result'].values
-    y = group_goals(y)
     X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
     if columns is None:
         columns = X.columns
@@ -222,13 +222,6 @@ def scale_array(df):
     return X_sc
 
 
-def group_goals(column_vec):
-    enc = LabelEncoder()
-    label_encoder = enc.fit(column_vec)
-    column_vec = label_encoder.transform(column_vec)
-    return column_vec
-
-
 def grid_search(estimator, parameters, columns):
     '''
     param_test1 = {
@@ -259,13 +252,12 @@ important_columns = ['Season', 'Home_Team_Goals_For_This_Far',
                      'Home_Team_Yellows_This_Far',
                      'Away_Team_Yellows_This_Far']
 
+important_features = [0, 3, 4, 5, 6, 7, 8, 15, 16, 17, 20, 22]
+
 data = pd.read_csv('cleaned_dataset.csv')
 y = data['Result'].values
-y = group_goals(y)
 X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
-X_sc = scale_array(X[important_columns])
-
-important_features = [0, 3, 4, 5, 6, 7, 8, 15, 16, 17, 20, 22]
+X_sc = scale_array(X)
 
 
 def feature_selection(features):
@@ -274,7 +266,6 @@ def feature_selection(features):
     X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
     X = X[features].values
     X_sc = scale_array(X)
-    y = group_goals(y)
     X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.1)
     return X_train, X_test, y_train, y_test
 
@@ -295,7 +286,7 @@ def feature_select_RF():
     y_pred = model.predict(X_test)
     plot_predictions(y_pred[:10], y_test[:10], model)
     print(f'Mean Squared Error:{mean_squared_error(y_test, y_pred)}')
-    score = model.score(scale_array(X[important_columns]), group_goals(y))
+    score = model.score(scale_array(X[important_columns]), y)
     print(f'Score: {score}')
     try:
         cm = confusion_matrix(y_test, y_pred)
