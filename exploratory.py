@@ -207,25 +207,29 @@ class DataCleaner:
     def add_gf_thus_far(self, league, years):
         df = self.add_elo(league, years)
         teams = df['Home_Team'].drop_duplicates()
-        for team in teams:
-            goals = [0]
-            mini_df = team_table(df, team)
-            for row, value in mini_df.iterrows():
-                if value['Home_Team'] == team and goals:
-                    goals.append(goals[-1] + value['Home_Team_Goals'])
-                elif value['Home_Team'] == team:
-                    goals.append(value['Home_Team_Goals'])
-                elif value['Away_Team'] == team and goals:
-                    goals.append(goals[-1] + value['Away_Team_Goals'])
-                else:
-                    goals.append(value['Away_Team_Goals'])
-            for location, goal_tally in zip(mini_df.index.values, goals[:-1]):
-                if df.loc[int(location)]['Home_Team'] == team:
-                    df.at[int(location), 'Home_Team_Goals_For_This_Far'
-                          ] = goal_tally
-                else:
-                    df.at[int(location), 'Away_Team_Goals_For_This_Far'
-                          ] = goal_tally
+        if df.empty:
+            df['Home_Team_Goals_For_This_Far'] = np.NaN
+            df['Away_Team_Goals_For_This_Far'] = np.NaN
+        else:
+            for team in teams:
+                goals = [0]
+                mini_df = team_table(df, team)
+                for row, value in mini_df.iterrows():
+                    if value['Home_Team'] == team and goals:
+                        goals.append(goals[-1] + value['Home_Team_Goals'])
+                    elif value['Home_Team'] == team:
+                        goals.append(value['Home_Team_Goals'])
+                    elif value['Away_Team'] == team and goals:
+                        goals.append(goals[-1] + value['Away_Team_Goals'])
+                    else:
+                        goals.append(value['Away_Team_Goals'])
+                for location, goal_tally in zip(mini_df.index.values, goals[:-1]):
+                    if df.loc[int(location)]['Home_Team'] == team:
+                        df.at[int(location), 'Home_Team_Goals_For_This_Far'
+                              ] = goal_tally
+                    else:
+                        df.at[int(location), 'Away_Team_Goals_For_This_Far'
+                              ] = goal_tally
         return df
 
     def add_ga_thus_far(self, league, years):
@@ -348,39 +352,47 @@ class DataCleaner:
         if 'Home_Red' not in df:
             df = pd.merge(df, match_info, on='Link')
         teams = df['Home_Team'].drop_duplicates().to_list()
-        for team in teams:
-            yellows = [0]
-            reds = [0]
-            mini_df = team_table(df, team)
-            for row, value in mini_df.iterrows():
-                if value['Home_Team'] == team:
-                    try:
-                        yellows.append(int(yellows[-1] + value['Home_Yellow']))
-                        reds.append(int(reds[-1] + value['Home_Red']))
-                    except ValueError:
-                        yellows = [0] * len(mini_df)
-                        reds = [0] * len(mini_df)
-                        break
-                else:
-                    try:
-                        yellows.append(int(yellows[-1] + value['Away_Yellow']))
-                        reds.append(int(reds[-1] + value['Away_Red']))
-                    except ValueError:
-                        yellows = [0] * len(mini_df)
-                        reds = [0] * len(mini_df)
-                        break
-            for location, yellow, red in zip(
-                    mini_df.index.values, yellows[:-1], reds[:-1]):
-                if df.loc[int(location)]['Home_Team'] == team:
-                    df.at[int(location), 'Home_Team_Reds_This_Far'
-                          ] = red
-                    df.at[int(location), 'Home_Team_Yellows_This_Far'
-                          ] = yellow
-                else:
-                    df.at[int(location), 'Away_Team_Reds_This_Far'
-                          ] = red
-                    df.at[int(location), 'Away_Team_Yellows_This_Far'
-                          ] = yellow
+        if df.empty:
+            df['Home_Team_Reds_This_Far'] = np.NaN
+            df['Home_Team_Yellows_This_Far'] = np.NaN
+            df['Away_Team_Reds_This_Far'] = np.NaN
+            df['Away_Team_Yellows_This_Far'] = np.NaN
+        else:
+            for team in teams:
+                yellows = [0]
+                reds = [0]
+                mini_df = team_table(df, team)
+                for row, value in mini_df.iterrows():
+                    if value['Home_Team'] == team:
+                        try:
+                            yellows.append(
+                                int(yellows[-1] + value['Home_Yellow']))
+                            reds.append(int(reds[-1] + value['Home_Red']))
+                        except ValueError:
+                            yellows = [0] * len(mini_df)
+                            reds = [0] * len(mini_df)
+                            break
+                    else:
+                        try:
+                            yellows.append(
+                                int(yellows[-1] + value['Away_Yellow']))
+                            reds.append(int(reds[-1] + value['Away_Red']))
+                        except ValueError:
+                            yellows = [0] * len(mini_df)
+                            reds = [0] * len(mini_df)
+                            break
+                for location, yellow, red in zip(
+                        mini_df.index.values, yellows[:-1], reds[:-1]):
+                    if df.loc[int(location)]['Home_Team'] == team:
+                        df.at[int(location), 'Home_Team_Reds_This_Far'
+                              ] = red
+                        df.at[int(location), 'Home_Team_Yellows_This_Far'
+                              ] = yellow
+                    else:
+                        df.at[int(location), 'Away_Team_Reds_This_Far'
+                              ] = red
+                        df.at[int(location), 'Away_Team_Yellows_This_Far'
+                              ] = yellow
         return df
 
     def add_wdl(self, league, years):
@@ -511,7 +523,7 @@ class DataCleaner:
         return df
 
     def add_per_games(self, league, years):
-        df = self.add_wdl(league, years)
+        df = self.add_sided_wdl(league, years)
         df['Home_Points_Per_Game'] = (np.float64(
             df.Home_Team_Points) / (df.Round-1)).fillna(0)
         df['Home_Goals_Per_Game'] = (np.float64(
@@ -538,7 +550,7 @@ class DataCleaner:
         for league in leagues:
             for year in (pbar2 := tqdm(years)):
                 pbar2.set_description(f'Processing {league} {year}')
-                df = self.add_sided_wdl(league, year)
+                df = self.add_per_games(league, year)
                 big_df = pd.concat([big_df, df])
         big_df = pd.merge(big_df, team_info, on='Home_Team')
         pitches = []
@@ -555,7 +567,7 @@ class DataCleaner:
             except IndexError:
                 pitches.append(1)
         big_df['Pitch_Match'] = pitches
-        return big_dfmanchester-city-fc/manc
+        return big_df
 
     def normalise_data(self, leagues, years):
         df = self.merge_data(leagues, years)
@@ -594,7 +606,14 @@ class DataCleaner:
                          'Home_Team_Yellows_This_Far',
                          'Away_Team_Reds_This_Far',
                          'Away_Team_Yellows_This_Far',
-                         'Away_Red', 'Date_New', 'Link', 'Pitch_Match']]
+                         'Away_Red', 'Home_Points_Per_Game',
+                         'Home_Goals_Per_Game',
+                         'Home_Goals_Against_Per_Game',
+                         'Home_Cards_Per_Game',
+                         'Away_Points_Per_Game', 'Away_Goals_Per_Game',
+                         'Away_Goals_Against_Per_Game',
+                         'Away_Cards_Per_Game', 'Date_New',
+                         'Link', 'Pitch_Match']]
         return new_df
 
 
