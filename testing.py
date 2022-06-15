@@ -4,7 +4,8 @@ import pickle
 from joblib import dump, load
 # from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression, Lasso, RidgeClassifier, SGDRegressor
+from sklearn.linear_model import LinearRegression, Lasso
+from sklearn.linear_model import SGDRegressor,  RidgeClassifier
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
@@ -35,6 +36,10 @@ from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import make_scorer
 from sklearn.linear_model import SGDClassifier
+from sklearn.ensemble import ExtraTreesClassifier
+import statsmodels.api as sm
+from sklearn.feature_selection import SelectFromModel
+from sklearn.svm import LinearSVC
 
 '''
 class LinearRegression:
@@ -141,8 +146,8 @@ models = [  # LinearRegression(),
     AdaBoostClassifier(learning_rate=1.0, n_estimators=10000),
     # AdaBoostRegressor(learning_rate=0.01, n_estimators=10000),
     RandomForestClassifier(
-        criterion='entropy', max_depth=12,
-        max_features='log2', n_estimators=64),
+        criterion='entropy', max_depth=128,
+        max_features='log2', n_estimators=1024),
     # RandomForestRegressor(criterion='poisson',
     # max_depth=12, max_features='log2',
     # n_estimators=256),
@@ -170,6 +175,7 @@ def model_comparisons(models, columns=None):
     data = pd.read_csv('cleaned_dataset.csv')
     y = data['Result'].values
     X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+    X.League = X.League.astype('category').cat.codes
     if columns is None:
         columns = X.columns
     X_sc = scale_array(X[columns])
@@ -202,7 +208,7 @@ def model_comparisons(models, columns=None):
         # dump(model, f'{str(model)}.joblib')
 
 
-def MLPGridSearch(X_sc):
+def MLPGridSearch(X_sc, y):
     mlp_gs = MLPClassifier(max_iter=1000)
     parameter_space = {
         'hidden_layer_sizes': [(10, 30, 10), (20,), (150, 100, 50)],
@@ -254,16 +260,12 @@ important_columns = ['Season', 'Home_Team_Goals_For_This_Far',
 
 important_features = [0, 3, 4, 5, 6, 7, 8, 15, 16, 17, 20, 22]
 
-data = pd.read_csv('cleaned_dataset.csv')
-y = data['Result'].values
-X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
-X_sc = scale_array(X)
-
 
 def feature_selection(features):
     data = pd.read_csv('cleaned_dataset.csv')
     y = data['Result'].values
     X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+    X.League = X.League.astype('category').cat.codes
     X = X[features].values
     X_sc = scale_array(X)
     X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.1)
@@ -307,7 +309,43 @@ def feature_select_RF():
     print(sum(y_pred.round() == y_test)/len(y_test))
 
 
-X_train, X_test, y_train, y_test = feature_selection(important_columns)
+key_columns = ['Result', 'Home_Team_Goals_For_This_Far',
+               'Home_Team_Goals_Against_This_Far', 'Away_Team_Goals_For_This_Far',
+               'Away_Team_Goals_Against_This_Far', 'Home_Team_Points',
+               'Away_Team_Points', 'Home_Team_Losing_Streak',
+               'Away_Team_Losing_Streak', 'Home_Team_Winning_Streak',
+               'Away_Team_Winning_Streak', 'Home_Team_Unbeaten_Streak',
+               'Away_Team_Unbeaten_Streak', 'Elo_home', 'Elo_away',
+               'Home_Wins_This_Far', 'Home_Losses_This_Far', 'Away_Wins_This_Far',
+               'Away_Losses_This_Far', 'Home_Wins_This_Far_at_Home',
+               'Home_Losses_This_Far_at_Home', 'Home_Wins_This_Far_Away',
+               'Home_Losses_This_Far_Away', 'Away_Wins_This_Far_at_Home',
+               'Away_Losses_This_Far_at_Home', 'Away_Wins_This_Far_Away',
+               'Away_Losses_This_Far_Away', 'Capacity', 'Home_Yellow', 'Away_Red',
+               'Home_Points_Per_Game', 'Home_Goals_Per_Game',
+               'Home_Goals_Against_Per_Game', 'Away_Points_Per_Game',
+               'Away_Goals_Per_Game', 'Away_Goals_Against_Per_Game']
+
+svm_cols = ['Season', 'Teams_in_League', 'Home_Team_Goals_For_This_Far',
+            'Home_Team_Goals_Against_This_Far', 'Away_Team_Goals_For_This_Far',
+            'Away_Team_Goals_Against_This_Far', 'Home_Team_Points',
+            'Away_Team_Points', 'Away_Team_Winning_Streak',
+            'Home_Team_Unbeaten_Streak', 'Away_Team_Unbeaten_Streak', 'Elo_home',
+            'Elo_away', 'Home_Wins_This_Far', 'Home_Draws_This_Far',
+            'Home_Losses_This_Far', 'Away_Draws_This_Far',
+            'Home_Wins_This_Far_at_Home', 'Home_Draws_This_Far_at_Home',
+            'Home_Losses_This_Far_at_Home', 'Home_Draws_This_Far_Away',
+            'Away_Wins_This_Far_at_Home', 'Away_Draws_This_Far_at_Home',
+            'Away_Losses_This_Far_at_Home', 'Away_Wins_This_Far_Away',
+            'Away_Draws_This_Far_Away', 'Capacity', 'Home_Yellow',
+            'Away_Team_Yellows_This_Far', 'Away_Red', 'Home_Points_Per_Game',
+            'Home_Goals_Per_Game', 'Home_Goals_Against_Per_Game',
+            'Away_Points_Per_Game', 'Away_Goals_Per_Game',
+            'Away_Goals_Against_Per_Game', 'Away_Cards_Per_Game', 'Pitch_Match',
+            'League']
+
+# X_train, X_test, y_train, y_test = feature_selection(important_columns)
 
 if __name__ == '__main__':
-    model_comparisons(models)
+    # model_comparisons(models)
+    pass

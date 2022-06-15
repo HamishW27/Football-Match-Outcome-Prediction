@@ -223,7 +223,8 @@ class DataCleaner:
                         goals.append(goals[-1] + value['Away_Team_Goals'])
                     else:
                         goals.append(value['Away_Team_Goals'])
-                for location, goal_tally in zip(mini_df.index.values, goals[:-1]):
+                for location, goal_tally in zip(mini_df.index.values,
+                                                goals[:-1]):
                     if df.loc[int(location)]['Home_Team'] == team:
                         df.at[int(location), 'Home_Team_Goals_For_This_Far'
                               ] = goal_tally
@@ -613,7 +614,7 @@ class DataCleaner:
                          'Away_Points_Per_Game', 'Away_Goals_Per_Game',
                          'Away_Goals_Against_Per_Game',
                          'Away_Cards_Per_Game', 'Date_New',
-                         'Link', 'Pitch_Match']]
+                         'Link', 'Pitch_Match', 'League']]
         return new_df
 
 
