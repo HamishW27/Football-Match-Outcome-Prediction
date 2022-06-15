@@ -31,6 +31,18 @@ years = list(range(1990, 2023))
 
 
 class DataCleaner:
+    '''
+    This is a class containing tools to "clean" the information about
+    each match stored across the csv files for each year of each
+    respective football league and return a large dataset of useful
+    information about each match.
+    Attribute:
+        leagues(List of Strings): A set of strings corresponding to the leagues
+        to be cleaned. Ideally, this should be every league contained in
+        the csvs but some data may need to redacted if misleading
+        years(List of Integers): A list of the years to be cleaned. This
+        can be edited as it may only be advantageous to clean recent years
+    '''
 
     def __init__(self, leagues, years) -> None:
         self.leagues = leagues
