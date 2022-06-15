@@ -37,3 +37,41 @@ def download_data(db_name):
     return pd.read_sql_table(db_name, engine)
 ```
 The function above would then download the dataframe which is kept updated by another function.
+
+## Milestone 4
+
+At this stage, it was important to find a model to classify the data. After trialing around 20 different models and tuning them using GridSearchCV, the most promising were RandomForestClassifier, XGBClassifier, and AdaBoostClassifier. RandomForest had the best results after performing feature selection and removing outdated football matches from the data.
+
+Unsurprisingly, the Classifiers were much better at predicting the match outcomes than Regressors.
+
+``` python
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+
+def scale_array(df):
+    scaler = StandardScaler()
+    scaler.fit(df)
+    X_sc = scaler.transform(df)
+    return X_sc
+
+def accuracy(confusion_matrix):
+    diagonal_sum = confusion_matrix.trace()
+    sum_of_all_elements = confusion_matrix.sum()
+    return diagonal_sum / sum_of_all_elements
+
+y = data['Result'].values
+X = data.drop(['Result', 'Date_New', 'Link'], inplace=False, axis=1)
+X.League = X.League.astype('category').cat.codes
+X_sc = scale_array(X[svm_cols])
+X_train, X_test, y_train, y_test = train_test_split(X_sc, y, test_size=0.1)
+model = RandomForestClassifier(
+        criterion='entropy', max_depth=128,
+        max_features='log2', n_estimators=1024)
+model = model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+cm = confusion_matrix(y_test, y_pred)
+print(cm)
+print(accuracy(cm))
+```
