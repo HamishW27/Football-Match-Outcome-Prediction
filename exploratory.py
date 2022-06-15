@@ -631,6 +631,13 @@ class DataCleaner:
 
 
 class WebScraper:
+    '''
+    A class handling the scraping of the webpage
+    besoccer.com for information regarding football matches.
+    Attributes:
+        leagues(List of Strings): a list containing the leagues that
+        are desired to be scraped.
+    '''
 
     def __init__(self, leagues) -> None:
         self.leagues = leagues
