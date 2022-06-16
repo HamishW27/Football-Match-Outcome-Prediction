@@ -58,3 +58,5 @@ else:
     df = cleaner.normalise_data(league_names, exploratory.years)
     df.to_csv('cleaned_dataset.csv', index=False)
     df.to_sql('football', engine, if_exists='replace')
+    Latest_Season = df[df.League == '2022']
+    Latest_Season.to_csv('cleaned_results.csv', index=False)
