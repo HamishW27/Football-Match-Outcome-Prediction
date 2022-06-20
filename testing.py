@@ -1,7 +1,7 @@
 from sklearn.feature_selection import VarianceThreshold
 import pandas as pd
 import pickle
-from joblib import dump, load
+import joblib
 # from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression, Lasso
@@ -344,8 +344,32 @@ svm_cols = ['Season', 'Teams_in_League', 'Home_Team_Goals_For_This_Far',
             'Away_Goals_Against_Per_Game', 'Away_Cards_Per_Game', 'Pitch_Match',
             'League']
 
-# X_train, X_test, y_train, y_test = feature_selection(important_columns)
 
+def final_test():
+    X = pd.read_csv('cleaned_dataset.csv')
+    X = X[X.Season != 2022]
+    X = X[X.League != 'eerste_divisie']
+    X = X[X.Season > 2012]
+    X.League = X.League.astype('category').cat.codes
+    y = X['Result'].values
+    X = X[svm_cols].values
+    X_sc = scale_array(X)
+    model = RandomForestClassifier(
+        criterion='entropy', max_depth=128,
+        max_features='log2', n_estimators=1024)
+    model = model.fit(X_sc, y)
+    test_data = pd.read_csv('cleaned_results.csv')
+    y_test = test_data.Result.values
+    test_data = test_data[svm_cols]
+    test_data.League = test_data.League.astype('category').cat.codes
+    X_new = scale_array(test_data)
+    y_pred = model.predict(X_new)
+    cm = confusion_matrix(y_pred, y_test)
+    print(cm)
+    print(accuracy(cm))
+
+
+# X_train, X_test, y_train, y_test = feature_selection(important_columns)
 if __name__ == '__main__':
     # model_comparisons(models)
     pass
