@@ -1,11 +1,11 @@
-from sklearn.feature_selection import VarianceThreshold
+# from sklearn.feature_selection import VarianceThreshold
 import pandas as pd
-import pickle
-import joblib
+# import pickle
+# import joblib
 # from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression, Lasso
-from sklearn.linear_model import SGDRegressor,  RidgeClassifier
+# from sklearn.linear_model import LinearRegression, Lasso
+from sklearn.linear_model import RidgeClassifier
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
@@ -13,33 +13,33 @@ from sklearn.neighbors import KNeighborsClassifier
 import contextlib
 import time
 # import numba
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import AdaBoostClassifier, AdaBoostRegressor, \
-    GradientBoostingClassifier, GradientBoostingRegressor, \
-    RandomForestClassifier, RandomForestRegressor
-from sklearn.neural_network import MLPClassifier, MLPRegressor
-from sklearn.feature_selection import SelectKBest
-from sklearn.feature_selection import chi2
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
+# from sklearn.tree import DecisionTreeClassifier
+# from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import AdaBoostClassifier, \
+    GradientBoostingClassifier, \
+    RandomForestClassifier
+from sklearn.neural_network import MLPClassifier
+# from sklearn.feature_selection import SelectKBest
+# from sklearn.feature_selection import chi2
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import classification_report, confusion_matrix
 import seaborn as sns
-from xgboost import XGBRegressor
+# from xgboost import XGBRegressor
 from xgboost import XGBClassifier
-from sklearn.preprocessing import LabelEncoder
-from sklearn.datasets import make_regression
-from sklearn.model_selection import RepeatedStratifiedKFold
+# from sklearn.preprocessing import LabelEncoder
+# from sklearn.datasets import make_regression
+# from sklearn.model_selection import RepeatedStratifiedKFold
 from sklearn.model_selection import GridSearchCV
-from utils import visualise_predictions
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import make_scorer
+# from utils import visualise_predictions
+# from sklearn.metrics import accuracy_score
+# from sklearn.metrics import precision_score
+# from sklearn.metrics import recall_score
+# from sklearn.metrics import make_scorer
 from sklearn.linear_model import SGDClassifier
-from sklearn.ensemble import ExtraTreesClassifier
-import statsmodels.api as sm
-from sklearn.feature_selection import SelectFromModel
-from sklearn.svm import LinearSVC
+# from sklearn.ensemble import ExtraTreesClassifier
+# import statsmodels.api as sm
+# from sklearn.feature_selection import SelectFromModel
+# from sklearn.svm import LinearSVC
 
 '''
 class LinearRegression:
@@ -310,18 +310,21 @@ def feature_select_RF():
 
 
 key_columns = ['Result', 'Home_Team_Goals_For_This_Far',
-               'Home_Team_Goals_Against_This_Far', 'Away_Team_Goals_For_This_Far',
+               'Home_Team_Goals_Against_This_Far',
+               'Away_Team_Goals_For_This_Far',
                'Away_Team_Goals_Against_This_Far', 'Home_Team_Points',
                'Away_Team_Points', 'Home_Team_Losing_Streak',
                'Away_Team_Losing_Streak', 'Home_Team_Winning_Streak',
                'Away_Team_Winning_Streak', 'Home_Team_Unbeaten_Streak',
                'Away_Team_Unbeaten_Streak', 'Elo_home', 'Elo_away',
-               'Home_Wins_This_Far', 'Home_Losses_This_Far', 'Away_Wins_This_Far',
+               'Home_Wins_This_Far', 'Home_Losses_This_Far',
+               'Away_Wins_This_Far',
                'Away_Losses_This_Far', 'Home_Wins_This_Far_at_Home',
                'Home_Losses_This_Far_at_Home', 'Home_Wins_This_Far_Away',
                'Home_Losses_This_Far_Away', 'Away_Wins_This_Far_at_Home',
                'Away_Losses_This_Far_at_Home', 'Away_Wins_This_Far_Away',
-               'Away_Losses_This_Far_Away', 'Capacity', 'Home_Yellow', 'Away_Red',
+               'Away_Losses_This_Far_Away', 'Capacity', 'Home_Yellow',
+               'Away_Red',
                'Home_Points_Per_Game', 'Home_Goals_Per_Game',
                'Home_Goals_Against_Per_Game', 'Away_Points_Per_Game',
                'Away_Goals_Per_Game', 'Away_Goals_Against_Per_Game']
@@ -330,7 +333,8 @@ svm_cols = ['Season', 'Teams_in_League', 'Home_Team_Goals_For_This_Far',
             'Home_Team_Goals_Against_This_Far', 'Away_Team_Goals_For_This_Far',
             'Away_Team_Goals_Against_This_Far', 'Home_Team_Points',
             'Away_Team_Points', 'Away_Team_Winning_Streak',
-            'Home_Team_Unbeaten_Streak', 'Away_Team_Unbeaten_Streak', 'Elo_home',
+            'Home_Team_Unbeaten_Streak', 'Away_Team_Unbeaten_Streak',
+            'Elo_home',
             'Elo_away', 'Home_Wins_This_Far', 'Home_Draws_This_Far',
             'Home_Losses_This_Far', 'Away_Draws_This_Far',
             'Home_Wins_This_Far_at_Home', 'Home_Draws_This_Far_at_Home',
@@ -341,7 +345,8 @@ svm_cols = ['Season', 'Teams_in_League', 'Home_Team_Goals_For_This_Far',
             'Away_Team_Yellows_This_Far', 'Away_Red', 'Home_Points_Per_Game',
             'Home_Goals_Per_Game', 'Home_Goals_Against_Per_Game',
             'Away_Points_Per_Game', 'Away_Goals_Per_Game',
-            'Away_Goals_Against_Per_Game', 'Away_Cards_Per_Game', 'Pitch_Match',
+            'Away_Goals_Against_Per_Game', 'Away_Cards_Per_Game',
+            'Pitch_Match',
             'League']
 
 
@@ -352,23 +357,7 @@ def final_test():
     X = X[X.Season > 2012]
     X.League = X.League.astype('category').cat.codes
     y = X['Result'].values
-    X = X[svm_cols]svm_cols = ['Season', 'Teams_in_League', 'Home_Team_Goals_For_This_Far',
-                               'Home_Team_Goals_Against_This_Far', 'Away_Team_Goals_For_This_Far',
-                               'Away_Team_Goals_Against_This_Far', 'Home_Team_Points',
-                               'Away_Team_Points', 'Away_Team_Winning_Streak',
-                               'Home_Team_Unbeaten_Streak', 'Away_Team_Unbeaten_Streak', 'Elo_home',
-                               'Elo_away', 'Home_Wins_This_Far', 'Home_Draws_This_Far',
-                               'Home_Losses_This_Far', 'Away_Draws_This_Far',
-                               'Home_Wins_This_Far_at_Home', 'Home_Draws_This_Far_at_Home',
-                               'Home_Losses_This_Far_at_Home', 'Home_Draws_This_Far_Away',
-                               'Away_Wins_This_Far_at_Home', 'Away_Draws_This_Far_at_Home',
-                               'Away_Losses_This_Far_at_Home', 'Away_Wins_This_Far_Away',
-                               'Away_Draws_This_Far_Away', 'Capacity', 'Home_Yellow',
-                               'Away_Team_Yellows_This_Far', 'Away_Red', 'Home_Points_Per_Game',
-                               'Home_Goals_Per_Game', 'Home_Goals_Against_Per_Game',
-                               'Away_Points_Per_Game', 'Away_Goals_Per_Game',
-                               'Away_Goals_Against_Per_Game', 'Away_Cards_Per_Game', 'Pitch_Match',
-                               'League'].values
+    X = X[svm_cols]
     X_sc = scale_array(X)
     model = RandomForestClassifier(
         criterion='entropy', max_depth=128,
