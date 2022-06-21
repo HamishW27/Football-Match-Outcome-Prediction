@@ -352,7 +352,23 @@ def final_test():
     X = X[X.Season > 2012]
     X.League = X.League.astype('category').cat.codes
     y = X['Result'].values
-    X = X[svm_cols].values
+    X = X[svm_cols]svm_cols = ['Season', 'Teams_in_League', 'Home_Team_Goals_For_This_Far',
+                               'Home_Team_Goals_Against_This_Far', 'Away_Team_Goals_For_This_Far',
+                               'Away_Team_Goals_Against_This_Far', 'Home_Team_Points',
+                               'Away_Team_Points', 'Away_Team_Winning_Streak',
+                               'Home_Team_Unbeaten_Streak', 'Away_Team_Unbeaten_Streak', 'Elo_home',
+                               'Elo_away', 'Home_Wins_This_Far', 'Home_Draws_This_Far',
+                               'Home_Losses_This_Far', 'Away_Draws_This_Far',
+                               'Home_Wins_This_Far_at_Home', 'Home_Draws_This_Far_at_Home',
+                               'Home_Losses_This_Far_at_Home', 'Home_Draws_This_Far_Away',
+                               'Away_Wins_This_Far_at_Home', 'Away_Draws_This_Far_at_Home',
+                               'Away_Losses_This_Far_at_Home', 'Away_Wins_This_Far_Away',
+                               'Away_Draws_This_Far_Away', 'Capacity', 'Home_Yellow',
+                               'Away_Team_Yellows_This_Far', 'Away_Red', 'Home_Points_Per_Game',
+                               'Home_Goals_Per_Game', 'Home_Goals_Against_Per_Game',
+                               'Away_Points_Per_Game', 'Away_Goals_Per_Game',
+                               'Away_Goals_Against_Per_Game', 'Away_Cards_Per_Game', 'Pitch_Match',
+                               'League'].values
     X_sc = scale_array(X)
     model = RandomForestClassifier(
         criterion='entropy', max_depth=128,
