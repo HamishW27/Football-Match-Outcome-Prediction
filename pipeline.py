@@ -19,7 +19,7 @@ leagues_and_urls = [['eredivisie', ''],
 
 DATABASE_TYPE = 'postgresql'
 DBAPI = 'psycopg2'
-ENDPOINT = 'kashin.db.elephantsql.com'  # Change it for your AWS endpoint
+ENDPOINT = 'kashin.db.elephantsql.com'
 USER = 'ndpjaeig'
 PASS = '6CC7jnIs9o--70M_dy3Bf1GPF8ko1MWi'
 PORT = 5432
@@ -29,10 +29,27 @@ engine = create_engine(
 
 
 def download_data(db_name, columns=None):
+    '''
+    This is a function to read the columns of, or the entirety
+    of, a SQL database.
+    Attributes:
+        db_name(String): The name of the database.
+        engine(sqlalchemy.engine.base.Engine): Defined above,
+        this is a sqlalchemy engine which allows access to the database
+        columns(List): A list of columns that exist in the database. If
+        None, the function downloads the entire database.
+    '''
     return pd.read_sql_table(db_name, engine, columns=columns)
 
 
 def join_lists(list_of_lists):
+    '''
+    A function to merge the items in a list of sublists into a list
+    containing the elements of all the sublists. When this is done,
+    links are amended to resemble the links in the amended csv files.
+    Attributes:
+        list_of_lists(List). A list of lists.
+    '''
     mylist = [item for sublist in list_of_lists for item in sublist]
     mylist = [exploratory.modify_link(link[0]) for link in mylist]
     return mylist
