@@ -46,7 +46,7 @@ class DataCleaner:
 
     def __init__(self, leagues, years) -> None:
         '''
-        See help(DataCleaner) for accurate signature
+        See help(DataCleaner) for accurate signature.
         '''
         self.leagues = leagues
         self.years = years
@@ -895,7 +895,7 @@ class DataCleaner:
 
 class WebScraper:
     '''
-    A class handling the scraping of the webpage
+    This is a class handling the scraping of the webpage
     besoccer.com for information regarding football matches.
     Attributes:
         leagues(List of Strings): a list containing the leagues that
@@ -903,10 +903,25 @@ class WebScraper:
     '''
 
     def __init__(self, leagues) -> None:
+        '''
+        See help(WebScraper) for accurate signature.
+        '''
         self.leagues = leagues
         self.league_names = [x['Name'] for x in leagues]
 
     def scrape_league_links(self, league, year, url_ext=''):
+        '''
+        This is a function to scrape links to football matches
+        from besoccer.com from a specific year and league.
+        Attributes:
+            league(String): The name of the league as a string as it appears at
+            the end of the besoccer.com url.
+            year(Integer): The year of the later half of the season that the
+            function is to scrape matches for.
+            url_ext(String): '/group1' or other strings that are needed to be
+            added to the url to ensure the scraper scrapes the main season
+            rather than the playoffs or pre-season matches.
+        '''
         match_links = []
         teams = teams_in_league(self.leagues, league)
         games = (teams - 1) * 2
@@ -925,6 +940,17 @@ class WebScraper:
         return match_links
 
     def scrape_all_leagues(self, leagues_and_exts, year):
+        '''
+        This is a function to scrape links to football matches
+        from besoccer.com from a every desired league in a specified year.
+        Attributes:
+            leagues_and_exts(List): A list of lists. Each internal list should
+            have two elements (both strings) - The first is the name of the
+            league as it appears in the besoccer.cm url. The second is the
+            url_ext required for the scraper to scrape the correct matches.
+            year(Integer): The year of the later half of the season that the
+            function is to scrape matches for.
+        '''
         links = []
         for league in leagues_and_exts:
             link = self.scrape_league_links(
@@ -933,6 +959,23 @@ class WebScraper:
         return links
 
     def scrape_page_info(self, url, league, year, round):
+        '''
+        This is a function to scrape relevant information from the
+        besoccer.com webpage and to store that information as a dataframe
+        and to later add it to the master table of football matches after
+        the data has been cleaned.
+        Attributes:
+            url(String): Obtained from the scrape_all_leagues function or
+            otherwise, this is a url pertaining to match data on the
+            besoccer.com website.
+            league(String): The name of the league as a string as it appears at
+            the end of the besoccer.com url.
+            year(Integer): The year of the later half of the season that the
+            function is to scrape matches for.
+            round(Integer): The round of play that the game takes place in.
+            This is added by the scrape_league_data function for convenience as
+            Round is an important data column.
+        '''
         html = requests.get(url).text
         page = BeautifulSoup(html, 'html.parser')
         home_team = page.find(
@@ -999,6 +1042,20 @@ class WebScraper:
         return pd.DataFrame.from_dict(data)
 
     def scrape_league_data(self, league, year, url_ext=''):
+        '''
+        This is a function to scrape relevant information from the
+        besoccer.com webpage for an entire season in one league. This
+        is to create a dataframe similar to the csv files initially given
+        so that new seasons can be cleaned and added to the cleaned dataset.
+        Attributes:
+            league(String): The name of the league as a string as it appears at
+            the end of the besoccer.com url.
+            year(Integer): The year of the later half of the season that the
+            function is to scrape matches for.
+            url_ext(String): '/group1' or other strings that are needed to be
+            added to the url to ensure the scraper scrapes the main season
+            rather than the playoffs or pre-season matches.
+        '''
         links = self.scrape_league_links(league, year, url_ext=url_ext)
         dfs = []
         for link in tqdm(links, desc='Scraping Matches'):
@@ -1006,6 +1063,19 @@ class WebScraper:
         return pd.concat(dfs).reset_index(drop=True)
 
     def export_table(self, league, year, url_ext=''):
+        '''
+        This is a function to obtain scraped information about one
+        football season in one year and to export that data as a csv file
+        in an organised folder.
+        Attributes:
+            league(String): The name of the league as a string as it appears at
+            the end of the besoccer.com url.
+            year(Integer): The year of the later half of the season that the
+            function is to scrape matches for.
+            url_ext(String): '/group1' or other strings that are needed to be
+            added to the url to ensure the scraper scrapes the main season
+            rather than the playoffs or pre-season matches.
+        '''
         df = self.scrape_league_data(league, year, url_ext=url_ext)
         path = f'data/{league}/Results_{year}_{league}.csv'
         df.to_csv(path, index=None)
