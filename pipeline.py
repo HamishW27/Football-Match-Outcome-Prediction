@@ -3,6 +3,17 @@ import certification
 from sqlalchemy import create_engine
 import pandas as pd
 
+'''
+This program requires a certification.py file in the same directory
+with two lines as follows:
+
+USER = 'USERNAME'
+PASS = 'PASSWORD'
+
+where USERNAME and PASSWORD are the username and password of the
+SQL database that the engine below is to read from.
+'''
+
 leagues_and_urls = [['eredivisie', ''],
                     ['eerste_divisie', '/group1'],
                     ['ligue_2', ''],
