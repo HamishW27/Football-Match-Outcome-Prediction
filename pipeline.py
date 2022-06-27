@@ -1,4 +1,5 @@
 import exploratory
+import certification
 from sqlalchemy import create_engine
 import pandas as pd
 
@@ -20,8 +21,8 @@ leagues_and_urls = [['eredivisie', ''],
 DATABASE_TYPE = 'postgresql'
 DBAPI = 'psycopg2'
 ENDPOINT = 'kashin.db.elephantsql.com'
-USER = 'ndpjaeig'
-PASS = '6CC7jnIs9o--70M_dy3Bf1GPF8ko1MWi'
+USER = certification.USER
+PASS = certification.PASS
 PORT = 5432
 DATABASE = 'ndpjaeig'
 engine = create_engine(
