@@ -32,12 +32,16 @@ def download_data(db_name, columns=None):
     '''
     This is a function to read the columns of, or the entirety
     of, a SQL database.
-    Attributes:
+
+    Args:
         db_name(String): The name of the database.
         engine(sqlalchemy.engine.base.Engine): Defined above,
         this is a sqlalchemy engine which allows access to the database
         columns(List): A list of columns that exist in the database. If
         None, the function downloads the entire database.
+
+    Returns:
+        pd.Dataframe: The dataframe of cleaned data stored in AWS.
     '''
     return pd.read_sql_table(db_name, engine, columns=columns)
 
@@ -47,8 +51,12 @@ def join_lists(list_of_lists):
     A function to merge the items in a list of sublists into a list
     containing the elements of all the sublists. When this is done,
     links are amended to resemble the links in the amended csv files.
-    Attributes:
+
+    Args:
         list_of_lists(List). A list of lists.
+
+    Returns:
+        mylist(List): a list of urls.
     '''
     mylist = [item for sublist in list_of_lists for item in sublist]
     mylist = [exploratory.modify_link(link[0]) for link in mylist]
