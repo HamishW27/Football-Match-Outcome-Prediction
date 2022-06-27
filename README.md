@@ -78,3 +78,28 @@ print(accuracy(cm))
 
 ## Milestone 5
 
+Now that the model has been tested and optimised, it can be tested on new data such as the 2022 season. This produced promising results with a model score of 47.8%. This is better than the initial models though indicates that matches are either inherently unpredictable or, as I suspect, rely heavily on data not so easily available. For improved results, the model will probably require information on individual players and a team's team sheet on a match's game day. This variation in the quality of a team's players is why I suspect player form is a key part of the model though is inherently more difficult to add this model. To do so would require transfer histories, injury records, and historical team sheets to be added to the dataframe which, while possible, would be very time consuming.
+
+``` python
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import confusion_matrix
+
+def scale_array(df):
+    scaler = MinMaxScaler()
+    scaler.fit(df)
+    X_sc = scaler.transform(df)
+    return X_sc
+
+def accuracy(confusion_matrix):
+    diagonal_sum = confusion_matrix.trace()
+    sum_of_all_elements = confusion_matrix.sum()
+    return diagonal_sum / sum_of_all_elements
+
+X_test = scale_array(read_2022_data(svm_cols))
+y_real = get_2022_results()
+y_pred = model.predict(X_test)
+
+cm = confusion_matrix(y_pred, y_real,labels=[2,1,0])
+print(cm)
+print(accuracy(cm))
+```
